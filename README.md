@@ -9,3 +9,5 @@ Editing this README.md for git bash using VSCode
 ## Local Development
 
 1. Open index.html in the browser.
+2. Now doing hot fix branching.
+3. Now we are practicing undoing commits or changes.
