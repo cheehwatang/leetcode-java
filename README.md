@@ -1,13 +1,65 @@
-# Demo
 
-Hash sign(#) for header. Here is the description for the README.md. And here is an update.
+# LeetCode Java Solutions
 
-## Subheader
+</br>
 
-Editing this README.md for git bash using VSCode
+<div align="center"><img src="https://img.shields.io/badge/language-java-blue">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/update-daily-green"></div>
 
-## Local Development
+</br>
 
-1. Open index.html in the browser.
-2. Now doing hot fix branching.
-3. Now we are practicing undoing commits or changes.
+Hi :wave:, I'm [***Chee Hwa***](https://github.com/cheehwatang) and welcome to LeetCode Solutions in Java.
+
+As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in general, I'm practicing everyday and hope to share my solutions and learnings with you.  
+
+- Exclusively on Java
+- Beginner problems
+- Daily Challenge if within my ability
+
+</br>
+
+
+
+### Skills
+> The problem sets and solutions are grouped into Skills as stated in LeetCode.
+
+- [Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table)
+- [Math](https://github.com/cheehwatang/leetcode-java#math)
+- [String](https://github.com/cheehwatang/leetcode-java#string)
+
+</br>
+
+---
+
+</br>
+
+
+### Hash Table
+
+| # |Problem|Solution|Difficulty|Skills|Note|
+|:-:|-------|:------:|:--------:|------|----|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](https://leetcode.com/submissions/detail/790233909/)|Easy|[Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table), [Math](https://github.com/cheehwatang/leetcode-java#math), [String](https://github.com/cheehwatang/leetcode-java#string)| |
+
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+
+</br>
+
+### Math
+
+| # |Problem|Solution|Difficulty|Skills|Note|
+|:-:|-------|:------:|:--------:|------|----|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](https://leetcode.com/submissions/detail/790233909/)|Easy|[Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table), [Math](https://github.com/cheehwatang/leetcode-java#math), [String](https://github.com/cheehwatang/leetcode-java#string)| |
+
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+  
+</br>
+
+### String
+
+| # |Problem|Solution|Difficulty|Skills|Note|
+|:-:|-------|:------:|:--------:|------|----|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](https://leetcode.com/submissions/detail/790233909/)|Easy|[Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table), [Math](https://github.com/cheehwatang/leetcode-java#math), [String](https://github.com/cheehwatang/leetcode-java#string)| |
+
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+
+</br>
