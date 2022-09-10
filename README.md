@@ -1,5 +1,5 @@
 
-# LeetCode Java Solutions
+<h1 align="center"><b>LeetCode Java Solutions</b></h1>
 
 </br>
 
