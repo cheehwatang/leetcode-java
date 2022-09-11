@@ -20,8 +20,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 
 
 
-### Skills
-> The problem sets and solutions are grouped into Skills as stated in LeetCode.
+### Topics
+> The problem sets and solutions are grouped into Topics as stated in LeetCode.
 
 - [Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table)
 - [Math](https://github.com/cheehwatang/leetcode-java#math)
@@ -36,9 +36,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 
 ### Hash Table
 
-| # |Problem|Solution|Difficulty|Skills|Note|
+| # |Problem|Solution|Difficulty|Topics|Note|
 |:-:|-------|:------:|:--------:|------|----|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](https://leetcode.com/submissions/detail/790233909/)|Easy|[Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table), [Math](https://github.com/cheehwatang/leetcode-java#math), [String](https://github.com/cheehwatang/leetcode-java#string)| |
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Java](https://github.com/cheehwatang/leetcode-java/blob/main/solutions/IntegerToRoman.java)|Medium|[Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table), [Math](https://github.com/cheehwatang/leetcode-java#math), [String](https://github.com/cheehwatang/leetcode-java#string)| |
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](https://github.com/cheehwatang/leetcode-java/blob/main/solutions/RomanToInteger.java)|Easy|[Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table), [Math](https://github.com/cheehwatang/leetcode-java#math), [String](https://github.com/cheehwatang/leetcode-java#string)| |
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
 
@@ -46,9 +47,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 
 ### Math
 
-| # |Problem|Solution|Difficulty|Skills|Note|
+| # |Problem|Solution|Difficulty|Topics|Note|
 |:-:|-------|:------:|:--------:|------|----|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](https://leetcode.com/submissions/detail/790233909/)|Easy|[Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table), [Math](https://github.com/cheehwatang/leetcode-java#math), [String](https://github.com/cheehwatang/leetcode-java#string)| |
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Java](https://github.com/cheehwatang/leetcode-java/blob/main/solutions/IntegerToRoman.java)|Medium|[Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table), [Math](https://github.com/cheehwatang/leetcode-java#math), [String](https://github.com/cheehwatang/leetcode-java#string)| |
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](https://github.com/cheehwatang/leetcode-java/blob/main/solutions/RomanToInteger.java)|Easy|[Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table), [Math](https://github.com/cheehwatang/leetcode-java#math), [String](https://github.com/cheehwatang/leetcode-java#string)| |
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
   
@@ -56,9 +58,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 
 ### String
 
-| # |Problem|Solution|Difficulty|Skills|Note|
+| # |Problem|Solution|Difficulty|Topics|Note|
 |:-:|-------|:------:|:--------:|------|----|
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](https://leetcode.com/submissions/detail/790233909/)|Easy|[Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table), [Math](https://github.com/cheehwatang/leetcode-java#math), [String](https://github.com/cheehwatang/leetcode-java#string)| |
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Java](https://github.com/cheehwatang/leetcode-java/blob/main/solutions/IntegerToRoman.java)|Medium|[Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table), [Math](https://github.com/cheehwatang/leetcode-java#math), [String](https://github.com/cheehwatang/leetcode-java#string)| |
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](https://github.com/cheehwatang/leetcode-java/blob/main/solutions/RomanToInteger.java)|Easy|[Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table), [Math](https://github.com/cheehwatang/leetcode-java#math), [String](https://github.com/cheehwatang/leetcode-java#string)| |
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
 
