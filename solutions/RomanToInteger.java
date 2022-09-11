@@ -1,7 +1,10 @@
 package com.cheehwatang.leetcode;
 
 /**
+ * Problem:
  * Given a valid Roman numeral, return the integer value.
+ * 
+ * Note:
  * Basics of Roman numeral:
  * I = 1
  * V = 5
@@ -16,7 +19,7 @@ package com.cheehwatang.leetcode;
  *
  * Example 1: XXXVII = XXX(3 * 10) + V(5) + II(2 * 1) = 37
  *
- * Note: Roman numerals represent 4 and 9 with the following:
+ * Roman numerals represent 4 and 9 with the following:
  * 4 = IV (not IIII), 9 = IX (not VIIII)
  *
  * Likewise for 40 = XL, 90 = XC, 400 = CD and 900 = CM.
