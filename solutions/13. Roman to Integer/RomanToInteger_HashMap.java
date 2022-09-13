@@ -1,9 +1,11 @@
 package com.cheehwatang.leetcode;
 
+import java.util.Map;
+
 /**
  * Problem:
  * Given a valid Roman numeral, return the integer value.
- * 
+ *
  * Note:
  * Basics of Roman numeral:
  * I = 1
@@ -27,7 +29,7 @@ package com.cheehwatang.leetcode;
  * @author Chee Hwa Tang
  */
 
-public class RomanToInteger {
+public class RomanToInteger_HashMap {
 
     // Generally, the Roman characters increases in value from right to left. However...
     // Notice the pattern in the Roman numeral, where IV = 5 - 1, IX = 10 - 1, XL = 50 - 10 etc.
@@ -35,36 +37,21 @@ public class RomanToInteger {
     // Thus, we will keep track of the previous value to compare.
 
     public int romanToInt(String s) {
+        Map<Character,Integer> romanToIntMap = Map.of(
+                'I', 1,
+                'V', 5,
+                'X', 10,
+                'L', 50,
+                'C', 100,
+                'D', 500,
+                'M', 1000);
+
         int sum = 0;
-        int previous = 0;
-        int current = 0;
+        int previousInteger = 0;
         for (int i = s.length()-1; i >= 0; i--) {
-            char letter = s.charAt(i);
-            switch (letter) {
-                case 'I':
-                    current = 1;
-                    break;
-                case 'V':
-                    current = 5;
-                    break;
-                case 'X':
-                    current = 10;
-                    break;
-                case 'L':
-                    current = 50;
-                    break;
-                case 'C':
-                    current = 100;
-                    break;
-                case 'D':
-                    current = 500;
-                    break;
-                case 'M':
-                    current = 1000;
-                    break;
-            }
-            sum = current >= previous ? sum + current : sum - current;
-            previous = current;
+            int currentInteger = romanToIntMap.get(s.charAt(i));
+            sum = currentInteger >= previousInteger ? sum + currentInteger : sum - currentInteger;
+            previousInteger = currentInteger;
         }
         return sum;
     }
