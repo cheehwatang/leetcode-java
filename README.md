@@ -25,12 +25,14 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 
 - [Array](https://github.com/cheehwatang/leetcode-java#array)
 - [Binary Search](https://github.com/cheehwatang/leetcode-java#binary-search)
+- [Greedy](https://github.com/cheehwatang/leetcode-java#greedy)
 - [Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table)
 - [Heap (Priority Queue)](https://github.com/cheehwatang/leetcode-java#heap-priority-queue)
 - [Math](https://github.com/cheehwatang/leetcode-java#math)
 - [Matrix](https://github.com/cheehwatang/leetcode-java#matrix)
 - [Sorting](https://github.com/cheehwatang/leetcode-java#sorting)
 - [String](https://github.com/cheehwatang/leetcode-java#string)
+- [Two Pointers](https://github.com/cheehwatang/leetcode-java#two-pointers)
 
 </br>
 
@@ -49,6 +51,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">948</td>
+    <td><a href="https://leetcode.com/problems/bag-of-tokens/">Bag of Tokens</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/948.%20Bag%20of%20Tokens/BagOfTokens.java">Java</a>
+    </td>
+    <td align="center">Medium</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1337</td>
@@ -108,6 +125,37 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 
 </br>
 
+### Greedy
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">948</td>
+    <td><a href="https://leetcode.com/problems/bag-of-tokens/">Bag of Tokens</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/948.%20Bag%20of%20Tokens/BagOfTokens.java">Java</a>
+    </td>
+    <td align="center">Medium</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+
+</br>
 
 ### Hash Table
 
@@ -275,6 +323,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">948</td>
+    <td><a href="https://leetcode.com/problems/bag-of-tokens/">Bag of Tokens</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/948.%20Bag%20of%20Tokens/BagOfTokens.java">Java</a>
+    </td>
+    <td align="center">Medium</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1337</td>
     <td><a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sort.java">Java</a></td>
@@ -335,3 +398,38 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
 
 </br>
+
+
+### Two Pointers
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">948</td>
+    <td><a href="https://leetcode.com/problems/bag-of-tokens/">Bag of Tokens</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/948.%20Bag%20of%20Tokens/BagOfTokens.java">Java</a>
+    </td>
+    <td align="center">Medium</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+
+</br>
+
+
