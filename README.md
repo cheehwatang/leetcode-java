@@ -25,6 +25,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 
 - [Array](https://github.com/cheehwatang/leetcode-java#array)
 - [Binary Search](https://github.com/cheehwatang/leetcode-java#binary-search)
+- [Bit Manipulation](https://github.com/cheehwatang/leetcode-java#bit-manipulation)
 - [Greedy](https://github.com/cheehwatang/leetcode-java#greedy)
 - [Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table)
 - [Heap (Priority Queue)](https://github.com/cheehwatang/leetcode-java#heap-priority-queue)
@@ -51,6 +52,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">393</td>
+    <td><a href="https://leetcode.com/problems/utf-8-validation/">UTF-8 Validation</a></td>
+    <td align="center"><a>Java </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/393.%20UTF-8%20Validation/UTF8Validation.java">without</a><a>, or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/393.%20UTF-8%20Validation/UTF8Validation_BitManipulation.java">with Bit Manipulation</a>
+    </td>
+    <td align="center">Medium</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">948</td>
@@ -124,6 +139,38 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
 
 </br>
+
+
+### Bit Manipulation
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">393</td>
+    <td><a href="https://leetcode.com/problems/utf-8-validation/">UTF-8 Validation</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/393.%20UTF-8%20Validation/UTF8Validation_BitManipulation.java">Java</a>
+    </td>
+    <td align="center">Medium</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+
+</br>
+
 
 ### Greedy
 
