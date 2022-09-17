@@ -102,8 +102,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
   <tr>
     <td align="center">2007</td>
     <td><a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_HashMap_Sorting.java">Java</a>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_HashMap_Sorting.java">Hash Table</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_Queue_Sorting.java">Queue</a>
     </td>
     <td align="center">Medium</td>
     <td align="center">
@@ -216,8 +217,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
   <tr>
     <td align="center">2007</td>
     <td><a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_HashMap_Sorting.java">Java</a>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_HashMap_Sorting.java">Hash Table</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_Queue_Sorting.java">Queue</a>
     </td>
     <td align="center">Medium</td>
     <td align="center">
@@ -267,7 +269,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
-    <td><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger.java">Solution</a><a> Without Hash Table</a></td>
+    <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger.java">Without Hash Table</a></td>
   </tr>
   <tr>
     <td align="center">2007</td>
@@ -282,7 +284,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
     </td>
-    <td></td>
+    <td><a>Solution Using </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_Queue_Sorting.java"><em>Queue</em></a>
+    </td>
   </tr>
 </table>
 
@@ -446,8 +450,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
   <tr>
     <td align="center">2007</td>
     <td><a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_HashMap_Sorting.java">Java</a>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_HashMap_Sorting.java">Hash Table</a><a>, or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_Queue_Sorting.java">Queue</a>
     </td>
     <td align="center">Medium</td>
     <td align="center">
