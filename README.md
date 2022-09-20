@@ -68,6 +68,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">485</td>
+    <td><a href="https://leetcode.com/problems/max-consecutive-ones/">Maximum Consecutive Ones</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/485.%20Maximum%20Consecutive%20Ones/MaxConsecutiveOnes.java">Java</a>
+    </td>
+    <td align="center">Easy</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">609</td>
     <td><a href="https://leetcode.com/problems/find-duplicate-file-in-system/">Find Duplicate File in System</a></td>
     <td align="center">
