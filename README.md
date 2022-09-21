@@ -31,6 +31,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 - [Heap (Priority Queue)](https://github.com/cheehwatang/leetcode-java#heap-priority-queue)
 - [Math](https://github.com/cheehwatang/leetcode-java#math)
 - [Matrix](https://github.com/cheehwatang/leetcode-java#matrix)
+- [Simulation](https://github.com/cheehwatang/leetcode-java#simulation)
 - [Sorting](https://github.com/cheehwatang/leetcode-java#sorting)
 - [String](https://github.com/cheehwatang/leetcode-java#string)
 - [Two Pointers](https://github.com/cheehwatang/leetcode-java#two-pointers)
@@ -105,6 +106,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">985</td>
+    <td><a href="https://leetcode.com/problems/sum-of-even-numbers-after-queries/">Sum of Even Numbers After Queries</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/985.%20Sum%20of%20Even%20Numbers%20After%20Queries/SumOfEvenNumbersAfterQueries.java">Java</a>
+    </td>
+    <td align="center">Medium</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
     </td>
     <td></td>
   </tr>
@@ -447,6 +461,37 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
 
+</br>
+
+
+### Simulation
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">985</td>
+    <td><a href="https://leetcode.com/problems/sum-of-even-numbers-after-queries/">Sum of Even Numbers After Queries</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/985.%20Sum%20of%20Even%20Numbers%20After%20Queries/SumOfEvenNumbersAfterQueries.java">Java</a>
+    </td>
+    <td align="center">Medium</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+  
 </br>
 
 
