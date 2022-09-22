@@ -158,7 +158,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 </br>
 
@@ -193,7 +193,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 </br>
 
@@ -222,9 +222,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">1342</td>
+    <td><a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">Number of Steps to Reduce a Number to Zero</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1342.%20Numbers%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/NumberOfStepsToReduceANumberToZero_BitManipulation.java">Java</a></td>
+    <td align="center">Easy</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1342.%20Numbers%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/NumberOfStepsToReduceANumberToZero_Math.java"><em>Math</em></a></td>
+  </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 </br>
 
@@ -274,7 +285,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 </br>
 
@@ -347,7 +358,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 </br>
 
@@ -381,7 +392,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 </br>
 
@@ -422,9 +433,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_HashMap.java"><em>Hash Table</em></a></td>
   </tr>
+  <tr>
+    <td align="center">1342</td>
+    <td><a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">Number of Steps to Reduce a Number to Zero</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1342.%20Numbers%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/NumberOfStepsToReduceANumberToZero_Math.java">Java</a></td>
+    <td align="center">Easy</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1342.%20Numbers%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/NumberOfStepsToReduceANumberToZero_BitManipulation.java"><em>Bit Manipulation</em></a></td>
+  </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
   
 </br>
 
@@ -459,7 +481,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 </br>
 
@@ -490,7 +512,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
   
 </br>
 
@@ -555,7 +577,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 </br>
 
@@ -611,7 +633,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 </br>
 
@@ -644,7 +666,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#skills"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 </br>
 
