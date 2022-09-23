@@ -448,6 +448,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_HashMap.java"><em>Hash Table</em></a></td>
   </tr>
   <tr>
+    <td align="center">412</td>
+    <td><a href="https://leetcode.com/problems/fizz-buzz/">Fizz Buzz</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/412.%20Fizz%20Buzz/FizzBuzz.java">Java</a>
+    </td>
+    <td align="center">Easy</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1342</td>
     <td><a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">Number of Steps to Reduce a Number to Zero</a></td>
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1342.%20Numbers%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/NumberOfStepsToReduceANumberToZero_Math.java">Java</a></td>
@@ -524,6 +538,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">412</td>
+    <td><a href="https://leetcode.com/problems/fizz-buzz/">Fizz Buzz</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/412.%20Fizz%20Buzz/FizzBuzz.java">Java</a>
+    </td>
+    <td align="center">Easy</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">985</td>
@@ -659,6 +687,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_HashMap.java"><em>Hash Table</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">412</td>
+    <td><a href="https://leetcode.com/problems/fizz-buzz/">Fizz Buzz</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/412.%20Fizz%20Buzz/FizzBuzz.java">Java</a>
+    </td>
+    <td align="center">Easy</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">609</td>
