@@ -154,6 +154,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">1672</td>
+    <td><a href="https://leetcode.com/problems/richest-customer-wealth/">Richest Customer Wealth</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1672.%20Richest%20Customer%20Wealth/RichestCustomerWealth.java">Java</a>
+    </td>
+    <td align="center">Easy</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2007</td>
     <td><a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
     <td align="center"><a>Java with </a>
@@ -532,6 +545,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1672</td>
+    <td><a href="https://leetcode.com/problems/richest-customer-wealth/">Richest Customer Wealth</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1672.%20Richest%20Customer%20Wealth/RichestCustomerWealth.java">Java</a>
+    </td>
+    <td align="center">Easy</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a>
     </td>
     <td></td>
   </tr>
