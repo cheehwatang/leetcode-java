@@ -513,6 +513,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/ConcatenationOfConsecutiveBinaryNumbers_BitManipulation.java"><em>Bit Manipulation</em></a></td>
   </tr>
+  <tr>
+    <td align="center">2169</td>
+    <td><a href="https://leetcode.com/problems/count-operations-to-obtain-zero/">Count Operations to Obtain Zero</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2169.%20Count%20Operations%20to%20Obtain%20Zero/CountOperationsToObtainZero.java">Java</a>
+    </td>
+    <td align="center">Easy</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -647,6 +660,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td align="center">Medium</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2169</td>
+    <td><a href="https://leetcode.com/problems/count-operations-to-obtain-zero/">Count Operations to Obtain Zero</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2169.%20Count%20Operations%20to%20Obtain%20Zero/CountOperationsToObtainZero.java">Java</a>
+    </td>
+    <td align="center">Easy</td>
+    <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
     </td>
