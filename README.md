@@ -845,6 +845,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">2315</td>
+    <td><a href="https://leetcode.com/problems/count-asterisks/">Count Asterisks</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2315.%20Count%20Asterisks/CountAsterisks.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
