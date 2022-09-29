@@ -96,6 +96,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">929</td>
+    <td><a href="https://leetcode.com/problems/unique-email-addresses/">Unique Email Addresses</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/929.%20Unique%20Email%20Addresses/UniqueEmailAddresses_HashSet.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">948</td>
     <td><a href="https://leetcode.com/problems/bag-of-tokens/">Bag of Tokens</a></td>
     <td align="center">
@@ -383,6 +397,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/609.%20Find%20Duplicate%20File%20in%20System/FindDuplicateFileInSystem_HashMap.java">Java</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">929</td>
+    <td><a href="https://leetcode.com/problems/unique-email-addresses/">Unique Email Addresses</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/929.%20Unique%20Email%20Addresses/UniqueEmailAddresses_HashSet.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
@@ -828,6 +856,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/609.%20Find%20Duplicate%20File%20in%20System/FindDuplicateFileInSystem_HashMap.java">Java</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">929</td>
+    <td><a href="https://leetcode.com/problems/unique-email-addresses/">Unique Email Addresses</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/929.%20Unique%20Email%20Addresses/UniqueEmailAddresses_HashSet.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
