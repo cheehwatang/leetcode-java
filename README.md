@@ -850,6 +850,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_TwoPointers.java"><em>Two Pointers</em></a></td>
   </tr>
   <tr>
+    <td align="center">344</td>
+    <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/344.%20Reverse%20String/ReverseString_TwoPointers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">412</td>
     <td><a href="https://leetcode.com/problems/fizz-buzz/">Fizz Buzz</a></td>
     <td align="center">
@@ -941,6 +954,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_Collections.java"><em>Collections</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">344</td>
+    <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/344.%20Reverse%20String/ReverseString_TwoPointers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">948</td>
