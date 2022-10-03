@@ -210,6 +210,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">2176</td>
+    <td><a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Equal and Divisible Pairs in an Array</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2176.%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/CountEqualAndDivisiblePairsInAnArray.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
