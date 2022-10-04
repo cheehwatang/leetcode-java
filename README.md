@@ -519,6 +519,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">1832</td>
+    <td><a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">Chech if the Sentence is Pangram</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram_HashSet.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram.java"><em>Without</em></a><a> Hash Table</a></td>
+  </tr>
+  <tr>
     <td align="center">2007</td>
     <td><a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
     <td align="center">
@@ -1028,6 +1039,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">1832</td>
+    <td><a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">Chech if the Sentence is Pangram</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram_HashSet.java"><em>Hash Table</em></a></td>
   </tr>
   <tr>
     <td align="center">2315</td>
