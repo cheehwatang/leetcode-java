@@ -210,6 +210,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">1679</td>
+    <td><a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_HashTable.java">Hash Table</a></td><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_Sorting_TwoPointers.java">Sorting & Two Pointers</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2007</td>
     <td><a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
     <td align="center"><a>Java with </a>
@@ -519,15 +534,28 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">1679</td>
+    <td><a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_HashTable.java">Java</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_Sorting_TwoPointers.java"><em>Sorting & Two Pointers</em></a></td>
+  </tr>
+  <tr>
     <td align="center">1832</td>
-    <td><a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">Chech if the Sentence is Pangram</a></td>
+    <td><a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">Check if the Sentence is Pangram</a></td>
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram_HashSet.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
-    <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram.java"><em>Without</em></a><a> Hash Table</a></td>
+    <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram.java"><em>Without Hash Table</em></a></td>
   </tr>
   <tr>
     <td align="center">2007</td>
@@ -887,6 +915,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Heap.java"><em>Heap (Priority Queue)</em></a></td>
   </tr>
   <tr>
+    <td align="center">1679</td>
+    <td><a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_Sorting_TwoPointers.java">Java</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_HashTable.java"><em>Hash Table</em></a></td>
+  </tr>
+  <tr>
     <td align="center">2007</td>
     <td><a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
     <td align="center"><a>Java with </a>
@@ -1042,7 +1083,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
   </tr>
   <tr>
     <td align="center">1832</td>
-    <td><a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">Chech if the Sentence is Pangram</a></td>
+    <td><a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">Check if the Sentence is Pangram</a></td>
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -1119,6 +1160,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">1679</td>
+    <td><a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_Sorting_TwoPointers.java">Java</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_HashTable.java"><em>Hash Table</em></a></td>
   </tr>
 </table>
 
