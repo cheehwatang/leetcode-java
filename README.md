@@ -213,7 +213,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td align="center">1679</td>
     <td><a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a></td>
     <td align="center"><a>Java with </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_HashTable.java">Hash Table</a></td><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_HashTable.java">Hash Table</a><a> or </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_Sorting_TwoPointers.java">Sorting & Two Pointers</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
