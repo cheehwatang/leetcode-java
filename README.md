@@ -667,6 +667,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">1071</td>
+    <td><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">Greatest Common Divisor of Strings</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1071.%20Greatest%20Common%20Divisor%20of%20Strings/GreatestCommonDivisorOfStrings.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1342</td>
     <td><a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">Number of Steps to Reduce a Number to Zero</a></td>
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1342.%20Numbers%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/NumberOfStepsToReduceANumberToZero_Math.java">Java</a></td>
@@ -1052,6 +1065,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1071</td>
+    <td><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">Greatest Common Divisor of Strings</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1071.%20Greatest%20Common%20Divisor%20of%20Strings/GreatestCommonDivisorOfStrings.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td></td>
