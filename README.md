@@ -226,6 +226,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">1979</td>
+    <td><a href="https://leetcode.com/problems/find-greatest-common-divisor-of-array/">Find Greatest Common Divisor of Array</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/FindGreatestCommonDivisorOfArray.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#number-theory">Number Theory</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2007</td>
     <td><a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
     <td align="center"><a>Java with </a>
@@ -717,6 +729,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/ConcatenationOfConsecutiveBinaryNumbers_BitManipulation.java"><em>Bit Manipulation</em></a></td>
   </tr>
   <tr>
+    <td align="center">1979</td>
+    <td><a href="https://leetcode.com/problems/find-greatest-common-divisor-of-array/">Find Greatest Common Divisor of Array</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/FindGreatestCommonDivisorOfArray.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#number-theory">Number Theory</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2169</td>
     <td><a href="https://leetcode.com/problems/count-operations-to-obtain-zero/">Count Operations to Obtain Zero</a></td>
     <td align="center">
@@ -805,6 +829,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">1979</td>
+    <td><a href="https://leetcode.com/problems/find-greatest-common-divisor-of-array/">Find Greatest Common Divisor of Array</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/FindGreatestCommonDivisorOfArray.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#number-theory">Number Theory</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">2413</td>
