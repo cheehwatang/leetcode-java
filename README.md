@@ -32,6 +32,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 - [Heap (Priority Queue)](https://github.com/cheehwatang/leetcode-java#heap-priority-queue)
 - [Math](https://github.com/cheehwatang/leetcode-java#math)
 - [Matrix](https://github.com/cheehwatang/leetcode-java#matrix)
+- [Number Theory](https://github.com/cheehwatang/leetcode-java#number-theory)
 - [Prefix Sum](https://github.com/cheehwatang/leetcode-java#prefix-sum)
 - [Simulation](https://github.com/cheehwatang/leetcode-java#simulation)
 - [Sorting](https://github.com/cheehwatang/leetcode-java#sorting)
@@ -728,6 +729,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">2413</td>
+    <td><a href="https://leetcode.com/problems/smallest-even-multiple/">Smallest Even Multiple</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2413.%20Smallest%20Even%20Multiple/SmallestEvenMultiple.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#number-theory">Number Theory</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -773,6 +785,35 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+
+</br>
+
+
+### Number Theory
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">2413</td>
+    <td><a href="https://leetcode.com/problems/smallest-even-multiple/">Smallest Even Multiple</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2413.%20Smallest%20Even%20Multiple/SmallestEvenMultiple.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#number-theory">Number Theory</a>
     </td>
     <td></td>
   </tr>
