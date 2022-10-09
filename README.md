@@ -719,6 +719,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">1103</td>
+    <td><a href="https://leetcode.com/problems/distribute-candies-to-people/">Distribute Candies to People</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1103.%20Distribute%20Candies%20to%20People/DistributeCandiesToPeople.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1154</td>
     <td><a href="https://leetcode.com/problems/day-of-the-year/">Day of the Year</a></td>
     <td align="center">
@@ -964,6 +977,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1103</td>
+    <td><a href="https://leetcode.com/problems/distribute-candies-to-people/">Distribute Candies to People</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1103.%20Distribute%20Candies%20to%20People/DistributeCandiesToPeople.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
     </td>
     <td></td>
