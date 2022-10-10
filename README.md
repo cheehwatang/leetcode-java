@@ -27,6 +27,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 - [Binary Search](https://github.com/cheehwatang/leetcode-java#binary-search)
 - [Bit Manipulation](https://github.com/cheehwatang/leetcode-java#bit-manipulation)
 - [Dynamic Programming](https://github.com/cheehwatang/leetcode-java#dynamic-programming)
+- [Geometry](https://github.com/cheehwatang/leetcode-java#geometry)
 - [Greedy](https://github.com/cheehwatang/leetcode-java#greedy)
 - [Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table)
 - [Heap (Priority Queue)](https://github.com/cheehwatang/leetcode-java#heap-priority-queue)
@@ -419,6 +420,37 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 
 </br>
 
+### Geometry
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">593</td>
+    <td><a href="https://leetcode.com/problems/valid-square/">Valid Square</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/593.%20Valid%20Square/ValidSquare.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+
+</br>
+
+
 ### Greedy
 
 <table>
@@ -702,6 +734,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">593</td>
+    <td><a href="https://leetcode.com/problems/valid-square/">Valid Square</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/593.%20Valid%20Square/ValidSquare.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
     </td>
     <td></td>
   </tr>
