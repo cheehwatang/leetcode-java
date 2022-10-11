@@ -112,6 +112,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">812</td>
+    <td><a href="https://leetcode.com/problems/largest-triangle-area/">Largest Triangle Area</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/812.%20Largest%20Triangle%20Area/LargestTriangleArea.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">929</td>
     <td><a href="https://leetcode.com/problems/unique-email-addresses/">Unique Email Addresses</a></td>
     <td align="center">
@@ -444,6 +458,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">812</td>
+    <td><a href="https://leetcode.com/problems/largest-triangle-area/">Largest Triangle Area</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/812.%20Largest%20Triangle%20Area/LargestTriangleArea.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -745,6 +773,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">812</td>
+    <td><a href="https://leetcode.com/problems/largest-triangle-area/">Largest Triangle Area</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/812.%20Largest%20Triangle%20Area/LargestTriangleArea.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
     </td>
