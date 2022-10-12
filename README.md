@@ -155,6 +155,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">976</td>
+    <td><a href="https://leetcode.com/problems/largest-perimeter-triangle/">Largest Perimeter Triangle</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/976.%20Largest%20Perimeter%20Triangle/LargestPerimeterTriangle.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">985</td>
     <td><a href="https://leetcode.com/problems/sum-of-even-numbers-after-queries/">Sum of Even Numbers After Queries</a></td>
     <td align="center">
@@ -506,6 +521,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">976</td>
+    <td><a href="https://leetcode.com/problems/largest-perimeter-triangle/">Largest Perimeter Triangle</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/976.%20Largest%20Perimeter%20Triangle/LargestPerimeterTriangle.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1578</td>
     <td><a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/">Minimum Time to Make Rope Colorful</a></td>
     <td align="center">
@@ -789,6 +819,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">976</td>
+    <td><a href="https://leetcode.com/problems/largest-perimeter-triangle/">Largest Perimeter Triangle</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/976.%20Largest%20Perimeter%20Triangle/LargestPerimeterTriangle.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -1139,6 +1184,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">976</td>
+    <td><a href="https://leetcode.com/problems/largest-perimeter-triangle/">Largest Perimeter Triangle</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/976.%20Largest%20Perimeter%20Triangle/LargestPerimeterTriangle.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
