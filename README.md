@@ -27,6 +27,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 - [Binary Search](https://github.com/cheehwatang/leetcode-java#binary-search)
 - [Bit Manipulation](https://github.com/cheehwatang/leetcode-java#bit-manipulation)
 - [Dynamic Programming](https://github.com/cheehwatang/leetcode-java#dynamic-programming)
+- [Enumeration](https://github.com/cheehwatang/leetcode-java#enumeration)
 - [Geometry](https://github.com/cheehwatang/leetcode-java#geometry)
 - [Greedy](https://github.com/cheehwatang/leetcode-java#greedy)
 - [Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table)
@@ -281,6 +282,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">1995</td>
+    <td><a href="https://leetcode.com/problems/count-special-quadruplets/">Count Special Quadruplets</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1995.%20Count%20Special%20Quadruplets/CountSpecialQuadruplets.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#enumeration">Enumeration</a>
+    </td>
+    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1995.%20Count%20Special%20Quadruplets/CountSpecialQuadruplets_HashTable.java"><em>Hash Table</em></a></td>
+  </tr>
+  <tr>
     <td align="center">2007</td>
     <td><a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
     <td align="center"><a>Java with </a>
@@ -448,6 +462,38 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 </br>
+
+
+### Enumeration
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">1995</td>
+    <td><a href="https://leetcode.com/problems/count-special-quadruplets/">Count Special Quadruplets</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1995.%20Count%20Special%20Quadruplets/CountSpecialQuadruplets.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#enumeration">Enumeration</a>
+    </td>
+    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1995.%20Count%20Special%20Quadruplets/CountSpecialQuadruplets_HashTable.java"><em>Hash Table</em></a></td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+
+</br>
+
 
 ### Geometry
 
