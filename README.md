@@ -26,6 +26,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 - [Array](https://github.com/cheehwatang/leetcode-java#array)
 - [Binary Search](https://github.com/cheehwatang/leetcode-java#binary-search)
 - [Bit Manipulation](https://github.com/cheehwatang/leetcode-java#bit-manipulation)
+- [Counting](https://github.com/cheehwatang/leetcode-java#counting)
 - [Dynamic Programming](https://github.com/cheehwatang/leetcode-java#dynamic-programming)
 - [Enumeration](https://github.com/cheehwatang/leetcode-java#enumeration)
 - [Geometry](https://github.com/cheehwatang/leetcode-java#geometry)
@@ -431,6 +432,37 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 
 </br>
 
+### Counting
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">383</td>
+    <td><a href="https://leetcode.com/problems/ransom-note/">Ransom Note</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/383.%20Ransom%20Note/RansomNote_Counting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/383.%20Ransom%20Note/RansomNote_HashTable.java"><em>Hash Table</em></a></td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+
+</br>
+
 ### Dynamic Programming
 
 <table>
@@ -666,6 +698,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger.java"><em>Without Hash Table</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">383</td>
+    <td><a href="https://leetcode.com/problems/ransom-note/">Ransom Note</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/383.%20Ransom%20Note/RansomNote_HashTable.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/383.%20Ransom%20Note/RansomNote_Counting.java"><em>Counting Array</em></a></td>
   </tr>
   <tr>
     <td align="center">609</td>
@@ -1359,6 +1405,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">383</td>
+    <td><a href="https://leetcode.com/problems/ransom-note/">Ransom Note</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/383.%20Ransom%20Note/RansomNote_Counting.java">Counting Array</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/383.%20Ransom%20Note/RansomNote_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td></td>
   </tr>
