@@ -792,6 +792,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram.java"><em>Without Hash Table</em></a></td>
   </tr>
   <tr>
+    <td align="center">1935</td>
+    <td><a href="https://leetcode.com/problems/maximum-number-of-words-you-can-type/">Maximum Number of Words You Can Type</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type/MaximumNumberOfWordsYouCanType.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2007</td>
     <td><a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
     <td align="center">
@@ -1552,6 +1565,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram_HashSet.java"><em>Hash Table</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">1935</td>
+    <td><a href="https://leetcode.com/problems/maximum-number-of-words-you-can-type/">Maximum Number of Words You Can Type</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type/MaximumNumberOfWordsYouCanType.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">2315</td>
