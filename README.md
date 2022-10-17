@@ -74,6 +74,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">334</td>
+    <td><a href="https://leetcode.com/problems/increasing-triplet-subsequence/">Increasing Triplet Subsequence</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/334.%20Increasing%20Triplet%20Subsequence/IncreasingTripletSubsequence.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">393</td>
     <td><a href="https://leetcode.com/problems/utf-8-validation/">UTF-8 Validation</a></td>
     <td align="center"><a>Java </a>
@@ -582,6 +595,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">334</td>
+    <td><a href="https://leetcode.com/problems/increasing-triplet-subsequence/">Increasing Triplet Subsequence</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/334.%20Increasing%20Triplet%20Subsequence/IncreasingTripletSubsequence.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">948</td>
