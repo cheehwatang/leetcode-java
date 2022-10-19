@@ -391,6 +391,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">29</td>
+    <td><a href="https://leetcode.com/problems/divide-two-integers/">Divide Two Integers</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/29.%20Divide%20Two%20Integers/DivideTwoIntegers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">371</td>
     <td><a href="https://leetcode.com/problems/sum-of-two-integers/">Sum of Two Integers</a></td>
     <td align="center">
@@ -937,6 +950,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_HashMap.java"><em>Hash Table</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">29</td>
+    <td><a href="https://leetcode.com/problems/divide-two-integers/">Divide Two Integers</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/29.%20Divide%20Two%20Integers/DivideTwoIntegers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">371</td>
