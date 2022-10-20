@@ -559,6 +559,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1995.%20Count%20Special%20Quadruplets/CountSpecialQuadruplets_HashTable.java"><em>Hash Table</em></a></td>
   </tr>
+  <tr>
+    <td align="center">2240</td>
+    <td><a href="https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/">Number of Ways to Buy Pens and Pencils</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2240.%20Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils/NumberOfWaysToBuyPensAndPencils.java">Java</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#enumeration">Enumeration</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -1130,6 +1141,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2240</td>
+    <td><a href="https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/">Number of Ways to Buy Pens and Pencils</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2240.%20Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils/NumberOfWaysToBuyPensAndPencils.java">Java</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#enumeration">Enumeration</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
     </td>
     <td></td>
   </tr>
