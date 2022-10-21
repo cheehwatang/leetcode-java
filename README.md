@@ -337,6 +337,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">2438</td>
+    <td><a href="https://leetcode.com/problems/range-product-queries-of-powers/">Range Product Queries of Powers</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2438.%20Range%20Product%20Queries%20of%20Powers/RangeProductQueriesOfPowers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -464,6 +478,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/ConcatenationOfConsecutiveBinaryNumbers_Math.java"><em>Math</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">2438</td>
+    <td><a href="https://leetcode.com/problems/range-product-queries-of-powers/">Range Product Queries of Powers</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2438.%20Range%20Product%20Queries%20of%20Powers/RangeProductQueriesOfPowers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    </td>
+    <td></td>
   </tr>
 </table>
 
@@ -1282,6 +1310,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2438</td>
+    <td><a href="https://leetcode.com/problems/range-product-queries-of-powers/">Range Product Queries of Powers</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2438.%20Range%20Product%20Queries%20of%20Powers/RangeProductQueriesOfPowers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
