@@ -144,6 +144,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td align="center">645</td>
     <td><a href="https://leetcode.com/problems/set-mismatch/">Set Mismatch</a></td>
     <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_BitManipulation.java">Bit Manipulation</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_HashTable.java">Hash Table</a><a> or </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_Sorting.java">Sorting</a>
     </td>
@@ -472,6 +473,24 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">645</td>
+    <td><a href="https://leetcode.com/problems/set-mismatch/">Set Mismatch</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_BitManipulation.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    </td>
+    <td><a>Solution Using </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_HashTable.java"><em>Hash Table</em></a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_Sorting.java"><em>Sorting</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">1342</td>
@@ -899,7 +918,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
     </td>
-    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_Sorting.java"><em>Sorting</em></a></td>
+    <td><a>Solution Using </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_BitManipulation.java"><em>Bit Manipulation</em></a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_Sorting.java"><em>Sorting</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">929</td>
@@ -1529,7 +1551,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
     </td>
-    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_HashTable.java"><em>Hash Table</em></a></td>
+    <td><a>Solution Using </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_BitManipulation.java"><em>Bit Manipulation</em></a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_HashTable.java"><em>Hash Table</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">948</td>
