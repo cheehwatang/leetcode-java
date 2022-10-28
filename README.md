@@ -1762,6 +1762,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_HashMap.java"><em>Hash Table</em></a></td>
   </tr>
   <tr>
+    <td align="center">38</td>
+    <td><a href="https://leetcode.com/problems/count-and-say/">Count and Say</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/38.%20Count%20and%20Say/CountAndSay_Iterative.java">Iterative </a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/38.%20Count%20and%20Say/CountAndSay_Recursive.java">Recursive</a><a> Algorithms</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">151</td>
     <td><a href="https://leetcode.com/problems/reverse-words-in-a-string/">Reverse Words in a String</a></td>
     <td align="center"><a>Java with </a>
