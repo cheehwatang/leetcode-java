@@ -87,6 +87,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">368</td>
+    <td><a href="https://leetcode.com/problems/largest-divisible-subset/" target="_blank">Largest Divisible Subset</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/368.%20Largest%20Divisible%20Subset/LargestDivisibleSubset.java" target="_blank">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">393</td>
     <td><a href="https://leetcode.com/problems/utf-8-validation/">UTF-8 Validation</a></td>
     <td align="center"><a>Java </a>
@@ -620,6 +635,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">368</td>
+    <td><a href="https://leetcode.com/problems/largest-divisible-subset/">Largest Divisible Subset</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/368.%20Largest%20Divisible%20Subset/LargestDivisibleSubset.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1578</td>
     <td><a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/">Minimum Time to Make Rope Colorful</a></td>
     <td align="center">
@@ -1150,6 +1180,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">368</td>
+    <td><a href="https://leetcode.com/problems/largest-divisible-subset/">Largest Divisible Subset</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/368.%20Largest%20Divisible%20Subset/LargestDivisibleSubset.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -1798,6 +1843,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">368</td>
+    <td><a href="https://leetcode.com/problems/largest-divisible-subset/">Largest Divisible Subset</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/368.%20Largest%20Divisible%20Subset/LargestDivisibleSubset.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
