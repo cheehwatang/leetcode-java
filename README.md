@@ -201,6 +201,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">766</td>
+    <td><a href="https://leetcode.com/problems/toeplitz-matrix/">Toeplitz Matrix</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a>
+    </td>
+    <td><a>Follow up: </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix_OneRowAtATime.java">One Row at a Time</a><a> and </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix_OneColumnAtATime.java">One Column at a Time</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">812</td>
     <td><a href="https://leetcode.com/problems/largest-triangle-area/">Largest Triangle Area</a></td>
     <td align="center">
@@ -1434,6 +1448,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">766</td>
+    <td><a href="https://leetcode.com/problems/toeplitz-matrix/">Toeplitz Matrix</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a>
+    </td>
+    <td><a>Follow up: </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix_OneRowAtATime.java">One Row at a Time</a><a> and </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix_OneColumnAtATime.java">One Column at a Time</a>
+    </td>
   </tr>
   <tr>
     <td align="center">1337</td>
