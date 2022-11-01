@@ -232,8 +232,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td align="center">835</td>
     <td><a href="https://leetcode.com/problems/image-overlap/">Image Overlap</a></td>
     <td align="center"><a>Java with </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/add-835-image-overlap/solutions/835.%20Image%20Overlap/ImageOverlap_BitManipulation.java">Bit Manipulation</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/add-835-image-overlap/solutions/835.%20Image%20Overlap/ImageOverlap_HashTable.java">Hash Table</a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/835.%20Image%20Overlap/ImageOverlap_BitManipulation.java">Bit Manipulation</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/835.%20Image%20Overlap/ImageOverlap_HashTable.java">Hash Table</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
@@ -1481,8 +1481,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td align="center">835</td>
     <td><a href="https://leetcode.com/problems/image-overlap/">Image Overlap</a></td>
     <td align="center"><a>Java with </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/add-835-image-overlap/solutions/835.%20Image%20Overlap/ImageOverlap_BitManipulation.java">Bit Manipulation</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/add-835-image-overlap/solutions/835.%20Image%20Overlap/ImageOverlap_HashTable.java">Hash Table</a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/835.%20Image%20Overlap/ImageOverlap_BitManipulation.java">Bit Manipulation</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/835.%20Image%20Overlap/ImageOverlap_HashTable.java">Hash Table</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
