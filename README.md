@@ -118,7 +118,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td align="center">393</td>
     <td><a href="https://leetcode.com/problems/utf-8-validation/">UTF-8 Validation</a></td>
     <td align="center"><a>Java </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/393.%20UTF-8%20Validation/UTF8Validation.java">without</a><a>, or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/393.%20UTF-8%20Validation/UTF8Validation.java">without</a><a> or </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/393.%20UTF-8%20Validation/UTF8Validation_BitManipulation.java">with Bit Manipulation</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -225,6 +225,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">835</td>
+    <td><a href="https://leetcode.com/problems/image-overlap/">Image Overlap</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/add-835-image-overlap/solutions/835.%20Image%20Overlap/ImageOverlap_BitManipulation.java">Bit Manipulation</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/add-835-image-overlap/solutions/835.%20Image%20Overlap/ImageOverlap_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a>
     </td>
     <td></td>
   </tr>
@@ -1462,6 +1476,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix_OneRowAtATime.java">One Row at a Time</a><a> and </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix_OneColumnAtATime.java">One Column at a Time</a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">835</td>
+    <td><a href="https://leetcode.com/problems/image-overlap/">Image Overlap</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/add-835-image-overlap/solutions/835.%20Image%20Overlap/ImageOverlap_BitManipulation.java">Bit Manipulation</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/add-835-image-overlap/solutions/835.%20Image%20Overlap/ImageOverlap_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1337</td>
