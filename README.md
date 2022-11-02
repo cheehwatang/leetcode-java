@@ -74,6 +74,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">49</td>
+    <td><a href="https://leetcode.com/problems/group-anagrams/">Group Anagrams</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/49.%20Group%20Anagrams/GroupAnagrams.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">238</td>
     <td><a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a></td>
     <td align="center">
@@ -964,6 +979,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger.java"><em>Without Hash Table</em></a></td>
   </tr>
   <tr>
+    <td align="center">49</td>
+    <td><a href="https://leetcode.com/problems/group-anagrams/">Group Anagrams</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/49.%20Group%20Anagrams/GroupAnagrams.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">383</td>
     <td><a href="https://leetcode.com/problems/ransom-note/">Ransom Note</a></td>
     <td align="center">
@@ -1754,6 +1784,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">49</td>
+    <td><a href="https://leetcode.com/problems/group-anagrams/">Group Anagrams</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/49.%20Group%20Anagrams/GroupAnagrams.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">645</td>
     <td><a href="https://leetcode.com/problems/set-mismatch/">Set Mismatch</a></td>
     <td align="center">
@@ -1897,6 +1942,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">49</td>
+    <td><a href="https://leetcode.com/problems/group-anagrams/">Group Anagrams</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/49.%20Group%20Anagrams/GroupAnagrams.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td></td>
