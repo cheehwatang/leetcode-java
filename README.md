@@ -2055,6 +2055,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td></td>
   </tr>
   <tr>
+    <td align="center">345</td>
+    <td><a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Reverse Vowels of a String</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/345.%20Reverse%20Vowels%20of%20a%20String/ReverseVowelsOfAString_TwoPointers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">368</td>
     <td><a href="https://leetcode.com/problems/largest-divisible-subset/">Largest Divisible Subset</a></td>
     <td align="center">
@@ -2302,6 +2315,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
     <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/344.%20Reverse%20String/ReverseString_TwoPointers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">345</td>
+    <td><a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Reverse Vowels of a String</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/345.%20Reverse%20Vowels%20of%20a%20String/ReverseVowelsOfAString_TwoPointers.java">Java</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
