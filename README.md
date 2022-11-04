@@ -10,7 +10,7 @@
 
 Hi :wave:, I'm [***Chee Hwa***](https://github.com/cheehwatang) and welcome to LeetCode Solutions in Java.
 
-As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in general, I'm practicing everyday and hope to share my solutions and learnings with you.  
+As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in general, I'm practicing everyday and hope to share my solutions and learnings with you.  
 
 - Exclusively on Java
 - Beginner problems
@@ -18,7 +18,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and progamming in ge
 
 </br>
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/cheehwatang?border=0&radius=30&ext=activity&theme=dark)](https://leetcode.com/cheehwatang/)
 
+---
 
 ### Topics
 > The problem sets and solutions are grouped into Topics as stated in LeetCode.
