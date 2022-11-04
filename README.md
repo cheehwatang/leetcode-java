@@ -18,7 +18,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </br>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/cheehwatang?border=0&radius=30&ext=activity&theme=dark)](https://leetcode.com/cheehwatang/)
+<a href='https://leetcode.com/cheehwatang/'><img src='https://leetcard.jacoblin.cool/cheehwatang?border=0&radius=30&ext=contest&theme=dark' alt='Leetcode Stats'></a>
 
 ---
 
