@@ -22,7 +22,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 ---
 
-### Topics
+<details open>
+<summary><h3>Topics</h3></summary>
+
 > The problem sets and solutions are grouped into Topics as stated in LeetCode.
 
 - [Array](https://github.com/cheehwatang/leetcode-java#array)
@@ -45,14 +47,14 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 - [String](https://github.com/cheehwatang/leetcode-java#string)
 - [Two Pointers](https://github.com/cheehwatang/leetcode-java#two-pointers)
 
+</details>
+
 </br>
 
 ---
 
-</br>
-
-
-### Array
+<details>
+<summary><h3>Array</h3></summary>
 
 <table>
   <tr>
@@ -508,10 +510,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
+</details>
 
-### Backtracking
+<details>
+<summary><h3>Backtracking</h3></summary>
 
 <table>
   <tr>
@@ -541,11 +545,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
+</details>
 
-
-### Binary Search
+<details>
+<summary><h3>Binary Search</h3></summary>
 
 <table>
   <tr>
@@ -577,10 +582,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
+</details>
 
-### Bit Manipulation
+<details>
+<summary><h3>Bit Manipulation</h3></summary>
 
 <table>
   <tr>
@@ -717,9 +724,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
-### Counting
+</details>
+
+<details>
+<summary><h3>Counting</h3></summary>
 
 <table>
   <tr>
@@ -757,7 +767,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
-    <td><a>Java Using </a>
+    <td><a>Solution Using </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/LongestPalindromeByConcatenatingTwoLetterWords_HashTable.java"><em>Hash Table</em></a>
     </td>
   </tr>
@@ -779,9 +789,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
-### Dynamic Programming
+</details>
+
+<details>
+<summary><h3>Dynamic Programming</h3></summary>
 
 <table>
   <tr>
@@ -826,10 +839,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
+</details>
 
-### Enumeration
+<details>
+<summary><h3>Enumeration</h3></summary>
 
 <table>
   <tr>
@@ -879,10 +894,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
+</details>
 
-### Geometry
+<details>
+<summary><h3>Geometry</h3></summary>
 
 <table>
   <tr>
@@ -924,10 +941,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
+</details>
 
-### Greedy
+<details>
+<summary><h3>Greedy</h3></summary>
 
 <table>
   <tr>
@@ -1047,9 +1066,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
-### Hash Table
+</details>
+
+<details>
+<summary><h3>Hash Table</h3></summary>
 
 <table>
   <tr>
@@ -1282,7 +1304,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
-    <td><a>Java Using </a>
+    <td><a>Solution Using </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/LongestPalindromeByConcatenatingTwoLetterWords_Counting.java"><em>Counting</em></a>
     </td>
   </tr>
@@ -1304,10 +1326,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
+</details>
 
-### Heap (Priority Queue)
+<details>
+<summary><h3>Heap (Priority Queue)</h3></summary>
 
 <table>
   <tr>
@@ -1338,11 +1362,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
+</details>
 
-
-### Math
+<details>
+<summary><h3>Math</h3></summary>
 
 <table>
   <tr>
@@ -1615,10 +1640,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
   
-</br>
+---
 
+</details>
 
-### Matrix
+<details>
+<summary><h3>Matrix</h3></summary>
 
 <table>
   <tr>
@@ -1691,10 +1718,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
+</details>
 
-### Number Theory
+<details>
+<summary><h3>Number Theory</h3></summary>
 
 <table>
   <tr>
@@ -1732,10 +1761,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
+</details>
 
-### Prefix Sum
+<details>
+<summary><h3>Prefix Sum</h3></summary>
 
 <table>
   <tr>
@@ -1819,10 +1850,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
+</details>
 
-### Simulation
+<details>
+<summary><h3>Simulation</h3></summary>
 
 <table>
   <tr>
@@ -1905,10 +1938,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
   
-</br>
+---
 
+</details>
 
-### Sorting
+<details>
+<summary><h3>Sorting</h3></summary>
 
 <table>
   <tr>
@@ -2031,10 +2066,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
+</details>
 
-### String
+<details>
+<summary><h3>String</h3></summary>
 
 <table>
   <tr>
@@ -2372,10 +2409,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
+</details>
 
-### Two Pointers
+<details>
+<summary><h3>Two Pointers</h3></summary>
 
 <table>
   <tr>
@@ -2455,6 +2494,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
-</br>
+---
 
-
+</details>
