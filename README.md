@@ -3,8 +3,11 @@
 
 </br>
 
-<div align="center"><img src="https://img.shields.io/badge/language-java-blue">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/update-daily-green"></div>
+<div align="center">
+<img src="https://img.shields.io/badge/language-java-blue">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/update-daily-green">&nbsp;&nbsp;
+
+</div>
 
 </br>
 
@@ -18,7 +21,66 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </br>
 
-<a href='https://leetcode.com/cheehwatang/'><img src='https://leetcard.jacoblin.cool/cheehwatang?border=0&radius=30&ext=contest&theme=dark' alt='Leetcode Stats'></a>
+---
+
+<h2 align='center'><b>Latest Solutions</b></h2>
+
+</br>
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Problem</th>
+    <th>Difficulty</th>
+    <th>Solution</th>
+    <th>Topics</th>
+  </tr>
+  <tr>
+    <td align="center">November 5th</td>
+    <td><a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/">2131. Longest Palindrome by Concatenating Two Letter Words</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/LongestPalindromeByConcatenatingTwoLetterWords_Counting.java">Counting</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/LongestPalindromeByConcatenatingTwoLetterWords_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">November 4th</td>
+    <td><a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">345. Reverse Vowels of a String</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/345.%20Reverse%20Vowels%20of%20a%20String/ReverseVowelsOfAString_TwoPointers.java">Two Pointers</a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">November 3rd</td>
+    <td><a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/">1239. Maximum Length of a Concatenated String with Unique Characters</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/MaximumLengthOfAConcatenatedStringWithUniqueCharacters_Backtracking.java">Backtracking</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/MaximumLengthOfAConcatenatedStringWithUniqueCharacters_BitManipulation.java">Bit Manipulation</a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#backtracking">Backtracking</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+  </tr>
+</table>
+
+</br>
 
 ---
 
