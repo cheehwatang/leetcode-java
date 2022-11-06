@@ -36,6 +36,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 6th</td>
+    <td><a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">2136. Earliest Possible Day of Full Bloom</a></td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom/EarliestPossibleDayOfFullBloom.java">Sorting</a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 5th</td>
     <td><a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/">2131. Longest Palindrome by Concatenating Two Letter Words</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -84,8 +97,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 ---
 
-<details open>
-<summary><h3>Topics</h3></summary>
+<details open><summary><h3>Topics</h3></summary>
 
 > The problem sets and solutions are grouped into Topics as stated in LeetCode.
 
@@ -115,8 +127,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 ---
 
-<details>
-<summary><h3>Array</h3></summary>
+<details><summary><h3>Array</h3></summary>
 
 <table>
   <tr>
@@ -543,6 +554,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
   <tr>
+    <td align="center">2136</td>
+    <td><a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom/EarliestPossibleDayOfFullBloom.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2176</td>
     <td><a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Equal and Divisible Pairs in an Array</a></td>
     <td align="center">
@@ -576,8 +601,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Backtracking</h3></summary>
+<details><summary><h3>Backtracking</h3></summary>
 
 <table>
   <tr>
@@ -611,8 +635,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Binary Search</h3></summary>
+<details><summary><h3>Binary Search</h3></summary>
 
 <table>
   <tr>
@@ -648,8 +671,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Bit Manipulation</h3></summary>
+<details><summary><h3>Bit Manipulation</h3></summary>
 
 <table>
   <tr>
@@ -790,8 +812,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Counting</h3></summary>
+<details><summary><h3>Counting</h3></summary>
 
 <table>
   <tr>
@@ -855,8 +876,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Dynamic Programming</h3></summary>
+<details><summary><h3>Dynamic Programming</h3></summary>
 
 <table>
   <tr>
@@ -905,8 +925,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Enumeration</h3></summary>
+<details><summary><h3>Enumeration</h3></summary>
 
 <table>
   <tr>
@@ -960,8 +979,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Geometry</h3></summary>
+<details><summary><h3>Geometry</h3></summary>
 
 <table>
   <tr>
@@ -1007,8 +1025,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Greedy</h3></summary>
+<details><summary><h3>Greedy</h3></summary>
 
 <table>
   <tr>
@@ -1124,6 +1141,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">2136</td>
+    <td><a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom/EarliestPossibleDayOfFullBloom.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -1132,8 +1163,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Hash Table</h3></summary>
+<details><summary><h3>Hash Table</h3></summary>
 
 <table>
   <tr>
@@ -1392,8 +1422,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Heap (Priority Queue)</h3></summary>
+<details><summary><h3>Heap (Priority Queue)</h3></summary>
 
 <table>
   <tr>
@@ -1428,8 +1457,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Math</h3></summary>
+<details><summary><h3>Math</h3></summary>
 
 <table>
   <tr>
@@ -1706,8 +1734,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Matrix</h3></summary>
+<details><summary><h3>Matrix</h3></summary>
 
 <table>
   <tr>
@@ -1784,8 +1811,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Number Theory</h3></summary>
+<details><summary><h3>Number Theory</h3></summary>
 
 <table>
   <tr>
@@ -1828,6 +1854,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 </details>
 
 <details>
+
 <summary><h3>Prefix Sum</h3></summary>
 
 <table>
@@ -1917,6 +1944,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 </details>
 
 <details>
+
 <summary><h3>Simulation</h3></summary>
 
 <table>
@@ -2004,8 +2032,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Sorting</h3></summary>
+<details><summary><h3>Sorting</h3></summary>
 
 <table>
   <tr>
@@ -2124,6 +2151,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_Counting.java"><em>Counting Array</em></a>
     </td>
   </tr>
+  <tr>
+    <td align="center">2136</td>
+    <td><a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom/EarliestPossibleDayOfFullBloom.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -2132,8 +2173,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>String</h3></summary>
+<details><summary><h3>String</h3></summary>
 
 <table>
   <tr>
@@ -2475,8 +2515,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-<summary><h3>Two Pointers</h3></summary>
+<details><summary><h3>Two Pointers</h3></summary>
 
 <table>
   <tr>
