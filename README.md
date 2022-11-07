@@ -36,6 +36,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 7th</td>
+    <td><a href="https://leetcode.com/problems/maximum-69-number/">1323. Maximum 69 Number</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1323.%20Maximum%2069%20Number/Maximum69Number_Math.java">Math</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1323.%20Maximum%2069%20Number/Maximum69Number_String.java">String</a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 6th</td>
     <td><a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">2136. Earliest Possible Day of Full Bloom</a></td>
     <td align="center">$\text{\color{Red}Hard}$</td>
@@ -1080,6 +1093,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
   <tr>
+    <td align="center">1323</td>
+    <td><a href="https://leetcode.com/problems/maximum-69-number/">Maximum 69 Number</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1323.%20Maximum%2069%20Number/Maximum69Number_Math.java">Math</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1323.%20Maximum%2069%20Number/Maximum69Number_String.java">String</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1328</td>
     <td><a href="https://leetcode.com/problems/break-a-palindrome/">Break a Palindrome</a></td>
     <td align="center">
@@ -1642,6 +1669,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">1323</td>
+    <td><a href="https://leetcode.com/problems/maximum-69-number/">Maximum 69 Number</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1323.%20Maximum%2069%20Number/Maximum69Number_Math.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td><a>Solution Using </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1323.%20Maximum%2069%20Number/Maximum69Number_String.java"><em>String</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">1342</td>
