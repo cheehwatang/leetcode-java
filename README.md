@@ -36,6 +36,16 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 8th</td>
+    <td><a href="https://leetcode.com/problems/make-the-string-great/">1544. Make The String Great</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1544.%20Make%20The%20String%20Great/MakeTheStringGreat_Stack.java">Stack</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#stack">Stack</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 7th</td>
     <td><a href="https://leetcode.com/problems/maximum-69-number/">1323. Maximum 69 Number</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -89,21 +99,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">November 3rd</td>
-    <td><a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/">1239. Maximum Length of a Concatenated String with Unique Characters</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/MaximumLengthOfAConcatenatedStringWithUniqueCharacters_Backtracking.java">Backtracking</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/MaximumLengthOfAConcatenatedStringWithUniqueCharacters_BitManipulation.java">Bit Manipulation</a>
-    </td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#backtracking">Backtracking</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
-    </td>
-  </tr>
 </table>
 
 </br>
@@ -131,6 +126,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 - [Prefix Sum](https://github.com/cheehwatang/leetcode-java#prefix-sum)
 - [Simulation](https://github.com/cheehwatang/leetcode-java#simulation)
 - [Sorting](https://github.com/cheehwatang/leetcode-java#sorting)
+- [Stack](https://github.com/cheehwatang/leetcode-java#stack)
 - [String](https://github.com/cheehwatang/leetcode-java#string)
 - [Two Pointers](https://github.com/cheehwatang/leetcode-java#two-pointers)
 
@@ -2214,6 +2210,36 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
+<details><summary><h3>Stack</h3></summary>
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">1544</td>
+    <td><a href="https://leetcode.com/problems/make-the-string-great/">Make The String Great</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1544.%20Make%20The%20String%20Great/MakeTheStringGreat_Stack.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#stack">Stack</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+
+---
+
+</details>
+
 <details><summary><h3>String</h3></summary>
 
 <table>
@@ -2440,6 +2466,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1544</td>
+    <td><a href="https://leetcode.com/problems/make-the-string-great/">Make The String Great</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1544.%20Make%20The%20String%20Great/MakeTheStringGreat_Stack.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#stack">Stack</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td></td>
