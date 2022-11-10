@@ -36,8 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 10th</td>
+    <td>1047. <a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/">Remove All Adjacent Duplicates In String</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/RemoveAllAdjacentDuplicatesInString.java">Stack</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#stack">Stack</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 9th</td>
-    <td><a href="https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/">2023. Number of Pairs of Strings With Concatenation Equal to Target</a></td>
+    <td>2023. <a href="https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/">Number of Pairs of Strings With Concatenation Equal to Target</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2023.%20Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/NumberOfPairsOfStringsWithConcatenationEqualToTarget_HashTable.java">Hash Table</a></td>
     <td align="center">
@@ -47,7 +57,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   </tr>
   <tr>
     <td align="center">November 8th</td>
-    <td><a href="https://leetcode.com/problems/make-the-string-great/">1544. Make The String Great</a></td>
+    <td>1544. <a href="https://leetcode.com/problems/make-the-string-great/">Make The String Great</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1544.%20Make%20The%20String%20Great/MakeTheStringGreat_Stack.java">Stack</a></td>
     <td align="center">
@@ -57,7 +67,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   </tr>
   <tr>
     <td align="center">November 7th</td>
-    <td><a href="https://leetcode.com/problems/maximum-69-number/">1323. Maximum 69 Number</a></td>
+    <td>1323. <a href="https://leetcode.com/problems/maximum-69-number/">Maximum 69 Number</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1323.%20Maximum%2069%20Number/Maximum69Number_Math.java">Math</a><a> or </a>
@@ -70,7 +80,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   </tr>
   <tr>
     <td align="center">November 6th</td>
-    <td><a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">2136. Earliest Possible Day of Full Bloom</a></td>
+    <td>2136. <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a></td>
     <td align="center">$\text{\color{Red}Hard}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom/EarliestPossibleDayOfFullBloom.java">Sorting</a>
@@ -79,22 +89,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 5th</td>
-    <td><a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/">2131. Longest Palindrome by Concatenating Two Letter Words</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/LongestPalindromeByConcatenatingTwoLetterWords_Counting.java">Counting</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/LongestPalindromeByConcatenatingTwoLetterWords_HashTable.java">Hash Table</a>
-    </td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
   </tr>
 </table>
@@ -2231,6 +2225,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">1047</td>
+    <td><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/">Remove All Adjacent Duplicates In String</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/RemoveAllAdjacentDuplicatesInString.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#stack">Stack</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1544</td>
     <td><a href="https://leetcode.com/problems/make-the-string-great/">Make The String Great</a></td>
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1544.%20Make%20The%20String%20Great/MakeTheStringGreat_Stack.java">Java</a></td>
@@ -2420,6 +2425,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1047</td>
+    <td><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/">Remove All Adjacent Duplicates In String</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/RemoveAllAdjacentDuplicatesInString.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#stack">Stack</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td></td>
