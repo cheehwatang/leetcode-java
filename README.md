@@ -36,6 +36,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 12th</td>
+    <td>2399. <a href="https://leetcode.com/problems/check-distances-between-same-letters/">Check Distances Between Same Letters</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2399.%20Check%20Distances%20Between%20Same%20Letters/CheckDistancesBetweenSameLetters.java">Without</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2399.%20Check%20Distances%20Between%20Same%20Letters/CheckDistancesBetweenSameLetters_HashTable.java">With Hash Table</a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 11th</td>
     <td>1865. <a href="https://leetcode.com/problems/finding-pairs-with-a-certain-sum/">Finding Pairs With a Certain Sum</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -76,19 +90,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#stack">Stack</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 7th</td>
-    <td>1323. <a href="https://leetcode.com/problems/maximum-69-number/">Maximum 69 Number</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1323.%20Maximum%2069%20Number/Maximum69Number_Math.java">Math</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1323.%20Maximum%2069%20Number/Maximum69Number_String.java">String</a>
-    </td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
     </td>
   </tr>
 </table>
@@ -603,6 +604,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2399</td>
+    <td><a href="https://leetcode.com/problems/check-distances-between-same-letters/">Check Distances Between Same Letters</a></td>
+    <td align="center"><a>Java </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2399.%20Check%20Distances%20Between%20Same%20Letters/CheckDistancesBetweenSameLetters.java">without</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2399.%20Check%20Distances%20Between%20Same%20Letters/CheckDistancesBetweenSameLetters_HashTable.java">with Hash Table</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -1501,6 +1517,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2351.%20First%20Letter%20to%20Appear%20Twice/FirstLetterToAppearTwice_Counting.java"><em>Counting</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">2399</td>
+    <td><a href="https://leetcode.com/problems/check-distances-between-same-letters/">Check Distances Between Same Letters</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2399.%20Check%20Distances%20Between%20Same%20Letters/CheckDistancesBetweenSameLetters.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2399.%20Check%20Distances%20Between%20Same%20Letters/CheckDistancesBetweenSameLetters.java"><em>Without Hash Table</em></a></td>
   </tr>
 </table>
 
@@ -2667,6 +2696,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2399</td>
+    <td><a href="https://leetcode.com/problems/check-distances-between-same-letters/">Check Distances Between Same Letters</a></td>
+    <td align="center"><a>Java </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2399.%20Check%20Distances%20Between%20Same%20Letters/CheckDistancesBetweenSameLetters.java">without</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2399.%20Check%20Distances%20Between%20Same%20Letters/CheckDistancesBetweenSameLetters_HashTable.java">with Hash Table</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
