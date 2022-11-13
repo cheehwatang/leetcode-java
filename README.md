@@ -36,6 +36,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 13th</td>
+    <td>2451. <a href="https://leetcode.com/problems/odd-string-difference/">Odd String Difference</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2451.%20Odd%20String%20Difference/OddStringDifference.java">Without</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2451.%20Odd%20String%20Difference/OddStringDifference_HashTable.java">With Hash Table</a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 12th</td>
     <td>2399. <a href="https://leetcode.com/problems/check-distances-between-same-letters/">Check Distances Between Same Letters</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -79,16 +93,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2023.%20Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/NumberOfPairsOfStringsWithConcatenationEqualToTarget_HashTable.java">Hash Table</a></td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 8th</td>
-    <td>1544. <a href="https://leetcode.com/problems/make-the-string-great/">Make The String Great</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1544.%20Make%20The%20String%20Great/MakeTheStringGreat_Stack.java">Stack</a></td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#stack">Stack</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
   </tr>
@@ -1531,6 +1535,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2399.%20Check%20Distances%20Between%20Same%20Letters/CheckDistancesBetweenSameLetters.java"><em>Without Hash Table</em></a></td>
   </tr>
+  <tr>
+    <td align="center">2451</td>
+    <td><a href="https://leetcode.com/problems/odd-string-difference/">Odd String Difference</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2451.%20Odd%20String%20Difference/OddStringDifference_HashTable.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2451.%20Odd%20String%20Difference/OddStringDifference.java"><em>Without Hash Table</em></a></td>
+  </tr>
 </table>
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -1854,6 +1871,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#number-theory">Number Theory</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2451</td>
+    <td><a href="https://leetcode.com/problems/odd-string-difference/">Odd String Difference</a></td>
+    <td align="center"><a>Java </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2451.%20Odd%20String%20Difference/OddStringDifference.java">without</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2451.%20Odd%20String%20Difference/OddStringDifference_HashTable.java">with Hash Table</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2723,6 +2755,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#enumeration">Enumeration</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2451</td>
+    <td><a href="https://leetcode.com/problems/odd-string-difference/">Odd String Difference</a></td>
+    <td align="center"><a>Java </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2451.%20Odd%20String%20Difference/OddStringDifference.java">without</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2451.%20Odd%20String%20Difference/OddStringDifference_HashTable.java">with Hash Table</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td></td>
