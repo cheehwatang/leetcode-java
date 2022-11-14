@@ -36,6 +36,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 14th</td>
+    <td>1033. <a href="https://leetcode.com/problems/moving-stones-until-consecutive/">Moving Stones Until Consecutive</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1033.%20Moving%20Stones%20Until%20Consecutive/MovingStonesUntilConsecutive.java">Math</a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#brainteaser">Brainteaser</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 13th</td>
     <td>2451. <a href="https://leetcode.com/problems/odd-string-difference/">Odd String Difference</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -86,16 +97,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">November 9th</td>
-    <td>2023. <a href="https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/">Number of Pairs of Strings With Concatenation Equal to Target</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2023.%20Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/NumberOfPairsOfStringsWithConcatenationEqualToTarget_HashTable.java">Hash Table</a></td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
-    </td>
-  </tr>
 </table>
 
 </br>
@@ -110,6 +111,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 - [Backtracking](https://github.com/cheehwatang/leetcode-java#backtracking)
 - [Binary Search](https://github.com/cheehwatang/leetcode-java#binary-search)
 - [Bit Manipulation](https://github.com/cheehwatang/leetcode-java#bit-manipulation)
+- [Brainteaser](https://github.com/cheehwatang/leetcode-java#brainteaser)
 - [Counting](https://github.com/cheehwatang/leetcode-java#counting)
 - [Design](https://github.com/cheehwatang/leetcode-java#design)
 - [Dynamic Programming](https://github.com/cheehwatang/leetcode-java#dynamic-programming)
@@ -848,6 +850,37 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+
+---
+
+</details>
+
+<details><summary><h3>Brainteaser</h3></summary>
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">1033</td>
+    <td><a href="https://leetcode.com/problems/moving-stones-until-consecutive/">Moving Stones Until Consecutive</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1033.%20Moving%20Stones%20Until%20Consecutive/MovingStonesUntilConsecutive.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#brainteaser">Brainteaser</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1735,6 +1768,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1033</td>
+    <td><a href="https://leetcode.com/problems/moving-stones-until-consecutive/">Moving Stones Until Consecutive</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1033.%20Moving%20Stones%20Until%20Consecutive/MovingStonesUntilConsecutive.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#brainteaser">Brainteaser</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
     </td>
     <td></td>
   </tr>
