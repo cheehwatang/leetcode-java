@@ -36,6 +36,16 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 15th</td>
+    <td>2395. <a href="https://leetcode.com/problems/find-subarrays-with-equal-sum/">Find Subarrays With Equal Sum</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2395.%20Find%20Subarrays%20With%20Equal%20Sum/FindSubarraysWithEqualSum.java">Hash Table</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 14th</td>
     <td>1033. <a href="https://leetcode.com/problems/moving-stones-until-consecutive/">Moving Stones Until Consecutive</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -85,16 +95,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#design">Design</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 10th</td>
-    <td>1047. <a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/">Remove All Adjacent Duplicates In String</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/RemoveAllAdjacentDuplicatesInString.java">Stack</a></td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#stack">Stack</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
   </tr>
 </table>
@@ -610,6 +610,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2395</td>
+    <td><a href="https://leetcode.com/problems/find-subarrays-with-equal-sum/">Find Subarrays With Equal Sum</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2395.%20Find%20Subarrays%20With%20Equal%20Sum/FindSubarraysWithEqualSum.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -1554,6 +1565,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2351.%20First%20Letter%20to%20Appear%20Twice/FirstLetterToAppearTwice_Counting.java"><em>Counting</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">2395</td>
+    <td><a href="https://leetcode.com/problems/find-subarrays-with-equal-sum/">Find Subarrays With Equal Sum</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2395.%20Find%20Subarrays%20With%20Equal%20Sum/FindSubarraysWithEqualSum.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">2399</td>
