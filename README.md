@@ -36,6 +36,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 17th</td>
+    <td>1295. <a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/">Find Numbers with Even Number of Digits</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/FindNumbersWithEvenNumberOfDigits.java">Array</a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 16th</td>
     <td>2453. <a href="https://leetcode.com/problems/destroy-sequential-targets/">Destroy Sequential Targets</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -79,20 +90,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 12th</td>
-    <td>2399. <a href="https://leetcode.com/problems/check-distances-between-same-letters/">Check Distances Between Same Letters</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2399.%20Check%20Distances%20Between%20Same%20Letters/CheckDistancesBetweenSameLetters.java">Without</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2399.%20Check%20Distances%20Between%20Same%20Letters/CheckDistancesBetweenSameLetters_HashTable.java">With Hash Table</a>
-    </td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
   </tr>
@@ -413,6 +410,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java#backtracking">Backtracking</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1295</td>
+    <td><a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/">Find Numbers with Even Number of Digits</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/FindNumbersWithEvenNumberOfDigits.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a>
     </td>
     <td></td>
   </tr>
