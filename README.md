@@ -36,6 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 18th</td>
+    <td>836. <a href="https://leetcode.com/problems/rectangle-overlap/">Rectangle Overlap</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/836.%20Rectangle%20Overlap/RectangleOverlap.java">Math</a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 17th</td>
     <td>1295. <a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/">Find Numbers with Even Number of Digits</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -77,20 +89,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#brainteaser">Brainteaser</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 13th</td>
-    <td>2451. <a href="https://leetcode.com/problems/odd-string-difference/">Odd String Difference</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2451.%20Odd%20String%20Difference/OddStringDifference.java">Without</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2451.%20Odd%20String%20Difference/OddStringDifference_HashTable.java">With Hash Table</a>
-    </td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
     </td>
   </tr>
 </table>
@@ -1175,6 +1173,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">836</td>
+    <td><a href="https://leetcode.com/problems/rectangle-overlap/">Rectangle Overlap</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/836.%20Rectangle%20Overlap/RectangleOverlap.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -1820,6 +1831,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">836</td>
+    <td><a href="https://leetcode.com/problems/rectangle-overlap/">Rectangle Overlap</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/836.%20Rectangle%20Overlap/RectangleOverlap.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
     </td>
