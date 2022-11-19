@@ -36,6 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 19th</td>
+    <td>223. <a href="https://leetcode.com/problems/rectangle-area/">Rectangle Area</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/223.%20Rectangle%20Area/RectangleArea.java">Math</a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 18th</td>
     <td>836. <a href="https://leetcode.com/problems/rectangle-overlap/">Rectangle Overlap</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -1147,6 +1159,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">223</td>
+    <td><a href="https://leetcode.com/problems/rectangle-area/">Rectangle Area</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/223.%20Rectangle%20Area/RectangleArea.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">593</td>
     <td><a href="https://leetcode.com/problems/valid-square/">Valid Square</a></td>
     <td align="center">
@@ -1748,6 +1773,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">223</td>
+    <td><a href="https://leetcode.com/problems/rectangle-area/">Rectangle Area</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/223.%20Rectangle%20Area/RectangleArea.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
     </td>
     <td></td>
