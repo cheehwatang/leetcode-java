@@ -36,6 +36,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 20th</td>
+    <td>263. <a href="https://leetcode.com/problems/ugly-number/">Ugly Number</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/263.%20Ugly%20Number/UglyNumber.java">Math</a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 19th</td>
     <td>223. <a href="https://leetcode.com/problems/rectangle-area/">Rectangle Area</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -80,27 +91,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
     <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 15th</td>
-    <td>2395. <a href="https://leetcode.com/problems/find-subarrays-with-equal-sum/">Find Subarrays With Equal Sum</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2395.%20Find%20Subarrays%20With%20Equal%20Sum/FindSubarraysWithEqualSum.java">Hash Table</a></td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 14th</td>
-    <td>1033. <a href="https://leetcode.com/problems/moving-stones-until-consecutive/">Moving Stones Until Consecutive</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1033.%20Moving%20Stones%20Until%20Consecutive/MovingStonesUntilConsecutive.java">Math</a>
-    </td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#brainteaser">Brainteaser</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
     </td>
   </tr>
 </table>
@@ -1786,6 +1776,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">263</td>
+    <td><a href="https://leetcode.com/problems/ugly-number/">Ugly Number</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/263.%20Ugly%20Number/UglyNumber.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
     </td>
     <td></td>
