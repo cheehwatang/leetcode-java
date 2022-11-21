@@ -43,7 +43,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/263.%20Ugly%20Number/UglyNumber.java">Math</a>
     </td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#math">Math</a>
     </td>
   </tr>
   <tr>
@@ -54,8 +54,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/223.%20Rectangle%20Area/RectangleArea.java">Math</a>
     </td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#geometry">Geometry</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
   </tr>
   <tr>
@@ -66,8 +66,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/836.%20Rectangle%20Overlap/RectangleOverlap.java">Math</a>
     </td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#geometry">Geometry</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/FindNumbersWithEvenNumberOfDigits.java">Array</a>
     </td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a>
+    <a href="#array">Array</a>
     </td>
   </tr>
   <tr>
@@ -88,9 +88,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2453.%20Destroy%20Sequential%20Targets/DestroySequentialTargets_HashTable.java">Hash Table & Counting</a>
     </td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
     </td>
   </tr>
 </table>
@@ -99,32 +99,34 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 ---
 
-<details open><summary><h3>Topics</h3></summary>
+<details open><summary><h3 id="topics">Topics</h3></summary>
 
 > The problem sets and solutions are grouped into Topics as stated in LeetCode.
 
-- [Array](https://github.com/cheehwatang/leetcode-java#array)
-- [Backtracking](https://github.com/cheehwatang/leetcode-java#backtracking)
-- [Binary Search](https://github.com/cheehwatang/leetcode-java#binary-search)
-- [Bit Manipulation](https://github.com/cheehwatang/leetcode-java#bit-manipulation)
-- [Brainteaser](https://github.com/cheehwatang/leetcode-java#brainteaser)
-- [Counting](https://github.com/cheehwatang/leetcode-java#counting)
-- [Design](https://github.com/cheehwatang/leetcode-java#design)
-- [Dynamic Programming](https://github.com/cheehwatang/leetcode-java#dynamic-programming)
-- [Enumeration](https://github.com/cheehwatang/leetcode-java#enumeration)
-- [Geometry](https://github.com/cheehwatang/leetcode-java#geometry)
-- [Greedy](https://github.com/cheehwatang/leetcode-java#greedy)
-- [Hash Table](https://github.com/cheehwatang/leetcode-java#hash-table)
-- [Heap (Priority Queue)](https://github.com/cheehwatang/leetcode-java#heap-priority-queue)
-- [Math](https://github.com/cheehwatang/leetcode-java#math)
-- [Matrix](https://github.com/cheehwatang/leetcode-java#matrix)
-- [Number Theory](https://github.com/cheehwatang/leetcode-java#number-theory)
-- [Prefix Sum](https://github.com/cheehwatang/leetcode-java#prefix-sum)
-- [Simulation](https://github.com/cheehwatang/leetcode-java#simulation)
-- [Sorting](https://github.com/cheehwatang/leetcode-java#sorting)
-- [Stack](https://github.com/cheehwatang/leetcode-java#stack)
-- [String](https://github.com/cheehwatang/leetcode-java#string)
-- [Two Pointers](https://github.com/cheehwatang/leetcode-java#two-pointers)
+<ul>
+  <li><a href="#array">Array</a>
+  <li><a href="#backtracking">Backtracking</a>
+  <li><a href="#binary-search">Binary Search</a>
+  <li><a href="#bit-manipulation">Bit Manipulation</a>
+  <li><a href="#brainteaser">Brainteaser</a>
+  <li><a href="#counting">Counting</a>
+  <li><a href="#design">Design</a>
+  <li><a href="#dynamic-programming">Dynamic Programming</a>
+  <li><a href="#enumeration">Enumeration</a>
+  <li><a href="#geometry">Geometry</a>
+  <li><a href="#greedy">Greedy</a>
+  <li><a href="#hash-table">Hash Table</a>
+  <li><a href="#heap-priority-queue">Heap (Priority Queue)</a>
+  <li><a href="#math">Math</a>
+  <li><a href="#matrix">Matrix</a>
+  <li><a href="#number-theory">Number Theory</a>
+  <li><a href="#prefix-sum">Prefix Sum</a>
+  <li><a href="#simulation">Simulation</a>
+  <li><a href="#sorting">Sorting</a>
+  <li><a href="#stack">Stack</a>
+  <li><a href="#string">String</a>
+  <li><a href="#two-pointers">Two Pointers</a>
+</ul>
 
 </details>
 
@@ -132,7 +134,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 ---
 
-<details><summary><h3>Array</h3></summary>
+<details><summary><h3 id="array">Array</h3></summary>
 
 <table>
   <tr>
@@ -151,8 +153,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -164,10 +166,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -179,8 +181,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
@@ -192,8 +194,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a>
     </td>
     <td></td>
   </tr>
@@ -205,10 +207,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#dynamic-programming">Dynamic Programming</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -221,8 +223,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#bit-manipulation">Bit Manipulation</a>
     </td>
     <td></td>
   </tr>
@@ -234,7 +236,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a>
+    <a href="#array">Array</a>
     </td>
     <td></td>
   </tr>
@@ -246,10 +248,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
@@ -261,9 +263,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
@@ -275,9 +277,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -291,10 +293,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -304,8 +306,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#matrix">Matrix</a>
     </td>
     <td><a>Follow up: </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix_OneRowAtATime.java">One Row at a Time</a><a> and </a>
@@ -320,9 +322,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#geometry">Geometry</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -335,8 +337,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#matrix">Matrix</a>
     </td>
     <td></td>
   </tr>
@@ -348,9 +350,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -362,10 +364,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -377,10 +379,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -392,8 +394,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#simulation">Simulation</a>
     </td>
     <td></td>
   </tr>
@@ -406,10 +408,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#backtracking">Backtracking</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -421,7 +423,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a>
+    <a href="#array">Array</a>
     </td>
     <td></td>
   </tr>
@@ -434,11 +436,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#binary-search">Binary Search</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#binary-search">Binary Search</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -450,8 +452,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
@@ -463,10 +465,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#dynamic-programming">Dynamic Programming</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -478,8 +480,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#matrix">Matrix</a>
     </td>
     <td></td>
   </tr>
@@ -491,10 +493,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_Sorting_TwoPointers.java">Sorting & Two Pointers</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -506,8 +508,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -519,9 +521,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#design">Design</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#design">Design</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -531,9 +533,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/FindGreatestCommonDivisorOfArray.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#number-theory">Number Theory</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#number-theory">Number Theory</a>
     </td>
     <td></td>
   </tr>
@@ -545,8 +547,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#enumeration">Enumeration</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#enumeration">Enumeration</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1995.%20Count%20Special%20Quadruplets/CountSpecialQuadruplets_HashTable.java"><em>Hash Table</em></a></td>
   </tr>
@@ -560,10 +562,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -573,8 +575,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2023.%20Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/NumberOfPairsOfStringsWithConcatenationEqualToTarget_HashTable.java">Java</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -587,11 +589,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -603,9 +605,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Red}Hard}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -617,7 +619,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a>
+    <a href="#array">Array</a>
     </td>
     <td></td>
   </tr>
@@ -627,8 +629,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2395.%20Find%20Subarrays%20With%20Equal%20Sum/FindSubarraysWithEqualSum.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -641,9 +643,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -655,9 +657,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
@@ -668,21 +670,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
 </details>
 
-<details><summary><h3>Backtracking</h3></summary>
+<details><summary><h3 id="backtracking">Backtracking</h3></summary>
 
 <table>
   <tr>
@@ -701,16 +703,16 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#backtracking">Backtracking</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/MaximumLengthOfAConcatenatedStringWithUniqueCharacters_BitManipulation.java"><em>Bit Manipulation</em></a></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -736,17 +738,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#binary-search">Binary Search</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#binary-search">Binary Search</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix.java"><em>Linear Search</em></a></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -771,8 +773,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -784,8 +786,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -797,8 +799,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#bit-manipulation">Bit Manipulation</a>
     </td>
     <td></td>
   </tr>
@@ -810,10 +812,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td><a>Solution Using </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_HashTable.java"><em>Hash Table</em></a><a> or </a>
@@ -828,10 +830,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#backtracking">Backtracking</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/MaximumLengthOfAConcatenatedStringWithUniqueCharacters_Backtracking.java"><em>Backtracking</em></a></td>
   </tr>
@@ -841,8 +843,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1342.%20Numbers%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/NumberOfStepsToReduceANumberToZero_BitManipulation.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1342.%20Numbers%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/NumberOfStepsToReduceANumberToZero_Math.java"><em>Math</em></a></td>
   </tr>
@@ -852,8 +854,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1486.%20XOR%20Operation%20in%20an%20Array/XOROperationInAnArray.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -865,9 +867,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#simulation">Simulation</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/ConcatenationOfConsecutiveBinaryNumbers_Math.java"><em>Math</em></a></td>
   </tr>
@@ -879,15 +881,15 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -911,14 +913,14 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#brainteaser">Brainteaser</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#brainteaser">Brainteaser</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -943,9 +945,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/383.%20Ransom%20Note/RansomNote_HashTable.java"><em>Hash Table</em></a></td>
   </tr>
@@ -956,11 +958,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution Using </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/LongestPalindromeByConcatenatingTwoLetterWords_HashTable.java"><em>Hash Table</em></a>
@@ -974,9 +976,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2351.%20First%20Letter%20to%20Appear%20Twice/FirstLetterToAppearTwice_HashTable.java"><em>Hash Table</em></a></td>
   </tr>
@@ -987,15 +989,15 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -1020,15 +1022,15 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#design">Design</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#design">Design</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -1053,10 +1055,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#dynamic-programming">Dynamic Programming</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -1068,16 +1070,16 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#dynamic-programming">Dynamic Programming</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -1102,8 +1104,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#enumeration">Enumeration</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#enumeration">Enumeration</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1995.%20Count%20Special%20Quadruplets/CountSpecialQuadruplets_HashTable.java"><em>Hash Table</em></a></td>
   </tr>
@@ -1113,8 +1115,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2240.%20Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils/NumberOfWaysToBuyPensAndPencils.java">Java</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#enumeration">Enumeration</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#enumeration">Enumeration</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1124,14 +1126,14 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2437.%20Number%20of%20Valid%20Clock%20Times/NumberOfValidClockTimes.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#enumeration">Enumeration</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#enumeration">Enumeration</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -1156,8 +1158,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#geometry">Geometry</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1169,8 +1171,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#geometry">Geometry</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1182,9 +1184,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#geometry">Geometry</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1196,14 +1198,14 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#geometry">Geometry</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -1228,8 +1230,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a>
     </td>
     <td></td>
   </tr>
@@ -1241,10 +1243,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -1256,10 +1258,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -1272,8 +1274,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1285,8 +1287,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -1298,10 +1300,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#dynamic-programming">Dynamic Programming</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -1315,10 +1317,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -1331,11 +1333,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -1347,15 +1349,15 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Red}Hard}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -1380,8 +1382,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -1391,9 +1393,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/12.%20Integer%20to%20Roman/IntegerToRoman.java">Java</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -1403,9 +1405,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_HashMap.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger.java"><em>Without Hash Table</em></a></td>
   </tr>
@@ -1417,10 +1419,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -1432,9 +1434,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/383.%20Ransom%20Note/RansomNote_Counting.java"><em>Counting Array</em></a></td>
   </tr>
@@ -1446,10 +1448,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
@@ -1461,9 +1463,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
@@ -1475,9 +1477,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -1489,10 +1491,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td><a>Solution Using </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_BitManipulation.java"><em>Bit Manipulation</em></a><a> or </a>
@@ -1507,9 +1509,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -1519,10 +1521,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_HashTable.java">Java</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_Sorting_TwoPointers.java"><em>Sorting & Two Pointers</em></a></td>
   </tr>
@@ -1534,8 +1536,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -1545,8 +1547,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram_HashSet.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram.java"><em>Without Hash Table</em></a></td>
   </tr>
@@ -1558,9 +1560,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#design">Design</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#design">Design</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -1572,8 +1574,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -1585,10 +1587,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td><a>Solution Using </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_Queue_Sorting.java"><em>Queue</em></a><a> or </a>
@@ -1602,11 +1604,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution Using </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/LongestPalindromeByConcatenatingTwoLetterWords_Counting.java"><em>Counting</em></a>
@@ -1620,9 +1622,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2351.%20First%20Letter%20to%20Appear%20Twice/FirstLetterToAppearTwice_Counting.java"><em>Counting</em></a></td>
   </tr>
@@ -1632,8 +1634,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2395.%20Find%20Subarrays%20With%20Equal%20Sum/FindSubarraysWithEqualSum.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -1644,9 +1646,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2399.%20Check%20Distances%20Between%20Same%20Letters/CheckDistancesBetweenSameLetters.java"><em>Without Hash Table</em></a></td>
   </tr>
@@ -1657,9 +1659,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2451.%20Odd%20String%20Difference/OddStringDifference.java"><em>Without Hash Table</em></a></td>
   </tr>
@@ -1670,15 +1672,15 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -1703,17 +1705,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#binary-search">Binary Search</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#binary-search">Binary Search</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sort.java"><em>Sorting</em></a></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -1736,9 +1738,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/12.%20Integer%20to%20Roman/IntegerToRoman.java">Java</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -1748,9 +1750,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_HashMap.java"><em>Hash Table</em></a></td>
   </tr>
@@ -1762,8 +1764,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1775,8 +1777,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#geometry">Geometry</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1788,7 +1790,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1800,10 +1802,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#dynamic-programming">Dynamic Programming</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -1815,8 +1817,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1828,9 +1830,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#simulation">Simulation</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -1842,10 +1844,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
@@ -1857,8 +1859,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#geometry">Geometry</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1870,9 +1872,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#geometry">Geometry</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1884,8 +1886,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#geometry">Geometry</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#geometry">Geometry</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1897,10 +1899,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -1911,8 +1913,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#brainteaser">Brainteaser</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#brainteaser">Brainteaser</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1924,8 +1926,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -1937,8 +1939,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#simulation">Simulation</a>
     </td>
     <td></td>
   </tr>
@@ -1950,8 +1952,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -1962,8 +1964,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td><a>Solution Using </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1323.%20Maximum%2069%20Number/Maximum69Number_String.java"><em>String</em></a>
@@ -1975,8 +1977,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1342.%20Numbers%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/NumberOfStepsToReduceANumberToZero_Math.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1342.%20Numbers%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/NumberOfStepsToReduceANumberToZero_BitManipulation.java"><em>Bit Manipulation</em></a></td>
   </tr>
@@ -1986,8 +1988,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1486.%20XOR%20Operation%20in%20an%20Array/XOROperationInAnArray.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1999,9 +2001,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#simulation">Simulation</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/ConcatenationOfConsecutiveBinaryNumbers_BitManipulation.java"><em>Bit Manipulation</em></a></td>
   </tr>
@@ -2011,9 +2013,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/FindGreatestCommonDivisorOfArray.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#number-theory">Number Theory</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#number-theory">Number Theory</a>
     </td>
     <td></td>
   </tr>
@@ -2025,8 +2027,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#simulation">Simulation</a>
     </td>
     <td></td>
   </tr>
@@ -2036,8 +2038,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2240.%20Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils/NumberOfWaysToBuyPensAndPencils.java">Java</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#enumeration">Enumeration</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a>
+    <a href="#enumeration">Enumeration</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -2047,8 +2049,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2413.%20Smallest%20Even%20Multiple/SmallestEvenMultiple.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#number-theory">Number Theory</a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#number-theory">Number Theory</a>
     </td>
     <td></td>
   </tr>
@@ -2061,15 +2063,15 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
   
 ---
 
@@ -2092,8 +2094,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#matrix">Matrix</a>
     </td>
     <td><a>Follow up: </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix_OneRowAtATime.java">One Row at a Time</a><a> and </a>
@@ -2109,8 +2111,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#matrix">Matrix</a>
     </td>
     <td></td>
   </tr>
@@ -2123,11 +2125,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#binary-search">Binary Search</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#binary-search">Binary Search</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -2139,14 +2141,14 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#matrix">Matrix</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -2169,9 +2171,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/FindGreatestCommonDivisorOfArray.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#number-theory">Number Theory</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#number-theory">Number Theory</a>
     </td>
     <td></td>
   </tr>
@@ -2181,14 +2183,14 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2413.%20Smallest%20Even%20Multiple/SmallestEvenMultiple.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#number-theory">Number Theory</a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#number-theory">Number Theory</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -2215,8 +2217,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
@@ -2228,10 +2230,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
@@ -2243,9 +2245,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
@@ -2257,8 +2259,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
@@ -2270,15 +2272,15 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#prefix-sum">Prefix Sum</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -2305,9 +2307,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#simulation">Simulation</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2319,8 +2321,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#simulation">Simulation</a>
     </td>
     <td></td>
   </tr>
@@ -2332,8 +2334,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#simulation">Simulation</a>
     </td>
     <td></td>
   </tr>
@@ -2346,9 +2348,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#simulation">Simulation</a>
     </td>
     <td></td>
   </tr>
@@ -2360,14 +2362,14 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#simulation">Simulation</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
   
 ---
 
@@ -2392,10 +2394,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2407,10 +2409,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td><a>Solution Using </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_BitManipulation.java"><em>Bit Manipulation</em></a><a> or </a>
@@ -2425,10 +2427,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -2440,10 +2442,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -2453,11 +2455,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sort.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#binary-search">Binary Search</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#matrix">Matrix</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#binary-search">Binary Search</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Heap.java"><em>Heap (Priority Queue)</em></a></td>
   </tr>
@@ -2467,10 +2469,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_Sorting_TwoPointers.java">Java</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_HashTable.java"><em>Hash Table</em></a></td>
   </tr>
@@ -2483,10 +2485,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td><a>Solution Using </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_Counting.java"><em>Counting Array</em></a>
@@ -2500,15 +2502,15 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Red}Hard}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -2531,8 +2533,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/RemoveAllAdjacentDuplicatesInString.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#stack">Stack</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#stack">Stack</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2542,14 +2544,14 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1544.%20Make%20The%20String%20Great/MakeTheStringGreat_Stack.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#stack">Stack</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#stack">Stack</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -2572,9 +2574,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/12.%20Integer%20to%20Roman/IntegerToRoman.java">Java</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2584,9 +2586,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_HashMap.java"><em>Hash Table</em></a></td>
   </tr>
@@ -2599,7 +2601,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2611,10 +2613,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2627,8 +2629,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    <a href="#string">String</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_TwoPointers.java"><em>Two Pointers</em></a></td>
   </tr>
@@ -2640,8 +2642,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    <a href="#string">String</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -2653,8 +2655,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    <a href="#string">String</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -2666,10 +2668,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#dynamic-programming">Dynamic Programming</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -2682,9 +2684,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2696,9 +2698,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#simulation">Simulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#simulation">Simulation</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2710,9 +2712,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2724,9 +2726,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2736,8 +2738,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/RemoveAllAdjacentDuplicatesInString.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#stack">Stack</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#stack">Stack</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2749,8 +2751,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2762,8 +2764,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2776,10 +2778,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#backtracking">Backtracking</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#bit-manipulation">Bit Manipulation</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2791,8 +2793,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2802,8 +2804,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1544.%20Make%20The%20String%20Great/MakeTheStringGreat_Stack.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#stack">Stack</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#stack">Stack</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2815,10 +2817,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#dynamic-programming">Dynamic Programming</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2828,7 +2830,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1592.%20Rearrange%20Spaces%20Between%20Words/RearrangeSpacesBetweenWords.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2838,8 +2840,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram_HashSet.java"><em>Hash Table</em></a></td>
   </tr>
@@ -2851,8 +2853,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2862,8 +2864,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2023.%20Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/NumberOfPairsOfStringsWithConcatenationEqualToTarget_HashTable.java">Java</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2876,11 +2878,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2892,7 +2894,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2905,9 +2907,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#counting">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2920,9 +2922,9 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2932,8 +2934,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2437.%20Number%20of%20Valid%20Clock%20Times/NumberOfValidClockTimes.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#enumeration">Enumeration</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#enumeration">Enumeration</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -2946,15 +2948,15 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#math">Math</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
@@ -2977,8 +2979,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_TwoPointers.java">Java</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    <a href="#string">String</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_Collections.java"><em>Collections</em></a></td>
   </tr>
@@ -2990,8 +2992,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    <a href="#string">String</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -3003,8 +3005,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#string">String</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    <a href="#string">String</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -3016,10 +3018,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#greedy">Greedy</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -3029,16 +3031,16 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_Sorting_TwoPointers.java">Java</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java#array">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#hash-table">Hash Table</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#sorting">Sorting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java#two-pointers">Two Pointers</a>
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_HashTable.java"><em>Hash Table</em></a></td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/cheehwatang/leetcode-java#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 
 ---
 
