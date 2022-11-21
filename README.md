@@ -23,7 +23,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 ---
 
-<h2 align='center'><b>Latest Solutions</b></h2>
+<h2 align='center' id="latest-solutions"><b>Latest Solutions</b></h2>
 
 </br>
 
@@ -721,7 +721,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Binary Search</h3></summary>
+<details><summary><h3 id="binary-search">Binary Search</h3></summary>
 
 <table>
   <tr>
@@ -757,7 +757,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Bit Manipulation</h3></summary>
+<details><summary><h3 id="bit-manipulation">Bit Manipulation</h3></summary>
 
 <table>
   <tr>
@@ -898,7 +898,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Brainteaser</h3></summary>
+<details><summary><h3 id="brainteaser">Brainteaser</h3></summary>
 
 <table>
   <tr>
@@ -929,7 +929,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Counting</h3></summary>
+<details><summary><h3 id="counting">Counting</h3></summary>
 
 <table>
   <tr>
@@ -1006,7 +1006,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Design</h3></summary>
+<details><summary><h3 id="design">Design</h3></summary>
 
 <table>
   <tr>
@@ -1039,7 +1039,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Dynamic Programming</h3></summary>
+<details><summary><h3 id="dynamic-programming">Dynamic Programming</h3></summary>
 
 <table>
   <tr>
@@ -1104,7 +1104,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Enumeration</h3></summary>
+<details><summary><h3 id="enumeration">Enumeration</h3></summary>
 
 <table>
   <tr>
@@ -1158,7 +1158,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Geometry</h3></summary>
+<details><summary><h3 id="geometry">Geometry</h3></summary>
 
 <table>
   <tr>
@@ -1230,7 +1230,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Greedy</h3></summary>
+<details><summary><h3 id="greedy">Greedy</h3></summary>
 
 <table>
   <tr>
@@ -1382,7 +1382,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Hash Table</h3></summary>
+<details><summary><h3 id="hash-table">Hash Table</h3></summary>
 
 <table>
   <tr>
@@ -1721,7 +1721,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Heap (Priority Queue)</h3></summary>
+<details><summary><h3 id="heap-priority-queue">Heap (Priority Queue)</h3></summary>
 
 <table>
   <tr>
@@ -1771,7 +1771,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Math</h3></summary>
+<details><summary><h3 id="math">Math</h3></summary>
 
 <table>
   <tr>
@@ -2143,7 +2143,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Matrix</h3></summary>
+<details><summary><h3 id="matrix">Matrix</h3></summary>
 
 <table>
   <tr>
@@ -2220,7 +2220,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Number Theory</h3></summary>
+<details><summary><h3 id="number-theory">Number Theory</h3></summary>
 
 <table>
   <tr>
@@ -2262,9 +2262,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-
-<summary><h3>Prefix Sum</h3></summary>
+<details><summary><h3 id="prefix-sum">Prefix Sum</h3></summary>
 
 <table>
   <tr>
@@ -2352,9 +2350,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details>
-
-<summary><h3>Simulation</h3></summary>
+<details><summary><h3 id="simulation">Simulation</h3></summary>
 
 <table>
   <tr>
@@ -2441,7 +2437,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Sorting</h3></summary>
+<details><summary><h3 id="sorting">Sorting</h3></summary>
 
 <table>
   <tr>
@@ -2582,7 +2578,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Stack</h3></summary>
+<details><summary><h3 id="stack">Stack</h3></summary>
 
 <table>
   <tr>
@@ -2623,7 +2619,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>String</h3></summary>
+<details><summary><h3 id="string">String</h3></summary>
 
 <table>
   <tr>
@@ -3028,7 +3024,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
-<details><summary><h3>Two Pointers</h3></summary>
+<details><summary><h3 id="two-pointers">Two Pointers</h3></summary>
 
 <table>
   <tr>
