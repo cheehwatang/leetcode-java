@@ -36,6 +36,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 21st</td>
+    <td>264. <a href="https://leetcode.com/problems/ugly-number-ii/">Ugly Number II</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/264.%20Ugly%20Number%20II/UglyNumberII_DynamicProgramming.java">Dynamic Programming</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/264.%20Ugly%20Number%20II/UglyNumberII_PriorityQueue.java">Heap (Priority Queue)</a>
+    </td>
+    <td align="center">
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 20th</td>
     <td>263. <a href="https://leetcode.com/problems/ugly-number/">Ugly Number</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -79,18 +94,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">
     <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 16th</td>
-    <td>2453. <a href="https://leetcode.com/problems/destroy-sequential-targets/">Destroy Sequential Targets</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2453.%20Destroy%20Sequential%20Targets/DestroySequentialTargets_HashTable.java">Hash Table & Counting</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#counting">Counting</a><a>, </a>
-    <a href="#hash-table">Hash Table</a>
     </td>
   </tr>
 </table>
@@ -1048,6 +1051,22 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">264</td>
+    <td><a href="https://leetcode.com/problems/ugly-number-ii/">Ugly Number II</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/264.%20Ugly%20Number%20II/UglyNumberII_DynamicProgramming.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#math">Math</a>
+    </td>
+    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/264.%20Ugly%20Number%20II/UglyNumberII_PriorityQueue.java"><em>Heap (Priority Queue)</em></a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">368</td>
     <td><a href="https://leetcode.com/problems/largest-divisible-subset/">Largest Divisible Subset</a></td>
     <td align="center">
@@ -1427,6 +1446,22 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
   <tr>
+    <td align="center">264</td>
+    <td><a href="https://leetcode.com/problems/ugly-number-ii/">Ugly Number II</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/264.%20Ugly%20Number%20II/UglyNumberII_DynamicProgramming.java">Dynamic Programming</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/264.%20Ugly%20Number%20II/UglyNumberII_PriorityQueue.java">Heap (Priority Queue)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">383</td>
     <td><a href="https://leetcode.com/problems/ransom-note/">Ransom Note</a></td>
     <td align="center">
@@ -1698,6 +1733,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">264</td>
+    <td><a href="https://leetcode.com/problems/ugly-number-ii/">Ugly Number II</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/264.%20Ugly%20Number%20II/UglyNumberII_PriorityQueue.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#math">Math</a>
+    </td>
+    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/264.%20Ugly%20Number%20II/UglyNumberII_DynamicProgramming.java"><em>Dynamic Programming</em></a></td>
+  </tr>
+  <tr>
     <td align="center">1337</td>
     <td><a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
     <td align="center">
@@ -1790,6 +1840,22 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
+    <a href="#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">264</td>
+    <td><a href="https://leetcode.com/problems/ugly-number-ii/">Ugly Number II</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/264.%20Ugly%20Number%20II/UglyNumberII_DynamicProgramming.java">Dynamic Programming</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/264.%20Ugly%20Number%20II/UglyNumberII_PriorityQueue.java">Heap (Priority Queue)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
     <a href="#math">Math</a>
     </td>
     <td></td>
