@@ -36,6 +36,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 24th</td>
+    <td>36. <a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/36.%20Valid%20Sudoku/ValidSudoku.java">Without</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/36.%20Valid%20Sudoku/ValidSudoku_HashTable.java">With Hash Table</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#matrix">Matrix</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 23rd</td>
     <td>2133. <a href="https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/">Check if Every Row and Column Contains All Numbers</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -86,18 +100,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/263.%20Ugly%20Number/UglyNumber.java">Math</a>
     </td>
     <td align="center">
-    <a href="#math">Math</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 19th</td>
-    <td>223. <a href="https://leetcode.com/problems/rectangle-area/">Rectangle Area</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/223.%20Rectangle%20Area/RectangleArea.java">Math</a>
-    </td>
-    <td align="center">
-    <a href="#geometry">Geometry</a><a>, </a>
     <a href="#math">Math</a>
     </td>
   </tr>
@@ -163,6 +165,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">36</td>
+    <td><a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a></td>
+    <td align="center"><a>Java </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/36.%20Valid%20Sudoku/ValidSudoku.java">without</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/36.%20Valid%20Sudoku/ValidSudoku_HashTable.java">with Hash Table</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#matrix">Matrix</a>
     </td>
     <td></td>
   </tr>
@@ -1466,6 +1483,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger.java"><em>Without Hash Table</em></a></td>
   </tr>
   <tr>
+    <td align="center">36</td>
+    <td><a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/36.%20Valid%20Sudoku/ValidSudoku_HashTable.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#matrix">Matrix</a>
+    </td>
+    <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/36.%20Valid%20Sudoku/ValidSudoku.java">without Hash Table</a></td>
+  </tr>
+  <tr>
     <td align="center">49</td>
     <td><a href="https://leetcode.com/problems/group-anagrams/">Group Anagrams</a></td>
     <td align="center">
@@ -2202,6 +2232,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">36</td>
+    <td><a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a></td>
+    <td align="center"><a>Java </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/36.%20Valid%20Sudoku/ValidSudoku.java">without</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/36.%20Valid%20Sudoku/ValidSudoku_HashTable.java">with Hash Table</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">766</td>
