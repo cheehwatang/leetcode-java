@@ -36,6 +36,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 25th</td>
+    <td>37. <a href="https://leetcode.com/problems/sudoku-solver/">Sudoku Solver</a></td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/37.%20Sudoku%20Solver/SudokuSolver.java">Backtracking</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">November 24th</td>
     <td>36. <a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -89,17 +103,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
     <a href="#hash-table">Hash Table</a><a>, </a>
     <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
-    <a href="#math">Math</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 20th</td>
-    <td>263. <a href="https://leetcode.com/problems/ugly-number/">Ugly Number</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/263.%20Ugly%20Number/UglyNumber.java">Math</a>
-    </td>
-    <td align="center">
     <a href="#math">Math</a>
     </td>
   </tr>
@@ -179,6 +182,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">37</td>
+    <td><a href="https://leetcode.com/problems/sudoku-solver/">Sudoku Solver</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/37.%20Sudoku%20Solver/SudokuSolver.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#backtracking">Backtracking</a><a>, </a>
     <a href="#matrix">Matrix</a>
     </td>
     <td></td>
@@ -749,6 +766,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">37</td>
+    <td><a href="https://leetcode.com/problems/sudoku-solver/">Sudoku Solver</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/37.%20Sudoku%20Solver/SudokuSolver.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1239</td>
@@ -1493,7 +1524,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#hash-table">Hash Table</a><a>, </a>
     <a href="#matrix">Matrix</a>
     </td>
-    <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/36.%20Valid%20Sudoku/ValidSudoku.java">without Hash Table</a></td>
+    <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/36.%20Valid%20Sudoku/ValidSudoku.java"><em>without Hash Table</em></a></td>
   </tr>
   <tr>
     <td align="center">49</td>
@@ -2244,6 +2275,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">37</td>
+    <td><a href="https://leetcode.com/problems/sudoku-solver/">Sudoku Solver</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/37.%20Sudoku%20Solver/SudokuSolver.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#backtracking">Backtracking</a><a>, </a>
     <a href="#matrix">Matrix</a>
     </td>
     <td></td>
