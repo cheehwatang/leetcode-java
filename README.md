@@ -36,6 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 27th</td>
+    <td>496. <a href="https://leetcode.com/problems/next-greater-element-i/">Next Greater Element I</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/496.%20Next%20Greater%20Element%20I/NextGreaterElementI_HashTable_MonotonicStack.java">Hash Table & Monotonic Stack</a></td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#stack">Stack</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 25th</td>
     <td>37. <a href="https://leetcode.com/problems/sudoku-solver/">Sudoku Solver</a></td>
     <td align="center">$\text{\color{Red}Hard}$</td>
@@ -77,35 +89,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#matrix">Matrix</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">November 22nd</td>
-    <td>977. <a href="https://leetcode.com/problems/squares-of-a-sorted-array/">Squares of a Sorted Array</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/977.%20Squares%20of%20a%20Sorted%20Array/SquaresOfASortedArray_Sorting.java">Sorting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/977.%20Squares%20of%20a%20Sorted%20Array/SquaresOfASortedArray_TwoPointers.java">Two Pointers</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#sorting">Sorting</a><a>, </a>
-    <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 21st</td>
-    <td>264. <a href="https://leetcode.com/problems/ugly-number-ii/">Ugly Number II</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/264.%20Ugly%20Number%20II/UglyNumberII_DynamicProgramming.java">Dynamic Programming</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/264.%20Ugly%20Number%20II/UglyNumberII_PriorityQueue.java">Heap (Priority Queue)</a>
-    </td>
-    <td align="center">
-    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
-    <a href="#hash-table">Hash Table</a><a>, </a>
-    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
-    <a href="#math">Math</a>
-    </td>
-  </tr>
 </table>
 
 </br>
@@ -132,6 +115,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   <li><a href="#heap-priority-queue">Heap (Priority Queue)</a>
   <li><a href="#math">Math</a>
   <li><a href="#matrix">Matrix</a>
+  <li><a href="#monotonic-stack">Monotonic Stack</a>
   <li><a href="#number-theory">Number Theory</a>
   <li><a href="#prefix-sum">Prefix Sum</a>
   <li><a href="#simulation">Simulation</a>
@@ -279,6 +263,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="#array">Array</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">496</td>
+    <td><a href="https://leetcode.com/problems/next-greater-element-i/">Next Greater Element I</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/496.%20Next%20Greater%20Element%20I/NextGreaterElementI_HashTable_MonotonicStack.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#stack">Stack</a>
     </td>
     <td></td>
   </tr>
@@ -1572,6 +1569,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/383.%20Ransom%20Note/RansomNote_Counting.java"><em>Counting Array</em></a></td>
   </tr>
   <tr>
+    <td align="center">496</td>
+    <td><a href="https://leetcode.com/problems/next-greater-element-i/">Next Greater Element I</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/496.%20Next%20Greater%20Element%20I/NextGreaterElementI_HashTable_MonotonicStack.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#stack">Stack</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">523</td>
     <td><a href="https://leetcode.com/problems/continuous-subarray-sum/">Continuous Subarray Sum</a></td>
     <td align="center">
@@ -2374,6 +2384,38 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
+<details><summary><h3 id="monotonic-stack">Monotonic Stack</h3></summary>
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">496</td>
+    <td><a href="https://leetcode.com/problems/next-greater-element-i/">Next Greater Element I</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/496.%20Next%20Greater%20Element%20I/NextGreaterElementI_HashTable_MonotonicStack.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#stack">Stack</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+
+---
+
+</details>
+
 <details><summary><h3 id="number-theory">Number Theory</h3></summary>
 
 <table>
@@ -2754,6 +2796,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">496</td>
+    <td><a href="https://leetcode.com/problems/next-greater-element-i/">Next Greater Element I</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/496.%20Next%20Greater%20Element%20I/NextGreaterElementI_HashTable_MonotonicStack.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#stack">Stack</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1047</td>
