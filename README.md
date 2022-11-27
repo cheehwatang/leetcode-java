@@ -48,6 +48,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
   </tr>
   <tr>
+    <td align="center">November 26th</td>
+    <td>27. <a href="https://leetcode.com/problems/remove-element/">Remove Element</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/27.%20Remove%20Element/RemoveElement.java">Two Pointers</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 25th</td>
     <td>37. <a href="https://leetcode.com/problems/sudoku-solver/">Sudoku Solver</a></td>
     <td align="center">$\text{\color{Red}Hard}$</td>
@@ -59,7 +71,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#backtracking">Backtracking</a><a>, </a>
     <a href="#matrix">Matrix</a>
     </td>
-    <td></td>
   </tr>
   <tr>
     <td align="center">November 24th</td>
@@ -152,6 +163,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">27</td>
+    <td><a href="https://leetcode.com/problems/remove-element/">Remove Element</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/27.%20Remove%20Element/RemoveElement.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -3255,6 +3279,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">27</td>
+    <td><a href="https://leetcode.com/problems/remove-element/">Remove Element</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/27.%20Remove%20Element/RemoveElement.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">151</td>
