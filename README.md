@@ -36,6 +36,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">November 28th</td>
+    <td>503. <a href="https://leetcode.com/problems/next-greater-element-ii/">Next Greater Element II</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/503.%20Next%20Greater%20Element%20II/NextGreaterElementII.java">Monotonic Stack</a></td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#stack">Stack</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 27th</td>
     <td>496. <a href="https://leetcode.com/problems/next-greater-element-i/">Next Greater Element I</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -79,20 +90,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/36.%20Valid%20Sudoku/ValidSudoku.java">Without</a><a> or </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/36.%20Valid%20Sudoku/ValidSudoku_HashTable.java">With Hash Table</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#hash-table">Hash Table</a><a>, </a>
-    <a href="#matrix">Matrix</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 23rd</td>
-    <td>2133. <a href="https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/">Check if Every Row and Column Contains All Numbers</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers/CheckIfEveryRowAndColumnContainsAllNumbers.java">Without</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers/CheckIfEveryRowAndColumnContainsAllNumbers_HashTable.java">With Hash Table</a>
     </td>
     <td align="center">
     <a href="#array">Array</a><a>, </a>
@@ -298,6 +295,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#stack">Stack</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">503</td>
+    <td><a href="https://leetcode.com/problems/next-greater-element-ii/">Next Greater Element II</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/503.%20Next%20Greater%20Element%20II/NextGreaterElementII.java">Java</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
     <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
     <a href="#stack">Stack</a>
     </td>
@@ -2432,6 +2441,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">503</td>
+    <td><a href="https://leetcode.com/problems/next-greater-element-ii/">Next Greater Element II</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/503.%20Next%20Greater%20Element%20II/NextGreaterElementII.java">Java</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#stack">Stack</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -2829,6 +2850,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#stack">Stack</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">503</td>
+    <td><a href="https://leetcode.com/problems/next-greater-element-ii/">Next Greater Element II</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/503.%20Next%20Greater%20Element%20II/NextGreaterElementII.java">Java</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
     <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
     <a href="#stack">Stack</a>
     </td>
