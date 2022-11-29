@@ -37,6 +37,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   </tr>
   <tr>
     <td align="center">November 28th</td>
+    <td>556. <a href="https://leetcode.com/problems/next-greater-element-iii/">Next Greater Element III</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/556.%20Next%20Greater%20Element%20III/NextGreaterElementIII.java">Two Pointers</a></td>
+    <td align="center">
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">November 28th</td>
     <td>503. <a href="https://leetcode.com/problems/next-greater-element-ii/">Next Greater Element II</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/503.%20Next%20Greater%20Element%20II/NextGreaterElementII.java">Monotonic Stack</a></td>
@@ -80,20 +91,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#backtracking">Backtracking</a><a>, </a>
-    <a href="#matrix">Matrix</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 24th</td>
-    <td>36. <a href="https://leetcode.com/problems/valid-sudoku/">Valid Sudoku</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/36.%20Valid%20Sudoku/ValidSudoku.java">Without</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/36.%20Valid%20Sudoku/ValidSudoku_HashTable.java">With Hash Table</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#hash-table">Hash Table</a><a>, </a>
     <a href="#matrix">Matrix</a>
     </td>
   </tr>
@@ -2071,6 +2068,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
   <tr>
+    <td align="center">556</td>
+    <td><a href="https://leetcode.com/problems/next-greater-element-iii/">Next Greater Element III</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/556.%20Next%20Greater%20Element%20III/NextGreaterElementIII.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">593</td>
     <td><a href="https://leetcode.com/problems/valid-square/">Valid Square</a></td>
     <td align="center">
@@ -3045,6 +3056,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
   <tr>
+    <td align="center">556</td>
+    <td><a href="https://leetcode.com/problems/next-greater-element-iii/">Next Greater Element III</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/556.%20Next%20Greater%20Element%20III/NextGreaterElementIII.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">609</td>
     <td><a href="https://leetcode.com/problems/find-duplicate-file-in-system/">Find Duplicate File in System</a></td>
     <td align="center">
@@ -3358,6 +3383,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
+    <a href="#string">String</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">556</td>
+    <td><a href="https://leetcode.com/problems/next-greater-element-iii/">Next Greater Element III</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/556.%20Next%20Greater%20Element%20III/NextGreaterElementIII.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#math">Math</a><a>, </a>
     <a href="#string">String</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
     </td>
