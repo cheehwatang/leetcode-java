@@ -36,7 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
-    <td align="center">November 28th</td>
+    <td align="center">November 30th</td>
+    <td>2454. <a href="https://leetcode.com/problems/next-greater-element-iv/">Next Greater Element IV</a></td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2454.%20Next%20Greater%20Element%20IV/NextGreaterElementIV_MonotonicStack.java">Monotonic Stack</a></td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#stack">Stack</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">November 29th</td>
     <td>556. <a href="https://leetcode.com/problems/next-greater-element-iii/">Next Greater Element III</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/556.%20Next%20Greater%20Element%20III/NextGreaterElementIII.java">Two Pointers</a></td>
@@ -79,19 +90,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 25th</td>
-    <td>37. <a href="https://leetcode.com/problems/sudoku-solver/">Sudoku Solver</a></td>
-    <td align="center">$\text{\color{Red}Hard}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/37.%20Sudoku%20Solver/SudokuSolver.java">Backtracking</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#backtracking">Backtracking</a><a>, </a>
-    <a href="#matrix">Matrix</a>
     </td>
   </tr>
 </table>
@@ -772,6 +770,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#array">Array</a><a>, </a>
     <a href="#counting">Counting</a><a>, </a>
     <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2454</td>
+    <td><a href="https://leetcode.com/problems/next-greater-element-iv/">Next Greater Element IV</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2454.%20Next%20Greater%20Element%20IV/NextGreaterElementIV_MonotonicStack.java">Java</a></td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#stack">Stack</a>
     </td>
     <td></td>
   </tr>
@@ -2464,6 +2474,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">2454</td>
+    <td><a href="https://leetcode.com/problems/next-greater-element-iv/">Next Greater Element IV</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2454.%20Next%20Greater%20Element%20IV/NextGreaterElementIV_MonotonicStack.java">Java</a></td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#stack">Stack</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -2897,6 +2919,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#stack">Stack</a><a>, </a>
     <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2454</td>
+    <td><a href="https://leetcode.com/problems/next-greater-element-iv/">Next Greater Element IV</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2454.%20Next%20Greater%20Element%20IV/NextGreaterElementIV_MonotonicStack.java">Java</a></td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#stack">Stack</a>
     </td>
     <td></td>
   </tr>
