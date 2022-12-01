@@ -36,6 +36,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 1st</td>
+    <td>1299. <a href="https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/">Replace Elements with Greatest Element on Right Side</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/ReplaceElementsWithGreatestElementOnRightSide.java">Array</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">November 30th</td>
     <td>2454. <a href="https://leetcode.com/problems/next-greater-element-iv/">Next Greater Element IV</a></td>
     <td align="center">$\text{\color{Red}Hard}$</td>
@@ -78,18 +89,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#hash-table">Hash Table</a><a>, </a>
     <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
     <a href="#stack">Stack</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 26th</td>
-    <td>27. <a href="https://leetcode.com/problems/remove-element/">Remove Element</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/27.%20Remove%20Element/RemoveElement.java">Two Pointers</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
@@ -502,6 +501,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td><a href="https://leetcode.com/problems/find-numbers-with-even-number-of-digits/">Find Numbers with Even Number of Digits</a></td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/FindNumbersWithEvenNumberOfDigits.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1299</td>
+    <td><a href="https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/">Replace Elements with Greatest Element on Right Side</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/ReplaceElementsWithGreatestElementOnRightSide.java">Java</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
