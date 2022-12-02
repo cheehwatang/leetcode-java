@@ -36,6 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 2nd</td>
+    <td>374. <a href="https://leetcode.com/problems/guess-number-higher-or-lower/">Guess Number Higher or Lower</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/374.%20Guess%20Number%20Higher%20or%20Lower/GuessNumberHigherOrLower_BinarySearch.java">Binary Search</a>
+    </td>
+    <td align="center">
+    <a href="#binary-search">Binary Search</a><a>, </a>
+    <a href="#interactive">Interactive</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 1st</td>
     <td>1299. <a href="https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/">Replace Elements with Greatest Element on Right Side</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -115,6 +127,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   <li><a href="#greedy">Greedy</a>
   <li><a href="#hash-table">Hash Table</a>
   <li><a href="#heap-priority-queue">Heap (Priority Queue)</a>
+  <li><a href="#interactive">Interactive</a>
   <li><a href="#math">Math</a>
   <li><a href="#matrix">Matrix</a>
   <li><a href="#monotonic-stack">Monotonic Stack</a>
@@ -862,6 +875,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">374</td>
+    <td><a href="https://leetcode.com/problems/guess-number-higher-or-lower/">Guess Number Higher or Lower</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/374.%20Guess%20Number%20Higher%20or%20Lower/GuessNumberHigherOrLower_BinarySearch.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#binary-search">Binary Search</a><a>, </a>
+    <a href="#interactive">Interactive</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1337</td>
@@ -1933,6 +1959,38 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#sorting">Sorting</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sort.java"><em>Sorting</em></a></td>
+  </tr>
+</table>
+
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+
+---
+
+</details>
+
+<details><summary><h3 id="interactive">Interactive</h3></summary>
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">374</td>
+    <td><a href="https://leetcode.com/problems/guess-number-higher-or-lower/">Guess Number Higher or Lower</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/374.%20Guess%20Number%20Higher%20or%20Lower/GuessNumberHigherOrLower_BinarySearch.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#binary-search">Binary Search</a><a>, </a>
+    <a href="#interactive">Interactive</a>
+    </td>
+    <td></td>
   </tr>
 </table>
 
