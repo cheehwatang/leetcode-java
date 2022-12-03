@@ -36,6 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 3rd</td>
+    <td><a href="https://leetcode.com/problems/words-within-two-edits-of-dictionary/">Words Within Two Edits of Dictionary</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/WordsWithinTwoEditsOfDictionary.java">String</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 2nd</td>
     <td>374. <a href="https://leetcode.com/problems/guess-number-higher-or-lower/">Guess Number Higher or Lower</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -78,29 +90,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#math">Math</a><a>, </a>
     <a href="#string">String</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 28th</td>
-    <td>503. <a href="https://leetcode.com/problems/next-greater-element-ii/">Next Greater Element II</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/503.%20Next%20Greater%20Element%20II/NextGreaterElementII.java">Monotonic Stack</a></td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
-    <a href="#stack">Stack</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 27th</td>
-    <td>496. <a href="https://leetcode.com/problems/next-greater-element-i/">Next Greater Element I</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/496.%20Next%20Greater%20Element%20I/NextGreaterElementI_HashTable_MonotonicStack.java">Hash Table & Monotonic Stack</a></td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#hash-table">Hash Table</a><a>, </a>
-    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
-    <a href="#stack">Stack</a>
     </td>
   </tr>
 </table>
@@ -781,6 +770,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#array">Array</a><a>, </a>
     <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
     <a href="#prefix-sum">Prefix Sum</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2452</td>
+    <td><a href="https://leetcode.com/problems/words-within-two-edits-of-dictionary/">Words Within Two Edits of Dictionary</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/WordsWithinTwoEditsOfDictionary.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -3418,6 +3420,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#hash-table">Hash Table</a><a>, </a>
     <a href="#math">Math</a><a>, </a>
+    <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2452</td>
+    <td><a href="https://leetcode.com/problems/words-within-two-edits-of-dictionary/">Words Within Two Edits of Dictionary</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/WordsWithinTwoEditsOfDictionary.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
     <a href="#string">String</a>
     </td>
     <td></td>
