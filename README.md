@@ -36,6 +36,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 5th</td>
+    <td>1497. <a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/">Check If Array Pairs Are Divisible by k</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/CheckIfArrayPairsAreDivisibleByK_Counting.java">Counting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/CheckIfArrayPairsAreDivisibleByK_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 4th</td>
     <td>974. <a href="https://leetcode.com/problems/subarray-sums-divisible-by-k/">Subarray Sums Divisible by K</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -82,28 +96,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">
     <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 30th</td>
-    <td>2454. <a href="https://leetcode.com/problems/next-greater-element-iv/">Next Greater Element IV</a></td>
-    <td align="center">$\text{\color{Red}Hard}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2454.%20Next%20Greater%20Element%20IV/NextGreaterElementIV_MonotonicStack.java">Monotonic Stack</a></td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
-    <a href="#stack">Stack</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">November 29th</td>
-    <td>556. <a href="https://leetcode.com/problems/next-greater-element-iii/">Next Greater Element III</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/556.%20Next%20Greater%20Element%20III/NextGreaterElementIII.java">Two Pointers</a></td>
-    <td align="center">
-    <a href="#math">Math</a><a>, </a>
-    <a href="#string">String</a><a>, </a>
-    <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
@@ -578,6 +570,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#prefix-sum">Prefix Sum</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1497</td>
+    <td><a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/">Check If Array Pairs Are Divisible by k</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/CheckIfArrayPairsAreDivisibleByK_Counting.java">Counting</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/CheckIfArrayPairsAreDivisibleByK_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -1141,6 +1148,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/383.%20Ransom%20Note/RansomNote_HashTable.java"><em>Hash Table</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">1497</td>
+    <td><a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/">Check If Array Pairs Are Divisible by k</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/CheckIfArrayPairsAreDivisibleByK_Counting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
+    </td>
+    <td><a>Solution Using </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/CheckIfArrayPairsAreDivisibleByK_HashTable.java"><em>Hash Table</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">2131</td>
@@ -1777,6 +1799,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/974.%20Subarray%20Sums%20Divisible%20by%20K/SubarraySumsDivisibleByK_Counting.java"><em>Counting</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">1497</td>
+    <td><a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/">Check If Array Pairs Are Divisible by k</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/CheckIfArrayPairsAreDivisibleByK_HashTable.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#counting">Counting</a><a>, </a>
+    <a href="#hash-table">Hash Table</a>
+    </td>
+    <td><a>Solution Using </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/CheckIfArrayPairsAreDivisibleByK_Counting.java"><em>Counting</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">1679</td>
