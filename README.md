@@ -36,6 +36,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 6th</td>
+    <td>1037. <a href="https://leetcode.com/problems/valid-boomerang/">Valid Boomerang</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1037.%20Valid%20Boomerang/ValidBoomerang.java">Math</a></td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#geometry">Geometry</a><a>, </a>
+    <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 5th</td>
     <td>1497. <a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/">Check If Array Pairs Are Divisible by k</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -85,17 +96,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#binary-search">Binary Search</a><a>, </a>
     <a href="#interactive">Interactive</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 1st</td>
-    <td>1299. <a href="https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/">Replace Elements with Greatest Element on Right Side</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side/ReplaceElementsWithGreatestElementOnRightSide.java">Array</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a>
     </td>
   </tr>
 </table>
@@ -500,6 +500,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1037</td>
+    <td><a href="https://leetcode.com/problems/valid-boomerang/">Valid Boomerang</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1037.%20Valid%20Boomerang/ValidBoomerang.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#geometry">Geometry</a><a>, </a>
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -1432,6 +1446,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">1037</td>
+    <td><a href="https://leetcode.com/problems/valid-boomerang/">Valid Boomerang</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1037.%20Valid%20Boomerang/ValidBoomerang.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#geometry">Geometry</a><a>, </a>
+    <a href="#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -2305,6 +2333,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
     <a href="#brainteaser">Brainteaser</a><a>, </a>
+    <a href="#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1037</td>
+    <td><a href="https://leetcode.com/problems/valid-boomerang/">Valid Boomerang</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1037.%20Valid%20Boomerang/ValidBoomerang.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#geometry">Geometry</a><a>, </a>
     <a href="#math">Math</a>
     </td>
     <td></td>
