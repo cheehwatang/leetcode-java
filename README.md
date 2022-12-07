@@ -36,6 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 7th</td>
+    <td>1089. <a href="https://leetcode.com/problems/duplicate-zeros/">Duplicate Zeros</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1089.%20Duplicate%20Zeros/DuplicateZeros.java">Without</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1089.%20Duplicate%20Zeros/DuplicateZeros_TwoPointers.java">With Two Pointers</a></td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 6th</td>
     <td>1037. <a href="https://leetcode.com/problems/valid-boomerang/">Valid Boomerang</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -84,18 +96,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 2nd</td>
-    <td>374. <a href="https://leetcode.com/problems/guess-number-higher-or-lower/">Guess Number Higher or Lower</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/374.%20Guess%20Number%20Higher%20or%20Lower/GuessNumberHigherOrLower_BinarySearch.java">Binary Search</a>
-    </td>
-    <td align="center">
-    <a href="#binary-search">Binary Search</a><a>, </a>
-    <a href="#interactive">Interactive</a>
     </td>
   </tr>
 </table>
@@ -514,6 +514,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#array">Array</a><a>, </a>
     <a href="#geometry">Geometry</a><a>, </a>
     <a href="#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1089</td>
+    <td><a href="https://leetcode.com/problems/duplicate-zeros/">Duplicate Zeros</a></td>
+    <td align="center"><a>Java </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1089.%20Duplicate%20Zeros/DuplicateZeros.java">without</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1089.%20Duplicate%20Zeros/DuplicateZeros_TwoPointers.java">with Two Pointers</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -3683,6 +3696,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#two-pointers">Two Pointers</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/977.%20Squares%20of%20a%20Sorted%20Array/SquaresOfASortedArray_Sorting.java"><em>Sorting</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">1089</td>
+    <td><a href="https://leetcode.com/problems/duplicate-zeros/">Duplicate Zeros</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1089.%20Duplicate%20Zeros/DuplicateZeros_TwoPointers.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td><a>Solution </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1089.%20Duplicate%20Zeros/DuplicateZeros.java"><em>Without Two Pointers</em></a></td>
   </tr>
   <tr>
     <td align="center">1679</td>
