@@ -36,6 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 8th</td>
+    <td>283. <a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/283.%20Move%20Zeroes/MoveZeroes.java">Two Pointers</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 7th</td>
     <td>1089. <a href="https://leetcode.com/problems/duplicate-zeros/">Duplicate Zeros</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -84,18 +96,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#array">Array</a><a>, </a>
     <a href="#hash-table">Hash Table</a><a>, </a>
     <a href="#prefix-sum">Prefix Sum</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 3rd</td>
-    <td>2452. <a href="https://leetcode.com/problems/words-within-two-edits-of-dictionary/">Words Within Two Edits of Dictionary</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2452.%20Words%20Within%20Two%20Edits%20of%20Dictionary/WordsWithinTwoEditsOfDictionary.java">String</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#string">String</a>
     </td>
   </tr>
 </table>
@@ -232,6 +232,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#prefix-sum">Prefix Sum</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">283</td>
+    <td><a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/283.%20Move%20Zeroes/MoveZeroes.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -3629,6 +3642,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#two-pointers">Two Pointers</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_Collections.java"><em>Collections</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">283</td>
+    <td><a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/283.%20Move%20Zeroes/MoveZeroes.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">344</td>
