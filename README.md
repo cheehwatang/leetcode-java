@@ -36,6 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 9th</td>
+    <td>19. <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Remove Nth Node From End of List</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center"><a>Two Pointers on </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_Collections.java">One Pass</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_TwoPointers.java">Two Passes</a></td>
+    <td align="center">
+    <a href="#linked-list">Linked List</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 8th</td>
     <td>283. <a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -84,20 +96,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#hash-table">Hash Table</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">December 4th</td>
-    <td>974. <a href="https://leetcode.com/problems/subarray-sums-divisible-by-k/">Subarray Sums Divisible by K</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/974.%20Subarray%20Sums%20Divisible%20by%20K/SubarraySumsDivisibleByK_Counting.java">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/974.%20Subarray%20Sums%20Divisible%20by%20K/SubarraySumsDivisibleByK_HashTable.java">Hash Table</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#hash-table">Hash Table</a><a>, </a>
-    <a href="#prefix-sum">Prefix Sum</a>
-    </td>
-  </tr>
 </table>
 
 </br>
@@ -123,6 +121,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   <li><a href="#hash-table">Hash Table</a>
   <li><a href="#heap-priority-queue">Heap (Priority Queue)</a>
   <li><a href="#interactive">Interactive</a>
+  <li><a href="#linked-list">Linked List</a>
   <li><a href="#math">Math</a>
   <li><a href="#matrix">Matrix</a>
   <li><a href="#monotonic-stack">Monotonic Stack</a>
@@ -2136,6 +2135,38 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
+<details><summary><h3 id="linked-list">Linked List</h3></summary>
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">19</td>
+    <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Remove Nth Node From End of List</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_Collections.java">One Pass</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_TwoPointers.java">Two Passes</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#linked-list">Linked List</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+
+---
+
+</details>
+
 <details><summary><h3 id="math">Math</h3></summary>
 
 <table>
@@ -3618,6 +3649,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">19</td>
+    <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Remove Nth Node From End of List</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_Collections.java">One Pass</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_TwoPointers.java">Two Passes</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#linked-list">Linked List</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">27</td>
