@@ -36,6 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 10th</td>
+    <td>707. <a href="https://leetcode.com/problems/design-linked-list/">Design Linked List</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/707.%20Design%20Linked%20List/SinglyLinkedList.java">Singly Linked List</a>
+    </td>
+    <td align="center">
+    <a href="#design">Design</a><a>, </a>
+    <a href="#linked-list">Linked List</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 9th</td>
     <td>19. <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Remove Nth Node From End of List</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -80,20 +92,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#array">Array</a><a>, </a>
     <a href="#geometry">Geometry</a><a>, </a>
     <a href="#math">Math</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 5th</td>
-    <td>1497. <a href="https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/">Check If Array Pairs Are Divisible by k</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/CheckIfArrayPairsAreDivisibleByK_Counting.java">Counting</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k/CheckIfArrayPairsAreDivisibleByK_HashTable.java">Hash Table</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#counting">Counting</a><a>, </a>
-    <a href="#hash-table">Hash Table</a>
     </td>
   </tr>
 </table>
@@ -1267,6 +1265,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">707</td>
+    <td><a href="https://leetcode.com/problems/design-linked-list/">Design Linked List</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/707.%20Design%20Linked%20List/SinglyLinkedList.java">Singly Linked List</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#design">Design</a><a>, </a>
+    <a href="#linked-list">Linked List</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1865</td>
     <td><a href="https://leetcode.com/problems/finding-pairs-with-a-certain-sum/">Finding Pairs With a Certain Sum</a></td>
     <td align="center">
@@ -2156,6 +2167,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#linked-list">Linked List</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">707</td>
+    <td><a href="https://leetcode.com/problems/design-linked-list/">Design Linked List</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/707.%20Design%20Linked%20List/SinglyLinkedList.java">Singly Linked List</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#design">Design</a><a>, </a>
+    <a href="#linked-list">Linked List</a>
     </td>
     <td></td>
   </tr>
