@@ -35,6 +35,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Solution</th>
     <th>Topics</th>
   </tr>
+    <tr>
+    <td align="center">December 11th</td>
+    <td>707. <a href="https://leetcode.com/problems/design-linked-list/">Design Linked List</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/707.%20Design%20Linked%20List/DoublyLinkedList.java">Doubly Linked List</a>
+    </td>
+    <td align="center">
+    <a href="#design">Design</a><a>, </a>
+    <a href="#linked-list">Linked List</a>
+    </td>
+  </tr>
   <tr>
     <td align="center">December 10th</td>
     <td>707. <a href="https://leetcode.com/problems/design-linked-list/">Design Linked List</a></td>
@@ -81,17 +93,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 6th</td>
-    <td>1037. <a href="https://leetcode.com/problems/valid-boomerang/">Valid Boomerang</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1037.%20Valid%20Boomerang/ValidBoomerang.java">Math</a></td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#geometry">Geometry</a><a>, </a>
-    <a href="#math">Math</a>
     </td>
   </tr>
 </table>
@@ -1268,7 +1269,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">707</td>
     <td><a href="https://leetcode.com/problems/design-linked-list/">Design Linked List</a></td>
     <td align="center"><a>Java with </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/707.%20Design%20Linked%20List/SinglyLinkedList.java">Singly Linked List</a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/707.%20Design%20Linked%20List/SinglyLinkedList.java">Singly Linked List</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/707.%20Design%20Linked%20List/DoublyLinkedList.java">Doubly Linked List</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
@@ -2174,7 +2176,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">707</td>
     <td><a href="https://leetcode.com/problems/design-linked-list/">Design Linked List</a></td>
     <td align="center"><a>Java with </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/707.%20Design%20Linked%20List/SinglyLinkedList.java">Singly Linked List</a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/707.%20Design%20Linked%20List/SinglyLinkedList.java">Singly Linked List</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/707.%20Design%20Linked%20List/DoublyLinkedList.java">Doubly Linked List</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
