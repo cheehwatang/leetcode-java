@@ -35,7 +35,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Solution</th>
     <th>Topics</th>
   </tr>
-    <tr>
+  <tr>
+    <td align="center">December 12th</td>
+    <td>876. <a href="https://leetcode.com/problems/middle-of-the-linked-list/">Middle of the Linked List</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/876.%20Middle%20of%20the%20Linked%20List/MiddleOfTheLinkedList.java">Two Pointers</a>
+    </td>
+    <td align="center">
+    <a href="#linked-list">Linked List</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 11th</td>
     <td>707. <a href="https://leetcode.com/problems/design-linked-list/">Design Linked List</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -78,18 +90,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/283.%20Move%20Zeroes/MoveZeroes.java">Two Pointers</a>
     </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 7th</td>
-    <td>1089. <a href="https://leetcode.com/problems/duplicate-zeros/">Duplicate Zeros</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1089.%20Duplicate%20Zeros/DuplicateZeros.java">Without</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1089.%20Duplicate%20Zeros/DuplicateZeros_TwoPointers.java">With Two Pointers</a></td>
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
@@ -2186,6 +2186,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">876</td>
+    <td><a href="https://leetcode.com/problems/middle-of-the-linked-list/">Middle of the Linked List</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/876.%20Middle%20of%20the%20Linked%20List/MiddleOfTheLinkedList.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#linked-list">Linked List</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -3763,6 +3776,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#math">Math</a><a>, </a>
     <a href="#string">String</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">876</td>
+    <td><a href="https://leetcode.com/problems/middle-of-the-linked-list/">Middle of the Linked List</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/876.%20Middle%20of%20the%20Linked%20List/MiddleOfTheLinkedList.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#linked-list">Linked List</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
