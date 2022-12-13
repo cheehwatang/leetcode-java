@@ -36,6 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 13th</td>
+    <td>2095. <a href="https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/">Delete the Middle Node of a Linked List</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/DeleteTheMiddleNodeOfALinkedList.java">Two Pointers</a>
+    </td>
+    <td align="center">
+    <a href="#linked-list">Linked List</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 12th</td>
     <td>876. <a href="https://leetcode.com/problems/middle-of-the-linked-list/">Middle of the Linked List</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -80,18 +92,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_TwoPointers.java">Two Passes</a></td>
     <td align="center">
     <a href="#linked-list">Linked List</a><a>, </a>
-    <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 8th</td>
-    <td>283. <a href="https://leetcode.com/problems/move-zeroes/">Move Zeroes</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/283.%20Move%20Zeroes/MoveZeroes.java">Two Pointers</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
@@ -2199,6 +2199,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">2095</td>
+    <td><a href="https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/">Delete the Middle Node of a Linked List</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/DeleteTheMiddleNodeOfALinkedList.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#linked-list">Linked List</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -3843,6 +3856,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#two-pointers">Two Pointers</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_HashTable.java"><em>Hash Table</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">2095</td>
+    <td><a href="https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/">Delete the Middle Node of a Linked List</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/DeleteTheMiddleNodeOfALinkedList.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#linked-list">Linked List</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
   </tr>
 </table>
 
