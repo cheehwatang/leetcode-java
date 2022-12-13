@@ -46,7 +46,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#linked-list">Linked List</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
     </td>
-    <td></td>
   </tr>
   <tr>
     <td align="center">December 12th</td>
