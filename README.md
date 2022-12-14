@@ -36,6 +36,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 14th</td>
+    <td>70. <a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center"><a>Dynamic Programming - </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/70.%20Climbing%20Stairs/ClimbingStairs_Iterative.java">Tabulation</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/70.%20Climbing%20Stairs/ClimbingStairs_Recursive.java">Memoization</a>
+    </td>
+    <td align="center">
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#memoization">Memoization</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 13th</td>
     <td>2095. <a href="https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/">Delete the Middle Node of a Linked List</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -83,18 +97,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#linked-list">Linked List</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">December 9th</td>
-    <td>19. <a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Remove Nth Node From End of List</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center"><a>Two Pointers on </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_Collections.java">One Pass</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_TwoPointers.java">Two Passes</a></td>
-    <td align="center">
-    <a href="#linked-list">Linked List</a><a>, </a>
-    <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
 </table>
 
 </br>
@@ -123,6 +125,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   <li><a href="#linked-list">Linked List</a>
   <li><a href="#math">Math</a>
   <li><a href="#matrix">Matrix</a>
+  <li><a href="#memoization">Memoization</a>
   <li><a href="#monotonic-stack">Monotonic Stack</a>
   <li><a href="#number-theory">Number Theory</a>
   <li><a href="#prefix-sum">Prefix Sum</a>
@@ -1313,6 +1316,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">70</td>
+    <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</a></td>
+    <td align="center"><a>Java with Dynamic Programming - </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/70.%20Climbing%20Stairs/ClimbingStairs_Iterative.java">Tabulation</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/70.%20Climbing%20Stairs/ClimbingStairs_Recursive.java">Memoization</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#memoization">Memoization</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">264</td>
     <td><a href="https://leetcode.com/problems/ugly-number-ii/">Ugly Number II</a></td>
     <td align="center">
@@ -2269,6 +2287,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
   <tr>
+    <td align="center">70</td>
+    <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</a></td>
+    <td align="center"><a>Java with Dynamic Programming - </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/70.%20Climbing%20Stairs/ClimbingStairs_Iterative.java">Tabulation</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/70.%20Climbing%20Stairs/ClimbingStairs_Recursive.java">Memoization</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#memoization">Memoization</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">223</td>
     <td><a href="https://leetcode.com/problems/rectangle-area/">Rectangle Area</a></td>
     <td align="center">
@@ -2730,6 +2763,40 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#array">Array</a><a>, </a>
     <a href="#hash-table">Hash Table</a><a>, </a>
     <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+
+---
+
+</details>
+
+<details><summary><h3 id="memoization">Memoization</h3></summary>
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">70</td>
+    <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</a></td>
+    <td align="center"><a>Java with Dynamic Programming - </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/70.%20Climbing%20Stairs/ClimbingStairs_Iterative.java">Tabulation</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/70.%20Climbing%20Stairs/ClimbingStairs_Recursive.java">Memoization</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
+    <a href="#math">Math</a><a>, </a>
+    <a href="#memoization">Memoization</a>
     </td>
     <td></td>
   </tr>
