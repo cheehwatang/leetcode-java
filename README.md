@@ -36,6 +36,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 16th</td>
+    <td>967. <a href="https://leetcode.com/problems/numbers-with-same-consecutive-differences/">Numbers With Same Consecutive Differences</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_Backtracking.java">Backtracking</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_BFS.java">Breadth-First Search</a>
+    </td>
+    <td align="center">
+    <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#breadth-first-search">Breadth-First Search</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 15th</td>
     <td>509. <a href="https://leetcode.com/problems/fibonacci-number/">Fibonacci Number</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -88,18 +101,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">December 11th</td>
-    <td>707. <a href="https://leetcode.com/problems/design-linked-list/">Design Linked List</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/707.%20Design%20Linked%20List/DoublyLinkedList.java">Doubly Linked List</a>
-    </td>
-    <td align="center">
-    <a href="#design">Design</a><a>, </a>
-    <a href="#linked-list">Linked List</a>
-    </td>
-  </tr>
 </table>
 
 </br>
@@ -116,6 +117,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   <li><a href="#binary-search">Binary Search</a>
   <li><a href="#bit-manipulation">Bit Manipulation</a>
   <li><a href="#brainteaser">Brainteaser</a>
+  <li><a href="#breadth-first-search">Breadth-First Search</a>
   <li><a href="#counting">Counting</a>
   <li><a href="#design">Design</a>
   <li><a href="#dynamic-programming">Dynamic Programming</a>
@@ -926,6 +928,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
   <tr>
+    <td align="center">967</td>
+    <td><a href="https://leetcode.com/problems/numbers-with-same-consecutive-differences/">Numbers With Same Consecutive Differences</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_Backtracking.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#breadth-first-search">Breadth-First Search</a>
+    </td>
+    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_BFS.java"><em>Breadth-First Search</em></a></td>
+  </tr>
+  <tr>
     <td align="center">1239</td>
     <td><a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/">Maximum Length of a Concatenated String with Unique Characters</a></td>
     <td align="center">
@@ -1160,6 +1175,38 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#math">Math</a>
     </td>
     <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+
+---
+
+</details>
+
+<details><summary><h3 id="breadth-first-search">Breadth-First Search</h3></summary>
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">967</td>
+    <td><a href="https://leetcode.com/problems/numbers-with-same-consecutive-differences/">Numbers With Same Consecutive Differences</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_BFS.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#breadth-first-search">Breadth-First Search</a>
+    </td>
+    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_Backtracking.java"><em>Backtracking</em></a></td>
   </tr>
 </table>
 
