@@ -36,6 +36,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 17th</td>
+    <td>295. <a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</a></td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/295.%20Find%20Median%20from%20Data%20Stream/MedianFinder_PriorityQueue.java">Heap (Priority Queue)</a>
+    </td>
+    <td align="center">
+    <a href="#data-stream">Data Stream</a><a>, </a>
+    <a href="#design">Design</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 16th</td>
     <td>967. <a href="https://leetcode.com/problems/numbers-with-same-consecutive-differences/">Numbers With Same Consecutive Differences</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -89,18 +104,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">December 12th</td>
-    <td>876. <a href="https://leetcode.com/problems/middle-of-the-linked-list/">Middle of the Linked List</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/876.%20Middle%20of%20the%20Linked%20List/MiddleOfTheLinkedList.java">Two Pointers</a>
-    </td>
-    <td align="center">
-    <a href="#linked-list">Linked List</a><a>, </a>
-    <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
 </table>
 
 </br>
@@ -119,6 +122,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   <li><a href="#brainteaser">Brainteaser</a>
   <li><a href="#breadth-first-search">Breadth-First Search</a>
   <li><a href="#counting">Counting</a>
+  <li><a href="#data-stream">Data Stream</a>
   <li><a href="#design">Design</a>
   <li><a href="#dynamic-programming">Dynamic Programming</a>
   <li><a href="#enumeration">Enumeration</a>
@@ -1308,6 +1312,41 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 </details>
 
+<details><summary><h3 id="data-stream">Data Stream</h3></summary>
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">295</td>
+    <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/295.%20Find%20Median%20from%20Data%20Stream/MedianFinder_PriorityQueue.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="#data-stream">Data Stream</a><a>, </a>
+    <a href="#design">Design</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+
+---
+
+</details>
+
 <details><summary><h3 id="design">Design</h3></summary>
 
 <table>
@@ -1318,6 +1357,22 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">295</td>
+    <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/295.%20Find%20Median%20from%20Data%20Stream/MedianFinder_PriorityQueue.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="#data-stream">Data Stream</a><a>, </a>
+    <a href="#design">Design</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">707</td>
@@ -2176,6 +2231,22 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#math">Math</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/264.%20Ugly%20Number%20II/UglyNumberII_DynamicProgramming.java"><em>Dynamic Programming</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">295</td>
+    <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/295.%20Find%20Median%20from%20Data%20Stream/MedianFinder_PriorityQueue.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="#data-stream">Data Stream</a><a>, </a>
+    <a href="#design">Design</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1337</td>
@@ -3257,6 +3328,22 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
   <tr>
+    <td align="center">295</td>
+    <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/295.%20Find%20Median%20from%20Data%20Stream/MedianFinder_PriorityQueue.java">Heap (Priority Queue)</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="#data-stream">Data Stream</a><a>, </a>
+    <a href="#design">Design</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td>Use of Sorting & Two Pointers resulted in TLE (Time Limit Exceed) for large datasets.</td>
+  </tr>
+  <tr>
     <td align="center">645</td>
     <td><a href="https://leetcode.com/problems/set-mismatch/">Set Mismatch</a></td>
     <td align="center">
@@ -3953,6 +4040,22 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">295</td>
+    <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/295.%20Find%20Median%20from%20Data%20Stream/MedianFinder_PriorityQueue.java">Heap (Priority Queue)</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="#data-stream">Data Stream</a><a>, </a>
+    <a href="#design">Design</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td>Use of Sorting & Two Pointers resulted in TLE (Time Limit Exceed) for large datasets.</td>
   </tr>
   <tr>
     <td align="center">344</td>
