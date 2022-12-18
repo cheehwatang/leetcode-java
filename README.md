@@ -36,6 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 18th</td>
+    <td>26. <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Remove Duplicates from Sorted Array</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array/RemoveDuplicatesFromSortedArray.java">Two Pointers</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 17th</td>
     <td>295. <a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</a></td>
     <td align="center">$\text{\color{Red}Hard}$</td>
@@ -90,18 +102,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
     <a href="#math">Math</a><a>, </a>
     <a href="#memoization">Memoization</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 13th</td>
-    <td>2095. <a href="https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/">Delete the Middle Node of a Linked List</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/DeleteTheMiddleNodeOfALinkedList.java">Two Pointers</a>
-    </td>
-    <td align="center">
-    <a href="#linked-list">Linked List</a><a>, </a>
-    <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
@@ -173,6 +173,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">26</td>
+    <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Remove Duplicates from Sorted Array</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array/RemoveDuplicatesFromSortedArray.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -4000,6 +4013,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
     <a href="#linked-list">Linked List</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">26</td>
+    <td><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">Remove Duplicates from Sorted Array</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array/RemoveDuplicatesFromSortedArray.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
