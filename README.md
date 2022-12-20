@@ -36,10 +36,23 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 20th</td>
+    <td>746. <a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min Cost Climbing Stairs</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center"><a>Java with Dynamic Programming - </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/746.%20Min%20Cost%20Climbing%20Stairs/MinCostClimbingStairs_Iterative.java">Tabulation</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/746.%20Min%20Cost%20Climbing%20Stairs/MinCostClimbingStairs_Recursive.java">Memoization</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#dynamic-programming">Dynamic Programming</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 19th</td>
     <td>80. <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/">Remove Duplicates from Sorted Array II</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/RemoveDuplicatesFromSortedArrayII.java">Java</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/RemoveDuplicatesFromSortedArrayII.java">Two Pointers</a></td>
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
@@ -83,21 +96,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#backtracking">Backtracking</a><a>, </a>
     <a href="#breadth-first-search">Breadth-First Search</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 15th</td>
-    <td>509. <a href="https://leetcode.com/problems/fibonacci-number/">Fibonacci Number</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center"><a>Dynamic Programming - </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/509.%20Fibonacci%20Number/FibonacciNumber_Iterative.java">Tabulation</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/509.%20Fibonacci%20Number/FibonacciNumber_Recursive.java">Memoization</a>
-    </td>
-    <td align="center">
-    <a href="#dynamic-programming">Dynamic Programming</a><a>, </a>
-    <a href="#math">Math</a><a>, </a>
-    <a href="#memoization">Memoization</a><a>, </a>
-    <a href="#recursion">Recursion</a>
     </td>
   </tr>
 </table>
@@ -415,6 +413,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
     <a href="#hash-table">Hash Table</a><a>, </a>
     <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">746</td>
+    <td><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min Cost Climbing Stairs</a></td>
+    <td align="center"><a>Java with Dynamic Programming - </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/746.%20Min%20Cost%20Climbing%20Stairs/MinCostClimbingStairs_Iterative.java">Tabulation</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/746.%20Min%20Cost%20Climbing%20Stairs/MinCostClimbingStairs_Recursive.java">Memoization</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#dynamic-programming">Dynamic Programming</a>
     </td>
     <td></td>
   </tr>
@@ -1500,6 +1512,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#math">Math</a><a>, </a>
     <a href="#memoization">Memoization</a><a>, </a>
     <a href="#recursion">Recursion</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">746</td>
+    <td><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min Cost Climbing Stairs</a></td>
+    <td align="center"><a>Java with Dynamic Programming - </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/746.%20Min%20Cost%20Climbing%20Stairs/MinCostClimbingStairs_Iterative.java">Tabulation</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/746.%20Min%20Cost%20Climbing%20Stairs/MinCostClimbingStairs_Recursive.java">Memoization</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#dynamic-programming">Dynamic Programming</a>
     </td>
     <td></td>
   </tr>
