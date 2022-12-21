@@ -36,6 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 21st</td>
+    <td>1971. <a href="https://leetcode.com/problems/find-if-path-exists-in-graph/">Find if Path Exists in Graph</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_BFS.java">Breadth-First Search</a>
+    </td>
+    <td align="center">
+    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
+    <a href="#graph">Graph</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 20th</td>
     <td>746. <a href="https://leetcode.com/problems/min-cost-climbing-stairs/">Min Cost Climbing Stairs</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -85,19 +97,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">December 16th</td>
-    <td>967. <a href="https://leetcode.com/problems/numbers-with-same-consecutive-differences/">Numbers With Same Consecutive Differences</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_Backtracking.java">Backtracking</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_BFS.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#backtracking">Backtracking</a><a>, </a>
-    <a href="#breadth-first-search">Breadth-First Search</a>
-    </td>
-  </tr>
 </table>
 
 </br>
@@ -121,6 +120,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   <li><a href="#dynamic-programming">Dynamic Programming</a>
   <li><a href="#enumeration">Enumeration</a>
   <li><a href="#geometry">Geometry</a>
+  <li><a href="#graph">Graph</a>
   <li><a href="#greedy">Greedy</a>
   <li><a href="#hash-table">Hash Table</a>
   <li><a href="#heap-priority-queue">Heap (Priority Queue)</a>
@@ -1244,6 +1244,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_Backtracking.java"><em>Backtracking</em></a></td>
   </tr>
+  <tr>
+    <td align="center">1971</td>
+    <td><a href="https://leetcode.com/problems/find-if-path-exists-in-graph/">Find if Path Exists in Graph</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_BFS.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
+    <a href="#graph">Graph</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -1681,6 +1694,38 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#array">Array</a><a>, </a>
     <a href="#geometry">Geometry</a><a>, </a>
     <a href="#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+
+---
+
+</details>
+
+<details><summary><h3 id="graph">Graph</h3></summary>
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">1971</td>
+    <td><a href="https://leetcode.com/problems/find-if-path-exists-in-graph/">Find if Path Exists in Graph</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_BFS.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
+    <a href="#graph">Graph</a>
     </td>
     <td></td>
   </tr>
