@@ -36,6 +36,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 22nd</td>
+    <td>1971. <a href="https://leetcode.com/problems/find-if-path-exists-in-graph/">Find if Path Exists in Graph</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Iterative.java">Depth-First Search (Iterative)</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">
+    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
+    <a href="#graph">Graph</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 21st</td>
     <td>1971. <a href="https://leetcode.com/problems/find-if-path-exists-in-graph/">Find if Path Exists in Graph</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -116,6 +129,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   <li><a href="#breadth-first-search">Breadth-First Search</a>
   <li><a href="#counting">Counting</a>
   <li><a href="#data-stream">Data Stream</a>
+  <li><a href="#depth-first-search">Depth-First Search</a>
   <li><a href="#design">Design</a>
   <li><a href="#dynamic-programming">Dynamic Programming</a>
   <li><a href="#enumeration">Enumeration</a>
@@ -1253,9 +1267,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
+    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
     <a href="#graph">Graph</a>
     </td>
-    <td></td>
+    <td><a>Java Using </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a></td>
   </tr>
 </table>
 
@@ -1383,6 +1400,41 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
+  </tr>
+</table>
+
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+
+---
+
+</details>
+
+<details><summary><h3 id="depth-first-search">Depth-First Search</h3></summary>
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">1971</td>
+    <td><a href="https://leetcode.com/problems/find-if-path-exists-in-graph/">Find if Path Exists in Graph</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Iterative.java">Depth-First Search (Iterative)</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
+    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
+    <a href="#graph">Graph</a>
+    </td>
+    <td><a>Solution Using </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_BFS.java"><em>Breadth-First Search</em></a></td>
   </tr>
 </table>
 
@@ -1719,12 +1771,15 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   <tr>
     <td align="center">1971</td>
     <td><a href="https://leetcode.com/problems/find-if-path-exists-in-graph/">Find if Path Exists in Graph</a></td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_BFS.java">Java</a>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_BFS.java">Breadth-First Search</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Iterative.java">Depth-First Search (Iterative)</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
+    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
     <a href="#graph">Graph</a>
     </td>
     <td></td>
