@@ -1270,7 +1270,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#depth-first-search">Depth-First Search</a><a>, </a>
     <a href="#graph">Graph</a>
     </td>
-    <td><a>Java Using </a>
+    <td><a>Solution Using </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a><a> or </a>
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a></td>
   </tr>
