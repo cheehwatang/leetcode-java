@@ -36,6 +36,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 24th</td>
+    <td>79. <a href="https://leetcode.com/problems/word-search/">Word Search</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/79.%20Word%20Search/WordSearch.java">Backtracking</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#matrix">Matrix</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 23rd</td>
     <td>1971. <a href="https://leetcode.com/problems/find-if-path-exists-in-graph/">Find if Path Exists in Graph</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -83,16 +96,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#dynamic-programming">Dynamic Programming</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 19th</td>
-    <td>80. <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/">Remove Duplicates from Sorted Array II</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II/RemoveDuplicatesFromSortedArrayII.java">Two Pointers</a></td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
@@ -237,6 +240,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#hash-table">Hash Table</a><a>, </a>
     <a href="#sorting">Sorting</a><a>, </a>
     <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">79</td>
+    <td><a href="https://leetcode.com/problems/word-search/">Word Search</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/79.%20Word%20Search/WordSearch.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#matrix">Matrix</a>
     </td>
     <td></td>
   </tr>
@@ -956,6 +973,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/37.%20Sudoku%20Solver/SudokuSolver.java">Java</a>
     </td>
     <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">79</td>
+    <td><a href="https://leetcode.com/problems/word-search/">Word Search</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/79.%20Word%20Search/WordSearch.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#backtracking">Backtracking</a><a>, </a>
@@ -2978,6 +3009,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/37.%20Sudoku%20Solver/SudokuSolver.java">Java</a>
     </td>
     <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">79</td>
+    <td><a href="https://leetcode.com/problems/word-search/">Word Search</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/79.%20Word%20Search/WordSearch.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#backtracking">Backtracking</a><a>, </a>
