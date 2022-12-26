@@ -36,6 +36,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 26th</td>
+    <td>88. <a href="https://leetcode.com/problems/merge-sorted-array/">Merge Sorted Array</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/88.%20Merge%20Sorted%20Array/MergeSortedArray_Sorting.java">Sorting</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/88.%20Merge%20Sorted%20Array/MergeSortedArray_TwoPointers.java">Two Pointers</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 25th</td>
     <td>73. <a href="https://leetcode.com/problems/set-matrix-zeroes/">Set Matrix Zeroes</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -85,18 +99,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">
     <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#graph">Graph</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 21st</td>
-    <td>1971. <a href="https://leetcode.com/problems/find-if-path-exists-in-graph/">Find if Path Exists in Graph</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_BFS.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
     <a href="#graph">Graph</a>
     </td>
   </tr>
@@ -282,6 +284,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
     <a href="#array">Array</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">88</td>
+    <td><a href="https://leetcode.com/problems/merge-sorted-array/">Merge Sorted Array</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/88.%20Merge%20Sorted%20Array/MergeSortedArray_Sorting.java">Sorting</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/88.%20Merge%20Sorted%20Array/MergeSortedArray_TwoPointers.java">Two Pointers</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
@@ -3561,6 +3578,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
   <tr>
+    <td align="center">88</td>
+    <td><a href="https://leetcode.com/problems/merge-sorted-array/">Merge Sorted Array</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/88.%20Merge%20Sorted%20Array/MergeSortedArray_Sorting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td><a>Solution Using </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/88.%20Merge%20Sorted%20Array/MergeSortedArray_TwoPointers.java"><em>Two Pointers</em></a></td>
+  </tr>
+  <tr>
     <td align="center">295</td>
     <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</a></td>
     <td align="center"><a>Java with </a>
@@ -4273,6 +4305,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">88</td>
+    <td><a href="https://leetcode.com/problems/merge-sorted-array/">Merge Sorted Array</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/88.%20Merge%20Sorted%20Array/MergeSortedArray_TwoPointers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td><a>Solution Using </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/88.%20Merge%20Sorted%20Array/MergeSortedArray_Sorting.java"><em>Sorting</em></a></td>
   </tr>
   <tr>
     <td align="center">151</td>
