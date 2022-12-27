@@ -36,6 +36,21 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 27th</td>
+    <td>2389. <a href="https://leetcode.com/problems/longest-subsequence-with-limited-sum/">Longest Subsequence With Limited Sum</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2389.%20Longest%20Subsequence%20With%20Limited%20Sum/LongestSubsequenceWithLimitedSum.java">Binary Search, Prefix Sum & Sorting</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#binary-search">Binary Search</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a><a>, </a>
+    <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 26th</td>
     <td>88. <a href="https://leetcode.com/problems/merge-sorted-array/">Merge Sorted Array</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -87,19 +102,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#graph">Graph</a><a>, </a>
     <a href="#union-find">Union Find</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 22nd</td>
-    <td>1971. <a href="https://leetcode.com/problems/find-if-path-exists-in-graph/">Find if Path Exists in Graph</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Iterative.java">Depth-First Search (Iterative)</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Recursive.java">Depth-First Search (Recursive)</a>
-    </td>
-    <td align="center">
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#graph">Graph</a>
     </td>
   </tr>
 </table>
@@ -905,6 +907,22 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
   <tr>
+    <td align="center">2389</td>
+    <td><a href="https://leetcode.com/problems/longest-subsequence-with-limited-sum/">Longest Subsequence With Limited Sum</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2389.%20Longest%20Subsequence%20With%20Limited%20Sum/LongestSubsequenceWithLimitedSum.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#binary-search">Binary Search</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a><a>, </a>
+    <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2395</td>
     <td><a href="https://leetcode.com/problems/find-subarrays-with-equal-sum/">Find Subarrays With Equal Sum</a></td>
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2395.%20Find%20Subarrays%20With%20Equal%20Sum/FindSubarraysWithEqualSum.java">Java</a></td>
@@ -1105,6 +1123,22 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#sorting">Sorting</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix.java"><em>Linear Search</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">2389</td>
+    <td><a href="https://leetcode.com/problems/longest-subsequence-with-limited-sum/">Longest Subsequence With Limited Sum</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2389.%20Longest%20Subsequence%20With%20Limited%20Sum/LongestSubsequenceWithLimitedSum.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#binary-search">Binary Search</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a><a>, </a>
+    <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
   </tr>
 </table>
 
@@ -1990,6 +2024,22 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2389</td>
+    <td><a href="https://leetcode.com/problems/longest-subsequence-with-limited-sum/">Longest Subsequence With Limited Sum</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2389.%20Longest%20Subsequence%20With%20Limited%20Sum/LongestSubsequenceWithLimitedSum.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#binary-search">Binary Search</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a><a>, </a>
     <a href="#sorting">Sorting</a>
     </td>
     <td></td>
@@ -3408,6 +3458,22 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
   <tr>
+    <td align="center">2389</td>
+    <td><a href="https://leetcode.com/problems/longest-subsequence-with-limited-sum/">Longest Subsequence With Limited Sum</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2389.%20Longest%20Subsequence%20With%20Limited%20Sum/LongestSubsequenceWithLimitedSum.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#binary-search">Binary Search</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a><a>, </a>
+    <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2438</td>
     <td><a href="https://leetcode.com/problems/range-product-queries-of-powers/">Range Product Queries of Powers</a></td>
     <td align="center">
@@ -3723,6 +3789,22 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2389</td>
+    <td><a href="https://leetcode.com/problems/longest-subsequence-with-limited-sum/">Longest Subsequence With Limited Sum</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2389.%20Longest%20Subsequence%20With%20Limited%20Sum/LongestSubsequenceWithLimitedSum.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#binary-search">Binary Search</a><a>, </a>
+    <a href="#greedy">Greedy</a><a>, </a>
+    <a href="#prefix-sum">Prefix Sum</a><a>, </a>
     <a href="#sorting">Sorting</a>
     </td>
     <td></td>
