@@ -36,6 +36,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 28th</td>
+    <td>941. <a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/941.%20Valid%20Mountain%20Array/ValidMountainArray_TwoPointers.java">Two Pointers</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 27th</td>
     <td>2389. <a href="https://leetcode.com/problems/longest-subsequence-with-limited-sum/">Longest Subsequence With Limited Sum</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -90,18 +101,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#array">Array</a><a>, </a>
     <a href="#backtracking">Backtracking</a><a>, </a>
     <a href="#matrix">Matrix</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 23rd</td>
-    <td>1971. <a href="https://leetcode.com/problems/find-if-path-exists-in-graph/">Find if Path Exists in Graph</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_UnionFind.java">Union Find</a>
-    </td>
-    <td align="center">
-    <a href="#graph">Graph</a><a>, </a>
-    <a href="#union-find">Union Find</a>
     </td>
   </tr>
 </table>
@@ -537,6 +536,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#array">Array</a><a>, </a>
     <a href="#hash-table">Hash Table</a><a>, </a>
     <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">941</td>
+    <td><a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/941.%20Valid%20Mountain%20Array/ValidMountainArray_TwoPointers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a>
     </td>
     <td></td>
   </tr>
