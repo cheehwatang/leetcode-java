@@ -40,7 +40,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td>941. <a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/941.%20Valid%20Mountain%20Array/ValidMountainArray_TwoPointers.java">Java</a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/941.%20Valid%20Mountain%20Array/ValidMountainArray_TwoPointers.java">Two Pointers</a>
     </td>
     <td align="center">
     <a href="#array">Array</a>
