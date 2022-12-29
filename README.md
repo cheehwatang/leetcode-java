@@ -36,6 +36,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 29th</td>
+    <td>1834. <a href="https://leetcode.com/problems/single-threaded-cpu/">Single-Threaded CPU</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1834.%20Single-Threaded%20CPU/SingleThreadedCPU.java">Heap (Priority Queue) & Sorting</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 28th</td>
     <td>941. <a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -87,19 +100,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#hash-table">Hash Table</a><a>, </a>
-    <a href="#matrix">Matrix</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 24th</td>
-    <td>79. <a href="https://leetcode.com/problems/word-search/">Word Search</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/79.%20Word%20Search/WordSearch.java">Backtracking</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#backtracking">Backtracking</a><a>, </a>
     <a href="#matrix">Matrix</a>
     </td>
   </tr>
@@ -789,6 +789,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1834</td>
+    <td><a href="https://leetcode.com/problems/single-threaded-cpu/">Single-Threaded CPU</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1834.%20Single-Threaded%20CPU/SingleThreadedCPU.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -2545,6 +2559,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sort.java"><em>Sorting</em></a></td>
   </tr>
+  <tr>
+    <td align="center">1834</td>
+    <td><a href="https://leetcode.com/problems/single-threaded-cpu/">Single-Threaded CPU</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1834.%20Single-Threaded%20CPU/SingleThreadedCPU.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -3771,6 +3799,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#two-pointers">Two Pointers</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_HashTable.java"><em>Hash Table</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">1834</td>
+    <td><a href="https://leetcode.com/problems/single-threaded-cpu/">Single-Threaded CPU</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1834.%20Single-Threaded%20CPU/SingleThreadedCPU.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
+    <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">2007</td>
