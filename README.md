@@ -36,6 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">December 30th</td>
+    <td>797. <a href="https://leetcode.com/problems/all-paths-from-source-to-target/">All Paths From Source to Target</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_BFS.java">Breadth-First Search</a>
+    </td>
+    <td align="center">
+    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
+    <a href="#graph">Graph</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 29th</td>
     <td>1834. <a href="https://leetcode.com/problems/single-threaded-cpu/">Single-Threaded CPU</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -86,21 +98,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#array">Array</a><a>, </a>
     <a href="#sorting">Sorting</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 25th</td>
-    <td>73. <a href="https://leetcode.com/problems/set-matrix-zeroes/">Set Matrix Zeroes</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/73.%20Set%20Matrix%20Zeroes/SetMatrixZeroes_Array.java">Array</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/73.%20Set%20Matrix%20Zeroes/SetMatrixZeroes_HashTable.java">Hash Table</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/73.%20Set%20Matrix%20Zeroes/SetMatrixZeroes_InPlace.java">In-Place</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#hash-table">Hash Table</a><a>, </a>
-    <a href="#matrix">Matrix</a>
     </td>
   </tr>
 </table>
@@ -1357,6 +1354,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">797</td>
+    <td><a href="https://leetcode.com/problems/all-paths-from-source-to-target/">All Paths From Source to Target</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_BFS.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
+    <a href="#graph">Graph</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">967</td>
     <td><a href="https://leetcode.com/problems/numbers-with-same-consecutive-differences/">Numbers With Same Consecutive Differences</a></td>
     <td align="center">
@@ -1882,6 +1892,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">797</td>
+    <td><a href="https://leetcode.com/problems/all-paths-from-source-to-target/">All Paths From Source to Target</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_BFS.java">Breadth-First Search</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
+    <a href="#graph">Graph</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1971</td>
