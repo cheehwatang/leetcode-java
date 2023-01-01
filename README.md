@@ -36,6 +36,15 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 1st</td>
+    <td>492. <a href="https://leetcode.com/problems/construct-the-rectangle/">Construct the Rectangle</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/492.%20Construct%20the%20Rectangle/ConstructTheRectangle.java">Java</a></td>
+    <td align="center">
+    <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">December 31st</td>
     <td>797. <a href="https://leetcode.com/problems/all-paths-from-source-to-target/">All Paths From Source to Target</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -84,21 +93,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">
     <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 27th</td>
-    <td>2389. <a href="https://leetcode.com/problems/longest-subsequence-with-limited-sum/">Longest Subsequence With Limited Sum</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2389.%20Longest%20Subsequence%20With%20Limited%20Sum/LongestSubsequenceWithLimitedSum.java">Binary Search, Prefix Sum & Sorting</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#binary-search">Binary Search</a><a>, </a>
-    <a href="#greedy">Greedy</a><a>, </a>
-    <a href="#prefix-sum">Prefix Sum</a><a>, </a>
-    <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
@@ -2901,6 +2895,16 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#math">Math</a><a>, </a>
     <a href="#simulation">Simulation</a><a>, </a>
     <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">492</td>
+    <td><a href="https://leetcode.com/problems/construct-the-rectangle/">Construct the Rectangle</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/492.%20Construct%20the%20Rectangle/ConstructTheRectangle.java">Java</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
