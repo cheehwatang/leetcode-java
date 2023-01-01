@@ -39,7 +39,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">January 1st</td>
     <td>492. <a href="https://leetcode.com/problems/construct-the-rectangle/">Construct the Rectangle</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/492.%20Construct%20the%20Rectangle/ConstructTheRectangle.java">Java</a></td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/492.%20Construct%20the%20Rectangle/ConstructTheRectangle.java">Math</a></td>
     <td align="center">
     <a href="#math">Math</a>
     </td>
