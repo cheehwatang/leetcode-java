@@ -36,6 +36,18 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 2nd</td>
+    <td>290. <a href="https://leetcode.com/problems/word-pattern/">Word Pattern</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/290.%20Word%20Pattern/WordPattern.java">Hash Table</a>
+    </td>
+    <td align="center">
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 1st</td>
     <td>492. <a href="https://leetcode.com/problems/construct-the-rectangle/">Construct the Rectangle</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -82,17 +94,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#array">Array</a><a>, </a>
     <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
     <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 28th</td>
-    <td>941. <a href="https://leetcode.com/problems/valid-mountain-array/">Valid Mountain Array</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/941.%20Valid%20Mountain%20Array/ValidMountainArray_TwoPointers.java">Two Pointers</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a>
     </td>
   </tr>
 </table>
@@ -2253,6 +2254,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
   <tr>
+    <td align="center">290</td>
+    <td><a href="https://leetcode.com/problems/word-pattern/">Word Pattern</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/290.%20Word%20Pattern/WordPattern.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">383</td>
     <td><a href="https://leetcode.com/problems/ransom-note/">Ransom Note</a></td>
     <td align="center">
@@ -4101,6 +4115,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#two-pointers">Two Pointers</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_TwoPointers.java"><em>Two Pointers</em></a></td>
+  </tr>
+  <tr>
+    <td align="center">290</td>
+    <td><a href="https://leetcode.com/problems/word-pattern/">Word Pattern</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/290.%20Word%20Pattern/WordPattern.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#string">String</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">344</td>
