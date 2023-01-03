@@ -38,10 +38,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   <tr>
     <td align="center">January 3rd</td>
     <td>200. <a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java">Depth-First Search</a>
     </td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#depth-first-search">Depth-First Search</a><a>, </a>
