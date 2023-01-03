@@ -36,6 +36,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 3rd</td>
+    <td>200. <a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java">Depth-First Search</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
+    <a href="#matrix">Matrix</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 2nd</td>
     <td>290. <a href="https://leetcode.com/problems/word-pattern/">Word Pattern</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -81,19 +94,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
     <a href="#graph">Graph</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 29th</td>
-    <td>1834. <a href="https://leetcode.com/problems/single-threaded-cpu/">Single-Threaded CPU</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1834.%20Single-Threaded%20CPU/SingleThreadedCPU.java">Heap (Priority Queue) & Sorting</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
-    <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
@@ -294,6 +294,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#array">Array</a><a>, </a>
     <a href="#sorting">Sorting</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">200</td>
+    <td><a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java">Depth-First Search</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
+    <a href="#matrix">Matrix</a>
     </td>
     <td></td>
   </tr>
@@ -1563,6 +1577,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">200</td>
+    <td><a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
+    <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">797</td>
@@ -3273,6 +3301,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">200</td>
+    <td><a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a></td>
+    <td align="center"><a>Java with </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java">Depth-First Search</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
     <a href="#matrix">Matrix</a>
     </td>
     <td></td>
