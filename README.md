@@ -36,6 +36,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 5th</td>
+    <td>200. <a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_UnionFind.java">Union Find</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#union-find">Union Find</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 4th</td>
     <td>200. <a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -80,21 +93,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/492.%20Construct%20the%20Rectangle/ConstructTheRectangle.java">Math</a></td>
     <td align="center">
     <a href="#math">Math</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">December 31st</td>
-    <td>797. <a href="https://leetcode.com/problems/all-paths-from-source-to-target/">All Paths From Source to Target</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Recursive_Backtracking.java">Depth-First Search (Backtracking)</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Iterative.java">Depth-First Search (Iterative)</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Recursive.java">Depth-First Search (Recursive)</a>
-    </td>
-    <td align="center">
-    <a href="#backtracking">Backtracking</a><a>, </a>
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#graph">Graph</a>
     </td>
   </tr>
 </table>
@@ -302,15 +300,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">200</td>
     <td><a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a></td>
     <td align="center"><a>Java with </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_BFS.java">Breadth-First Search</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java">Depth-First Search</a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_BFS.java">Breadth-First Search</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java">Depth-First Search</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_UnionFind.java">Union Find</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
     <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#matrix">Matrix</a>
+    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#union-find">Union Find</a>
     </td>
     <td></td>
   </tr>
@@ -1396,10 +1396,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#array">Array</a><a>, </a>
     <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
     <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#matrix">Matrix</a>
+    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#union-find">Union Find</a>
     </td>
     <td><a>Solution Using </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java"><em>Depth-First Search</em></a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java"><em>Depth-First Search</em></a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_UnionFind.java"><em>Union Find</em></a>
     </td>
   </tr>
   <tr>
@@ -1609,10 +1611,12 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="#array">Array</a><a>, </a>
     <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
     <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#matrix">Matrix</a>
+    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#union-find">Union Find</a>
     </td>
     <td><a>Solution Using </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_BFS.java"><em>Breadth-First Search</em></a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_BFS.java"><em>Breadth-First Search</em></a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_UnionFind.java"><em>Union Find</em></a>
     </td>
   </tr>
   <tr>
@@ -3332,15 +3336,17 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">200</td>
     <td><a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a></td>
     <td align="center"><a>Java with </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_BFS.java">Breadth-First Search</a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java">Depth-First Search</a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_BFS.java">Breadth-First Search</a><a>, </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java">Depth-First Search</a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_UnionFind.java">Union Find</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
     <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#matrix">Matrix</a>
+    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#union-find">Union Find</a>
     </td>
     <td></td>
   </tr>
@@ -4802,6 +4808,25 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">200</td>
+    <td><a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_UnionFind.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
+    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
+    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#union-find">Union Find</a>
+    </td>
+    <td><a>Solution Using </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_BFS.java"><em>Breadth-First Search</em></a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java"><em>Depth-First Search</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">1971</td>
