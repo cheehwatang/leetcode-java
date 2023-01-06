@@ -36,6 +36,19 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 6th</td>
+    <td>905. <a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/905.%20Sort%20Array%20By%20Parity/SortArrayByParity.java">Sorting & Two Pointers</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 5th</td>
     <td>200. <a href="https://leetcode.com/problems/number-of-islands/">Number of Islands</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -84,15 +97,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#hash-table">Hash Table</a><a>, </a>
     <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 1st</td>
-    <td>492. <a href="https://leetcode.com/problems/construct-the-rectangle/">Construct the Rectangle</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/492.%20Construct%20the%20Rectangle/ConstructTheRectangle.java">Math</a></td>
-    <td align="center">
-    <a href="#math">Math</a>
     </td>
   </tr>
 </table>
@@ -532,6 +536,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">
     <a href="#array">Array</a><a>, </a>
     <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">905</td>
+    <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/905.%20Sort%20Array%20By%20Parity/SortArrayByParity.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -3896,6 +3914,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
   </tr>
   <tr>
+    <td align="center">905</td>
+    <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/905.%20Sort%20Array%20By%20Parity/SortArrayByParity.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">948</td>
     <td><a href="https://leetcode.com/problems/bag-of-tokens/">Bag of Tokens</a></td>
     <td align="center">
@@ -4722,6 +4754,20 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="#linked-list">Linked List</a><a>, </a>
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">905</td>
+    <td><a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/905.%20Sort%20Array%20By%20Parity/SortArrayByParity.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#sorting">Sorting</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
