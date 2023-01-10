@@ -1,14 +1,11 @@
 
 <h1 align="center"><b>LeetCode Java Solutions</b></h1>
-
 </br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/language-java-blue">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/update-daily-green">&nbsp;&nbsp;
-
 </div>
-
 </br>
 
 Hi :wave:, I'm [***Chee Hwa***](https://github.com/cheehwatang) and welcome to LeetCode Solutions in Java.
@@ -23,134 +20,130 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 
 ---
 
-<h2 align='center' id="latest-solutions"><b>Latest Solutions</b></h2>
-
-</br>
+<h2 align='center' id="latest-solutions"><b>Latest Solutions</b></br></h2>
 
 <table>
-  <tr>
-    <th>Date</th>
-    <th>Problem</th>
-    <th>Difficulty</th>
-    <th>Solution</th>
-    <th>Topics</th>
-  </tr>
-  <tr>
-    <td align="center">January 10th</td>
-    <td>130. <a href="https://leetcode.com/problems/surrounded-regions/">Surrounded Regions</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_UnionFind.java">Union Find</a></td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#matrix">Matrix</a><a>, </a>
-    <a href="#union-find">Union Find</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 9th</td>
-    <td>130. <a href="https://leetcode.com/problems/surrounded-regions/">Surrounded Regions</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_BFS.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
-    <a href="#matrix">Matrix</a><a>, </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 8th</td>
-    <td>130. <a href="https://leetcode.com/problems/surrounded-regions/">Surrounded Regions</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_DFS.java">Depth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#matrix">Matrix</a><a>, </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 7th</td>
-    <td>922. <a href="https://leetcode.com/problems/sort-array-by-parity-ii/">Sort Array By Parity II</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/922.%20Sort%20Array%20By%20Parity%20II/SortArrayByParityII.java">Sorting & Two Pointers</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#sorting">Sorting</a><a>, </a>
-    <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 6th</td>
-    <td>905. <a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/905.%20Sort%20Array%20By%20Parity/SortArrayByParity.java">Sorting & Two Pointers</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#sorting">Sorting</a><a>, </a>
-    <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Problem</th>
+      <th>Difficulty</th>
+      <th>Solution</th>
+      <th>Topics</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+        <td align="center">January 10th</td>
+        <td>130. <a href="https://leetcode.com/problems/surrounded-regions/">Surrounded Regions</a></td>
+        <td align="center">$\text{\color{Dandelion}Medium}$</td>
+        <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_UnionFind.java">Union Find</a></td>
+        <td align="center">
+        <a href="#array">Array</a>, 
+        <a href="#matrix">Matrix</a>, 
+        <a href="#union-find">Union Find</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">January 9th</td>
+        <td>130. <a href="https://leetcode.com/problems/surrounded-regions/">Surrounded Regions</a></td>
+        <td align="center">$\text{\color{Dandelion}Medium}$</td>
+        <td align="center">
+        <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_BFS.java">Breadth-First Search</a>
+        </td>
+        <td align="center">
+        <a href="#array">Array</a>, 
+        <a href="#breadth-first-search">Breadth-First Search</a>, 
+        <a href="#matrix">Matrix</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">January 8th</td>
+        <td>130. <a href="https://leetcode.com/problems/surrounded-regions/">Surrounded Regions</a></td>
+        <td align="center">$\text{\color{Dandelion}Medium}$</td>
+        <td align="center">
+        <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_DFS.java">Depth-First Search</a>
+        </td>
+        <td align="center">
+        <a href="#array">Array</a>, 
+        <a href="#depth-first-search">Depth-First Search</a>, 
+        <a href="#matrix">Matrix</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">January 7th</td>
+        <td>922. <a href="https://leetcode.com/problems/sort-array-by-parity-ii/">Sort Array By Parity II</a></td>
+        <td align="center">$\text{\color{TealBlue}Easy}$</td>
+        <td align="center">
+        <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/922.%20Sort%20Array%20By%20Parity%20II/SortArrayByParityII.java">Sorting & Two Pointers</a>
+        </td>
+        <td align="center">
+        <a href="#array">Array</a>, 
+        <a href="#sorting">Sorting</a>, 
+        <a href="#two-pointers">Two Pointers</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">January 6th</td>
+        <td>905. <a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
+        <td align="center">$\text{\color{TealBlue}Easy}$</td>
+        <td align="center">
+        <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/905.%20Sort%20Array%20By%20Parity/SortArrayByParity.java">Sorting & Two Pointers</a>
+        </td>
+        <td align="center">
+        <a href="#array">Array</a>, 
+        <a href="#sorting">Sorting</a>, 
+        <a href="#two-pointers">Two Pointers</a>
+        </td>
+      </tr>
+  </tbody>
 </table>
-
 </br>
 
 ---
 
 <details open><summary><h3 id="topics">Topics</h3></summary>
-
 > The problem sets and solutions are grouped into Topics as stated in LeetCode.
-
 <ul>
-  <li><a href="#array">Array</a>
-  <li><a href="#backtracking">Backtracking</a>
-  <li><a href="#binary-search">Binary Search</a>
-  <li><a href="#bit-manipulation">Bit Manipulation</a>
-  <li><a href="#brainteaser">Brainteaser</a>
-  <li><a href="#breadth-first-search">Breadth-First Search</a>
-  <li><a href="#counting">Counting</a>
-  <li><a href="#data-stream">Data Stream</a>
-  <li><a href="#depth-first-search">Depth-First Search</a>
-  <li><a href="#design">Design</a>
-  <li><a href="#dynamic-programming">Dynamic Programming</a>
-  <li><a href="#enumeration">Enumeration</a>
-  <li><a href="#geometry">Geometry</a>
-  <li><a href="#graph">Graph</a>
-  <li><a href="#greedy">Greedy</a>
-  <li><a href="#hash-table">Hash Table</a>
-  <li><a href="#heap-priority-queue">Heap (Priority Queue)</a>
-  <li><a href="#interactive">Interactive</a>
-  <li><a href="#linked-list">Linked List</a>
-  <li><a href="#math">Math</a>
-  <li><a href="#matrix">Matrix</a>
-  <li><a href="#memoization">Memoization</a>
-  <li><a href="#monotonic-stack">Monotonic Stack</a>
-  <li><a href="#number-theory">Number Theory</a>
-  <li><a href="#prefix-sum">Prefix Sum</a>
-  <li><a href="#recursion">Recursion</a>
-  <li><a href="#simulation">Simulation</a>
-  <li><a href="#sorting">Sorting</a>
-  <li><a href="#stack">Stack</a>
-  <li><a href="#string">String</a>
-  <li><a href="#two-pointers">Two Pointers</a>
-  <li><a href="#union-find">Union Find</a>
+  <li><a href="#array">Array</a></li>
+  <li><a href="#backtracking">Backtracking</a></li>
+  <li><a href="#binary-search">Binary Search</a></li>
+  <li><a href="#bit-manipulation">Bit Manipulation</a></li>
+  <li><a href="#brainteaser">Brainteaser</a></li>
+  <li><a href="#breadth-first-search">Breadth-First Search</a></li>
+  <li><a href="#counting">Counting</a></li>
+  <li><a href="#data-stream">Data Stream</a></li>
+  <li><a href="#depth-first-search">Depth-First Search</a></li>
+  <li><a href="#design">Design</a></li>
+  <li><a href="#dynamic-programming">Dynamic Programming</a></li>
+  <li><a href="#enumeration">Enumeration</a></li>
+  <li><a href="#geometry">Geometry</a></li>
+  <li><a href="#graph">Graph</a></li>
+  <li><a href="#greedy">Greedy</a></li>
+  <li><a href="#hash-table">Hash Table</a></li>
+  <li><a href="#heap-priority-queue">Heap (Priority Queue)</a></li>
+  <li><a href="#interactive">Interactive</a></li>
+  <li><a href="#linked-list">Linked List</a></li>
+  <li><a href="#math">Math</a></li>
+  <li><a href="#matrix">Matrix</a></li>
+  <li><a href="#memoization">Memoization</a></li>
+  <li><a href="#monotonic-stack">Monotonic Stack</a></li>
+  <li><a href="#number-theory">Number Theory</a></li>
+  <li><a href="#prefix-sum">Prefix Sum</a></li>
+  <li><a href="#recursion">Recursion</a></li>
+  <li><a href="#simulation">Simulation</a></li>
+  <li><a href="#sorting">Sorting</a></li>
+  <li><a href="#stack">Stack</a></li>
+  <li><a href="#string">String</a></li>
+  <li><a href="#two-pointers">Two Pointers</a></li>
+  <li><a href="#union-find">Union Find</a></li>
 </ul>
-
 </details>
-
 </br>
 
 ---
 
 <details><summary><h3 id="array">Array</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -168,7 +161,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="#array">Array</a><a>, </a>
+    <a href="#array">Array</a>, 
     <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
@@ -181,7 +174,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="#array">Array</a><a>, </a>
+    <a href="#array">Array</a>, 
     <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
@@ -1085,11 +1078,8 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
 ---
-
 </details>
 
 <details><summary><h3 id="backtracking">Backtracking</h3></summary>
