@@ -8,20 +8,18 @@
 </div>
 </br>
 
-Hi :wave:, I'm [***Chee Hwa***](https://github.com/cheehwatang) and welcome to LeetCode Solutions in Java.
-
-As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in general, I'm practicing everyday and hope to share my solutions and learnings with you.  
-
-- Exclusively on Java
-- Beginner problems
-- Daily Challenge if within my ability
-
+<p>Hi &#128075, I'm <a href="https://github.com/cheehwatang"><em>Chee Hwa</em></a> and welcome to LeetCode Solutions in Java.</p></br>
+<p>As I'm new to <a href="https://leetcode.com/cheehwatang/">LeetCode</a> and programming in general, I'm practicing everyday and hope to share my solutions and learnings with you.</p>
+<ul>
+  <li>Exclusively on Java</li>
+  <li>Beginner problems</li>
+  <li>Daily Challenge if within my ability</li>
+</ul>
 </br>
+<hr>
 
----
-
-<h2 align='center' id="latest-solutions"><b>Latest Solutions</b></br></h2>
-
+<h2 align='center' id="latest-solutions"><b>Latest Solutions</b></h2>
+</br>
 <table>
   <thead>
     <tr>
@@ -99,11 +97,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   </tbody>
 </table>
 </br>
-
----
+<hr>
 
 <details open><summary><h3 id="topics">Topics</h3></summary>
-> The problem sets and solutions are grouped into Topics as stated in LeetCode.
+<blockquote>The problem sets and solutions are grouped into Topics as stated in LeetCode.</blockquote>
 <ul>
   <li><a href="#array">Array</a></li>
   <li><a href="#backtracking">Backtracking</a></li>
@@ -140,8 +137,7 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
 </ul>
 </details>
 </br>
-
----
+<hr>
 
 <details><summary><h3 id="array">Array</h3></summary>
 <table>
@@ -1079,11 +1075,10 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
   </tr>
 </table>
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
----
+<hr>
 </details>
 
 <details><summary><h3 id="backtracking">Backtracking</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -1169,15 +1164,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/MaximumLengthOfAConcatenatedStringWithUniqueCharacters_BitManipulation.java"><em>Bit Manipulation</em></a></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="binary-search">Binary Search</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -1234,15 +1225,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="bit-manipulation">Bit Manipulation</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -1375,15 +1362,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="brainteaser">Brainteaser</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -1406,15 +1389,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="breadth-first-search">Breadth-First Search</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -1513,15 +1492,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_UnionFind.java"><em>Union Find</em></a></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="counting">Counting</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -1605,15 +1580,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="data-stream">Data Stream</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -1640,15 +1611,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="depth-first-search">Depth-First Search</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -1734,15 +1701,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_UnionFind.java"><em>Union Find</em></a>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="design">Design</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -1797,15 +1760,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="dynamic-programming">Dynamic Programming</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -1907,15 +1866,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="enumeration">Enumeration</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -1961,15 +1916,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="geometry">Geometry</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -2047,15 +1998,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="graph">Graph</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -2102,15 +2049,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="greedy">Greedy</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -2270,15 +2213,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="hash-table">Hash Table</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -2707,15 +2646,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="heap-priority-queue">Heap (Priority Queue)</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -2787,15 +2722,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="interactive">Interactive</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -2819,15 +2750,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="linked-list">Linked List</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -2891,15 +2818,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="math">Math</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -3332,15 +3255,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-  
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="matrix">Matrix</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -3519,15 +3438,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="memoization">Memoization</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -3569,15 +3484,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="monotonic-stack">Monotonic Stack</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -3625,15 +3536,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="number-theory">Number Theory</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -3667,15 +3574,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="prefix-sum">Prefix Sum</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -3786,15 +3689,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="recursion">Recursion</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -3821,15 +3720,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="simulation">Simulation</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -3908,15 +3803,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-  
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="sorting">Sorting</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -4150,15 +4041,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="stack">Stack</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -4228,15 +4115,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="string">String</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -4673,15 +4556,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="two-pointers">Two Pointers</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -4942,15 +4821,11 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <td></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
 
 <details><summary><h3 id="union-find">Union Find</h3></summary>
-
 <table>
   <tr>
     <th>#</th>
@@ -5017,9 +4892,6 @@ As I'm new to [LeetCode](https://leetcode.com/cheehwatang/) and programming in g
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a></td>
   </tr>
 </table>
-
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
-
----
-
+<hr>
 </details>
