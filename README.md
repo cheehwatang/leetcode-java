@@ -21,80 +21,78 @@
 <h2 align='center' id="latest-solutions"><b>Latest Solutions</b></h2>
 </br>
 <table>
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th>Problem</th>
-      <th>Difficulty</th>
-      <th>Solution</th>
-      <th>Topics</th>
-    </tr>
-  </thead>
-  <tbody>
-      <tr>
-        <td align="center">January 10th</td>
-        <td>130. <a href="https://leetcode.com/problems/surrounded-regions/">Surrounded Regions</a></td>
-        <td align="center">$\text{\color{Dandelion}Medium}$</td>
-        <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_UnionFind.java">Union Find</a></td>
-        <td align="center">
-        <a href="#array">Array</a>, 
-        <a href="#matrix">Matrix</a>, 
-        <a href="#union-find">Union Find</a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">January 9th</td>
-        <td>130. <a href="https://leetcode.com/problems/surrounded-regions/">Surrounded Regions</a></td>
-        <td align="center">$\text{\color{Dandelion}Medium}$</td>
-        <td align="center">
-        <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_BFS.java">Breadth-First Search</a>
-        </td>
-        <td align="center">
-        <a href="#array">Array</a>, 
-        <a href="#breadth-first-search">Breadth-First Search</a>, 
-        <a href="#matrix">Matrix</a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">January 8th</td>
-        <td>130. <a href="https://leetcode.com/problems/surrounded-regions/">Surrounded Regions</a></td>
-        <td align="center">$\text{\color{Dandelion}Medium}$</td>
-        <td align="center">
-        <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_DFS.java">Depth-First Search</a>
-        </td>
-        <td align="center">
-        <a href="#array">Array</a>, 
-        <a href="#depth-first-search">Depth-First Search</a>, 
-        <a href="#matrix">Matrix</a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">January 7th</td>
-        <td>922. <a href="https://leetcode.com/problems/sort-array-by-parity-ii/">Sort Array By Parity II</a></td>
-        <td align="center">$\text{\color{TealBlue}Easy}$</td>
-        <td align="center">
-        <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/922.%20Sort%20Array%20By%20Parity%20II/SortArrayByParityII.java">Sorting & Two Pointers</a>
-        </td>
-        <td align="center">
-        <a href="#array">Array</a>, 
-        <a href="#sorting">Sorting</a>, 
-        <a href="#two-pointers">Two Pointers</a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">January 6th</td>
-        <td>905. <a href="https://leetcode.com/problems/sort-array-by-parity/">Sort Array By Parity</a></td>
-        <td align="center">$\text{\color{TealBlue}Easy}$</td>
-        <td align="center">
-        <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/905.%20Sort%20Array%20By%20Parity/SortArrayByParity.java">Sorting & Two Pointers</a>
-        </td>
-        <td align="center">
-        <a href="#array">Array</a>, 
-        <a href="#sorting">Sorting</a>, 
-        <a href="#two-pointers">Two Pointers</a>
-        </td>
-      </tr>
-  </tbody>
+  <tr>
+    <th>Date</th>
+    <th>Problem</th>
+    <th>Difficulty</th>
+    <th>Solution</th>
+    <th>Topics</th>
+  </tr>
+  <tr>
+    <td align="center">January 11th</td>
+    <td>94. <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#stack">Stack</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">January 10th</td>
+    <td>130. <a href="https://leetcode.com/problems/surrounded-regions/">Surrounded Regions</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_UnionFind.java">Union Find</a></td>
+    <td align="center">
+    <a href="#array">Array</a>, 
+    <a href="#matrix">Matrix</a>, 
+    <a href="#union-find">Union Find</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">January 9th</td>
+    <td>130. <a href="https://leetcode.com/problems/surrounded-regions/">Surrounded Regions</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_BFS.java">Breadth-First Search</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#matrix">Matrix</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">January 8th</td>
+    <td>130. <a href="https://leetcode.com/problems/surrounded-regions/">Surrounded Regions</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_DFS.java">Depth-First Search</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#matrix">Matrix</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">January 7th</td>
+    <td>922. <a href="https://leetcode.com/problems/sort-array-by-parity-ii/">Sort Array By Parity II</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/922.%20Sort%20Array%20By%20Parity%20II/SortArrayByParityII.java">Sorting & Two Pointers</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a>, 
+    <a href="#sorting">Sorting</a>, 
+    <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
 </table>
 </br>
 <hr>
@@ -105,6 +103,7 @@
   <li><a href="#array">Array</a></li>
   <li><a href="#backtracking">Backtracking</a></li>
   <li><a href="#binary-search">Binary Search</a></li>
+  <li><a href="#binary-tree">Binary Tree</a></li>
   <li><a href="#bit-manipulation">Bit Manipulation</a></li>
   <li><a href="#brainteaser">Brainteaser</a></li>
   <li><a href="#breadth-first-search">Breadth-First Search</a></li>
@@ -132,6 +131,7 @@
   <li><a href="#sorting">Sorting</a></li>
   <li><a href="#stack">Stack</a></li>
   <li><a href="#string">String</a></li>
+  <li><a href="#tree">Tree</a></li>
   <li><a href="#two-pointers">Two Pointers</a></li>
   <li><a href="#union-find">Union Find</a></li>
 </ul>
@@ -1229,6 +1229,37 @@
 <hr>
 </details>
 
+<details><summary><h3 id="binary-tree">Binary Tree</h3></summary>
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">94</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#stack">Stack</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<hr>
+</details>
+
 <details><summary><h3 id="bit-manipulation">Bit Manipulation</h3></summary>
 <table>
   <tr>
@@ -1411,14 +1442,14 @@
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#array">Array</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#matrix">Matrix</a>, 
     <a href="#union-find">Union Find</a>
     </td>
-    <td><a>Solution Using </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_DFS.java"><em>Depth-First Search</em></a><a> or </a>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_DFS.java"><em>Depth-First Search</em></a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_UnionFind.java"><em>Union Find</em></a>
     </td>
   </tr>
@@ -1430,14 +1461,14 @@
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#array">Array</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#matrix">Matrix</a>, 
     <a href="#union-find">Union Find</a>
     </td>
-    <td><a>Solution Using </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java"><em>Depth-First Search</em></a><a> or </a>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java"><em>Depth-First Search</em></a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_UnionFind.java"><em>Union Find</em></a>
     </td>
   </tr>
@@ -1449,14 +1480,14 @@
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="#backtracking">Backtracking</a><a>, </a>
-    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#graph">Graph</a>
     </td>
-    <td><a>Solution Using </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Recursive_Backtracking.java"><em>Depth-First Search (Backtracking)</em></a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a><a> or </a>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Recursive_Backtracking.java"><em>Depth-First Search (Backtracking)</em></a>, 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
     </td>
   </tr>
@@ -1468,10 +1499,12 @@
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="#backtracking">Backtracking</a><a>, </a>
+    <a href="#backtracking">Backtracking</a>, 
     <a href="#breadth-first-search">Breadth-First Search</a>
     </td>
-    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_Backtracking.java"><em>Backtracking</em></a></td>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_Backtracking.java"><em>Backtracking</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">1971</td>
@@ -1481,15 +1514,16 @@
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#graph">Graph</a><a>, </a>
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#graph">Graph</a>, 
     <a href="#union-find">Union Find</a>
     </td>
-    <td><a>Solution Using </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_UnionFind.java"><em>Union Find</em></a></td>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a>, 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_UnionFind.java"><em>Union Find</em></a>
+    </td>
   </tr>
 </table>
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -1602,10 +1636,10 @@
     </td>
     <td align="center">$\text{\color{Red}Hard}$</td>
     <td align="center">
-    <a href="#data-stream">Data Stream</a><a>, </a>
-    <a href="#design">Design</a><a>, </a>
-    <a href="#heap-priority-queue">Heap (Priority Queue)</a><a>, </a>
-    <a href="#sorting">Sorting</a><a>, </a>
+    <a href="#data-stream">Data Stream</a>, 
+    <a href="#design">Design</a>, 
+    <a href="#heap-priority-queue">Heap (Priority Queue)</a>, 
+    <a href="#sorting">Sorting</a>, 
     <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
@@ -1626,6 +1660,22 @@
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">94</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#stack">Stack</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">130</td>
     <td><a href="https://leetcode.com/problems/surrounded-regions/">Surrounded Regions</a></td>
     <td align="center">
@@ -1633,14 +1683,14 @@
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#array">Array</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#matrix">Matrix</a>, 
     <a href="#union-find">Union Find</a>
     </td>
-    <td><a>Solution Using </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_BFS.java"><em>Breadth-First Search</em></a><a> or </a>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_BFS.java"><em>Breadth-First Search</em></a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_UnionFind.java"><em>Union Find</em></a>
     </td>
   </tr>
@@ -1652,53 +1702,54 @@
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#array">Array</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#matrix">Matrix</a>, 
     <a href="#union-find">Union Find</a>
     </td>
-    <td><a>Solution Using </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_BFS.java"><em>Breadth-First Search</em></a><a> or </a>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_BFS.java"><em>Breadth-First Search</em></a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_UnionFind.java"><em>Union Find</em></a>
     </td>
   </tr>
   <tr>
     <td align="center">797</td>
     <td><a href="https://leetcode.com/problems/all-paths-from-source-to-target/">All Paths From Source to Target</a></td>
-    <td align="center"><a>Java with </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Recursive_Backtracking.java">Depth-First Search (Backtracking)</a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Iterative.java">Depth-First Search (Iterative)</a><a> or </a>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Recursive_Backtracking.java">Depth-First Search (Backtracking)</a>, 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="#backtracking">Backtracking</a><a>, </a>
-    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#graph">Graph</a>
     </td>
-    <td><a>Solution Using</a>
+    <td>Solution Using 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_BFS.java"><em>Breadth-First Search</em></a>
     </td>
   </tr>
   <tr>
     <td align="center">1971</td>
     <td><a href="https://leetcode.com/problems/find-if-path-exists-in-graph/">Find if Path Exists in Graph</a></td>
-    <td align="center"><a>Java with </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Iterative.java">Depth-First Search (Iterative)</a><a> or </a>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#graph">Graph</a><a>, </a>
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#graph">Graph</a>, 
     <a href="#union-find">Union Find</a>
     </td>
-    <td><a>Solution Using </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_BFS.java"><em>Breadth-First Search</em></a></td><a> or </a>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_BFS.java"><em>Breadth-First Search</em></a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_UnionFind.java"><em>Union Find</em></a>
+    </td>
   </tr>
 </table>
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -4056,14 +4107,30 @@
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">94</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#stack">Stack</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">496</td>
     <td><a href="https://leetcode.com/problems/next-greater-element-i/">Next Greater Element I</a></td>
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/496.%20Next%20Greater%20Element%20I/NextGreaterElementI_HashTable_MonotonicStack.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#hash-table">Hash Table</a><a>, </a>
-    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#array">Array</a>, 
+    <a href="#hash-table">Hash Table</a>, 
+    <a href="#monotonic-stack">Monotonic Stack</a>, 
     <a href="#stack">Stack</a>
     </td>
     <td></td>
@@ -4074,8 +4141,8 @@
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/503.%20Next%20Greater%20Element%20II/NextGreaterElementII.java">Java</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#array">Array</a>, 
+    <a href="#monotonic-stack">Monotonic Stack</a>, 
     <a href="#stack">Stack</a>
     </td>
     <td></td>
@@ -4086,7 +4153,7 @@
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/RemoveAllAdjacentDuplicatesInString.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="#stack">Stack</a><a>, </a>
+    <a href="#stack">Stack</a>, 
     <a href="#string">String</a>
     </td>
     <td></td>
@@ -4097,7 +4164,7 @@
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1544.%20Make%20The%20String%20Great/MakeTheStringGreat_Stack.java">Java</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="#stack">Stack</a><a>, </a>
+    <a href="#stack">Stack</a>, 
     <a href="#string">String</a>
     </td>
     <td></td>
@@ -4108,8 +4175,8 @@
     <td align="center"><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2454.%20Next%20Greater%20Element%20IV/NextGreaterElementIV_MonotonicStack.java">Java</a></td>
     <td align="center">$\text{\color{Red}Hard}$</td>
     <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#monotonic-stack">Monotonic Stack</a><a>, </a>
+    <a href="#array">Array</a>, 
+    <a href="#monotonic-stack">Monotonic Stack</a>, 
     <a href="#stack">Stack</a>
     </td>
     <td></td>
@@ -4560,6 +4627,37 @@
 <hr>
 </details>
 
+<details><summary><h3 id="tree">Tree</h3></summary>
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">94</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#stack">Stack</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<hr>
+</details>
+
 <details><summary><h3 id="two-pointers">Two Pointers</h3></summary>
 <table>
   <tr>
@@ -4843,14 +4941,14 @@
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#array">Array</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#matrix">Matrix</a>, 
     <a href="#union-find">Union Find</a>
     </td>
-    <td><a>Solution Using </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_BFS.java"><em>Breadth-First Search</em></a><a> or </a>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_BFS.java"><em>Breadth-First Search</em></a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_DFS.java"><em>Depth-First Search</em></a>
     </td>
   </tr>
@@ -4862,14 +4960,14 @@
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#matrix">Matrix</a><a>, </a>
+    <a href="#array">Array</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#matrix">Matrix</a>, 
     <a href="#union-find">Union Find</a>
     </td>
-    <td><a>Solution Using </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_BFS.java"><em>Breadth-First Search</em></a><a> or </a>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_BFS.java"><em>Breadth-First Search</em></a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java"><em>Depth-First Search</em></a>
     </td>
   </tr>
@@ -4881,15 +4979,16 @@
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
-    <a href="#graph">Graph</a><a>, </a>
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#graph">Graph</a>, 
     <a href="#union-find">Union Find</a>
     </td>
-    <td><a>Solution Using </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_BFS.java"><em>Breadth-First Search</em></a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a><a> or </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a></td>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_BFS.java"><em>Breadth-First Search</em></a>, 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
+    </td>
   </tr>
 </table>
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
