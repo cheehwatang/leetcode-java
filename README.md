@@ -37,7 +37,7 @@
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/144.%20Binary%20Tree%20Preorder%20Traversal/BinaryTreePreorderTraversal_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">
-    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#binary-search">Binary Search</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#stack">Stack</a>, 
     <a href="#tree">Tree</a>
@@ -1181,6 +1181,22 @@
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">144</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">Binary Tree Preorder Traversal</a></td>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/144.%20Binary%20Tree%20Preorder%20Traversal/BinaryTreePreorderTraversal_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/144.%20Binary%20Tree%20Preorder%20Traversal/BinaryTreePreorderTraversal_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#binary-search">Binary Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#stack">Stack</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">374</td>
     <td><a href="https://leetcode.com/problems/guess-number-higher-or-lower/">Guess Number Higher or Lower</a></td>
     <td align="center">
@@ -1247,22 +1263,6 @@
     <td align="center">Java with 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Iterative.java">Depth-First Search (Iterative)</a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Recursive.java">Depth-First Search (Recursive)</a>
-    </td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#depth-first-search">Depth-First Search</a>, 
-    <a href="#stack">Stack</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td align="center">144</td>
-    <td><a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">Binary Tree Preorder Traversal</a></td>
-    <td align="center">Java with 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/144.%20Binary%20Tree%20Preorder%20Traversal/BinaryTreePreorderTraversal_Iterative.java">Depth-First Search (Iterative)</a> or 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/144.%20Binary%20Tree%20Preorder%20Traversal/BinaryTreePreorderTraversal_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -1721,7 +1721,7 @@
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#binary-search">Binary Search</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#stack">Stack</a>, 
     <a href="#tree">Tree</a>
@@ -4165,7 +4165,7 @@
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#binary-search">Binary Search</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#stack">Stack</a>, 
     <a href="#tree">Tree</a>
@@ -4712,7 +4712,7 @@
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#binary-search">Binary Search</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#stack">Stack</a>, 
     <a href="#tree">Tree</a>
