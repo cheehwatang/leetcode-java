@@ -29,6 +29,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 14th</td>
+    <td>102. <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">Binary Tree Level Order Traversal</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal/BinaryTreeLevelOrderTraversal.java">Breadth-First Search</a>
+    </td>
+    <td align="center">
+    <a href="#binary-search">Binary Search</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 13th</td>
     <td>145. <a href="https://leetcode.com/problems/binary-tree-postorder-traversal/">Binary Tree Postorder Traversal</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -82,19 +95,6 @@
     <a href="#array">Array</a>, 
     <a href="#matrix">Matrix</a>, 
     <a href="#union-find">Union Find</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 9th</td>
-    <td>130. <a href="https://leetcode.com/problems/surrounded-regions/">Surrounded Regions</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/130.%20Surrounded%20Regions/SurroundedRegions_BFS.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a>, 
-    <a href="#breadth-first-search">Breadth-First Search</a>, 
-    <a href="#matrix">Matrix</a>
     </td>
   </tr>
 </table>
@@ -1183,6 +1183,20 @@
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">102</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">Binary Tree Level Order Traversal</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal/BinaryTreeLevelOrderTraversal.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-search">Binary Search</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">144</td>
     <td><a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">Binary Tree Preorder Traversal</a></td>
     <td align="center">Java with 
@@ -1469,6 +1483,20 @@
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">102</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">Binary Tree Level Order Traversal</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal/BinaryTreeLevelOrderTraversal.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-search">Binary Search</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">130</td>
@@ -4749,6 +4777,20 @@
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#stack">Stack</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">102</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">Binary Tree Level Order Traversal</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal/BinaryTreeLevelOrderTraversal.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-search">Binary Search</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
     <td></td>
