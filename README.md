@@ -29,6 +29,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 17th</td>
+    <td>103. <a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/">Binary Tree Zigzag Level Order Traversal</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/BinaryTreeZigzagLevelOrderTraversal.java">Breadth-First Search</a>
+    </td>
+    <td align="center">
+    <a href="#binary-search">Binary Search</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 16th</td>
     <td>100. <a href="https://leetcode.com/problems/same-tree/">Same Tree</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -76,21 +89,6 @@
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/145.%20Binary%20Tree%20Postorder%20Traversal/BinaryTreePostorderTraversal_Iterative.java">Depth-First Search (Iterative)</a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/145.%20Binary%20Tree%20Postorder%20Traversal/BinaryTreePostorderTraversal_Recursive.java">Depth-First Search (Recursive)</a>
-    </td>
-    <td align="center">
-    <a href="#binary-search">Binary Search</a>, 
-    <a href="#depth-first-search">Depth-First Search</a>, 
-    <a href="#stack">Stack</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 12th</td>
-    <td>144. <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">Binary Tree Preorder Traversal</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/144.%20Binary%20Tree%20Preorder%20Traversal/BinaryTreePreorderTraversal_Iterative.java">Depth-First Search (Iterative)</a> or 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/144.%20Binary%20Tree%20Preorder%20Traversal/BinaryTreePreorderTraversal_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">
     <a href="#binary-search">Binary Search</a>, 
