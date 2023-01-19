@@ -4,11 +4,14 @@ import java.util.HashMap;
 import java.util.Map;
 
 // Time Complexity  : O(n),
-// where 'n' is the length of 'nums'. In fact, in actual is '2n' as we traverse 'nums' once and the HashMap once,
+// where 'n' is the length of 'nums'.
+// In fact, in actual is '2n' as we traverse 'nums' once and the HashMap once,
 // with the worst space complexity of the HashMap being 'n'.
 //
 // Space Complexity : O(n),
-// where 'n' is the length of 'nums', as the worst case with prefix sums in 'nums' having different remainders with 'k'.
+// where 'n' is the length of 'nums'.
+// The worst case is when all the prefix sums in 'nums' have different remainders with 'k',
+// resulting in the maximum size of the HashMap to be 'n'.
 
 public class SubarraySumsDivisibleByK_HashTable {
 
