@@ -29,6 +29,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 19th</td>
+    <td>112. <a href="https://leetcode.com/problems/path-sum/">Path Sum</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_DFS_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 18th</td>
     <td>112. <a href="https://leetcode.com/problems/path-sum/">Path Sum</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -37,7 +51,7 @@
     </td>
     <td align="center">
     <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#depth-first-search">Breadth-First Search</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
   </tr>
@@ -75,19 +89,6 @@
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/BinaryTreeLevelOrderTraversalII.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#binary-search">Binary Search</a>, 
-    <a href="#breadth-first-search">Breadth-First Search</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 14th</td>
-    <td>102. <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">Binary Tree Level Order Traversal</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal/BinaryTreeLevelOrderTraversal.java">Breadth-First Search</a>
     </td>
     <td align="center">
     <a href="#binary-search">Binary Search</a>, 
@@ -1351,12 +1352,15 @@
     <td align="center">112</td>
     <td><a href="https://leetcode.com/problems/path-sum/">Path Sum</a></td>
     <td align="center">Java with 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_BFS.java">Breadth-First Search</a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_BFS.java">Breadth-First Search</a>, 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#depth-first-search">Breadth-First Search</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
     <td></td>
@@ -1606,10 +1610,14 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#depth-first-search">Breadth-First Search</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
-    <td></td>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">130</td>
@@ -1865,6 +1873,24 @@
     </td>
     <td>Solution Using 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/100.%20Same%20Tree/SameTree_BFS.java"><em>Breadth-First Search</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">112</td>
+    <td><a href="https://leetcode.com/problems/path-sum/">Path Sum</a></td>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_DFS_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_BFS.java">Breadth-First Search</a>
     </td>
   </tr>
   <tr>
@@ -4971,12 +4997,15 @@
     <td align="center">112</td>
     <td><a href="https://leetcode.com/problems/path-sum/">Path Sum</a></td>
     <td align="center">Java with 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_BFS.java">Breadth-First Search</a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_BFS.java">Breadth-First Search</a>, 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#depth-first-search">Breadth-First Search</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
     <td></td>
