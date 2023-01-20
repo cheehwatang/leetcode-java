@@ -29,6 +29,22 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 20th</td>
+    <td>257. <a href="https://leetcode.com/problems/binary-tree-paths/">Binary Tree Paths</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">Backtracking and 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/257.%20Binary%20Tree%20Paths/BinaryTreePaths_DFS_Iterative_Backtracking.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/257.%20Binary%20Tree%20Paths/BinaryTreePaths_DFS_Recursive_Backtracking.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#string">String</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 19th</td>
     <td>112. <a href="https://leetcode.com/problems/path-sum/">Path Sum</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -80,19 +96,6 @@
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#depth-first-search">Breadth-First Search</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 15th</td>
-    <td>107. <a href="https://leetcode.com/problems/binary-tree-level-order-traversal-ii/">Binary Tree Level Order Traversal II</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II/BinaryTreeLevelOrderTraversalII.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#binary-search">Binary Search</a>, 
-    <a href="#breadth-first-search">Breadth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
   </tr>
@@ -1120,6 +1123,23 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">257</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-paths/">Binary Tree Paths</a></td>
+    <td align="center">Java with Backtracking and 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/257.%20Binary%20Tree%20Paths/BinaryTreePaths_DFS_Iterative_Backtracking.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/257.%20Binary%20Tree%20Paths/BinaryTreePaths_DFS_Recursive_Backtracking.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#string">String</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">797</td>
     <td><a href="https://leetcode.com/problems/all-paths-from-source-to-target/">All Paths From Source to Target</a></td>
     <td align="center">
@@ -1361,6 +1381,23 @@
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#breadth-first-search">Breadth-First Search</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">257</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-paths/">Binary Tree Paths</a></td>
+    <td align="center">Java with Backtracking and 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/257.%20Binary%20Tree%20Paths/BinaryTreePaths_DFS_Iterative_Backtracking.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/257.%20Binary%20Tree%20Paths/BinaryTreePaths_DFS_Recursive_Backtracking.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#string">String</a>, 
     <a href="#tree">Tree</a>
     </td>
     <td></td>
@@ -1962,6 +1999,23 @@
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_BFS.java"><em>Breadth-First Search</em></a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_UnionFind.java"><em>Union Find</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">257</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-paths/">Binary Tree Paths</a></td>
+    <td align="center">Java with Backtracking and 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/257.%20Binary%20Tree%20Paths/BinaryTreePaths_DFS_Iterative_Backtracking.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/257.%20Binary%20Tree%20Paths/BinaryTreePaths_DFS_Recursive_Backtracking.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#string">String</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">797</td>
@@ -4545,6 +4599,23 @@
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_TwoPointers.java"><em>Two Pointers</em></a></td>
   </tr>
   <tr>
+    <td align="center">257</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-paths/">Binary Tree Paths</a></td>
+    <td align="center">Java with Backtracking and 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/257.%20Binary%20Tree%20Paths/BinaryTreePaths_DFS_Iterative_Backtracking.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/257.%20Binary%20Tree%20Paths/BinaryTreePaths_DFS_Recursive_Backtracking.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#string">String</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">290</td>
     <td><a href="https://leetcode.com/problems/word-pattern/">Word Pattern</a></td>
     <td align="center">
@@ -5038,6 +5109,23 @@
     <a href="#binary-search">Binary Search</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#stack">Stack</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">257</td>
+    <td><a href="https://leetcode.com/problems/binary-tree-paths/">Binary Tree Paths</a></td>
+    <td align="center">Java with Backtracking and 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/257.%20Binary%20Tree%20Paths/BinaryTreePaths_DFS_Iterative_Backtracking.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/257.%20Binary%20Tree%20Paths/BinaryTreePaths_DFS_Recursive_Backtracking.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#string">String</a>, 
     <a href="#tree">Tree</a>
     </td>
     <td></td>
