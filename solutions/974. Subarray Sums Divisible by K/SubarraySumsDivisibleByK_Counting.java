@@ -28,8 +28,7 @@ public class SubarraySumsDivisibleByK_Counting {
 
         // Use counting array to record the frequency of all the prefix sum remainders.
         int[] counting = new int[k];
-        for (int i = 0; i < nums.length; i++) {
-            if (i > 0) nums[i] += nums[i - 1];
+        for (int i = 0, remainder = 0; i < nums.length; i++) {
             // Note that the integer in 'nums' can be negative.
             // Thus, we need to adjust the negative remainder to positive remainder.
             // Below accounts for both negative and positive remainders.
@@ -38,7 +37,8 @@ public class SubarraySumsDivisibleByK_Counting {
             // remainder for the prefix sum of [-2,1,3] are -2, 1 and 3 respectively.
             // We know that [3,2] sum to 5, which is divisible by 5.
             // After converting -2 to 3, by adding 5, it has the same remainder with prefix sum 3.
-            counting[(nums[i] % k + k) % k]++;
+            remainder = ((remainder + nums[i]) % k + k) % k;
+            counting[remainder]++;
         }
 
         // The result contains all the prefix sum with remainder 0,
@@ -51,6 +51,8 @@ public class SubarraySumsDivisibleByK_Counting {
         int result = counting[0];
 
         // The prefix sums with the same remainder can form subarray sums that is divisible by 'k' with each other.
+        // For each remainder, the number of subarray that is divisible by 'k' is the number of combinations from the frequency.
+        // Equation for the number of combinations of n items is n * "(n - 1) / 2".
         for (int frequency : counting)
             result += frequency * (frequency - 1) / 2;
 
