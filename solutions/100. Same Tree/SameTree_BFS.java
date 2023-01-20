@@ -42,25 +42,23 @@ public class SameTree_BFS {
         queueForP.offer(p);
         queueForQ.offer(q);
 
-        // Continue to traverse the tree until no more nodes is in the stack, in which case both trees are the same,
+        // Continue to traverse the tree until no more nodes is in the 'queue', in which case both trees are the same,
         // or until we found two nodes that are different, which we return false.
         while (!queueForP.isEmpty() && !queueForQ.isEmpty()) {
-            for (int i = 0, n = queueForP.size(); i < n; i++) {
-                p = queueForP.poll();
-                q = queueForQ.poll();
-                // If both nodes are null, move to the next node, as there is no node and no children to add to the stacks.
-                if (p == null && q == null) continue;
-                // If either nodes are null, or their values are different, then return false.
-                if (p == null || q == null || p.val != q.val) return false;
+            p = queueForP.poll();
+            q = queueForQ.poll();
+            // If both nodes are null, move to the next node, as there is no node and no children to add to the queues.
+            if (p == null && q == null) continue;
+            // If either nodes are null, or their values are different, then return false.
+            if (p == null || q == null || p.val != q.val) return false;
 
-                // Add the left and right child to the stack.
-                // Note that we leave the node checking to the next round.
-                // We add the children regardless, even if the children are null.
-                queueForP.offer(p.left);
-                queueForQ.offer(q.left);
-                queueForP.offer(p.right);
-                queueForQ.offer(q.right);
-            }
+            // Add the left and right child to the 'queue'.
+            // Note that we leave the node checking to the next round.
+            // We add the children regardless, even if the children are null.
+            queueForP.offer(p.left);
+            queueForQ.offer(q.left);
+            queueForP.offer(p.right);
+            queueForQ.offer(q.right);
         }
         // If we successfully traverse both trees, then return true.
         return true;
