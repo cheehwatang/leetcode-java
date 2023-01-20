@@ -29,6 +29,21 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 21st</td>
+    <td>113. <a href="https://leetcode.com/problems/path-sum-ii/">Path Sum II</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">Backtracking and 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/113.%20Path%20Sum%20II/PathSumII_DFS_Iterative_Backtracking.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/113.%20Path%20Sum%20II/PathSumII_DFS_Recursive_Backtracking.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 20th</td>
     <td>257. <a href="https://leetcode.com/problems/binary-tree-paths/">Binary Tree Paths</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -81,21 +96,6 @@
     <td align="center">
     <a href="#binary-search">Binary Search</a>, 
     <a href="#breadth-first-search">Breadth-First Search</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 16th</td>
-    <td>100. <a href="https://leetcode.com/problems/same-tree/">Same Tree</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/100.%20Same%20Tree/SameTree_BFS.java">Breadth-First Search</a> or 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/100.%20Same%20Tree/SameTree_DFS.java">Depth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#depth-first-search">Breadth-First Search</a>, 
-    <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
   </tr>
@@ -1098,13 +1098,13 @@
     <td align="center">37</td>
     <td><a href="https://leetcode.com/problems/sudoku-solver/">Sudoku Solver</a></td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/37.%20Sudoku%20Solver/SudokuSolver.java">Java</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/37.%20Sudoku%20Solver/SudokuSolver.java">Java</a>
     </td>
     <td align="center">$\text{\color{Red}Hard}$</td>
     <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#backtracking">Backtracking</a><a>, </a>
-    <a href="#matrix">Matrix</a>
+      <a href="#array">Array</a>, 
+      <a href="#backtracking">Backtracking</a>, 
+      <a href="#matrix">Matrix</a>
     </td>
     <td></td>
   </tr>
@@ -1112,13 +1112,29 @@
     <td align="center">79</td>
     <td><a href="https://leetcode.com/problems/word-search/">Word Search</a></td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/79.%20Word%20Search/WordSearch.java">Java</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/79.%20Word%20Search/WordSearch.java">Java</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#backtracking">Backtracking</a><a>, </a>
-    <a href="#matrix">Matrix</a>
+      <a href="#array">Array</a>, 
+      <a href="#backtracking">Backtracking</a>, 
+      <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">113</td>
+    <td><a href="https://leetcode.com/problems/path-sum-ii/">Path Sum II</a></td>
+    <td align="center">Java with Backtracking and 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/113.%20Path%20Sum%20II/PathSumII_DFS_Iterative_Backtracking.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/113.%20Path%20Sum%20II/PathSumII_DFS_Recursive_Backtracking.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
     </td>
     <td></td>
   </tr>
@@ -1147,14 +1163,14 @@
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="#backtracking">Backtracking</a><a>, </a>
-    <a href="#breadth-first-search">Breadth-First Search</a><a>, </a>
-    <a href="#depth-first-search">Depth-First Search</a><a>, </a>
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#graph">Graph</a>
     </td>
     <td><a>Solution Using </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_BFS.java"><em>Breadth-First Search</em></a><a>, </a>
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a><a> or </a>
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_BFS.java"><em>Breadth-First Search</em></a>, 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/797.%20All%20Paths%20From%20Source%20to%20Target/AllPathsFromSourceToTarget_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
     </td>
   </tr>
@@ -1162,14 +1178,16 @@
     <td align="center">967</td>
     <td><a href="https://leetcode.com/problems/numbers-with-same-consecutive-differences/">Numbers With Same Consecutive Differences</a></td>
     <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_Backtracking.java">Java</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_Backtracking.java">Java</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="#backtracking">Backtracking</a><a>, </a>
-    <a href="#breadth-first-search">Breadth-First Search</a>
+      <a href="#backtracking">Backtracking</a>, 
+      <a href="#breadth-first-search">Breadth-First Search</a>
     </td>
-    <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_BFS.java"><em>Breadth-First Search</em></a></td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_BFS.java"><em>Breadth-First Search</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">1239</td>
@@ -1179,9 +1197,9 @@
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-    <a href="#array">Array</a><a>, </a>
-    <a href="#backtracking">Backtracking</a><a>, </a>
-    <a href="#bit-manipulation">Bit Manipulation</a><a>, </a>
+    <a href="#array">Array</a>, 
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#bit-manipulation">Bit Manipulation</a>, 
     <a href="#string">String</a>
     </td>
     <td><a>Solution Using </a><a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/MaximumLengthOfAConcatenatedStringWithUniqueCharacters_BitManipulation.java"><em>Bit Manipulation</em></a></td>
@@ -1380,6 +1398,22 @@
     <td align="center">
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">113</td>
+    <td><a href="https://leetcode.com/problems/path-sum-ii/">Path Sum II</a></td>
+    <td align="center">Java with Backtracking and 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/113.%20Path%20Sum%20II/PathSumII_DFS_Iterative_Backtracking.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/113.%20Path%20Sum%20II/PathSumII_DFS_Recursive_Backtracking.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
@@ -1929,6 +1963,22 @@
     <td>Solution Using 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_BFS.java">Breadth-First Search</a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">113</td>
+    <td><a href="https://leetcode.com/problems/path-sum-ii/">Path Sum II</a></td>
+    <td align="center">Java with Backtracking and 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/113.%20Path%20Sum%20II/PathSumII_DFS_Iterative_Backtracking.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/113.%20Path%20Sum%20II/PathSumII_DFS_Recursive_Backtracking.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">130</td>
@@ -5076,6 +5126,22 @@
     <td align="center">
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">113</td>
+    <td><a href="https://leetcode.com/problems/path-sum-ii/">Path Sum II</a></td>
+    <td align="center">Java with Backtracking and 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/113.%20Path%20Sum%20II/PathSumII_DFS_Iterative_Backtracking.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/113.%20Path%20Sum%20II/PathSumII_DFS_Recursive_Backtracking.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#backtracking">Backtracking</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
