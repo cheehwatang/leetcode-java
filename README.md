@@ -29,6 +29,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 22nd</td>
+    <td>437. <a href="https://leetcode.com/problems/path-sum-iii/">Path Sum III</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/437.%20Path%20Sum%20III/PathSumIII_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/437.%20Path%20Sum%20III/PathSumIII_DFS_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 21st</td>
     <td>113. <a href="https://leetcode.com/problems/path-sum-ii/">Path Sum II</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -82,19 +96,6 @@
     </td>
     <td align="center">
     <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#breadth-first-search">Breadth-First Search</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 17th</td>
-    <td>103. <a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/">Binary Tree Zigzag Level Order Traversal</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/BinaryTreeZigzagLevelOrderTraversal.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#binary-search">Binary Search</a>, 
     <a href="#breadth-first-search">Breadth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
@@ -1436,6 +1437,21 @@
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">437</td>
+    <td><a href="https://leetcode.com/problems/path-sum-iii/">Path Sum III</a></td>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/437.%20Path%20Sum%20III/PathSumIII_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/437.%20Path%20Sum%20III/PathSumIII_DFS_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 <hr>
@@ -2063,6 +2079,21 @@
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#string">String</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">437</td>
+    <td><a href="https://leetcode.com/problems/path-sum-iii/">Path Sum III</a></td>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/437.%20Path%20Sum%20III/PathSumIII_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/437.%20Path%20Sum%20III/PathSumIII_DFS_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
     <td></td>
@@ -5192,6 +5223,21 @@
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#string">String</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">437</td>
+    <td><a href="https://leetcode.com/problems/path-sum-iii/">Path Sum III</a></td>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/437.%20Path%20Sum%20III/PathSumIII_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/437.%20Path%20Sum%20III/PathSumIII_DFS_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
     <td></td>
