@@ -29,6 +29,22 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 23rd</td>
+    <td>114. <a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">Flatten Binary Tree to Linked List</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/FlattenBinaryTreeToLinkedList_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/FlattenBinaryTreeToLinkedList_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#linked-list">Linked List</a>, 
+    <a href="#stack">Stack</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 22nd</td>
     <td>437. <a href="https://leetcode.com/problems/path-sum-iii/">Path Sum III</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -84,19 +100,6 @@
     <td align="center">
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 18th</td>
-    <td>112. <a href="https://leetcode.com/problems/path-sum/">Path Sum</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_BFS.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#breadth-first-search">Breadth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
   </tr>
@@ -1421,6 +1424,23 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">114</td>
+    <td><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">Flatten Binary Tree to Linked List</a></td>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/FlattenBinaryTreeToLinkedList_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/FlattenBinaryTreeToLinkedList_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#linked-list">Linked List</a>, 
+    <a href="#stack">Stack</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">257</td>
     <td><a href="https://leetcode.com/problems/binary-tree-paths/">Binary Tree Paths</a></td>
     <td align="center">Java with Backtracking and 
@@ -1992,6 +2012,23 @@
     <a href="#backtracking">Backtracking</a>, 
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">114</td>
+    <td><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">Flatten Binary Tree to Linked List</a></td>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/FlattenBinaryTreeToLinkedList_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/FlattenBinaryTreeToLinkedList_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#linked-list">Linked List</a>, 
+    <a href="#stack">Stack</a>, 
     <a href="#tree">Tree</a>
     </td>
     <td></td>
@@ -3210,6 +3247,23 @@
     <td align="center">
     <a href="#linked-list">Linked List</a><a>, </a>
     <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">114</td>
+    <td><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">Flatten Binary Tree to Linked List</a></td>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/FlattenBinaryTreeToLinkedList_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/FlattenBinaryTreeToLinkedList_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#linked-list">Linked List</a>, 
+    <a href="#stack">Stack</a>, 
+    <a href="#tree">Tree</a>
     </td>
     <td></td>
   </tr>
@@ -4508,6 +4562,24 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">114</td>
+    <td><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">Flatten Binary Tree to Linked List</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/FlattenBinaryTreeToLinkedList_Iterative.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#linked-list">Linked List</a>, 
+    <a href="#stack">Stack</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/FlattenBinaryTreeToLinkedList_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">144</td>
     <td><a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">Binary Tree Preorder Traversal</a></td>
     <td align="center">Java with 
@@ -5174,6 +5246,23 @@
     <a href="#backtracking">Backtracking</a>, 
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">114</td>
+    <td><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">Flatten Binary Tree to Linked List</a></td>
+    <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/FlattenBinaryTreeToLinkedList_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/FlattenBinaryTreeToLinkedList_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#linked-list">Linked List</a>, 
+    <a href="#stack">Stack</a>, 
     <a href="#tree">Tree</a>
     </td>
     <td></td>
