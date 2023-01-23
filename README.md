@@ -4548,9 +4548,8 @@
   <tr>
     <td align="center">94</td>
     <td><a href="https://leetcode.com/problems/binary-tree-inorder-traversal/">Binary Tree Inorder Traversal</a></td>
-    <td align="center">Java with 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Iterative.java">Depth-First Search (Iterative)</a> or 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Recursive.java">Depth-First Search (Recursive)</a>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Iterative.java">Java</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -4559,7 +4558,9 @@
     <a href="#stack">Stack</a>, 
     <a href="#tree">Tree</a>
     </td>
-    <td></td>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/94.%20Binary%20Tree%20Inorder%20Traversal/BinaryTreeInorderTraversal_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">114</td>
@@ -4582,9 +4583,8 @@
   <tr>
     <td align="center">144</td>
     <td><a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">Binary Tree Preorder Traversal</a></td>
-    <td align="center">Java with 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/144.%20Binary%20Tree%20Preorder%20Traversal/BinaryTreePreorderTraversal_Iterative.java">Depth-First Search (Iterative)</a> or 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/144.%20Binary%20Tree%20Preorder%20Traversal/BinaryTreePreorderTraversal_Recursive.java">Depth-First Search (Recursive)</a>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/144.%20Binary%20Tree%20Preorder%20Traversal/BinaryTreePreorderTraversal_Iterative.java">Java</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -4593,14 +4593,15 @@
     <a href="#stack">Stack</a>, 
     <a href="#tree">Tree</a>
     </td>
-    <td></td>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/144.%20Binary%20Tree%20Preorder%20Traversal/BinaryTreePreorderTraversal_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">145</td>
     <td><a href="https://leetcode.com/problems/binary-tree-postorder-traversal/">Binary Tree Postorder Traversal</a></td>
-    <td align="center">Java with 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/145.%20Binary%20Tree%20Postorder%20Traversal/BinaryTreePostorderTraversal_Iterative.java">Depth-First Search (Iterative)</a> or 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/145.%20Binary%20Tree%20Postorder%20Traversal/BinaryTreePostorderTraversal_Recursive.java">Depth-First Search (Recursive)</a>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/145.%20Binary%20Tree%20Postorder%20Traversal/BinaryTreePostorderTraversal_Iterative.java">Java</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -4609,7 +4610,9 @@
     <a href="#stack">Stack</a>, 
     <a href="#tree">Tree</a>
     </td>
-    <td></td>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/145.%20Binary%20Tree%20Postorder%20Traversal/BinaryTreePostorderTraversal_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">496</td>
