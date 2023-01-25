@@ -29,6 +29,21 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 25th</td>
+    <td>111. <a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of Binary Tree</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree/MinimumDepthOfBinaryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree/MinimumDepthOfBinaryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 24th</td>
     <td>129. <a href="https://leetcode.com/problems/sum-root-to-leaf-numbers/">Sum Root to Leaf Numbers</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -84,22 +99,6 @@
     <a href="#backtracking">Backtracking</a>, 
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 20th</td>
-    <td>257. <a href="https://leetcode.com/problems/binary-tree-paths/">Binary Tree Paths</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">Backtracking and 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/257.%20Binary%20Tree%20Paths/BinaryTreePaths_DFS_Iterative_Backtracking.java">Depth-First Search (Iterative)</a> or 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/257.%20Binary%20Tree%20Paths/BinaryTreePaths_DFS_Recursive_Backtracking.java">Depth-First Search (Recursive)</a>
-    </td>
-    <td align="center">
-    <a href="#backtracking">Backtracking</a>, 
-    <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#depth-first-search">Depth-First Search</a>, 
-    <a href="#string">String</a>, 
     <a href="#tree">Tree</a>
     </td>
   </tr>
