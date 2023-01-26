@@ -29,6 +29,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 26th</td>
+    <td>111. <a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of Binary Tree</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree/MinimumDepthOfBinaryTree_BFS.java">Breadth-First Search</a>
+    </td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 25th</td>
     <td>111. <a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of Binary Tree</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
