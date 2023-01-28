@@ -29,6 +29,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 28th</td>
+    <td>1457. <a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/">Pseudo-Palindromic Paths in a Binary Tree</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_BFS.java">Breadth-First Search</a>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#bit-manipulation">Bit Manipulation</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 27th</td>
     <td>1457. <a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/">Pseudo-Palindromic Paths in a Binary Tree</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -83,22 +97,6 @@
     <td align="center">
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 23rd</td>
-    <td>114. <a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/">Flatten Binary Tree to Linked List</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/FlattenBinaryTreeToLinkedList_Iterative.java">Depth-First Search (Iterative)</a> or 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List/FlattenBinaryTreeToLinkedList_Recursive.java">Depth-First Search (Recursive)</a>
-    </td>
-    <td align="center">
-    <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#depth-first-search">Depth-First Search</a>, 
-    <a href="#linked-list">Linked List</a>, 
-    <a href="#stack">Stack</a>, 
     <a href="#tree">Tree</a>
     </td>
   </tr>
@@ -1525,6 +1523,7 @@
     <td align="center">1457</td>
     <td><a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/">Pseudo-Palindromic Paths in a Binary Tree</a></td>
     <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_BFS.java">Breadth-First Search</a>, 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
@@ -1646,6 +1645,7 @@
     <td align="center">1457</td>
     <td><a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/">Pseudo-Palindromic Paths in a Binary Tree</a></td>
     <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_BFS.java">Breadth-First Search</a>, 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
@@ -1907,6 +1907,25 @@
     </td>
     <td>Solution Using 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/967.%20Numbers%20With%20Same%20Consecutive%20Differences/NumbersWithSameConsecutiveDifferences_Backtracking.java"><em>Backtracking</em></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">1457</td>
+    <td><a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/">Pseudo-Palindromic Paths in a Binary Tree</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_BFS.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#bit-manipulation">Bit Manipulation</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
     </td>
   </tr>
   <tr>
@@ -2319,7 +2338,9 @@
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
-    <td></td>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_BFS.java"><em>Breadth-First Search</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">1971</td>
@@ -5544,6 +5565,7 @@
     <td align="center">1457</td>
     <td><a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/">Pseudo-Palindromic Paths in a Binary Tree</a></td>
     <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_BFS.java">Breadth-First Search</a>, 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
