@@ -29,6 +29,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 30th</td>
+    <td>104. <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree_BFS.java">Breadth-First Search</a>
+    </td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 29th</td>
     <td>104. <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -78,21 +92,6 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree/MinimumDepthOfBinaryTree_BFS.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#breadth-first-search">Breadth-First Search</a>, 
-    <a href="#depth-first-search">Depth-First Search</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 25th</td>
-    <td>111. <a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of Binary Tree</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree/MinimumDepthOfBinaryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree/MinimumDepthOfBinaryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">
     <a href="#binary-tree">Binary Tree</a>, 
@@ -1410,6 +1409,7 @@
     <td align="center">104</td>
     <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
     <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree_BFS.java">Breadth-First Search</a>, 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
@@ -1805,6 +1805,24 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">104</td>
+    <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree_BFS.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">107</td>
     <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal-ii/">Binary Tree Level Order Traversal II</a></td>
     <td align="center">
@@ -2149,7 +2167,9 @@
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
-    <td></td>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree_BFS.java"><em>Breadth-First Search</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">111</td>
@@ -5438,6 +5458,7 @@
     <td align="center">104</td>
     <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
     <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree_BFS.java">Breadth-First Search</a>, 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
