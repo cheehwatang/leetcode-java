@@ -29,6 +29,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">January 31st</td>
+    <td>222. <a href="https://leetcode.com/problems/count-complete-tree-nodes/">Count Complete Tree Nodes</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/222.%20Count%20Complete%20Tree%20Nodes/CountCompleteTreeNodes.java">Java</a>
+    </td>
+    <td align="center">
+    <a href="#binary-search">Binary Search</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">January 30th</td>
     <td>104. <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -82,20 +96,6 @@
     <td align="center">
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#bit-manipulation">Bit Manipulation</a>, 
-    <a href="#depth-first-search">Depth-First Search</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 26th</td>
-    <td>111. <a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of Binary Tree</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree/MinimumDepthOfBinaryTree_BFS.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#breadth-first-search">Breadth-First Search</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
@@ -1313,6 +1313,21 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">222</td>
+    <td><a href="https://leetcode.com/problems/count-complete-tree-nodes/">Count Complete Tree Nodes</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/222.%20Count%20Complete%20Tree%20Nodes/CountCompleteTreeNodes.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-search">Binary Search</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">374</td>
     <td><a href="https://leetcode.com/problems/guess-number-higher-or-lower/">Guess Number Higher or Lower</a></td>
     <td align="center">
@@ -1498,6 +1513,21 @@
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">222</td>
+    <td><a href="https://leetcode.com/problems/count-complete-tree-nodes/">Count Complete Tree Nodes</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/222.%20Count%20Complete%20Tree%20Nodes/CountCompleteTreeNodes.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-search">Binary Search</a>, 
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
@@ -2324,6 +2354,21 @@
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_BFS.java"><em>Breadth-First Search</em></a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_UnionFind.java"><em>Union Find</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">222</td>
+    <td><a href="https://leetcode.com/problems/count-complete-tree-nodes/">Count Complete Tree Nodes</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/222.%20Count%20Complete%20Tree%20Nodes/CountCompleteTreeNodes.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-search">Binary Search</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">257</td>
@@ -5595,6 +5640,21 @@
     <a href="#binary-search">Binary Search</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#stack">Stack</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">222</td>
+    <td><a href="https://leetcode.com/problems/count-complete-tree-nodes/">Count Complete Tree Nodes</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/222.%20Count%20Complete%20Tree%20Nodes/CountCompleteTreeNodes.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#binary-search">Binary Search</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
     <td></td>
