@@ -31,11 +31,11 @@
   <tr>
     <td align="center">February 2nd</td>
     <td>559. <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree/MaximumDepthOfNAryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree/MaximumDepthOfNAryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="#breadth-first-search">Breadth-First Search</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
