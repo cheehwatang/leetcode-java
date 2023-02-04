@@ -29,6 +29,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 4th</td>
+    <td>2359. <a href="https://leetcode.com/problems/find-closest-node-to-given-two-nodes/">Find Closest Node to Given Two Nodes</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes/FindClosestNodeToGivenTwoNodes_DFS.java">Depth-First Search</a>
+    </td>
+    <td align="center">
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#graph">Graph</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 3rd</td>
     <td>559. <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -80,20 +92,6 @@
     <td align="center">
     <a href="#binary-search">Binary Search</a>, 
     <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#depth-first-search">Depth-First Search</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 30th</td>
-    <td>104. <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree_BFS.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#breadth-first-search">Breadth-First Search</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
@@ -2523,6 +2521,19 @@
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_UnionFind.java"><em>Union Find</em></a>
     </td>
   </tr>
+  <tr>
+    <td align="center">2359</td>
+    <td><a href="https://leetcode.com/problems/find-closest-node-to-given-two-nodes/">Find Closest Node to Given Two Nodes</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes/FindClosestNodeToGivenTwoNodes_DFS.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#graph">Graph</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 <hr>
@@ -2875,6 +2886,19 @@
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#graph">Graph</a>, 
     <a href="#union-find">Union Find</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2359</td>
+    <td><a href="https://leetcode.com/problems/find-closest-node-to-given-two-nodes/">Find Closest Node to Given Two Nodes</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes/FindClosestNodeToGivenTwoNodes_DFS.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#graph">Graph</a>
     </td>
     <td></td>
   </tr>
