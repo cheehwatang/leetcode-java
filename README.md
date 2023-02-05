@@ -29,6 +29,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 5th</td>
+    <td>1926. <a href="https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/">Nearest Exit from Entrance in Maze</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze/NearestExitFromEntranceInMaze.java">Breadth-First Search</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#matrix">Matrix</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 4th</td>
     <td>2359. <a href="https://leetcode.com/problems/find-closest-node-to-given-two-nodes/">Find Closest Node to Given Two Nodes</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -79,20 +92,6 @@
     <a href="#binary-tree">Binary Tree</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#string">String</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">January 31st</td>
-    <td>222. <a href="https://leetcode.com/problems/count-complete-tree-nodes/">Count Complete Tree Nodes</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/222.%20Count%20Complete%20Tree%20Nodes/CountCompleteTreeNodes.java">Java</a>
-    </td>
-    <td align="center">
-    <a href="#binary-search">Binary Search</a>, 
-    <a href="#binary-tree">Binary Tree</a>, 
-    <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
   </tr>
@@ -875,6 +874,20 @@
     <a href="#array">Array</a>, 
     <a href="#design">Design</a>, 
     <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1926</td>
+    <td><a href="https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/">Nearest Exit from Entrance in Maze</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze/NearestExitFromEntranceInMaze.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#matrix">Matrix</a>
     </td>
     <td></td>
   </tr>
@@ -2021,6 +2034,20 @@
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1457.%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree/PseudoPalindromicPathsInABinaryTree_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">1926</td>
+    <td><a href="https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/">Nearest Exit from Entrance in Maze</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze/NearestExitFromEntranceInMaze.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1971</td>
@@ -4289,6 +4316,20 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="#array">Array</a><a>, </a>
+    <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1926</td>
+    <td><a href="https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/">Nearest Exit from Entrance in Maze</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1926.%20Nearest%20Exit%20from%20Entrance%20in%20Maze/NearestExitFromEntranceInMaze.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
     <a href="#matrix">Matrix</a>
     </td>
     <td></td>
