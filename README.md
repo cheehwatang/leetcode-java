@@ -29,6 +29,21 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 7th</td>
+    <td>783. <a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/">Minimum Distance Between BST Nodes</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_BFS.java">Breadth-First Search</a>
+    </td>
+    <td align="center">
+    <a href="#binary-search-tree">Binary Search Tree</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 6th</td>
     <td>783. <a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/">Minimum Distance Between BST Nodes</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -75,20 +90,6 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree/MaximumDepthOfNAryTree_BFS.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#breadth-first-search">Breadth-First Search</a>, 
-    <a href="#depth-first-search">Depth-First Search</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 2nd</td>
-    <td>559. <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree/MaximumDepthOfNAryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree/MaximumDepthOfNAryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">
     <a href="#breadth-first-search">Breadth-First Search</a>, 
@@ -1403,6 +1404,7 @@
     <td align="center">783</td>
     <td><a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/">Minimum Distance Between BST Nodes</a></td>
     <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_BFS.java">Breadth-First Search</a>, 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
@@ -1613,6 +1615,7 @@
     <td align="center">783</td>
     <td><a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/">Minimum Distance Between BST Nodes</a></td>
     <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_BFS.java">Breadth-First Search</a>, 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
@@ -2031,6 +2034,24 @@
     <td>Solution Using 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree/MaximumDepthOfNAryTree_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree/MaximumDepthOfNAryTree_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">783</td>
+    <td><a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/">Minimum Distance Between BST Nodes</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_BFS.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+    <a href="#binary-search-tree">Binary Search Tree</a>, 
+    <a href="#binary-tree">Binary Tree</a>, 
+    <a href="#breadth-first-search">Breadth-First Search</a>, 
+    <a href="#depth-first-search">Depth-First Search</a>, 
+    <a href="#tree">Tree</a>
+    </td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a> or 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
     </td>
   </tr>
   <tr>
@@ -2541,7 +2562,9 @@
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
     </td>
-    <td></td>
+    <td>Solution Using 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_BFS.java"><em>Breadth-First Search</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">797</td>
@@ -5924,6 +5947,7 @@
     <td align="center">783</td>
     <td><a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/">Minimum Distance Between BST Nodes</a></td>
     <td align="center">Java with 
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_BFS.java">Breadth-First Search</a>, 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
