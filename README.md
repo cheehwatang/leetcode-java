@@ -2049,7 +2049,8 @@
     <a href="#breadth-first-search">Breadth-First Search</a>, 
     <a href="#depth-first-search">Depth-First Search</a>, 
     <a href="#tree">Tree</a>
-    </td>Solution Using 
+    </td>
+    <td>Solution Using 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a> or 
     <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/783.%20Minimum%20Distance%20Between%20BST%20Nodes/MinimumDistanceBetweenBSTNodes_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
     </td>
