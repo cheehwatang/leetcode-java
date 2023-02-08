@@ -29,6 +29,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 8th</td>
+    <td>904. <a href="https://leetcode.com/problems/fruit-into-baskets/">Fruit Into Baskets</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/904.%20Fruit%20Into%20Baskets/FruitIntoBaskets.java">Java</a>
+    </td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sliding-window">Sliding Window</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 7th</td>
     <td>783. <a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/">Minimum Distance Between BST Nodes</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -84,19 +97,6 @@
     <a href="#graph">Graph</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">February 3rd</td>
-    <td>559. <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Maximum Depth of Binary Tree</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree/MaximumDepthOfNAryTree_BFS.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-    <a href="#breadth-first-search">Breadth-First Search</a>, 
-    <a href="#depth-first-search">Depth-First Search</a>, 
-    <a href="#tree">Tree</a>
-    </td>
-  </tr>
 </table>
 </br>
 <hr>
@@ -133,6 +133,7 @@
   <li><a href="#prefix-sum">Prefix Sum</a></li>
   <li><a href="#recursion">Recursion</a></li>
   <li><a href="#simulation">Simulation</a></li>
+  <li><a href="#sliding-window">Sliding Window</a></li>
   <li><a href="#sorting">Sorting</a></li>
   <li><a href="#stack">Stack</a></li>
   <li><a href="#string">String</a></li>
@@ -553,6 +554,20 @@
     <td align="center">
     <a href="#array">Array</a>, 
     <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">904</td>
+    <td><a href="https://leetcode.com/problems/fruit-into-baskets/">Fruit Into Baskets</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/904.%20Fruit%20Into%20Baskets/FruitIntoBaskets.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sliding-window">Sliding Window</a>
     </td>
     <td></td>
   </tr>
@@ -3399,6 +3414,20 @@
     </td>
   </tr>
   <tr>
+    <td align="center">904</td>
+    <td><a href="https://leetcode.com/problems/fruit-into-baskets/">Fruit Into Baskets</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/904.%20Fruit%20Into%20Baskets/FruitIntoBaskets.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sliding-window">Sliding Window</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">929</td>
     <td><a href="https://leetcode.com/problems/unique-email-addresses/">Unique Email Addresses</a></td>
     <td align="center">
@@ -4803,6 +4832,35 @@
     <td align="center">
     <a href="#math">Math</a><a>, </a>
     <a href="#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<hr>
+</details>
+
+<details><summary><h3 id="sliding-window">Sliding Window</h3></summary>
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">904</td>
+    <td><a href="https://leetcode.com/problems/fruit-into-baskets/">Fruit Into Baskets</a></td>
+    <td align="center">
+    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/904.%20Fruit%20Into%20Baskets/FruitIntoBaskets.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+    <a href="#array">Array</a><a>, </a>
+    <a href="#hash-table">Hash Table</a><a>, </a>
+    <a href="#sliding-window">Sliding Window</a>
     </td>
     <td></td>
   </tr>
