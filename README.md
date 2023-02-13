@@ -29,6 +29,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 13th</td>
+    <td>110. <a href="https://leetcode.com/problems/balanced-binary-tree/">Balanced Binary Tree</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/110.%20Balanced%20Binary%20Tree/BalancedBinaryTree.java">Depth-First Search</a>
+    </td>
+    <td align="center">
+      <a href="#binary-tree">Binary Tree</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 12th</td>
     <td>98. <a href="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -84,19 +97,6 @@
     <a href="#hash-table">Hash Table</a>, 
     <a href="#sliding-window">Sliding Window</a>, 
     <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 8th</td>
-    <td>904. <a href="https://leetcode.com/problems/fruit-into-baskets/">Fruit Into Baskets</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/904.%20Fruit%20Into%20Baskets/FruitIntoBaskets.java">Hash Table & Sliding Window</a>
-    </td>
-    <td align="center">
-    <a href="#array">Array</a>, 
-    <a href="#hash-table">Hash Table</a>, 
-    <a href="#sliding-window">Sliding Window</a>
     </td>
   </tr>
 </table>
@@ -1538,6 +1538,20 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">110</td>
+    <td><a href="https://leetcode.com/problems/balanced-binary-tree/">Balanced Binary Tree</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/110.%20Balanced%20Binary%20Tree/BalancedBinaryTree.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#binary-tree">Binary Tree</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">111</td>
     <td><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth of Binary Tree</a></td>
     <td align="center">Java with 
@@ -2441,6 +2455,20 @@
     <td>Solution Using 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree/MaximumDepthOfBinaryTree_BFS.java"><em>Breadth-First Search</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">110</td>
+    <td><a href="https://leetcode.com/problems/balanced-binary-tree/">Balanced Binary Tree</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/110.%20Balanced%20Binary%20Tree/BalancedBinaryTree.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#binary-tree">Binary Tree</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">111</td>
@@ -6118,6 +6146,20 @@
     <td align="center">
       <a href="#binary-search">Binary Search</a>, 
       <a href="#breadth-first-search">Breadth-First Search</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">110</td>
+    <td><a href="https://leetcode.com/problems/balanced-binary-tree/">Balanced Binary Tree</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/110.%20Balanced%20Binary%20Tree/BalancedBinaryTree.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#binary-tree">Binary Tree</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#tree">Tree</a>
     </td>
     <td></td>
