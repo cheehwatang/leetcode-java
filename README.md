@@ -29,6 +29,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 14th</td>
+    <td>429. <a href="https://leetcode.com/problems/n-ary-tree-level-order-traversal/">N-ary Tree Level Order Traversal</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/429.%20N-ary%20Tree%20Level%20Order%20Traversal/NAryTreeLevelOrderTraversal.java">Breadth-First Search</a>
+    </td>
+    <td align="center">
+      <a href="#breadth-first-search">Breadth-First Search</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 13th</td>
     <td>110. <a href="https://leetcode.com/problems/balanced-binary-tree/">Balanced Binary Tree</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -69,7 +81,6 @@
       <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#tree">Tree</a>
     </td>
-    <td></td>
   </tr>
   <tr>
     <td align="center">February 10th</td>
@@ -84,19 +95,6 @@
       <a href="#breadth-first-search">Breadth-First Search</a>, 
       <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 9th</td>
-    <td>438. <a href="https://leetcode.com/problems/find-all-anagrams-in-a-string/">Find All Anagrams in a String</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-    <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/438.%20Find%20All%20Anagrams%20in%20a%20String/FindAllAnagramsInAString.java">Hash Table & Sliding Window</a>
-    </td>
-    <td align="center">
-    <a href="#hash-table">Hash Table</a>, 
-    <a href="#sliding-window">Sliding Window</a>, 
-    <a href="#string">String</a>
     </td>
   </tr>
 </table>
@@ -2125,6 +2123,19 @@
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/404.%20Sum%20of%20Left%20Leaves/SumOfLeftLeaves_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a> or 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/404.%20Sum%20of%20Left%20Leaves/SumOfLeftLeaves_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">429</td>
+    <td><a href="https://leetcode.com/problems/n-ary-tree-level-order-traversal/">N-ary Tree Level Order Traversal</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/429.%20N-ary%20Tree%20Level%20Order%20Traversal/NAryTreeLevelOrderTraversal.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#breadth-first-search">Breadth-First Search</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">559</td>
@@ -6323,6 +6334,19 @@
       <a href="#binary-tree">Binary Tree</a>, 
       <a href="#breadth-first-search">Breadth-First Search</a>, 
       <a href="#depth-first-search">Depth-First Search</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">429</td>
+    <td><a href="https://leetcode.com/problems/n-ary-tree-level-order-traversal/">N-ary Tree Level Order Traversal</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/429.%20N-ary%20Tree%20Level%20Order%20Traversal/NAryTreeLevelOrderTraversal.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#breadth-first-search">Breadth-First Search</a>, 
       <a href="#tree">Tree</a>
     </td>
     <td></td>
