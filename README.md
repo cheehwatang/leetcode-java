@@ -29,6 +29,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 15th</td>
+    <td>567. <a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/567.%20Permutation%20in%20String/PermutationInString.java">Hash Table, Sliding Window & Two Pointers</a>
+    </td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sliding-window">Sliding Window</a>, 
+      <a href="#string">String</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 14th</td>
     <td>429. <a href="https://leetcode.com/problems/n-ary-tree-level-order-traversal/">N-ary Tree Level Order Traversal</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,21 +88,6 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/404.%20Sum%20of%20Left%20Leaves/SumOfLeftLeaves_BFS.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-      <a href="#binary-tree">Binary Tree</a>, 
-      <a href="#breadth-first-search">Breadth-First Search</a>, 
-      <a href="#depth-first-search">Depth-First Search</a>, 
-      <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 10th</td>
-    <td>404. <a href="https://leetcode.com/problems/sum-of-left-leaves/">Sum of Left Leaves</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/404.%20Sum%20of%20Left%20Leaves/SumOfLeftLeaves_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/404.%20Sum%20of%20Left%20Leaves/SumOfLeftLeaves_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">
       <a href="#binary-tree">Binary Tree</a>, 
@@ -3563,6 +3562,21 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">567</td>
+    <td><a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/567.%20Permutation%20in%20String/PermutationInString.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sliding-window">Sliding Window</a>, 
+      <a href="#string">String</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">609</td>
     <td><a href="https://leetcode.com/problems/find-duplicate-file-in-system/">Find Duplicate File in System</a></td>
     <td align="center">
@@ -5112,6 +5126,21 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">567</td>
+    <td><a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/567.%20Permutation%20in%20String/PermutationInString.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sliding-window">Sliding Window</a>, 
+      <a href="#string">String</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">904</td>
     <td><a href="https://leetcode.com/problems/fruit-into-baskets/">Fruit Into Baskets</a></td>
     <td align="center">
@@ -5741,6 +5770,21 @@
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#math">Math</a>, 
+      <a href="#string">String</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">567</td>
+    <td><a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/567.%20Permutation%20in%20String/PermutationInString.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sliding-window">Sliding Window</a>, 
       <a href="#string">String</a>, 
       <a href="#two-pointers">Two Pointers</a>
     </td>
@@ -6596,6 +6640,21 @@
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#math">Math</a>, 
+      <a href="#string">String</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">567</td>
+    <td><a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/567.%20Permutation%20in%20String/PermutationInString.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sliding-window">Sliding Window</a>, 
       <a href="#string">String</a>, 
       <a href="#two-pointers">Two Pointers</a>
     </td>
