@@ -29,6 +29,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 16th</td>
+    <td>1470. <a href="https://leetcode.com/problems/shuffle-the-array/">Shuffle the Array</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1470.%20Shuffle%20the%20Array/ShuffleTheArray.java">Array</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 15th</td>
     <td>567. <a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -78,20 +89,6 @@
     <td align="center">
       <a href="#binary-search-tree">Binary Search Tree</a>, 
       <a href="#binary-tree">Binary Tree</a>, 
-      <a href="#depth-first-search">Depth-First Search</a>, 
-      <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 11th</td>
-    <td>404. <a href="https://leetcode.com/problems/sum-of-left-leaves/">Sum of Left Leaves</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/404.%20Sum%20of%20Left%20Leaves/SumOfLeftLeaves_BFS.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-      <a href="#binary-tree">Binary Tree</a>, 
-      <a href="#breadth-first-search">Breadth-First Search</a>, 
       <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#tree">Tree</a>
     </td>
@@ -780,6 +777,18 @@
       <a href="#heap-priority-queue">Heap (Priority Queue)</a>, 
       <a href="#matrix">Matrix</a>, 
       <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1470</td>
+    <td><a href="https://leetcode.com/problems/shuffle-the-array/">Shuffle the Array</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1470.%20Shuffle%20the%20Array/ShuffleTheArray.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>
     </td>
     <td></td>
   </tr>
