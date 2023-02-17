@@ -29,6 +29,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 17th</td>
+    <td>6. <a href="https://leetcode.com/problems/zigzag-conversion/">Zigzag Conversion</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/6.%20Zigzag%20Conversion/ZigzagConversion.java">String</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 16th</td>
     <td>1470. <a href="https://leetcode.com/problems/shuffle-the-array/">Shuffle the Array</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,21 +84,6 @@
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/110.%20Balanced%20Binary%20Tree/BalancedBinaryTree.java">Depth-First Search</a>
     </td>
     <td align="center">
-      <a href="#binary-tree">Binary Tree</a>, 
-      <a href="#depth-first-search">Depth-First Search</a>, 
-      <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 12th</td>
-    <td>98. <a href="https://leetcode.com/problems/validate-binary-search-tree/">Validate Binary Search Tree</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/98.%20Validate%20Binary%20Search%20Tree/ValidateBinarySearchTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/98.%20Validate%20Binary%20Search%20Tree/ValidateBinarySearchTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
-    </td>
-    <td align="center">
-      <a href="#binary-search-tree">Binary Search Tree</a>, 
       <a href="#binary-tree">Binary Tree</a>, 
       <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#tree">Tree</a>
@@ -5581,6 +5577,18 @@
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">6</td>
+    <td><a href="https://leetcode.com/problems/zigzag-conversion/">Zigzag Conversion</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/6.%20Zigzag%20Conversion/ZigzagConversion.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#string">String</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">12</td>
