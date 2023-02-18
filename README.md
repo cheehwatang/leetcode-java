@@ -29,6 +29,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 18th</td>
+    <td>944. <a href="https://leetcode.com/problems/delete-columns-to-make-sorted/">Delete Columns to Make Sorted</a></td>
+    <td align="center">String</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/944.%20Delete%20Columns%20to%20Make%20Sorted/DeleteColumnsToMakeSorted.java">Java</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 17th</td>
     <td>6. <a href="https://leetcode.com/problems/zigzag-conversion/">Zigzag Conversion</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -73,19 +85,6 @@
     </td>
     <td align="center">
       <a href="#breadth-first-search">Breadth-First Search</a>, 
-      <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 13th</td>
-    <td>110. <a href="https://leetcode.com/problems/balanced-binary-tree/">Balanced Binary Tree</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/110.%20Balanced%20Binary%20Tree/BalancedBinaryTree.java">Depth-First Search</a>
-    </td>
-    <td align="center">
-      <a href="#binary-tree">Binary Tree</a>, 
-      <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#tree">Tree</a>
     </td>
   </tr>
@@ -616,6 +615,19 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">944</td>
+    <td><a href="https://leetcode.com/problems/delete-columns-to-make-sorted/">Delete Columns to Make Sorted</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/944.%20Delete%20Columns%20to%20Make%20Sorted/DeleteColumnsToMakeSorted.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -5831,6 +5843,19 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#hash-table">Hash Table</a>, 
+      <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">944</td>
+    <td><a href="https://leetcode.com/problems/delete-columns-to-make-sorted/">Delete Columns to Make Sorted</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/944.%20Delete%20Columns%20to%20Make%20Sorted/DeleteColumnsToMakeSorted.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
       <a href="#string">String</a>
     </td>
     <td></td>
