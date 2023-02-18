@@ -31,7 +31,7 @@
   <tr>
     <td align="center">February 18th</td>
     <td>944. <a href="https://leetcode.com/problems/delete-columns-to-make-sorted/">Delete Columns to Make Sorted</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">String</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/944.%20Delete%20Columns%20to%20Make%20Sorted/DeleteColumnsToMakeSorted.java">Java</a>
     </td>
