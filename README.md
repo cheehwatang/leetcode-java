@@ -29,11 +29,22 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 19th</td>
+    <td>2129. <a href="https://leetcode.com/problems/capitalize-the-title/">Capitalize the Title</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2129.%20Capitalize%20the%20Title/CapitalizeTheTitle.java">String</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 18th</td>
     <td>944. <a href="https://leetcode.com/problems/delete-columns-to-make-sorted/">Delete Columns to Make Sorted</a></td>
-    <td align="center">String</td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/944.%20Delete%20Columns%20to%20Make%20Sorted/DeleteColumnsToMakeSorted.java">Java</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/944.%20Delete%20Columns%20to%20Make%20Sorted/DeleteColumnsToMakeSorted.java">String</a>
     </td>
     <td align="center">
       <a href="#array">Array</a>, 
@@ -74,18 +85,6 @@
       <a href="#sliding-window">Sliding Window</a>, 
       <a href="#string">String</a>, 
       <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 14th</td>
-    <td>429. <a href="https://leetcode.com/problems/n-ary-tree-level-order-traversal/">N-ary Tree Level Order Traversal</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/429.%20N-ary%20Tree%20Level%20Order%20Traversal/NAryTreeLevelOrderTraversal.java">Breadth-First Search</a>
-    </td>
-    <td align="center">
-      <a href="#breadth-first-search">Breadth-First Search</a>, 
-      <a href="#tree">Tree</a>
     </td>
   </tr>
 </table>
@@ -6021,6 +6020,18 @@
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
+      <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2129</td>
+    <td><a href="https://leetcode.com/problems/capitalize-the-title/">Capitalize the Title</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2129.%20Capitalize%20the%20Title/CapitalizeTheTitle.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
       <a href="#string">String</a>
     </td>
     <td></td>
