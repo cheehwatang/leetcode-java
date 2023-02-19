@@ -33,7 +33,7 @@
     <td>2129. <a href="https://leetcode.com/problems/capitalize-the-title/">Capitalize the Title</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2129.%20Capitalize%20the%20Title/CapitalizeTheTitle.java">Java</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2129.%20Capitalize%20the%20Title/CapitalizeTheTitle.java">String</a>
     </td>
     <td align="center">
       <a href="#string">String</a>
