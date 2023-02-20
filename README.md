@@ -29,6 +29,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 20th</td>
+    <td>1833. <a href="https://leetcode.com/problems/maximum-ice-cream-bars/">Maximum Ice Cream Bars</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1833.%20Maximum%20Ice%20Cream%20Bars/MaximumIceCreamBars.java">Greedy & Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 19th</td>
     <td>2129. <a href="https://leetcode.com/problems/capitalize-the-title/">Capitalize the Title</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -71,20 +84,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 15th</td>
-    <td>567. <a href="https://leetcode.com/problems/permutation-in-string/">Permutation in String</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/567.%20Permutation%20in%20String/PermutationInString.java">Hash Table, Sliding Window & Two Pointers</a>
-    </td>
-    <td align="center">
-      <a href="#hash-table">Hash Table</a>, 
-      <a href="#sliding-window">Sliding Window</a>, 
-      <a href="#string">String</a>, 
-      <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
@@ -881,6 +880,20 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1833</td>
+    <td><a href="https://leetcode.com/problems/maximum-ice-cream-bars/">Maximum Ice Cream Bars</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1833.%20Maximum%20Ice%20Cream%20Bars/MaximumIceCreamBars.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -3306,6 +3319,20 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">1833</td>
+    <td><a href="https://leetcode.com/problems/maximum-ice-cream-bars/">Maximum Ice Cream Bars</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1833.%20Maximum%20Ice%20Cream%20Bars/MaximumIceCreamBars.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2007</td>
     <td><a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
     <td align="center">Java with 
@@ -5358,6 +5385,20 @@
     <td>Solution Using 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_HashTable.java"><em>Hash Table</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">1833</td>
+    <td><a href="https://leetcode.com/problems/maximum-ice-cream-bars/">Maximum Ice Cream Bars</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1833.%20Maximum%20Ice%20Cream%20Bars/MaximumIceCreamBars.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1834</td>
