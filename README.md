@@ -29,6 +29,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 21th</td>
+    <td>134. <a href="https://leetcode.com/problems/gas-station/">Gas Station</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/134.%20Gas%20Station/GasStation.java">Greedy</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 20th</td>
     <td>1833. <a href="https://leetcode.com/problems/maximum-ice-cream-bars/">Maximum Ice Cream Bars</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -73,17 +85,6 @@
     </td>
     <td align="center">
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 16th</td>
-    <td>1470. <a href="https://leetcode.com/problems/shuffle-the-array/">Shuffle the Array</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1470.%20Shuffle%20the%20Array/ShuffleTheArray.java">Array</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>
     </td>
   </tr>
 </table>
@@ -300,6 +301,19 @@
       <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#matrix">Matrix</a>, 
       <a href="#union-find">Union Find</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">134</td>
+    <td><a href="https://leetcode.com/problems/gas-station/">Gas Station</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/134.%20Gas%20Station/GasStation.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>
     </td>
     <td></td>
   </tr>
@@ -3232,6 +3246,19 @@
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">134</td>
+    <td><a href="https://leetcode.com/problems/gas-station/">Gas Station</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/134.%20Gas%20Station/GasStation.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">334</td>
