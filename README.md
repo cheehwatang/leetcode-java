@@ -1,4 +1,3 @@
-
 <h1 align="center"><b>LeetCode Java Solutions</b></h1>
 </br>
 
@@ -29,7 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
-    <td align="center">February 21th</td>
+    <td align="center">February 22nd</td>
+    <td>1523. <a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/">Count Odd Numbers in an Interval Range</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range/CountOddNumbersInAnIntervalRange.java">Math</a>
+    </td>
+    <td align="center">
+      <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">February 21st</td>
     <td>134. <a href="https://leetcode.com/problems/gas-station/">Gas Station</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
@@ -4504,6 +4514,18 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#bit-manipulation">Bit Manipulation</a>, 
+      <a href="#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1523</td>
+    <td><a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/">Count Odd Numbers in an Interval Range</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range/CountOddNumbersInAnIntervalRange.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
       <a href="#math">Math</a>
     </td>
     <td></td>
