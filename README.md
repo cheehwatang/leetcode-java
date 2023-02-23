@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 23rd</td>
+    <td>520. <a href="https://leetcode.com/problems/detect-capital/">Detect Capital</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/520.%20Detect%20Capital/DetectCapital.java">String</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 22nd</td>
     <td>1523. <a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/">Count Odd Numbers in an Interval Range</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -69,29 +80,6 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2129.%20Capitalize%20the%20Title/CapitalizeTheTitle.java">String</a>
-    </td>
-    <td align="center">
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 18th</td>
-    <td>944. <a href="https://leetcode.com/problems/delete-columns-to-make-sorted/">Delete Columns to Make Sorted</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/944.%20Delete%20Columns%20to%20Make%20Sorted/DeleteColumnsToMakeSorted.java">String</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 17th</td>
-    <td>6. <a href="https://leetcode.com/problems/zigzag-conversion/">Zigzag Conversion</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/6.%20Zigzag%20Conversion/ZigzagConversion.java">String</a>
     </td>
     <td align="center">
       <a href="#string">String</a>
@@ -5875,6 +5863,18 @@
     <td align="center">
       <a href="#hash-table">Hash Table</a>, 
       <a href="#sliding-window">Sliding Window</a>, 
+      <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">520</td>
+    <td><a href="https://leetcode.com/problems/detect-capital/">Detect Capital</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/520.%20Detect%20Capital/DetectCapital.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
       <a href="#string">String</a>
     </td>
     <td></td>
