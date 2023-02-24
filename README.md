@@ -28,7 +28,7 @@
     <th>Topics</th>
   </tr>
   <tr>
-    <td align="center">February 24rd</td>
+    <td align="center">February 24th/td>
     <td>57. <a href="https://leetcode.com/problems/insert-interval/">Insert Interval</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
