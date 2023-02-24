@@ -2,8 +2,8 @@
 </br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/language-java-blue">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/update-daily-green">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/language-java-blue">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/update-daily-green">&nbsp;&nbsp;
 </div>
 </br>
 
@@ -26,6 +26,17 @@
     <th>Difficulty</th>
     <th>Solution</th>
     <th>Topics</th>
+  </tr>
+  <tr>
+    <td align="center">February 24th</td>
+    <td>57. <a href="https://leetcode.com/problems/insert-interval/">Insert Interval</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/57.%20Insert%20Interval/InsertInterval.java">Array</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
   </tr>
   <tr>
     <td align="center">February 23rd</td>
@@ -72,17 +83,6 @@
       <a href="#array">Array</a>, 
       <a href="#greedy">Greedy</a>, 
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 19th</td>
-    <td>2129. <a href="https://leetcode.com/problems/capitalize-the-title/">Capitalize the Title</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2129.%20Capitalize%20the%20Title/CapitalizeTheTitle.java">String</a>
-    </td>
-    <td align="center">
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
@@ -223,6 +223,18 @@
       <a href="#hash-table">Hash Table</a>, 
       <a href="#sorting">Sorting</a>, 
       <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">57</td>
+    <td><a href="https://leetcode.com/problems/insert-interval/">Insert Interval</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/57.%20Insert%20Interval/InsertInterval.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>
     </td>
     <td></td>
   </tr>
