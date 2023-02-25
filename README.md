@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 25th</td>
+    <td>1061. <a href="https://leetcode.com/problems/lexicographically-smallest-equivalent-string/">Lexicographically Smallest Equivalent String</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1061.%20Lexicographically%20Smallest%20Equivalent%20String/LexicographicallySmallestEquivalentString.java">Union Find</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>, 
+      <a href="#union-find">Union Find</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 24th</td>
     <td>57. <a href="https://leetcode.com/problems/insert-interval/">Insert Interval</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -70,19 +82,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#greedy">Greedy</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 20th</td>
-    <td>1833. <a href="https://leetcode.com/problems/maximum-ice-cream-bars/">Maximum Ice Cream Bars</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1833.%20Maximum%20Ice%20Cream%20Bars/MaximumIceCreamBars.java">Greedy & Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#greedy">Greedy</a>, 
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
@@ -5991,6 +5990,19 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">1061</td>
+    <td><a href="https://leetcode.com/problems/lexicographically-smallest-equivalent-string/">Lexicographically Smallest Equivalent String</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1061.%20Lexicographically%20Smallest%20Equivalent%20String/LexicographicallySmallestEquivalentString.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#string">String</a>, 
+      <a href="#union-find">Union Find</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1071</td>
     <td><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">Greatest Common Divisor of Strings</a></td>
     <td align="center">
@@ -6984,6 +6996,19 @@
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_BFS.java"><em>Breadth-First Search</em></a> or 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/200.%20Number%20of%20Islands/NumberOfIslands_DFS.java"><em>Depth-First Search</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">1061</td>
+    <td><a href="https://leetcode.com/problems/lexicographically-smallest-equivalent-string/">Lexicographically Smallest Equivalent String</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1061.%20Lexicographically%20Smallest%20Equivalent%20String/LexicographicallySmallestEquivalentString.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#string">String</a>, 
+      <a href="#union-find">Union Find</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1971</td>
