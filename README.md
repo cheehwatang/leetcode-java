@@ -5636,7 +5636,7 @@
       <a href="#string">String</a>
     </td>
     <td>Solution Using 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/RemoveAllAdjacentDuplicatesInString_StringBuilder.java">StringBuilder only</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/RemoveAllAdjacentDuplicatesInString_StringBuilder.java"><em>StringBuilder only</em></a>
     </td>
   </tr>
   <tr>
@@ -5991,7 +5991,7 @@
       <a href="#string">String</a>
     </td>
     <td>Solution Using 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/RemoveAllAdjacentDuplicatesInString_Stack.java">Stack</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/RemoveAllAdjacentDuplicatesInString_Stack.java"><em>Stack</em></a>
     </td>
   </tr>
   <tr>
