@@ -1,35 +1,12 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given two strings, 'str1' and 'str2', return the largest string 'x' such that 'x' divides both 'str1' and 'str2'.
- * 'str1' and 'str2' is divisible by 'x' if and only if 'str1' or 'str2' = 'x' + 'x' + .... + 'x',
- * with 'x' concatenated with itself multiple times.
- *
- *
- * Example 1:
- * Input    : str1 = "ABAB", str2 = "AB"
- * Output   : "AB"
- * Explanation:
- * Both "ABAB" and "AB" is commonly divisible by "AB".
- *
- *
- * Example 2:
- * Input    : str1 = "EEEEE", str2 = "EEE"
- * Output   : "E"
- * Explanation:
- * Both "EEEEE" and "EEE" is commonly divisible by "E".
- *
- *
- * Example 3:
- * Input    : str1 = "ABCD", str2 = "AB"
- * Output   : ""
- * Explanation:
- * No string is able to commonly divide "ABCD" and "AB".
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of the longest string.
+// This happens when the greatest common divisor is a string of length 1.
+//
+// Space Complexity : O(n),
+// where 'n' is the length of the longest string.
+// The maximum height of the recursive call stack is 'n' when the greatest common divisor is a string of length 1.
 
 public class GreatestCommonDivisorOfStrings {
 
