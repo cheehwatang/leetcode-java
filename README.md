@@ -32,7 +32,7 @@
     <td>1071. <a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">Greatest Common Divisor of Strings</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1071.%20Greatest%20Common%20Divisor%20of%20Strings/GreatestCommonDivisorOfStrings.java">Java</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1071.%20Greatest%20Common%20Divisor%20of%20Strings/GreatestCommonDivisorOfStrings.java">Math & String</a>
     </td>
     <td align="center">
       <a href="#math">Math</a>, 
