@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 27th</td>
+    <td>1071. <a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">Greatest Common Divisor of Strings</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1071.%20Greatest%20Common%20Divisor%20of%20Strings/GreatestCommonDivisorOfStrings.java">Math & String</a>
+    </td>
+    <td align="center">
+      <a href="#math">Math</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 26th</td>
     <td>1047. <a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/">Remove All Adjacent Duplicates In String</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -72,17 +84,6 @@
     </td>
     <td align="center">
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 22nd</td>
-    <td>1523. <a href="https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/">Count Odd Numbers in an Interval Range</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range/CountOddNumbersInAnIntervalRange.java">Math</a>
-    </td>
-    <td align="center">
-      <a href="#math">Math</a>
     </td>
   </tr>
 </table>
