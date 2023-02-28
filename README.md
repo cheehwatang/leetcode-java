@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">February 28th</td>
+    <td>12. <a href="https://leetcode.com/problems/integer-to-roman/">Integer to Roman</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/12.%20Integer%20to%20Roman/IntegerToRoman_HashTable.java">With</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/12.%20Integer%20to%20Roman/IntegerToRoman_WithoutHashTable.java">Without Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#math">Math</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 27th</td>
     <td>1071. <a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">Greatest Common Divisor of Strings</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,17 +87,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 23rd</td>
-    <td>520. <a href="https://leetcode.com/problems/detect-capital/">Detect Capital</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/520.%20Detect%20Capital/DetectCapital.java">String</a>
-    </td>
-    <td align="center">
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
@@ -3466,7 +3469,7 @@
     <td align="center">12</td>
     <td><a href="https://leetcode.com/problems/integer-to-roman/">Integer to Roman</a></td>
     <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/12.%20Integer%20to%20Roman/IntegerToRoman.java">Java</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/12.%20Integer%20to%20Roman/IntegerToRoman_HashTable.java">Java</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
@@ -3474,7 +3477,9 @@
       <a href="#math">Math</a>, 
       <a href="#string">String</a>
     </td>
-    <td></td>
+    <td>Solution 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/12.%20Integer%20to%20Roman/IntegerToRoman_WithoutHashTable.java"><em>without Hash Table</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">13</td>
@@ -4160,8 +4165,9 @@
   <tr>
     <td align="center">12</td>
     <td><a href="https://leetcode.com/problems/integer-to-roman/">Integer to Roman</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/12.%20Integer%20to%20Roman/IntegerToRoman.java">Java</a>
+    <td align="center">Java 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/12.%20Integer%20to%20Roman/IntegerToRoman_HashTable.java">with</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/12.%20Integer%20to%20Roman/IntegerToRoman_WithoutHashTable.java">without Hash Table</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
@@ -5697,8 +5703,9 @@
   <tr>
     <td align="center">12</td>
     <td><a href="https://leetcode.com/problems/integer-to-roman/">Integer to Roman</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/12.%20Integer%20to%20Roman/IntegerToRoman.java">Java</a>
+    <td align="center">Java 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/12.%20Integer%20to%20Roman/IntegerToRoman_HashTable.java">with</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/12.%20Integer%20to%20Roman/IntegerToRoman_WithoutHashTable.java">without Hash Table</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
