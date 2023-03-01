@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 1st</td>
+    <td>13. <a href="https://leetcode.com/problems/roman-to-integer/">Roman to Integer</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_HashMap.java">With</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_WithoutHashMap.java">Without Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#math">Math</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">February 28th</td>
     <td>12. <a href="https://leetcode.com/problems/integer-to-roman/">Integer to Roman</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -76,17 +90,6 @@
     <td align="center">
       <a href="#string">String</a>, 
       <a href="#union-find">Union Find</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 24th</td>
-    <td>57. <a href="https://leetcode.com/problems/insert-interval/">Insert Interval</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/57.%20Insert%20Interval/InsertInterval.java">Array</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>
     </td>
   </tr>
 </table>
@@ -3494,7 +3497,7 @@
       <a href="#string">String</a>
     </td>
     <td>Solution 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger.java"><em>Without Hash Table</em></a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_WithoutHashMap.java"><em>without Hash Table</em></a>
     </td>
   </tr>
   <tr>
@@ -4180,8 +4183,9 @@
   <tr>
     <td align="center">13</td>
     <td><a href="https://leetcode.com/problems/roman-to-integer/">Roman to Integer</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger.java">Java</a>
+    <td align="center">Java 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_HashMap.java">with</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_WithoutHashMap.java">without Hash Table</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -4189,9 +4193,7 @@
       <a href="#math">Math</a>, 
       <a href="#string">String</a>
     </td>
-    <td>Solution Using 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_HashMap.java"><em>Hash Table</em></a>
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">29</td>
@@ -5718,8 +5720,9 @@
   <tr>
     <td align="center">13</td>
     <td><a href="https://leetcode.com/problems/roman-to-integer/">Roman to Integer</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger.java">Java</a>
+    <td align="center">Java 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_HashMap.java">with</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_WithoutHashMap.java">without Hash Table</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -5727,9 +5730,7 @@
       <a href="#math">Math</a>, 
       <a href="#string">String</a>
     </td>
-    <td>Solution Using 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/13.%20Roman%20to%20Integer/RomanToInteger_HashMap.java"><em>Hash Table</em></a>
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">38</td>
