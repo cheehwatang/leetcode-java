@@ -1,43 +1,29 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given a valid Roman numeral, return the integer value.
- * 
- * Note:
- * Basics of Roman numeral:
- * I = 1
- * V = 5
- * X = 10
- * L = 50
- * C = 100
- * D = 500
- * M = 1000
- *
- * Written with the largest to smallest from left to right, with following priorities:
- * Thousands(M) -> Hundreds(D,C) -> Tens(L,X) -> Ones(V,I)
- *
- * Example 1: XXXVII = XXX(3 * 10) + V(5) + II(2 * 1) = 37
- *
- * Roman numerals represent 4 and 9 with the following:
- * 4 = IV (not IIII), 9 = IX (not VIIII)
- *
- * Likewise for 40 = XL, 90 = XC, 400 = CD and 900 = CM.
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of the input string 's'.
+// We iterate through the string 's' once to check each roman numeral and adjust the sum accordingly.
+//
+// Space Complexity : O(1),
+// as the auxiliary space used for the variables is independent on the size of the input string 's'.
 
-public class RomanToInteger {
+public class RomanToInteger_WithoutHashMap {
 
+    // Approach:
     // Generally, the Roman characters increases in value from right to left. However...
     // Notice the pattern in the Roman numeral, where IV = 5 - 1, IX = 10 - 1, XL = 50 - 10 etc.
     // Whenever the left (eg I) is less than the right (eg X), we will deduct left (in this case 1).
-    // Thus, we will keep track of the previous value to compare.
+    // Thus, we need to keep track of the previous value to compare.
+    //
+    // Here, we use switch case to check for the roman numeral and integer pair.
+    // As compared to using HashMap, this approach is more time-consuming,
+    // as we need to iterate through the switch cases, but saves on the memory from the HashMap.
 
     public int romanToInt(String s) {
         int sum = 0;
         int previous = 0;
         int current = 0;
+        // Starting from the smallest roman numeral (from the right).
         for (int i = s.length()-1; i >= 0; i--) {
             char letter = s.charAt(i);
             switch (letter) {
@@ -63,7 +49,9 @@ public class RomanToInteger {
                     current = 1000;
                     break;
             }
-            sum = current >= previous ? sum + current : sum - current;
+            // Add to the sum if the current numeral is equal or greater than the previous one,
+            // or subtract from the sum if the current numeral is smaller, as explained in the Approach.
+            sum = (current >= previous ? sum + current : sum - current);
             previous = current;
         }
         return sum;
