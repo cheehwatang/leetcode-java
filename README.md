@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 2nd</td>
+    <td>29. <a href="https://leetcode.com/problems/divide-two-integers/">Divide Two Integers</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/29.%20Divide%20Two%20Integers/DivideTwoIntegers.java">Bit Manipulation</a>
+    </td>
+    <td align="center">
+      <a href="#bit-manipulation">Bit Manipulation</a>, 
+      <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 1st</td>
     <td>13. <a href="https://leetcode.com/problems/roman-to-integer/">Roman to Integer</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -78,18 +90,6 @@
     <td align="center">
       <a href="#stack">Stack</a>, 
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 25th</td>
-    <td>1061. <a href="https://leetcode.com/problems/lexicographically-smallest-equivalent-string/">Lexicographically Smallest Equivalent String</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1061.%20Lexicographically%20Smallest%20Equivalent%20String/LexicographicallySmallestEquivalentString.java">Union Find</a>
-    </td>
-    <td align="center">
-      <a href="#string">String</a>, 
-      <a href="#union-find">Union Find</a>
     </td>
   </tr>
 </table>
