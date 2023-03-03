@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 3rd</td>
+    <td>1. <a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1.%20Two%20Sum/TwoSum_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 2nd</td>
     <td>29. <a href="https://leetcode.com/problems/divide-two-integers/">Divide Two Integers</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -76,19 +88,6 @@
     </td>
     <td align="center">
       <a href="#math">Math</a>, 
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 26th</td>
-    <td>1047. <a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/">Remove All Adjacent Duplicates In String</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/RemoveAllAdjacentDuplicatesInString_Stack.java">Stack</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/RemoveAllAdjacentDuplicatesInString_StringBuilder.java">StringBuilder only</a>
-    </td>
-    <td align="center">
-      <a href="#stack">Stack</a>, 
       <a href="#string">String</a>
     </td>
   </tr>
