@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 4th</td>
+    <td>167. <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">Two Sum II - Input Array is Sorted</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/TwoSumII_InputArrayIsSorted_BinarySearch.java">Binary Search</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/TwoSumII_InputArrayIsSorted_TwoPointers.java">Two Pointers</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#binary-search">Binary Search</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 3rd</td>
     <td>1. <a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -75,18 +89,6 @@
     </td>
     <td align="center">
       <a href="#hash-table">Hash Table</a>, 
-      <a href="#math">Math</a>, 
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">February 27th</td>
-    <td>1071. <a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">Greatest Common Divisor of Strings</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1071.%20Greatest%20Common%20Divisor%20of%20Strings/GreatestCommonDivisorOfStrings.java">Math & String</a>
-    </td>
-    <td align="center">
       <a href="#math">Math</a>, 
       <a href="#string">String</a>
     </td>
@@ -330,6 +332,21 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#greedy">Greedy</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">167</td>
+    <td><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">Two Sum II - Input Array is Sorted</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/TwoSumII_InputArrayIsSorted_BinarySearch.java">Binary Search</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/TwoSumII_InputArrayIsSorted_TwoPointers.java">Two Pointers</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#binary-search">Binary Search</a>, 
+      <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -1400,6 +1417,22 @@
       <a href="#tree">Tree</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">167</td>
+    <td><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">Two Sum II - Input Array is Sorted</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/TwoSumII_InputArrayIsSorted_BinarySearch.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#binary-search">Binary Search</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/TwoSumII_InputArrayIsSorted_TwoPointers.java"><em>Two Pointers</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">222</td>
@@ -6754,6 +6787,22 @@
     </td>
     <td>Solution Using 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_Collections.java"><em>Collections</em></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">167</td>
+    <td><a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">Two Sum II - Input Array is Sorted</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/TwoSumII_InputArrayIsSorted_TwoPointers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#binary-search">Binary Search</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/TwoSumII_InputArrayIsSorted_BinarySearch.java"><em>Binary Search</em></a>
     </td>
   </tr>
   <tr>
