@@ -28,6 +28,22 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 6th</td>
+    <td>653. <a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst/">Two Sum IV - Input is a BST</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">
+      <a href="#binary-search-tree">Binary Search Tree</a>, 
+      <a href="#binary-tree">Binary Tree</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 5th</td>
     <td>653. <a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst/">Two Sum IV - Input is a BST</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -1534,14 +1550,17 @@
     <td align="center">653</td>
     <td><a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst/">Two Sum IV - Input is a BST</a></td>
     <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithHashTable.java">Breadth-First Search (with Hash Table)</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithoutHashTable.java">Breadth-First Search (without Hash Table)</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithHashTable.java">Breadth-First Search (with Hash Table)</a>, 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithoutHashTable.java">Breadth-First Search (without Hash Table)</a>, 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#binary-search-tree">Binary Search Tree</a>, 
       <a href="#binary-tree">Binary Tree</a>, 
       <a href="#breadth-first-search">Breadth-First Search</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#tree">Tree</a>
     </td>
@@ -1809,14 +1828,17 @@
     <td align="center">653</td>
     <td><a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst/">Two Sum IV - Input is a BST</a></td>
     <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithHashTable.java">Breadth-First Search (with Hash Table)</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithoutHashTable.java">Breadth-First Search (without Hash Table)</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithHashTable.java">Breadth-First Search (with Hash Table)</a>, 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithoutHashTable.java">Breadth-First Search (without Hash Table)</a>, 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#binary-search-tree">Binary Search Tree</a>, 
       <a href="#binary-tree">Binary Tree</a>, 
       <a href="#breadth-first-search">Breadth-First Search</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#tree">Tree</a>
     </td>
@@ -2293,10 +2315,14 @@
       <a href="#binary-search-tree">Binary Search Tree</a>, 
       <a href="#binary-tree">Binary Tree</a>, 
       <a href="#breadth-first-search">Breadth-First Search</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#tree">Tree</a>
     </td>
-    <td></td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">783</td>
@@ -2859,6 +2885,27 @@
     </td>
     <td>Solution Using 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/559.%20Maximum%20Depth%20of%20N-ary%20Tree/MaximumDepthOfNAryTree_BFS.java"><em>Breadth-First Search</em></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">653</td>
+    <td><a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst/">Two Sum IV - Input is a BST</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#binary-search-tree">Binary Search Tree</a>, 
+      <a href="#binary-tree">Binary Tree</a>, 
+      <a href="#breadth-first-search">Breadth-First Search</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithHashTable.java"><em>Breadth-First Search (with Hash Table)</em></a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithoutHashTable.java"><em>Breadth-First Search (without Hash Table)</em></a>
     </td>
   </tr>
   <tr>
@@ -3786,13 +3833,16 @@
     <td align="center">653</td>
     <td><a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst/">Two Sum IV - Input is a BST</a></td>
     <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithHashTable.java">Breadth-First Search</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithHashTable.java">Breadth-First Search</a>, 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#binary-search-tree">Binary Search Tree</a>, 
       <a href="#binary-tree">Binary Tree</a>, 
       <a href="#breadth-first-search">Breadth-First Search</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#tree">Tree</a>
     </td>
@@ -6714,14 +6764,17 @@
     <td align="center">653</td>
     <td><a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst/">Two Sum IV - Input is a BST</a></td>
     <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithHashTable.java">Breadth-First Search (with Hash Table)</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithoutHashTable.java">Breadth-First Search (without Hash Table)</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithHashTable.java">Breadth-First Search (with Hash Table)</a>, 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithoutHashTable.java">Breadth-First Search (without Hash Table)</a>, 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#binary-search-tree">Binary Search Tree</a>, 
       <a href="#binary-tree">Binary Tree</a>, 
       <a href="#breadth-first-search">Breadth-First Search</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#tree">Tree</a>
     </td>
