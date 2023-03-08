@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 8th</td>
+    <td>1026. <a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">Maximum Difference Between Node and Ancestor</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/MaximumDifferenceBetweenNodeAndAncestor_Iterative.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/MaximumDifferenceBetweenNodeAndAncestor_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">
+      <a href="#binary-tree">Binary Tree</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 7th</td>
     <td>653. <a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst/">Two Sum IV - Input is a BST</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -89,18 +103,6 @@
       <a href="#array">Array</a>, 
       <a href="#binary-search">Binary Search</a>, 
       <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 3rd</td>
-    <td>1. <a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1.%20Two%20Sum/TwoSum_HashTable.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#hash-table">Hash Table</a>
     </td>
   </tr>
 </table>
@@ -1877,6 +1879,21 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">1026</td>
+    <td><a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">Maximum Difference Between Node and Ancestor</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/MaximumDifferenceBetweenNodeAndAncestor_Iterative.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/MaximumDifferenceBetweenNodeAndAncestor_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#binary-tree">Binary Tree</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1457</td>
     <td><a href="https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/">Pseudo-Palindromic Paths in a Binary Tree</a></td>
     <td align="center">Java with 
@@ -2962,6 +2979,21 @@
       <a href="#binary-tree">Binary Tree</a>, 
       <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#string">String</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1026</td>
+    <td><a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">Maximum Difference Between Node and Ancestor</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/MaximumDifferenceBetweenNodeAndAncestor_Iterative.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/MaximumDifferenceBetweenNodeAndAncestor_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#binary-tree">Binary Tree</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#tree">Tree</a>
     </td>
     <td></td>
@@ -6820,6 +6852,21 @@
       <a href="#binary-tree">Binary Tree</a>, 
       <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#string">String</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1026</td>
+    <td><a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">Maximum Difference Between Node and Ancestor</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/MaximumDifferenceBetweenNodeAndAncestor_Iterative.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/MaximumDifferenceBetweenNodeAndAncestor_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#binary-tree">Binary Tree</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#tree">Tree</a>
     </td>
     <td></td>
