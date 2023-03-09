@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 9th</td>
+    <td>1019. <a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1019.%20Next%20Greater%20Node%20In%20Linked%20List/NextGreaterNodeInLinkedList.java">Monotonic Stack</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#linked-list">Linked List</a>, 
+      <a href="#monotonic-stack">Monotonic Stack</a>, 
+      <a href="#stack">Stack</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 8th</td>
     <td>1026. <a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">Maximum Difference Between Node and Ancestor</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -89,20 +103,6 @@
       <a href="#breadth-first-search">Breadth-First Search</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 4th</td>
-    <td>167. <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">Two Sum II - Input Array is Sorted</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/TwoSumII_InputArrayIsSorted_BinarySearch.java">Binary Search</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted/TwoSumII_InputArrayIsSorted_TwoPointers.java">Two Pointers</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#binary-search">Binary Search</a>, 
-      <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
@@ -758,6 +758,21 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1019</td>
+    <td><a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1019.%20Next%20Greater%20Node%20In%20Linked%20List/NextGreaterNodeInLinkedList.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#linked-list">Linked List</a>, 
+      <a href="#monotonic-stack">Monotonic Stack</a>, 
+      <a href="#stack">Stack</a>
     </td>
     <td></td>
   </tr>
@@ -4330,6 +4345,21 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">1019</td>
+    <td><a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1019.%20Next%20Greater%20Node%20In%20Linked%20List/NextGreaterNodeInLinkedList.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#linked-list">Linked List</a>, 
+      <a href="#monotonic-stack">Monotonic Stack</a>, 
+      <a href="#stack">Stack</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2095</td>
     <td><a href="https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/">Delete the Middle Node of a Linked List</a></td>
     <td align="center">
@@ -5105,6 +5135,21 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">1019</td>
+    <td><a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1019.%20Next%20Greater%20Node%20In%20Linked%20List/NextGreaterNodeInLinkedList.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#linked-list">Linked List</a>, 
+      <a href="#monotonic-stack">Monotonic Stack</a>, 
+      <a href="#stack">Stack</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2454</td>
     <td><a href="https://leetcode.com/problems/next-greater-element-iv/">Next Greater Element IV</a></td>
     <td align="center">
@@ -5820,6 +5865,21 @@
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
+      <a href="#monotonic-stack">Monotonic Stack</a>, 
+      <a href="#stack">Stack</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1019</td>
+    <td><a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1019.%20Next%20Greater%20Node%20In%20Linked%20List/NextGreaterNodeInLinkedList.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#linked-list">Linked List</a>, 
       <a href="#monotonic-stack">Monotonic Stack</a>, 
       <a href="#stack">Stack</a>
     </td>
