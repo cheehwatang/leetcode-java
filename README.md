@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 10th</td>
+    <td>55. <a href="https://leetcode.com/problems/jump-game/">Jump Game</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_DynamicProgramming.java">Dynamic Programming</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#dynamic-programming">Dynamic Programming</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 9th</td>
     <td>1019. <a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -85,22 +97,6 @@
       <a href="#binary-search-tree">Binary Search Tree</a>, 
       <a href="#binary-tree">Binary Tree</a>, 
       <a href="#depth-first-search">Depth-First Search</a>, 
-      <a href="#hash-table">Hash Table</a>, 
-      <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 5th</td>
-    <td>653. <a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst/">Two Sum IV - Input is a BST</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithHashTable.java">Breadth-First Search (with Hash Table)</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_BFS_WithoutHashTable.java">Breadth-First Search (without Hash Table)</a>
-    </td>
-    <td align="center">
-      <a href="#binary-search-tree">Binary Search Tree</a>, 
-      <a href="#binary-tree">Binary Tree</a>, 
-      <a href="#breadth-first-search">Breadth-First Search</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#tree">Tree</a>
     </td>
@@ -243,6 +239,19 @@
       <a href="#hash-table">Hash Table</a>, 
       <a href="#sorting">Sorting</a>, 
       <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">55</td>
+    <td><a href="https://leetcode.com/problems/jump-game/">Jump Game</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_DynamicProgramming.java">Dynamic Programming</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#dynamic-programming">Dynamic Programming</a>
     </td>
     <td></td>
   </tr>
@@ -3137,6 +3146,19 @@
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">55</td>
+    <td><a href="https://leetcode.com/problems/jump-game/">Jump Game</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_DynamicProgramming.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#dynamic-programming">Dynamic Programming</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">70</td>
