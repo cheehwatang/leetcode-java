@@ -27,6 +27,18 @@
     <th>Solution</th>
     <th>Topics</th>
   </tr>
+    <tr>
+    <td align="center">March 11th</td>
+    <td>55. <a href="https://leetcode.com/problems/jump-game/">Jump Game</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_Greedy.java">Greedy</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>
+    </td>
+  </tr>
   <tr>
     <td align="center">March 10th</td>
     <td>55. <a href="https://leetcode.com/problems/jump-game/">Jump Game</a></td>
@@ -83,22 +95,6 @@
       <a href="#hash-table">Hash Table</a>, 
       <a href="#tree">Tree</a>, 
       <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 6th</td>
-    <td>653. <a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst/">Two Sum IV - Input is a BST</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Recursive.java">Depth-First Search (Recursive)</a>
-    </td>
-    <td align="center">
-      <a href="#binary-search-tree">Binary Search Tree</a>, 
-      <a href="#binary-tree">Binary Tree</a>, 
-      <a href="#depth-first-search">Depth-First Search</a>, 
-      <a href="#hash-table">Hash Table</a>, 
-      <a href="#tree">Tree</a>
     </td>
   </tr>
 </table>
@@ -246,12 +242,14 @@
     <td align="center">55</td>
     <td><a href="https://leetcode.com/problems/jump-game/">Jump Game</a></td>
     <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_DynamicProgramming.java">Dynamic Programming</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_DynamicProgramming.java">Dynamic Programming</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_Greedy.java">Greedy</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
-      <a href="#dynamic-programming">Dynamic Programming</a>
+      <a href="#dynamic-programming">Dynamic Programming</a>, 
+      <a href="#greedy">Greedy</a>
     </td>
     <td></td>
   </tr>
@@ -3151,14 +3149,17 @@
     <td align="center">55</td>
     <td><a href="https://leetcode.com/problems/jump-game/">Jump Game</a></td>
     <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_DynamicProgramming.java">Java</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_DynamicProgramming.java">Dynamic Programming</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
-      <a href="#dynamic-programming">Dynamic Programming</a>
+      <a href="#dynamic-programming">Dynamic Programming</a>, 
+      <a href="#greedy">Greedy</a>
     </td>
-    <td></td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_Greedy.java"><em>Greedy</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">70</td>
@@ -3468,6 +3469,22 @@
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+  <td align="center">55</td>
+    <td><a href="https://leetcode.com/problems/jump-game/">Jump Game</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_Greedy.java">Greedy</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#dynamic-programming">Dynamic Programming</a>, 
+      <a href="#greedy">Greedy</a>
+    </td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_DynamicProgramming.java"><em>Dynamic Programming</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">134</td>
