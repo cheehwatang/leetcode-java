@@ -27,7 +27,19 @@
     <th>Solution</th>
     <th>Topics</th>
   </tr>
-    <tr>
+  <tr>
+    <td align="center">March 12th</td>
+    <td>344. <a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/344.%20Reverse%20String/ReverseString_TwoPointers.java">Two Pointers</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 11th</td>
     <td>55. <a href="https://leetcode.com/problems/jump-game/">Jump Game</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -77,24 +89,6 @@
       <a href="#binary-tree">Binary Tree</a>, 
       <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 7th</td>
-    <td>653. <a href="https://leetcode.com/problems/two-sum-iv-input-is-a-bst/">Two Sum IV - Input is a BST</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Iterative_TwoPointers.java">Two Pointers (with Iterative Inorder Traversal)</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/TwoSumIV_InputIsABST_DFS_Recursive_TwoPointers.java">Two Pointers (with Recursive Inorder Traversal)</a>
-    </td>
-    <td align="center">
-      <a href="#binary-search-tree">Binary Search Tree</a>, 
-      <a href="#binary-tree">Binary Tree</a>, 
-      <a href="#breadth-first-search">Breadth-First Search</a>, 
-      <a href="#depth-first-search">Depth-First Search</a>, 
-      <a href="#hash-table">Hash Table</a>, 
-      <a href="#tree">Tree</a>, 
-      <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
