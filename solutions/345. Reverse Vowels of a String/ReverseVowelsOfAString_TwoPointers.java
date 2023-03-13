@@ -1,30 +1,26 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given a string 's', reverse only the vowels and return the string.
- *
- * Note:
- * Vowels includes, 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'.
- * Use two pointers.
- *
- * Example 1:
- * Input : s = "LeetCode"
- * Output: "LeotCede"
- *
- * Example 2:
- * Input : s = "HelloWorld"
- * Output: "HolloWerld"
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of the string 's'.
+// We traverse the string from both ends until they meet,
+// thus the time needed grows linearly with the length of string 's'.
+//
+// Space Complexity : O(n),
+// where 'n' is the length of the string 's'.
+// Though the checking and swapping has a constant space complexity O(1),
+// the conversion of String 's' to char array, and conversion of char array to result string
+// have space complexity of O(n), which scales linearly with the length of the input string.
 
 public class ReverseVowelsOfAString_TwoPointers {
 
     // Approach:
     // Use two pointers to traverse from left and right towards to center.
     // Swap when both position contains vowels "aeiouAEIOU".
+    //
+    // To check if the character is not vowel, we can either:
+    // 1. have a separate method to compare the character with each of the characters in "aeiouAEIOU", or
+    // 2. use the String.contains() method to check if the character is found in the string "aeiouAEIOU".
+    // Here, we use the former method to check.
 
     public String reverseVowels(String s) {
 
@@ -37,11 +33,11 @@ public class ReverseVowelsOfAString_TwoPointers {
         // When both pointers meet, we know all the vowels are swapped.
         while (left < right) {
             // If chars[left] is not vowel, continue to move right.
-            while (left < right && !isVowel(chars[left])) {
+            while (left < right && notVowel(chars[left])) {
                 left++;
             }
             // If chars[right] is not vowel, continue to move left.
-            while (left < right && !isVowel(chars[right])) {
+            while (left < right && notVowel(chars[right])) {
                 right--;
             }
 
@@ -52,13 +48,13 @@ public class ReverseVowelsOfAString_TwoPointers {
                 chars[right--] = temp;
             }
         }
+        // Convert the char array to string before returning it.
         return new String(chars);
     }
 
-    // Return true if char is a vowel.
-    private boolean isVowel(char c) {
-        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u'
-                || c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U';
+    // Return true if char is not a vowel.
+    private boolean notVowel(char c) {
+        return c != 'a' && c != 'e' && c != 'i' && c != 'o' && c != 'u'
+                && c != 'A' && c != 'E' && c != 'I' && c != 'O' && c != 'U';
     }
-
 }
