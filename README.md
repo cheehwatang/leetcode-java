@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 13th</td>
+    <td>345. <a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Reverse Vowels of a String</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/345.%20Reverse%20Vowels%20of%20a%20String/ReverseVowelsOfAString_TwoPointers.java">Two Pointers</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 12th</td>
     <td>344. <a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -75,20 +87,6 @@
       <a href="#linked-list">Linked List</a>, 
       <a href="#monotonic-stack">Monotonic Stack</a>, 
       <a href="#stack">Stack</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 8th</td>
-    <td>1026. <a href="https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/">Maximum Difference Between Node and Ancestor</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/MaximumDifferenceBetweenNodeAndAncestor_Iterative.java">Depth-First Search (Iterative)</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/MaximumDifferenceBetweenNodeAndAncestor_Recursive.java">Depth-First Search (Recursive)</a>
-    </td>
-    <td align="center">
-      <a href="#binary-tree">Binary Tree</a>, 
-      <a href="#depth-first-search">Depth-First Search</a>, 
-      <a href="#tree">Tree</a>
     </td>
   </tr>
 </table>
