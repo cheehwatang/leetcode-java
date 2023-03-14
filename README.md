@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 14th</td>
+    <td>412. <a href="https://leetcode.com/problems/fizz-buzz/">Fizz Buzz</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/412.%20Fizz%20Buzz/FizzBuzz.java">Math</a>
+    </td>
+    <td align="center">
+      <a href="#math">Math</a>, 
+      <a href="#simulation">Simulation</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 13th</td>
     <td>345. <a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Reverse Vowels of a String</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,20 +86,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#dynamic-programming">Dynamic Programming</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 9th</td>
-    <td>1019. <a href="https://leetcode.com/problems/next-greater-node-in-linked-list/">Next Greater Node In Linked List</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1019.%20Next%20Greater%20Node%20In%20Linked%20List/NextGreaterNodeInLinkedList.java">Monotonic Stack</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#linked-list">Linked List</a>, 
-      <a href="#monotonic-stack">Monotonic Stack</a>, 
-      <a href="#stack">Stack</a>
     </td>
   </tr>
 </table>
