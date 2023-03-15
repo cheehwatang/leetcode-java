@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 15th</td>
+    <td>393. <a href="https://leetcode.com/problems/utf-8-validation/">UTF-8 Validation</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/393.%20UTF-8%20Validation/UTF8Validation_BitManipulation.java">Bit Manipulation</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#bit-manipulation">Bit Manipulation</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 14th</td>
     <td>412. <a href="https://leetcode.com/problems/fizz-buzz/">Fizz Buzz</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -74,18 +86,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#greedy">Greedy</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 10th</td>
-    <td>55. <a href="https://leetcode.com/problems/jump-game/">Jump Game</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_DynamicProgramming.java">Dynamic Programming</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#dynamic-programming">Dynamic Programming</a>
     </td>
   </tr>
 </table>
