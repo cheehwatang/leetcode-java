@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 16th</td>
+    <td>393. <a href="https://leetcode.com/problems/utf-8-validation/">UTF-8 Validation</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/393.%20UTF-8%20Validation/UTF8Validation.java">Without Bit Manipulation</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 15th</td>
     <td>393. <a href="https://leetcode.com/problems/utf-8-validation/">UTF-8 Validation</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,18 +85,6 @@
     <td align="center">
       <a href="#string">String</a>, 
       <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 11th</td>
-    <td>55. <a href="https://leetcode.com/problems/jump-game/">Jump Game</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_Greedy.java">Greedy</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#greedy">Greedy</a>
     </td>
   </tr>
 </table>
@@ -1976,7 +1975,9 @@
       <a href="#array">Array</a>, 
       <a href="#bit-manipulation">Bit Manipulation</a>
     </td>
-    <td></td>
+    <td>Solution 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/393.%20UTF-8%20Validation/UTF8Validation.java"><em>without using Bit Manipulation</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">645</td>
