@@ -1,78 +1,60 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given an array of integers, return true or false, whether the integer array is a valid UTF-8 encoding.
- *
- * Note:
- * UTF-8 contains characters ranging from 1 to 4 bytes long, with rules shown in the example below.
- * Number of Bytes (n) => UTF-8 Binary Sequence               =>  Explanation
- *                  1     0xxxxxxx                            =>  starts with 0
- *                  2     110xxxxx 10xxxxxx                   =>  starts with two 1s and one 0
- *                  3     1110xxxx 10xxxxxx 10xxxxxx          =>  starts with three 1s and one 0
- *                  4     11110xxx 10xxxxxx 10xxxxxx 10xxxxxx =>  starts with four 1s and one 0
- *                        => Bytes 2 - 4, contains another n-1 octet binary sequence starting with 10.
- *
- * Example 1:
- * Input        = [230,140,175,36]
- * Output       = true
- * Explanation: Converting to binary [11100110,10101111,10001100,00100100]
- *                                   [1110xxxx,10xxxxxx,10xxxxxx,0xxxxxxx], first 3 is 3 Bytes, followed by 1 Byte.
- *
- * Example 2:
- * Input        = [120,215,166,48]
- * Output       = true
- * Explanation: Converting to binary [01111000,11010111,10100110,00110000]
- *                                   [0xxxxxxx,110xxxxx,10xxxxxx,0xxxxxxx], 1 Byte, 2 Bytes, followed by 1 Byte.
- *
- * Example 3:
- * Input        = [245,150,188,74]
- * Output       = false
- * Explanation: Converting to binary [11110101,10010110,10111100,01001010]
- *                                   [11110xxx,10xxxxxx,10xxxxxx,0xxxxxxx], supposedly first 4 is 4 Bytes.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of integer array 'data'.
+// We traverse the 'data' array to check if the numbers fit the UTF8 pattern.
+//
+// Space Complexity : O(1),
+// as the auxiliary space used is independent on the size of the input.
 
 public class UTF8Validation {
 
+    // UTF-8 Binary Sequence:
     // 1 byte = 0xxxxxxx
-    // <= 127
-    // 2 bytes = 110xxxxx 10xxxxxx >= 128 && <= 191
-    // >= 192 && <= 223
+    // 2 bytes = 110xxxxx 10xxxxxx
     // 3 bytes = 1110xxxx 10xxxxxx 10xxxxxx
-    // >= 224 && <= 239
     // 4 bytes = 11110xxx 10xxxxxx 10xxxxxx 10xxxxxx
-    // >= 240 && <= 247
+
+    // Approach:
+    // With the 8-bits binary number, we can check if the number in 'data' matches any of the pattern as shown below:
+    // - 0xxxxxxx : <= 127
+    // - 10xxxxxx : >= 128 && <= 191
+    // - 110xxxxx : >= 192 && <= 223
+    // - 1110xxxx : >= 224 && <= 239
+    // - 11110xxx : >= 240 && <= 247
+    //
+    // We also use a count to keep track the number 10xxxxxx required, for 2, 3 and 4 bytes pattern.
 
     public boolean validUtf8(int[] data) {
+        // 'count' keep track of the 10xxxxxx required.
         int count = 0;
-        for (int integer : data) {
-            if (integer > 247) {
-                return false;
-            }
-            // each will update the count, to check the subsequent number if follows 10xxxxxx.
+        for (int number : data) {
+            // Number greater than 247 does not fit any of the above pattern.
+            if (number > 247) return false;
+
+            // If count is 0, and the number is fits 110xxxxx, 1110xxxx or 11110xxx, then we will update the count
+            // to check the subsequent number if it follows 10xxxxxx.
             if (count == 0) {
-                if (integer >= 240) {
-                    count = 3;
-                } else if (integer >= 224) {
-                    count = 2;
-                } else if (integer >= 192) {
-                    count = 1;
-                } else if (integer >= 128) {
-                    return false;
-                }
-            } else {
-                if (integer >= 128 && integer <= 191) {
-                    count--;
-                } else {
-                    return false;
-                }
+                // If number matches 11110xxx, check for the subsequent three numbers to follow 10xxxxxx.
+                if (number >= 240) count = 3;
+                // If number matches 1110xxxx, check for the subsequent two numbers to follow 10xxxxxx.
+                else if (number >= 224) count = 2;
+                // If number matches 110xxxxx, check for the subsequent number to follow 10xxxxxx.
+                else if (number >= 192) count = 1;
+                // If number matches 10xxxxxx while the count is 0, then it is invalid.
+                else if (number >= 128) return false;
+                // Note that we did not perform any checks for 0xxxxxxx (<= 127),
+                // as no action is needed (count remains 0 and move to the next number).
+            }
+            // If the count is more than 0,
+            else {
+                // check if the number matches 10xxxxxx.
+                if (number >= 128 && number <= 191) count--;
+                // If not, then the sequence is invalid.
+                else return false;
             }
         }
         // If the count reaches zero at the end, meaning no leftover 10xxxxxx unchecked.
         return count == 0;
     }
-
 }
