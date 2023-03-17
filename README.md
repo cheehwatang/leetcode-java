@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 17th</td>
+    <td>383. <a href="https://leetcode.com/problems/ransom-note/">Ransom Note</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/383.%20Ransom%20Note/RansomNote_Counting.java">Counting Array</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/383.%20Ransom%20Note/RansomNote_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#counting">Counting</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 16th</td>
     <td>393. <a href="https://leetcode.com/problems/utf-8-validation/">UTF-8 Validation</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -69,18 +83,6 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/345.%20Reverse%20Vowels%20of%20a%20String/ReverseVowelsOfAString_TwoPointers.java">Two Pointers</a>
-    </td>
-    <td align="center">
-      <a href="#string">String</a>, 
-      <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 12th</td>
-    <td>344. <a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/344.%20Reverse%20String/ReverseString_TwoPointers.java">Two Pointers</a>
     </td>
     <td align="center">
       <a href="#string">String</a>, 
