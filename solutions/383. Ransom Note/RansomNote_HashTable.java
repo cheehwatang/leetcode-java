@@ -3,26 +3,14 @@ package com.cheehwatang.leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Problem:
- * Given two strings 'ransomeNote' and 'magazine', return true if 'ransomNote' can be constructed by using the letters
- * from 'magazine', and return false otherwise.
- * Each letter in 'magazine' can only be used once in 'ransomNote', and both only contains lower case alphabets.
- *
- * Note:
- * Use counting array or hash tables.
- *
- *
- * Example 1:
- * Input : ransomNote = "dot", magazine = "leetcode"
- * Output: true
- *
- * Example 2:
- * Input : ransomNote = "dart", magazine = "leetcode"
- * Output: false
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n + m),
+// where 'n' is the length of 'ransomNote', and 'm' is the length of 'magazine'.
+// First, we iterate through 'magazine' to record the frequency of each alphabet.
+// Then, we iterate through 'ransomNote' to check if we can make the letter from 'magazine'.
+//
+// Space Complexity : O(1),
+// as the auxiliary space used is independent of the size of 'ransomNote' and 'magazine', with space complexity of O(1).
+// Note that if we use forEach and convert the string to char array, then the space complexity is O(n + m).
 
 public class RansomNote_HashTable {
 
@@ -32,14 +20,13 @@ public class RansomNote_HashTable {
     // If the count for any character reaches zero, it means we have insufficient characters from 'magazine'.
 
     public boolean canConstruct(String ransomNote, String magazine) {
-
-        // Too few characters from magazine.
-        if (magazine.length() < ransomNote.length()) {
-            return false;
-        }
+        // Too few characters from 'magazine'.
+        if (magazine.length() < ransomNote.length()) return false;
 
         // Using a HashMap to record the count of characters found in 'magazine'.
         Map<Character, Integer> charCount = new HashMap<>();
+
+        // Increase the count by one for each occurrence found in 'magazine'.
         for (int i = 0; i < magazine.length(); i++) {
             char character = magazine.charAt(i);
             // If character is in the HashMap, increase the count by 1,
@@ -54,13 +41,9 @@ public class RansomNote_HashTable {
         for (int i = 0; i < ransomNote.length(); i++) {
             char character = ransomNote.charAt(i);
             int count = charCount.getOrDefault(character, 0);
-            if (count < 1) {
-                return false;
-            }  else {
-                charCount.put(character, count - 1);
-            }
+            if (count < 1) return false;
+            else charCount.put(character, count - 1);
         }
         return true;
     }
-
 }
