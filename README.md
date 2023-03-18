@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 18th</td>
+    <td>485. <a href="https://leetcode.com/problems/max-consecutive-ones/">Maximum Consecutive Ones</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/485.%20Maximum%20Consecutive%20Ones/MaxConsecutiveOnes.java">Array</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 17th</td>
     <td>383. <a href="https://leetcode.com/problems/ransom-note/">Ransom Note</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -75,18 +86,6 @@
       <a href="#math">Math</a>, 
       <a href="#simulation">Simulation</a>, 
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 13th</td>
-    <td>345. <a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">Reverse Vowels of a String</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/345.%20Reverse%20Vowels%20of%20a%20String/ReverseVowelsOfAString_TwoPointers.java">Two Pointers</a>
-    </td>
-    <td align="center">
-      <a href="#string">String</a>, 
-      <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
