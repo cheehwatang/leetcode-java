@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 19th</td>
+    <td>560. <a href="https://leetcode.com/problems/subarray-sum-equals-k/">Subarray Sum Equals K</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/560.%20Subarray%20Sum%20Equals%20K/SubarraySumEqualsK.java">Hash Table & Prefix Sum</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#prefix-sum">Prefix Sum</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 18th</td>
     <td>485. <a href="https://leetcode.com/problems/max-consecutive-ones/">Maximum Consecutive Ones</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,19 +86,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#bit-manipulation">Bit Manipulation</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 14th</td>
-    <td>412. <a href="https://leetcode.com/problems/fizz-buzz/">Fizz Buzz</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/412.%20Fizz%20Buzz/FizzBuzz.java">Math</a>
-    </td>
-    <td align="center">
-      <a href="#math">Math</a>, 
-      <a href="#simulation">Simulation</a>, 
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
