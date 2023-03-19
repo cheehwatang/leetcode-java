@@ -3,25 +3,14 @@ package com.cheehwatang.leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Problem:
- * Given an array of integers 'nums' and an integer 'k', return the total number of subarrays with sum equals to 'k'.
- *
- *
- * Example 1:
- * Input    : nums = [1,2,3,-2,-1], k = 3
- * Output   : 4
- * Explanation: Subarray of [1,2], [3], [2,3,-2] and [1,2,3,-2,-1].
- *
- *
- * Example 2:
- * Input    : nums = [1,2,5,-1,-2,-10,10], k = 5
- * Output   : 3
- * Explanation: Subarray of [5], [1,2,5,-1,-2] and [1,2,5,-1,-2,-10,10].
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of 'nums'.
+// We traverse 'nums' to get the prefix sum and find the number of subarray that sum to 'k'.
+//
+// Space Complexity : O(n),
+// where 'n' is the length of 'nums'.
+// The maximum size of the HashMap grows linearly with the length of 'nums',
+// with the worst-case when all prefix sum recorded are unique.
 
 public class SubarraySumEqualsK {
 
@@ -41,7 +30,7 @@ public class SubarraySumEqualsK {
 
     public int subarraySum(int[] nums, int k) {
 
-        // Need to store the frequency as there could be multiple subarrays with the same prefix sum.
+        // Store the frequency as there could be multiple subarrays with the same prefix sum.
         Map<Integer, Integer> map = new HashMap<>();
         // The first element for (i - 1) is always 0.
         map.put(0, 1);
