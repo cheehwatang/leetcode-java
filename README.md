@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 20th</td>
+    <td>523. <a href="https://leetcode.com/problems/continuous-subarray-sum/">Continuous Subarray Sum</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/523.%20Continuous%20Subarray%20Sum/ContinuousSubarraySum.java">Hash Table & Prefix Sum</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#math">Math</a>, 
+      <a href="#prefix-sum">Prefix Sum</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 19th</td>
     <td>560. <a href="https://leetcode.com/problems/subarray-sum-equals-k/">Subarray Sum Equals K</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,18 +88,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 15th</td>
-    <td>393. <a href="https://leetcode.com/problems/utf-8-validation/">UTF-8 Validation</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/393.%20UTF-8%20Validation/UTF8Validation_BitManipulation.java">Bit Manipulation</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#bit-manipulation">Bit Manipulation</a>
     </td>
   </tr>
 </table>
