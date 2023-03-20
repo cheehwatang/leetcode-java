@@ -3,27 +3,15 @@ package com.cheehwatang.leetcode;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Problem:
- * Given an array of integers 'nums' and an integer 'k',
- * return true if nums has a subarray of size at least two whose elements sum up to a multiple of 'k', or false otherwise.
- * Note that 0 is a multiple of 'k'.
- *
- *
- * Example 1:
- * Input    : nums = [1,2,3,4,5], k = 4
- * Output   : true
- * Explanation: [3,4,5] is a subarray of size more than 2 whose elements sum up to 12, which is a multiple of 4.
- *
- *
- * Example 2:
- * Input    : nums = [1,2,3,4,5], k = 8
- * Output   : false
- * Explanation: No subarray sum is a multiple of 8.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of 'nums'.
+// We traverse 'nums' to find subarray with sum divisible by 'k',
+// with the worst-case being to traverse the whole 'nums' array.
+//
+// Space Complexity : O(n),
+// where 'n' is the length of 'nums'.
+// The maximum size of the HashSet grows linearly with the length of 'nums',
+// with the worst-case when all prefix sum recorded are unique.
 
 public class ContinuousSubarraySum {
 
@@ -56,7 +44,7 @@ public class ContinuousSubarraySum {
             // When the prefix sum if found in the Hash Set, we have found the subarray with sum with multiple of k.
             if (set.contains(currentSum)) return true;
 
-            // Previous sum ensures the size found is at least 2.
+            // 'previousSum' ensures the size found is at least 2.
             set.add(previousSum);
 
             previousSum = currentSum;
