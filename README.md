@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 21st</td>
+    <td>541. <a href="https://leetcode.com/problems/reverse-string-ii/">Reverse String II</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/541.%20Reverse%20String%20II/ReverseStringII_StringBuilder.java">StringBuilder</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/541.%20Reverse%20String%20II/ReverseStringII_TwoPointers.java">Two Pointers</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 20th</td>
     <td>523. <a href="https://leetcode.com/problems/continuous-subarray-sum/">Continuous Subarray Sum</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -77,17 +90,6 @@
       <a href="#counting">Counting</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 16th</td>
-    <td>393. <a href="https://leetcode.com/problems/utf-8-validation/">UTF-8 Validation</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/393.%20UTF-8%20Validation/UTF8Validation.java">Without Bit Manipulation</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>
     </td>
   </tr>
 </table>
@@ -6189,6 +6191,20 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">541</td>
+    <td><a href="https://leetcode.com/problems/reverse-string-ii/">Reverse String II</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/541.%20Reverse%20String%20II/ReverseStringII_StringBuilder.java">StringBuilder</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/541.%20Reverse%20String%20II/ReverseStringII_TwoPointers.java">Two Pointers</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#string">String</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">556</td>
     <td><a href="https://leetcode.com/problems/next-greater-element-iii/">Next Greater Element III</a></td>
     <td align="center">
@@ -7151,6 +7167,21 @@
       <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">541</td>
+    <td><a href="https://leetcode.com/problems/reverse-string-ii/">Reverse String II</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/541.%20Reverse%20String%20II/ReverseStringII_TwoPointers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#string">String</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/541.%20Reverse%20String%20II/ReverseStringII_StringBuilder.java"><em>StringBuilder</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">556</td>
