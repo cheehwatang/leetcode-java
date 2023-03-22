@@ -4,29 +4,14 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-/**
- * Problem:
- * Given an array of integers 'deliciousness', return the number of different good meals you can make (modulo 1e9 + 7).
- * A good meal is a meal that contains exactly two different food items with a sum of deliciousness equal to a power of two.
- * Do note that items with different indices are considered different food items even if they have the same deliciousness value.
- *
- *
- * Example 1:
- * Input    : deliciousness = [1,2,3,4,5,6]
- * Output   : 3
- * Explanation:
- * The good meals are (1,3) = 4, (2,6) = 8 and (3,5) = 8.
- *
- *
- * Example 2:
- * Input    : deliciousness = [0,0,1,1,2,2]
- * Output   : 10
- * Explanation:
- * The good meals are (0,1) = 1 in 4 ways, (0,2) = 4 in 4 ways, (1,1) = 2, and (2,2) = 4.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of array 'deliciousness'.
+// We traverse the array once to record the deliciousness into a HashMap, resulting in time complexity of O(n).
+//
+// Space Complexity : O(n),
+// where 'n' is the length of array 'deliciousness'.
+// The worst-case is when each deliciousness is unique,
+// thus resulting in HashMap scales linearly with the size of 'deliciousness'.
 
 public class CountGoodMeals {
 
@@ -65,14 +50,11 @@ public class CountGoodMeals {
                 if (map.containsKey(pair)) {
                     // and if the item is the same as itself, i.e. in the case of 1 + 1 = 2, or 2 + 2 = 4.
                     // The count increases by the equation below, similar to Example 2 above.
-                    if (item == pair) {
-                        count += ((frequency - 1) * frequency) / 2;
-                    }
+                    if (item == pair) count += ((frequency - 1) * frequency) / 2;
+
                     // If the pair has a different deliciousness value,
                     // the count increases by the multiplications of both values, just like in Example 2 above.
-                    else {
-                        count += frequency * map.get(pair);
-                    }
+                    else count += frequency * map.get(pair);
                 }
             }
             // Remove the deliciousness, so it will not be double counted.
