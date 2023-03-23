@@ -28,6 +28,21 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 24th</td>
+    <td>1578. <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/">Minimum Time to Make Rope Colorful</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_DynamicProgramming.java">Dynamic Programming</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_Greedy.java">Greedy</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#dynamic-programming">Dynamic Programming</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 23rd</td>
     <td>1544. <a href="https://leetcode.com/problems/make-the-string-great/">Make The String Great</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -904,8 +919,9 @@
   <tr>
     <td align="center">1578</td>
     <td><a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/">Minimum Time to Make Rope Colorful</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_DynamicProgramming.java">Java</a>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_DynamicProgramming.java">Dynamic Programming</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_Greedy.java">Greedy</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
@@ -3247,7 +3263,9 @@
       <a href="#greedy">Greedy</a>, 
       <a href="#string">String</a>
     </td>
-    <td></td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_Greedy.java"><em>Greedy</em></a>
+    </td>
   </tr>
 </table>
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -3569,7 +3587,7 @@
     <td align="center">1578</td>
     <td><a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/">Minimum Time to Make Rope Colorful</a></td>
     <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_DynamicProgramming.java">Java</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_Greedy.java">Java</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
@@ -3578,7 +3596,9 @@
       <a href="#greedy">Greedy</a>, 
       <a href="#string">String</a>
     </td>
-    <td></td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_DynamicProgramming.java"><em>Dynamic Programming</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">1833</td>
@@ -6388,8 +6408,9 @@
   <tr>
     <td align="center">1578</td>
     <td><a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/">Minimum Time to Make Rope Colorful</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_DynamicProgramming.java">Java</a>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_DynamicProgramming.java">Dynamic Programming</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_Greedy.java">Greedy</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
