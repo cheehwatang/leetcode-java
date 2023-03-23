@@ -28,11 +28,23 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 23rd</td>
+    <td>1544. <a href="https://leetcode.com/problems/make-the-string-great/">Make The String Great</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1544.%20Make%20The%20String%20Great/MakeTheStringGreat_Stack.java">Stack</a>
+    </td>
+    <td align="center">
+      <a href="#stack">Stack</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 22nd</td>
     <td>1711. <a href="https://leetcode.com/problems/count-good-meals/">Count Good Meals</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1711.%20Count%20Good%20Meals/CountGoodMeals.java">Java</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1711.%20Count%20Good%20Meals/CountGoodMeals.java">Hash Table</a>
     </td>
     <td align="center">
       <a href="#array">Array</a>, 
@@ -77,17 +89,6 @@
       <a href="#array">Array</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#prefix-sum">Prefix Sum</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 18th</td>
-    <td>485. <a href="https://leetcode.com/problems/max-consecutive-ones/">Maximum Consecutive Ones</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/485.%20Maximum%20Consecutive%20Ones/MaxConsecutiveOnes.java">Array</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>
     </td>
   </tr>
 </table>
