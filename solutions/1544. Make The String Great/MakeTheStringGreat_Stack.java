@@ -1,29 +1,13 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given a string 's' of lower and upper case English letters, return a good string where,
- * no two adjacent characters are the same letter with different cases,
- * such as s[i] == 'a' and s[i + 1] == 'A' or s[i] == 'A' and s[i + 1] == 'a'.
- * If there are two adjacent characters that make the string bad, remove them,
- * and keep checking until the string becomes good.
- * Note that an empty string is also good.
- *
- *
- * Example 1:
- * Input : s = "abcCBA"
- * Output: ""
- * Explanation: "abcCBA" -> "abBA" -> "aA" -> "".
- *
- *
- * Example 2:
- * Input : s = "HelloWorld"
- * Output: "HelloWorld"
- * Explanation: The string 's' is already a good string.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of string 's'.
+// We traverse the string 's' once to check for the bad pair.
+//
+// Space Complexity : O(n),
+// where 'n' is the length of string 's'.
+// We use StringBuilder which scales linearly with the length of string 's',
+// and the final result string also scales linearly with the length of string 's'.
 
 public class MakeTheStringGreat_Stack {
 
@@ -52,9 +36,9 @@ public class MakeTheStringGreat_Stack {
             // If found the bad pair, remove the rightmost character in the 'stringBuilder', like a stack.
             if (stringBuilder.length() > 0 && Math.abs(current - stringBuilder.charAt(stringBuilder.length() - 1)) == 32)
                 stringBuilder.deleteCharAt(stringBuilder.length() - 1);
+
             // If not, then add the character to the 'stringBuilder'.
-            else
-                stringBuilder.append(current);
+            else stringBuilder.append(current);
         }
         return stringBuilder.toString();
     }
