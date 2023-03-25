@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 25th</td>
+    <td>1662. <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">Check If Two String Arrays are Equivalent</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/CheckIfTwoStringArraysAreEquivalent_Pointers.java">With</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/CheckIfTwoStringArraysAreEquivalent_String.java">Without Pointers</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 24th</td>
     <td>1578. <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/">Minimum Time to Make Rope Colorful</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -77,33 +90,6 @@
     <td align="center">
       <a href="#string">String</a>, 
       <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 20th</td>
-    <td>523. <a href="https://leetcode.com/problems/continuous-subarray-sum/">Continuous Subarray Sum</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/523.%20Continuous%20Subarray%20Sum/ContinuousSubarraySum.java">Hash Table & Prefix Sum</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#hash-table">Hash Table</a>, 
-      <a href="#math">Math</a>, 
-      <a href="#prefix-sum">Prefix Sum</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 19th</td>
-    <td>560. <a href="https://leetcode.com/problems/subarray-sum-equals-k/">Subarray Sum Equals K</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/560.%20Subarray%20Sum%20Equals%20K/SubarraySumEqualsK.java">Hash Table & Prefix Sum</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#hash-table">Hash Table</a>, 
-      <a href="#prefix-sum">Prefix Sum</a>
     </td>
   </tr>
 </table>
@@ -928,6 +914,20 @@
       <a href="#array">Array</a>, 
       <a href="#dynamic-programming">Dynamic Programming</a>, 
       <a href="#greedy">Greedy</a>, 
+      <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1662</td>
+    <td><a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">Check If Two String Arrays are Equivalent</a></td>
+    <td align="center">Java 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/CheckIfTwoStringArraysAreEquivalent_Pointers.java">with</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/CheckIfTwoStringArraysAreEquivalent_String.java">without Pointers</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
       <a href="#string">String</a>
     </td>
     <td></td>
@@ -6429,6 +6429,20 @@
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
+      <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1662</td>
+    <td><a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">Check If Two String Arrays are Equivalent</a></td>
+    <td align="center">Java 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/CheckIfTwoStringArraysAreEquivalent_Pointers.java">with</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/CheckIfTwoStringArraysAreEquivalent_String.java">without Pointers</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
       <a href="#string">String</a>
     </td>
     <td></td>
