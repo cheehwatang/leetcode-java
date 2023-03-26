@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 26th</td>
+    <td>232. <a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stacks</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/232.%20Implement%20Queue%20using%20Stacks/ImplementQueueUsingStacks.java">Queue & Stack</a>
+    </td>
+    <td align="center">
+      <a href="#design">Design</a>, 
+      <a href="#queue">Queue</a>, 
+      <a href="#stack">Stack</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 25th</td>
     <td>1662. <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">Check If Two String Arrays are Equivalent</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -126,6 +139,7 @@
   <li><a href="#monotonic-stack">Monotonic Stack</a></li>
   <li><a href="#number-theory">Number Theory</a></li>
   <li><a href="#prefix-sum">Prefix Sum</a></li>
+  <li><a href="#queue">Queue</a></li>
   <li><a href="#recursion">Recursion</a></li>
   <li><a href="#simulation">Simulation</a></li>
   <li><a href="#sliding-window">Sliding Window</a></li>
@@ -3099,6 +3113,20 @@
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">232</td>
+    <td><a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stacks</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/232.%20Implement%20Queue%20using%20Stacks/ImplementQueueUsingStacks.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#design">Design</a>, 
+      <a href="#queue">Queue</a>, 
+      <a href="#stack">Stack</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">295</td>
     <td><a href="https://leetcode.com/problems/find-median-from-data-stream/">Find Median from Data Stream</a></td>
     <td align="center">
@@ -5380,6 +5408,35 @@
 <hr>
 </details>
 
+<details><summary><h3 id="queue">Queue</h3></summary>
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">232</td>
+    <td><a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stacks</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/232.%20Implement%20Queue%20using%20Stacks/ImplementQueueUsingStacks.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#design">Design</a>, 
+      <a href="#queue">Queue</a>, 
+      <a href="#stack">Stack</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<hr>
+</details>
+
 <details><summary><h3 id="recursion">Recursion</h3></summary>
 <table>
   <tr>
@@ -5895,6 +5952,20 @@
     <td>Solution Using 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/145.%20Binary%20Tree%20Postorder%20Traversal/BinaryTreePostorderTraversal_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">232</td>
+    <td><a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stacks</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/232.%20Implement%20Queue%20using%20Stacks/ImplementQueueUsingStacks.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#design">Design</a>, 
+      <a href="#queue">Queue</a>, 
+      <a href="#stack">Stack</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">496</td>
