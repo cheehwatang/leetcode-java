@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 27th</td>
+    <td>225. <a href="https://leetcode.com/problems/implement-stack-using-queues/">Implement Stack using Queues</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/225.%20Implement%20Stack%20using%20Queues/ImplementStackUsingQueues.java">Queue & Stack</a>
+    </td>
+    <td align="center">
+      <a href="#design">Design</a>, 
+      <a href="#queue">Queue</a>, 
+      <a href="#stack">Stack</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 26th</td>
     <td>232. <a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stacks</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -78,31 +91,6 @@
     <td align="center">
       <a href="#stack">Stack</a>, 
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 22nd</td>
-    <td>1711. <a href="https://leetcode.com/problems/count-good-meals/">Count Good Meals</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1711.%20Count%20Good%20Meals/CountGoodMeals.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#hash-table">Hash Table</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 21st</td>
-    <td>541. <a href="https://leetcode.com/problems/reverse-string-ii/">Reverse String II</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/541.%20Reverse%20String%20II/ReverseStringII_StringBuilder.java">StringBuilder</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/541.%20Reverse%20String%20II/ReverseStringII_TwoPointers.java">Two Pointers</a>
-    </td>
-    <td align="center">
-      <a href="#string">String</a>, 
-      <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
@@ -3113,6 +3101,20 @@
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">225</td>
+    <td><a href="https://leetcode.com/problems/implement-stack-using-queues/">Implement Stack using Queues</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/225.%20Implement%20Stack%20using%20Queues/ImplementStackUsingQueues.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#design">Design</a>, 
+      <a href="#queue">Queue</a>, 
+      <a href="#stack">Stack</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">232</td>
     <td><a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stacks</a></td>
     <td align="center">
@@ -5419,6 +5421,20 @@
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">225</td>
+    <td><a href="https://leetcode.com/problems/implement-stack-using-queues/">Implement Stack using Queues</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/225.%20Implement%20Stack%20using%20Queues/ImplementStackUsingQueues.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#design">Design</a>, 
+      <a href="#queue">Queue</a>, 
+      <a href="#stack">Stack</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">232</td>
     <td><a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stacks</a></td>
     <td align="center">
@@ -5952,6 +5968,20 @@
     <td>Solution Using 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/145.%20Binary%20Tree%20Postorder%20Traversal/BinaryTreePostorderTraversal_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">225</td>
+    <td><a href="https://leetcode.com/problems/implement-stack-using-queues/">Implement Stack using Queues</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/225.%20Implement%20Stack%20using%20Queues/ImplementStackUsingQueues.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#design">Design</a>, 
+      <a href="#queue">Queue</a>, 
+      <a href="#stack">Stack</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">232</td>
