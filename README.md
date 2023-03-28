@@ -36,7 +36,7 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>, 
-      <a href="#heap-priority-queue">Heap (Priority Queue)</a>, 
+      <a href="#heap-priority-queue">Heap (Priority Queue)</a>
     </td>
   </tr>
   <tr>
@@ -1041,7 +1041,7 @@
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
-      <a href="#heap-priority-queue">Heap (Priority Queue)</a>, 
+      <a href="#heap-priority-queue">Heap (Priority Queue)</a>
     </td>
     <td></td>
   </tr>
@@ -4350,7 +4350,7 @@
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
-      <a href="#heap-priority-queue">Heap (Priority Queue)</a>, 
+      <a href="#heap-priority-queue">Heap (Priority Queue)</a>
     </td>
     <td></td>
   </tr>
