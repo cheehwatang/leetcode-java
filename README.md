@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 28th</td>
+    <td>1962. <a href="https://leetcode.com/problems/remove-stones-to-minimize-the-total/">Remove Stones to Minimize the Total</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total/RemoveStonesToMinimizeTheTotal.java">Heap (Priority Queue)</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#heap-priority-queue">Heap (Priority Queue)</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 27th</td>
     <td>225. <a href="https://leetcode.com/problems/implement-stack-using-queues/">Implement Stack using Queues</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -78,18 +90,6 @@
       <a href="#array">Array</a>, 
       <a href="#dynamic-programming">Dynamic Programming</a>, 
       <a href="#greedy">Greedy</a>, 
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 23rd</td>
-    <td>1544. <a href="https://leetcode.com/problems/make-the-string-great/">Make The String Great</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1544.%20Make%20The%20String%20Great/MakeTheStringGreat_Stack.java">Stack</a>
-    </td>
-    <td align="center">
-      <a href="#stack">Stack</a>, 
       <a href="#string">String</a>
     </td>
   </tr>
@@ -1029,6 +1029,19 @@
       <a href="#array">Array</a>, 
       <a href="#breadth-first-search">Breadth-First Search</a>, 
       <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1962</td>
+    <td><a href="https://leetcode.com/problems/remove-stones-to-minimize-the-total/">Remove Stones to Minimize the Total</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total/RemoveStonesToMinimizeTheTotal.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#heap-priority-queue">Heap (Priority Queue)</a>
     </td>
     <td></td>
   </tr>
@@ -4325,6 +4338,19 @@
       <a href="#array">Array</a>, 
       <a href="#heap-priority-queue">Heap (Priority Queue)</a>, 
       <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1962</td>
+    <td><a href="https://leetcode.com/problems/remove-stones-to-minimize-the-total/">Remove Stones to Minimize the Total</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total/RemoveStonesToMinimizeTheTotal.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#heap-priority-queue">Heap (Priority Queue)</a>
     </td>
     <td></td>
   </tr>
