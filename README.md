@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 29th</td>
+    <td>2244. <a href="https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/">Minimum Rounds to Complete All Tasks</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks/MinimumRoundsToCompleteAllTasks.java">Counting, Greedy & Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#counting">Counting</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#hash-table">Hash Table</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 28th</td>
     <td>1962. <a href="https://leetcode.com/problems/remove-stones-to-minimize-the-total/">Remove Stones to Minimize the Total</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -75,21 +89,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>, 
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 24th</td>
-    <td>1578. <a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/">Minimum Time to Make Rope Colorful</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_DynamicProgramming.java">Dynamic Programming</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_Greedy.java">Greedy</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#dynamic-programming">Dynamic Programming</a>, 
-      <a href="#greedy">Greedy</a>, 
       <a href="#string">String</a>
     </td>
   </tr>
@@ -1159,6 +1158,21 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2244</td>
+    <td><a href="https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/">Minimum Rounds to Complete All Tasks</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks/MinimumRoundsToCompleteAllTasks.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#counting">Counting</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -2562,6 +2576,21 @@
     </td>
   </tr>
   <tr>
+    <td align="center">2244</td>
+    <td><a href="https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/">Minimum Rounds to Complete All Tasks</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks/MinimumRoundsToCompleteAllTasks.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#counting">Counting</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2351</td>
     <td><a href="https://leetcode.com/problems/first-letter-to-appear-twice/">First Letter to Appear Twice</a></td>
     <td align="center">
@@ -3706,6 +3735,21 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">2244</td>
+    <td><a href="https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/">Minimum Rounds to Complete All Tasks</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks/MinimumRoundsToCompleteAllTasks.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#counting">Counting</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2389</td>
     <td><a href="https://leetcode.com/problems/longest-subsequence-with-limited-sum/">Longest Subsequence With Limited Sum</a></td>
     <td align="center">
@@ -4185,6 +4229,21 @@
     <td>Solution 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers/CheckIfEveryRowAndColumnContainsAllNumbers.java"><em>Without Hash Table</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">2244</td>
+    <td><a href="https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/">Minimum Rounds to Complete All Tasks</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks/MinimumRoundsToCompleteAllTasks.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#counting">Counting</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">2351</td>
