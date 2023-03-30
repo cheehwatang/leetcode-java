@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 30th</td>
+    <td>1636. <a href="https://leetcode.com/problems/sort-array-by-increasing-frequency/">Sort Array by Increasing Frequency</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1636.%20Sort%20Array%20by%20Increasing%20Frequency/SortArrayByIncreasingFrequency.java">Hash Table & Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 29th</td>
     <td>2244. <a href="https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/">Minimum Rounds to Complete All Tasks</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -77,19 +90,6 @@
       <a href="#design">Design</a>, 
       <a href="#queue">Queue</a>, 
       <a href="#stack">Stack</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 25th</td>
-    <td>1662. <a href="https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/">Check If Two String Arrays are Equivalent</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/CheckIfTwoStringArraysAreEquivalent_Pointers.java">With</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent/CheckIfTwoStringArraysAreEquivalent_String.java">Without Pointers</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
@@ -916,6 +916,20 @@
       <a href="#dynamic-programming">Dynamic Programming</a>, 
       <a href="#greedy">Greedy</a>, 
       <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1636</td>
+    <td><a href="https://leetcode.com/problems/sort-array-by-increasing-frequency/">Sort Array by Increasing Frequency</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1636.%20Sort%20Array%20by%20Increasing%20Frequency/SortArrayByIncreasingFrequency.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -4107,6 +4121,20 @@
     </td>
   </tr>
   <tr>
+    <td align="center">1636</td>
+    <td><a href="https://leetcode.com/problems/sort-array-by-increasing-frequency/">Sort Array by Increasing Frequency</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1636.%20Sort%20Array%20by%20Increasing%20Frequency/SortArrayByIncreasingFrequency.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1679</td>
     <td><a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a></td>
     <td align="center">
@@ -5876,6 +5904,20 @@
     <td>Solution Using 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Heap.java"><em>Heap (Priority Queue)</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">1636</td>
+    <td><a href="https://leetcode.com/problems/sort-array-by-increasing-frequency/">Sort Array by Increasing Frequency</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1636.%20Sort%20Array%20by%20Increasing%20Frequency/SortArrayByIncreasingFrequency.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1679</td>
