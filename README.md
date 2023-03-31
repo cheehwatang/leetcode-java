@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">March 31st</td>
+    <td>953. <a href="https://leetcode.com/problems/verifying-an-alien-dictionary/">Verifying an Alien Dictionary</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/953.%20Verifying%20an%20Alien%20Dictionary/VerifyingAnAlienDictionary.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 30th</td>
     <td>1636. <a href="https://leetcode.com/problems/sort-array-by-increasing-frequency/">Sort Array by Increasing Frequency</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -72,19 +85,6 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/225.%20Implement%20Stack%20using%20Queues/ImplementStackUsingQueues.java">Queue & Stack</a>
-    </td>
-    <td align="center">
-      <a href="#design">Design</a>, 
-      <a href="#queue">Queue</a>, 
-      <a href="#stack">Stack</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 26th</td>
-    <td>232. <a href="https://leetcode.com/problems/implement-queue-using-stacks/">Implement Queue using Stacks</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/232.%20Implement%20Queue%20using%20Stacks/ImplementQueueUsingStacks.java">Queue & Stack</a>
     </td>
     <td align="center">
       <a href="#design">Design</a>, 
@@ -703,6 +703,20 @@
       <a href="#greedy">Greedy</a>, 
       <a href="#sorting">Sorting</a>, 
       <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">953</td>
+    <td><a href="https://leetcode.com/problems/verifying-an-alien-dictionary/">Verifying an Alien Dictionary</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/953.%20Verifying%20an%20Alien%20Dictionary/VerifyingAnAlienDictionary.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -4089,6 +4103,20 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">953</td>
+    <td><a href="https://leetcode.com/problems/verifying-an-alien-dictionary/">Verifying an Alien Dictionary</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/953.%20Verifying%20an%20Alien%20Dictionary/VerifyingAnAlienDictionary.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">974</td>
     <td><a href="https://leetcode.com/problems/subarray-sums-divisible-by-k/">Subarray Sums Divisible by K</a></td>
     <td align="center">
@@ -6517,6 +6545,20 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
+      <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">953</td>
+    <td><a href="https://leetcode.com/problems/verifying-an-alien-dictionary/">Verifying an Alien Dictionary</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/953.%20Verifying%20an%20Alien%20Dictionary/VerifyingAnAlienDictionary.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>, 
       <a href="#string">String</a>
     </td>
     <td></td>
