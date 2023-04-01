@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 1st</td>
+    <td>45. <a href="https://leetcode.com/problems/jump-game-ii/">Jump Game II</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_Greedy.java">Greedy</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">March 31st</td>
     <td>953. <a href="https://leetcode.com/problems/verifying-an-alien-dictionary/">Verifying an Alien Dictionary</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -216,6 +228,19 @@
       <a href="#array">Array</a>, 
       <a href="#backtracking">Backtracking</a>, 
       <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">45</td>
+    <td><a href="https://leetcode.com/problems/jump-game-ii/">Jump Game II</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_Greedy.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>
     </td>
     <td></td>
   </tr>
@@ -3585,7 +3610,20 @@
     <th>Note</th>
   </tr>
   <tr>
-  <td align="center">55</td>
+    <td align="center">45</td>
+    <td><a href="https://leetcode.com/problems/jump-game-ii/">Jump Game II</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_Greedy.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">55</td>
     <td><a href="https://leetcode.com/problems/jump-game/">Jump Game</a></td>
     <td align="center">Java with 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_Greedy.java">Greedy</a>
