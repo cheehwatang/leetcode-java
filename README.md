@@ -28,16 +28,28 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 3rd</td>
+    <td>205. <a href="https://leetcode.com/problems/isomorphic-strings/">Isomorphic Strings</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/205.%20Isomorphic%20Strings/IsomorphicStrings.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 2nd</td>
     <td>45. <a href="https://leetcode.com/problems/jump-game-ii/">Jump Game II</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_DynamicProgramming_Memoization.java">Dynamic Programming (Memoization)</a>, 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_DynamicProgramming_Tabulation.java">Dynamic Programming (Tabulation)</a>
+    <td align="center">Dynamic Programming - 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_DynamicProgramming_Memoization.java">Memoization</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_DynamicProgramming_Tabulation.java">Tabulation</a>
     </td>
     <td align="center">
       <a href="#array">Array</a>, 
-      <a href="#dynamic-programming">Dynamic Programming</a>, 
+      <a href="#dynamic-programming">Dynamic Programming</a>
     </td>
   </tr>
   <tr>
@@ -76,20 +88,6 @@
       <a href="#array">Array</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 29th</td>
-    <td>2244. <a href="https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/">Minimum Rounds to Complete All Tasks</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks/MinimumRoundsToCompleteAllTasks.java">Counting, Greedy & Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#counting">Counting</a>, 
-      <a href="#greedy">Greedy</a>, 
-      <a href="#hash-table">Hash Table</a>
     </td>
   </tr>
 </table>
@@ -3276,9 +3274,9 @@
   <tr>
     <td align="center">45</td>
     <td><a href="https://leetcode.com/problems/jump-game-ii/">Jump Game II</a></td>
-    <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_DynamicProgramming_Memoization.java">Dynamic Programming (Memoization)</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_DynamicProgramming_Tabulation.java">Dynamic Programming (Tabulation)</a>
+    <td align="center">Java with Dynamic Programming - 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_DynamicProgramming_Memoization.java">Memoization</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_DynamicProgramming_Tabulation.java">Tabulation</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
@@ -3287,14 +3285,14 @@
       <a href="#greedy">Greedy</a>
     </td>
     <td>Solution Using 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_Greedy.java"><em>Greedy Approach</em></a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_Greedy.java"><em>Greedy</em></a>
     </td>
   </tr>
   <tr>
     <td align="center">55</td>
     <td><a href="https://leetcode.com/problems/jump-game/">Jump Game</a></td>
     <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_DynamicProgramming.java">Dynamic Programming</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/55.%20Jump%20Game/JumpGame_DynamicProgramming.java">Java</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
@@ -3947,6 +3945,19 @@
       <a href="#array">Array</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">205</td>
+    <td><a href="https://leetcode.com/problems/isomorphic-strings/">Isomorphic Strings</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/205.%20Isomorphic%20Strings/IsomorphicStrings.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#string">String</a>
     </td>
     <td></td>
   </tr>
@@ -6388,6 +6399,19 @@
     <td>Solution Using 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_TwoPointers.java"><em>Two Pointers</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">205</td>
+    <td><a href="https://leetcode.com/problems/isomorphic-strings/">Isomorphic Strings</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/205.%20Isomorphic%20Strings/IsomorphicStrings.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#string">String</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">257</td>
