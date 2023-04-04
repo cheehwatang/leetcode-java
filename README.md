@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 4th</td>
+    <td>2413. <a href="https://leetcode.com/problems/smallest-even-multiple/">Smallest Even Multiple</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2413.%20Smallest%20Even%20Multiple/SmallestEvenMultiple.java">Math</a>
+    </td>
+    <td align="center">
+      <a href="#math">Math</a>, 
+      <a href="#number-theory">Number Theory</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 3rd</td>
     <td>205. <a href="https://leetcode.com/problems/isomorphic-strings/">Isomorphic Strings</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -75,19 +87,6 @@
       <a href="#array">Array</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 30th</td>
-    <td>1636. <a href="https://leetcode.com/problems/sort-array-by-increasing-frequency/">Sort Array by Increasing Frequency</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1636.%20Sort%20Array%20by%20Increasing%20Frequency/SortArrayByIncreasingFrequency.java">Hash Table & Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#hash-table">Hash Table</a>, 
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
