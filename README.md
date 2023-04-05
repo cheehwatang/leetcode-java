@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 5th</td>
+    <td>2438. <a href="https://leetcode.com/problems/range-product-queries-of-powers/">Range Product Queries of Powers</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2438.%20Range%20Product%20Queries%20of%20Powers/RangeProductQueriesOfPowers.java">Bit Manipulation & Prefix Sum</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#bit-manipulation">Bit Manipulation</a>, 
+      <a href="#prefix-sum">Prefix Sum</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 4th</td>
     <td>2413. <a href="https://leetcode.com/problems/smallest-even-multiple/">Smallest Even Multiple</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -74,19 +87,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#greedy">Greedy</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">March 31st</td>
-    <td>953. <a href="https://leetcode.com/problems/verifying-an-alien-dictionary/">Verifying an Alien Dictionary</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/953.%20Verifying%20an%20Alien%20Dictionary/VerifyingAnAlienDictionary.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#hash-table">Hash Table</a>, 
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
