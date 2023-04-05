@@ -3,36 +3,14 @@ package com.cheehwatang.leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Problem:
- * Given a positive integer 'n', there exists a 0-indexed array called 'powers',
- * composed of the minimum number of powers of 2 that sum to n.
- * For example n = 11, the 'powers' array would be [1,2,8].
- * Along integer 'n', given a 2D integer array 'queries', where queries[i] = [left-i, right-i],
- * return an array 'answers', equal in length to 'queries',
- * where answers[i] is the product of all powers[j] where left-i <= j <= right-i.
- * The products in the 'answers' should be returned in modulo (1e9 + 7).
- *
- *
- * Example 1:
- * Input    : n = 6, queries = [[0,1]]
- * Output   : [8]
- * Explanation:
- * For n = 6, powers = [2,4].
- * The queries, powers[0] * powers[1] == 2 * 4 == 8.
- *
- *
- * Example 2:
- * Input    : n = 14, queries = [[0,0],[1,2]]
- * Output   : [2,32]
- * Explanation:
- * For n = 14, powers = [2,4,8].
- * The queries, powers[0] == 2.
- * The queries, powers[1], powers[2] == 4 * 8 == 32.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(j * k),
+// where 'j' is the length of 'queries' array, and 'k' is the number of powers of 2 in input 'n'.
+// We iterate through 'queries' to get the products,
+// with the worst-case being that the product of each query is from the whole range of the possible powers generated from 'n'.
+//
+// Space Complexity : O(j + k),
+// where 'j' is the length of 'queries' array, and 'k' is the number of powers of 2 in input 'n'.
+// An array of length 'j' is used to store the result, and a list of length 'k' is use to store the powers.
 
 public class RangeProductQueriesOfPowers {
 
