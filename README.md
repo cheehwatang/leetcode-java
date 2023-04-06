@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 6th</td>
+    <td>2240. <a href="https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/">Number of Ways to Buy Pens and Pencils</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2240.%20Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils/NumberOfWaysToBuyPensAndPencils.java">Math</a>
+    </td>
+    <td align="center">
+      <a href="#enumeration">Enumeration</a>, 
+      <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 5th</td>
     <td>2438. <a href="https://leetcode.com/problems/range-product-queries-of-powers/">Range Product Queries of Powers</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -75,18 +87,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#dynamic-programming">Dynamic Programming</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 1st</td>
-    <td>45. <a href="https://leetcode.com/problems/jump-game-ii/">Jump Game II</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_Greedy.java">Greedy</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#greedy">Greedy</a>
     </td>
   </tr>
 </table>
