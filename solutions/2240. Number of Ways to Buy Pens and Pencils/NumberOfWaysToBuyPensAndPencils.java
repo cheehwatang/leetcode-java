@@ -1,32 +1,11 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given three integers:
- * 1. 'total' representing the amount of money you have,
- * 2. 'cost1' representing the price of a pen, and
- * 3. 'cost2' representing the price of a pencil,
- * return the number of distinct ways you can buy some number of pens and pencils.
- * Note that part or all of the money can be spent to buy multiple quantities (or none) of either pen or pencil.
- *
- *
- * Example 1:
- * Input    : total = 10, cost1 = 5, cost2 = 2
- * Output   : 10
- * Explanation: There is a total of 10 distinct ways to buy (or not buy) the pens and pencils.
- * - If we buy 0 pens, we can buy 0, 1, 2, 3, 4, or 5 pencils.
- * - If we buy 1 pen, we can buy 0, 1 or 2 pencils.
- * - If we buy 2 pens, we can buy 0 pencils.
- *
- *
- * Example 2:
- * Input    : total = 1, cost1 = 5, cost2 = 2
- * Output   : 1
- * Explanation: We do not have enough money to buy either a pen or pencil, thus we can only buy 0 pens and 0 pencils.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the number of pen possible to buy.
+// After finding out the number of pen possible to buy, we iterate through the pen numbers to find the count for pencils.
+//
+// Space Complexity : O(1),
+// as the auxiliary space used is independent of the size of the input.
 
 public class NumberOfWaysToBuyPensAndPencils {
 
@@ -35,7 +14,6 @@ public class NumberOfWaysToBuyPensAndPencils {
     // Then for each number of pen, check how many pencil can be bought with the remaining amount of money.
 
     public long waysToBuyPensPencils(int total, int cost1, int cost2) {
-
         long count = 0;
 
         // Determine the number of pen possible.
