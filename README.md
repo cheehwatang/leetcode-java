@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 7th</td>
+    <td>2437. <a href="https://leetcode.com/problems/number-of-valid-clock-times/">Number of Valid Clock Times</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2437.%20Number%20of%20Valid%20Clock%20Times/NumberOfValidClockTimes.java">String</a>
+    </td>
+    <td align="center">
+      <a href="#enumeration">Enumeration</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 6th</td>
     <td>2240. <a href="https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/">Number of Ways to Buy Pens and Pencils</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
