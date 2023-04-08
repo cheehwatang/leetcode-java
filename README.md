@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 8th</td>
+    <td>2315. <a href="https://leetcode.com/problems/count-asterisks/">Count Asterisks</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2315.%20Count%20Asterisks/CountAsterisks.java">String</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 7th</td>
     <td>2437. <a href="https://leetcode.com/problems/number-of-valid-clock-times/">Number of Valid Clock Times</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -74,31 +85,6 @@
     <td align="center">
       <a href="#math">Math</a>, 
       <a href="#number-theory">Number Theory</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 3rd</td>
-    <td>205. <a href="https://leetcode.com/problems/isomorphic-strings/">Isomorphic Strings</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/205.%20Isomorphic%20Strings/IsomorphicStrings.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#hash-table">Hash Table</a>, 
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 2nd</td>
-    <td>45. <a href="https://leetcode.com/problems/jump-game-ii/">Jump Game II</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">Dynamic Programming - 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_DynamicProgramming_Memoization.java">Memoization</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/45.%20Jump%20Game%20II/JumpGameII_DynamicProgramming_Tabulation.java">Tabulation</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#dynamic-programming">Dynamic Programming</a>
     </td>
   </tr>
 </table>
