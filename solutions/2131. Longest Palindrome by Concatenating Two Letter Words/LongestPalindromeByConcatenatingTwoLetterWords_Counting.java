@@ -1,27 +1,11 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given an array of strings 'words' with each element containing only two lowercase English letters,
- * create the longest possible palindrome by concatenating any elements in 'words' in any order
- * and return the length of the longest possible palindrome (0 if not possible).
- * Do note that each element can be selected at most once.
- *
- *
- * Example 1:
- * Input : words = ["ab", "ba", "zz"]
- * Output: 6
- * Explanation: Possible longest palindromes are "abzzba" and "bazzab", both with length 6.
- *
- *
- * Example 2:
- * Input : words = ["aa", "bb", "cc"]
- * Output: 2
- * Explanation: The longest possible palidromes are "aa", "bb" and "cc".
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of String array 'words'.
+// We traverse the String array once to count and check for the length of palindrome that can form.
+//
+// Space Complexity : O(1),
+// as the counting matrix (26 * 26) is independent on the length of the input String array 'words'.
 
 public class LongestPalindromeByConcatenatingTwoLetterWords_Counting {
 
