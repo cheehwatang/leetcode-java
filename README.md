@@ -28,6 +28,21 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 9th</td>
+    <td>2131. <a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/">Longest Palindrome by Concatenating Two Letter Words</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/LongestPalindromeByConcatenatingTwoLetterWords_Counting.java">Counting & Greedy</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#counting">Counting</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 8th</td>
     <td>2315. <a href="https://leetcode.com/problems/count-asterisks/">Count Asterisks</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,18 +88,6 @@
       <a href="#array">Array</a>, 
       <a href="#bit-manipulation">Bit Manipulation</a>, 
       <a href="#prefix-sum">Prefix Sum</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 4th</td>
-    <td>2413. <a href="https://leetcode.com/problems/smallest-even-multiple/">Smallest Even Multiple</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2413.%20Smallest%20Even%20Multiple/SmallestEvenMultiple.java">Math</a>
-    </td>
-    <td align="center">
-      <a href="#math">Math</a>, 
-      <a href="#number-theory">Number Theory</a>
     </td>
   </tr>
 </table>
