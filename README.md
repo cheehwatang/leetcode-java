@@ -28,6 +28,21 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 10th</td>
+    <td>2131. <a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/">Longest Palindrome by Concatenating Two Letter Words</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/LongestPalindromeByConcatenatingTwoLetterWords_HashTable.java">Hash Table & Greedy</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#counting">Counting</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 9th</td>
     <td>2131. <a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/">Longest Palindrome by Concatenating Two Letter Words</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -75,19 +90,6 @@
     <td align="center">
       <a href="#enumeration">Enumeration</a>, 
       <a href="#math">Math</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 5th</td>
-    <td>2438. <a href="https://leetcode.com/problems/range-product-queries-of-powers/">Range Product Queries of Powers</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2438.%20Range%20Product%20Queries%20of%20Powers/RangeProductQueriesOfPowers.java">Bit Manipulation & Prefix Sum</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#bit-manipulation">Bit Manipulation</a>, 
-      <a href="#prefix-sum">Prefix Sum</a>
     </td>
   </tr>
 </table>
