@@ -3,28 +3,14 @@ package com.cheehwatang.leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Problem:
- * Given an array of strings 'words' with each element containing only two lowercase English letters,
- * create the longest possible palindrome by concatenating any elements in 'words' in any order
- * and return the length of the longest possible palindrome (0 if not possible).
- * Do note that each element can be selected at most once.
- *
- *
- * Example 1:
- * Input : words = ["ab", "ba", "zz"]
- * Output: 6
- * Explanation: Possible longest palindromes are "abzzba" and "bazzab", both with length 6.
- *
- *
- * Example 2:
- * Input : words = ["aa", "bb", "cc"]
- * Output: 2
- * Explanation: The longest possible palidromes are "aa", "bb" and "cc".
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of String array 'words'.
+// We traverse the String array once to count and check for the length of palindrome that can form.
+//
+// Space Complexity : O(n),
+// where 'n' is the length of String array 'words'.
+// The worst-case is when no pair is found that can form a palindrome,
+// resulting in the HashMap to grow linearly with the input when all the strings are unique.
 
 public class LongestPalindromeByConcatenatingTwoLetterWords_HashTable {
 
@@ -64,6 +50,7 @@ public class LongestPalindromeByConcatenatingTwoLetterWords_HashTable {
             if (map.containsKey(flipped)) {
                 max += 4;
                 map.put(flipped, map.get(flipped) - 1);
+                // As we are using map.containsKey(), we need to clean up the HashMap when the count is 0.
                 if (map.get(flipped) == 0) map.remove(flipped);
             } else {
                 map.put(word, map.getOrDefault(word, 0) + 1);
