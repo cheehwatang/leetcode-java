@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 11th</td>
+    <td>2351. <a href="https://leetcode.com/problems/first-letter-to-appear-twice/">First Letter to Appear Twice</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2351.%20First%20Letter%20to%20Appear%20Twice/FirstLetterToAppearTwice_Counting.java">Counting</a>
+    </td>
+    <td align="center">
+      <a href="#counting">Counting</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 10th</td>
     <td>2131. <a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/">Longest Palindrome by Concatenating Two Letter Words</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -78,18 +91,6 @@
     <td align="center">
       <a href="#enumeration">Enumeration</a>, 
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 6th</td>
-    <td>2240. <a href="https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/">Number of Ways to Buy Pens and Pencils</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2240.%20Number%20of%20Ways%20to%20Buy%20Pens%20and%20Pencils/NumberOfWaysToBuyPensAndPencils.java">Math</a>
-    </td>
-    <td align="center">
-      <a href="#enumeration">Enumeration</a>, 
-      <a href="#math">Math</a>
     </td>
   </tr>
 </table>
