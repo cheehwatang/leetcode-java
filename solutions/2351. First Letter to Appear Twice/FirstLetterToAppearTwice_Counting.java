@@ -1,25 +1,11 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given a string 's' consisting of lowercase English letters, return the first letter to appear twice,
- * from left to right of the string.
- *
- *
- * Example 1:
- * Input    : s = "leetcode"
- * Output   : 'e'
- *
- *
- * Example 2:
- * Input    : s = "helloworld"
- * Output   : 'l'
- * Explanation:
- * Characters such as 'l' and 'o' appears twice, but 'l' appears twice first.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length string 's'.
+// We traverse the whole string to not find duplicate letters in the worst-case.
+//
+// Space Complexity : O(1),
+// as we are using a fixed boolean array independent of the size of the input string 's'.
 
 public class FirstLetterToAppearTwice_Counting {
 
