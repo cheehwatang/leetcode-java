@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 12th</td>
+    <td>2351. <a href="https://leetcode.com/problems/first-letter-to-appear-twice/">First Letter to Appear Twice</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2351.%20First%20Letter%20to%20Appear%20Twice/FirstLetterToAppearTwice_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#counting">Counting</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 11th</td>
     <td>2351. <a href="https://leetcode.com/problems/first-letter-to-appear-twice/">First Letter to Appear Twice</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -78,18 +91,6 @@
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2315.%20Count%20Asterisks/CountAsterisks.java">String</a>
     </td>
     <td align="center">
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 7th</td>
-    <td>2437. <a href="https://leetcode.com/problems/number-of-valid-clock-times/">Number of Valid Clock Times</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2437.%20Number%20of%20Valid%20Clock%20Times/NumberOfValidClockTimes.java">String</a>
-    </td>
-    <td align="center">
-      <a href="#enumeration">Enumeration</a>, 
       <a href="#string">String</a>
     </td>
   </tr>
