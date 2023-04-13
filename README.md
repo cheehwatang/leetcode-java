@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 13th</td>
+    <td>2279. <a href="https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/">Maximum Bags With Full Capacity of Rocks</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/MaximumBagsWithFullCapacityOfRocks.java">Greedy & Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 12th</td>
     <td>2351. <a href="https://leetcode.com/problems/first-letter-to-appear-twice/">First Letter to Appear Twice</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -80,17 +93,6 @@
       <a href="#counting">Counting</a>, 
       <a href="#greedy">Greedy</a>, 
       <a href="#hash-table">Hash Table</a>, 
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 8th</td>
-    <td>2315. <a href="https://leetcode.com/problems/count-asterisks/">Count Asterisks</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2315.%20Count%20Asterisks/CountAsterisks.java">String</a>
-    </td>
-    <td align="center">
       <a href="#string">String</a>
     </td>
   </tr>
@@ -1219,6 +1221,20 @@
       <a href="#counting">Counting</a>, 
       <a href="#greedy">Greedy</a>, 
       <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2279</td>
+    <td><a href="https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/">Maximum Bags With Full Capacity of Rocks</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/MaximumBagsWithFullCapacityOfRocks.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -3830,6 +3846,20 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">2279</td>
+    <td><a href="https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/">Maximum Bags With Full Capacity of Rocks</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/MaximumBagsWithFullCapacityOfRocks.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2389</td>
     <td><a href="https://leetcode.com/problems/longest-subsequence-with-limited-sum/">Longest Subsequence With Limited Sum</a></td>
     <td align="center">
@@ -6082,6 +6112,20 @@
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom/EarliestPossibleDayOfFullBloom.java">Java</a>
     </td>
     <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2279</td>
+    <td><a href="https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/">Maximum Bags With Full Capacity of Rocks</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/MaximumBagsWithFullCapacityOfRocks.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#greedy">Greedy</a>, 
