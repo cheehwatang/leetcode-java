@@ -28,6 +28,21 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 15th</td>
+    <td>226. <a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">
+      <a href="#binary-tree">Binary Tree</a>, 
+      <a href="#breadth-first-search">Breadth-First Search</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 14th</td>
     <td>226. <a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -76,21 +91,6 @@
     </td>
     <td align="center">
       <a href="#counting">Counting</a>, 
-      <a href="#hash-table">Hash Table</a>, 
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 10th</td>
-    <td>2131. <a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/">Longest Palindrome by Concatenating Two Letter Words</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words/LongestPalindromeByConcatenatingTwoLetterWords_HashTable.java">Hash Table & Greedy</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#counting">Counting</a>, 
-      <a href="#greedy">Greedy</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#string">String</a>
     </td>
@@ -1898,7 +1898,9 @@
     <td align="center">226</td>
     <td><a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
     <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_BFS.java">Breadth-First Search</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_BFS.java">Breadth-First Search</a>, 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -2412,8 +2414,8 @@
   <tr>
     <td align="center">226</td>
     <td><a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
-    <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_BFS.java">Breadth-First Search</a>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_BFS.java">Java</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -2422,13 +2424,16 @@
       <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#tree">Tree</a>
     </td>
-    <td></td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">404</td>
     <td><a href="https://leetcode.com/problems/sum-of-left-leaves/">Sum of Left Leaves</a></td>
-    <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/404.%20Sum%20of%20Left%20Leaves/SumOfLeftLeaves_BFS.java">Breadth-First Search</a>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/404.%20Sum%20of%20Left%20Leaves/SumOfLeftLeaves_BFS.java">Java</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -2803,7 +2808,7 @@
       <a href="#tree">Tree</a>
     </td>
     <td>Solution Using 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/100.%20Same%20Tree/SameTree_BFS.java"><em>Breadth-First Search</em>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/100.%20Same%20Tree/SameTree_BFS.java"><em>Breadth-First Search</em></a>
     </td>
   </tr>
   <tr>
@@ -2871,7 +2876,7 @@
       <a href="#tree">Tree</a>
     </td>
     <td>Solution Using 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_BFS.java">Breadth-First Search</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/112.%20Path%20Sum/PathSum_BFS.java"><em>Breadth-First Search</em></a>
     </td>
   </tr>
   <tr>
@@ -3006,6 +3011,24 @@
       <a href="#tree">Tree</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">226</td>
+    <td><a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#binary-tree">Binary Tree</a>, 
+      <a href="#breadth-first-search">Breadth-First Search</a>, 
+      <a href="#depth-first-search">Depth-First Search</a>, 
+      <a href="#tree">Tree</a>
+    </td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_BFS.java"><em>Breadth-First Search</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">257</td>
@@ -7290,7 +7313,9 @@
     <td align="center">226</td>
     <td><a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
     <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_BFS.java">Breadth-First Search</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_BFS.java">Breadth-First Search</a>, 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
