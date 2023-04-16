@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 16th</td>
+    <td>152. <a href="https://leetcode.com/problems/maximum-product-subarray/">Maximum Product Subarray</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/152.%20Maximum%20Product%20Subarray/MaximumProductSubarray.java">Array</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 15th</td>
     <td>226. <a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -75,19 +86,6 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2351.%20First%20Letter%20to%20Appear%20Twice/FirstLetterToAppearTwice_HashTable.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#counting">Counting</a>, 
-      <a href="#hash-table">Hash Table</a>, 
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 11th</td>
-    <td>2351. <a href="https://leetcode.com/problems/first-letter-to-appear-twice/">First Letter to Appear Twice</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2351.%20First%20Letter%20to%20Appear%20Twice/FirstLetterToAppearTwice_Counting.java">Counting</a>
     </td>
     <td align="center">
       <a href="#counting">Counting</a>, 
@@ -366,6 +364,18 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#greedy">Greedy</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">152</td>
+    <td><a href="https://leetcode.com/problems/maximum-product-subarray/">Maximum Product Subarray</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/152.%20Maximum%20Product%20Subarray/MaximumProductSubarray.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>
     </td>
     <td></td>
   </tr>
