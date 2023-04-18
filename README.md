@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 18th</td>
+    <td>217. <a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_HashMap.java">Hash Map</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_HashSet.java">Hash Set</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 17th</td>
     <td>152. <a href="https://leetcode.com/problems/maximum-product-subarray/">Maximum Product Subarray</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -77,19 +90,6 @@
       <a href="#breadth-first-search">Breadth-First Search</a>, 
       <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 13th</td>
-    <td>2279. <a href="https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/">Maximum Bags With Full Capacity of Rocks</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks/MaximumBagsWithFullCapacityOfRocks.java">Greedy & Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#greedy">Greedy</a>, 
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
@@ -410,6 +410,20 @@
       <a href="#depth-first-search">Depth-First Search</a>, 
       <a href="#matrix">Matrix</a>, 
       <a href="#union-find">Union Find</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">217</td>
+    <td><a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_HashMap.java">Hash Map</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_HashSet.java">Hash Set</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -4070,6 +4084,20 @@
     <td align="center">
       <a href="#hash-table">Hash Table</a>, 
       <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">217</td>
+    <td><a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_HashMap.java">Hash Map</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_HashSet.java">Hash Set</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
