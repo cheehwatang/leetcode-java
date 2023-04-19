@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 19th</td>
+    <td>217. <a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_Sorting.java">Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 18th</td>
     <td>217. <a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -70,20 +83,6 @@
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
-    </td>
-    <td align="center">
-      <a href="#binary-tree">Binary Tree</a>, 
-      <a href="#breadth-first-search">Breadth-First Search</a>, 
-      <a href="#depth-first-search">Depth-First Search</a>, 
-      <a href="#tree">Tree</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 14th</td>
-    <td>226. <a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_BFS.java">Breadth-First Search</a>
     </td>
     <td align="center">
       <a href="#binary-tree">Binary Tree</a>, 
@@ -417,13 +416,15 @@
     <td align="center">217</td>
     <td><a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td>
     <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_HashMap.java">Hash Map</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_HashSet.java">Hash Set</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_HashMap.java">Hash Map</a>, 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_HashSet.java">Hash Set</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_Sorting.java">Sorting</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
-      <a href="#hash-table">Hash Table</a>
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -4097,9 +4098,12 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
-      <a href="#hash-table">Hash Table</a>
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sorting">Sorting</a>
     </td>
-    <td></td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_Sorting.java"><em>Sorting</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">264</td>
@@ -6006,6 +6010,23 @@
     </td>
     <td>Solution Using 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/88.%20Merge%20Sorted%20Array/MergeSortedArray_TwoPointers.java"><em>Two Pointers</em></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">217</td>
+    <td><a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_Sorting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_HashMap.java"><em>Hash Map</em></a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_HashSet.java"><em>Hash Set</em></a>
     </td>
   </tr>
   <tr>
