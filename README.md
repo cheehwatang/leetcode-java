@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 20th</td>
+    <td>151. <a href="https://leetcode.com/problems/reverse-words-in-a-string/">Reverse Words in a String</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_StringBuilder.java">StringBuilder</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 19th</td>
     <td>217. <a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -74,21 +85,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 15th</td>
-    <td>226. <a href="https://leetcode.com/problems/invert-binary-tree/">Invert Binary Tree</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_DFS_Iterative.java">Depth-First Search (Iterative)</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/226.%20Invert%20Binary%20Tree/InvertBinaryTree_DFS_Recursive.java">Depth-First Search (Recursive)</a>
-    </td>
-    <td align="center">
-      <a href="#binary-tree">Binary Tree</a>, 
-      <a href="#breadth-first-search">Breadth-First Search</a>, 
-      <a href="#depth-first-search">Depth-First Search</a>, 
-      <a href="#tree">Tree</a>
     </td>
   </tr>
 </table>
@@ -4721,8 +4717,8 @@
     <td align="center">19</td>
     <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Remove Nth Node From End of List</a></td>
     <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_Collections.java">One Pass</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_TwoPointers.java">Two Passes</a>
+      <a href="hhttps://github.com/cheehwatang/leetcode-java/blob/main/solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/RemoveNthNodeFromEndOfList_OnePass.java">One Pass</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/RemoveNthNodeFromEndOfList_TwoPasses.java">Two Passes</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
@@ -6563,7 +6559,7 @@
     <td align="center">151</td>
     <td><a href="https://leetcode.com/problems/reverse-words-in-a-string/">Reverse Words in a String</a></td>
     <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString.java">String </a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_StringBuilder.java">StringBuilder</a> or 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_Collections.java">Collections</a> Implementations
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -7588,8 +7584,8 @@
     <td align="center">19</td>
     <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Remove Nth Node From End of List</a></td>
     <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_Collections.java">One Pass</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_TwoPointers.java">Two Passes</a></td>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/RemoveNthNodeFromEndOfList_OnePass.java">One Pass</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/RemoveNthNodeFromEndOfList_TwoPasses.java">Two Passes</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#linked-list">Linked List</a>, 
@@ -7664,7 +7660,8 @@
       <a href="#two-pointers">Two Pointers</a>
     </td>
     <td>Solution Using 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_Collections.java"><em>Collections</em></a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_Collections.java"><em>Collections</em></a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_StringBuilder.java"><em>StringBuilder</em></a>
     </td>
   </tr>
   <tr>
