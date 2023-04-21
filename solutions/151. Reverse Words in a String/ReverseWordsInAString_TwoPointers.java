@@ -1,62 +1,47 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given a string 's', reverse order of the words, where each word is separated by at least one space.
- * Return a string of words in reverse order concatenated by a single space.
- * Please exclude any additional spaces as well as any leading or trailing spaces.
- *
- *
- * Example 1:
- * Input : s = "LeetCode is awesome"
- * Output: "awesome is LeetCode"
- *
- * Example 2:
- * Input : s = "   Hello   World   "
- * Output: "World Hello"
- * Explanation: The reversed string do not contain any leading or trailing spaces,
- *              and reduce multiple spaces to a single space between words.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of string 's'.
+// We traverse the string 's' from right to left, having a linear time complexity.
+// The append of strings to the StringBuilder have a total time complexity of O(n).
+// The conversion of the StringBuilder to the final result string also has a linear time complexity.
+//
+// Space Complexity : O(n),
+// where 'n' is the length of string 's'.
+// The StringBuilder and the final result string
+// requires memory that grows linearly with the size of the input string 's'.
 
 public class ReverseWordsInAString_TwoPointers {
 
     // Approach:
-    // Using two pointers, 'left' and 'right', traverse the list from left to right,
-    // while extracting the words using substring method.
+    // Using the pointer 'start' to traverse the list from right to left.
+    // Once meet a letter (last letter of a word), mark the last letter position as 'end',
+    // while continue the traversal of 'start' pointer until the start of the word.
+    // Append the word to a StringBuilder using the substring of pointer 'start' and 'end'.
 
     public String reverseWords(String s) {
 
-        String reversedWords = "";
-        int left;
-        int right;
+        // Use StringBuilder to reduce time and space complexity,
+        // as String concatenation is O(n).
+        StringBuilder reversedWords = new StringBuilder();
+        int start;
+        int end;
 
-        for (left = s.length() - 1; left >= 0; left--) {
+        // Traverse from right to left using the 'start' pointer.
+        for (start = s.length() - 1; start >= 0; start--) {
+            // If 'start' meets spaces ' ', we skip the loop, until 'start' meets a letter.
+            if (s.charAt(start) == ' ') continue;
 
-            // If 'left' meets spaces ' ', we skip the loop, until 'left' meets a letter.
-            if (s.charAt(left) == ' ') {
-                continue;
-            }
+            // Once 'start' meets a letter, 'end' is used to mark the end of the word.
+            end = start;
+            // Traverse the 'start' until the start of the word.
+            while (start >= 0 && s.charAt(start) != ' ') start--;
 
-            // Once 'left' meets a letter, 'right' is used to mark the end of the word.
-            right = left;
-            // Traverse the 'left' until the start of the word.
-            while (left >= 0 && s.charAt(left) != ' ') {
-                left--;
-            }
-
-            // Add the word (between 'left' and 'right') to the 'reversedWords'.
+            // Add the word (between 'start' and 'end') to the 'reversedWords'.
             // If it is the first word in 'reversedWords', do not add a leading space " ".
-            if (reversedWords.compareTo("") == 0) {
-                reversedWords += s.substring(left + 1, right + 1);
-            } else {
-                reversedWords += " " + s.substring(left + 1, right + 1);
-            }
+            reversedWords.append(" ").append(s, start + 1, end + 1);
         }
-        
-        return reversedWords;
+        // Remove the leading space and convert the StringBuilder to String.
+        return reversedWords.deleteCharAt(0).toString();
     }
-
 }
