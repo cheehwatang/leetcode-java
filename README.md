@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 22nd</td>
+    <td>151. <a href="https://leetcode.com/problems/reverse-words-in-a-string/">Reverse Words in a String</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_Collections.java">Collections</a> Implementations
+    </td>
+    <td align="center">
+      <a href="#string">String</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 21st</td>
     <td>151. <a href="https://leetcode.com/problems/reverse-words-in-a-string/">Reverse Words in a String</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,18 +86,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#hash-table">Hash Table</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 17th</td>
-    <td>152. <a href="https://leetcode.com/problems/maximum-product-subarray/">Maximum Product Subarray</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/152.%20Maximum%20Product%20Subarray/MaximumProductSubarray_DynamicProgramming.java">Dynamic Programming</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#dynamic-programming">Dynamic Programming</a>
     </td>
   </tr>
 </table>
