@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 25th</td>
+    <td>220. <a href="https://leetcode.com/problems/contains-duplicate-iii/">Contains Duplicate III</a></td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_Sorting.java">Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 24th</td>
     <td>219. <a href="https://leetcode.com/problems/contains-duplicate-ii/">Contains Duplicate II</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,17 +85,6 @@
     <td align="center">
       <a href="#string">String</a>, 
       <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 20th</td>
-    <td>151. <a href="https://leetcode.com/problems/reverse-words-in-a-string/">Reverse Words in a String</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_StringBuilder.java">StringBuilder</a>
-    </td>
-    <td align="center">
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
@@ -435,6 +436,19 @@
       <a href="#array">Array</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#sliding-window">Sliding Window</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">220</td>
+    <td><a href="https://leetcode.com/problems/contains-duplicate-iii/">Contains Duplicate III</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_Sorting.java">Sorting</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -6070,6 +6084,19 @@
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_HashMap.java"><em>Hash Map</em></a> or 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/217.%20Contains%20Duplicate/ContainsDuplicate_HashSet.java"><em>Hash Set</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">220</td>
+    <td><a href="https://leetcode.com/problems/contains-duplicate-iii/">Contains Duplicate III</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_Sorting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">295</td>
