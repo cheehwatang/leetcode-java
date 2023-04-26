@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 26th</td>
+    <td>220. <a href="https://leetcode.com/problems/contains-duplicate-iii/">Contains Duplicate III</a></td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_SlidingWindow_HashMap_BucketSort.java">Sliding Window & Bucket Sort</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#bucket-sort">Bucket Sort</a>, 
+      <a href="#sliding-window">Sliding Window</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 25th</td>
     <td>220. <a href="https://leetcode.com/problems/contains-duplicate-iii/">Contains Duplicate III</a></td>
     <td align="center">$\text{\color{Red}Hard}$</td>
@@ -75,18 +88,6 @@
       <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">April 21st</td>
-    <td>151. <a href="https://leetcode.com/problems/reverse-words-in-a-string/">Reverse Words in a String</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/151.%20Reverse%20Words%20in%20a%20String/ReverseWordsInAString_TwoPointers.java">Two Pointers</a>
-    </td>
-    <td align="center">
-      <a href="#string">String</a>, 
-      <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
 </table>
 </br>
 <hr>
@@ -102,6 +103,7 @@
   <li><a href="#bit-manipulation">Bit Manipulation</a></li>
   <li><a href="#brainteaser">Brainteaser</a></li>
   <li><a href="#breadth-first-search">Breadth-First Search</a></li>
+  <li><a href="#bucket-sort">Bucket Sort</a></li>
   <li><a href="#counting">Counting</a></li>
   <li><a href="#data-stream">Data Stream</a></li>
   <li><a href="#depth-first-search">Depth-First Search</a></li>
@@ -443,11 +445,15 @@
     <td align="center">220</td>
     <td><a href="https://leetcode.com/problems/contains-duplicate-iii/">Contains Duplicate III</a></td>
     <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_SlidingWindow_HashMap_BucketSort.java">Sliding Window & Bucket Sort</a> or 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_Sorting.java">Sorting</a>
     </td>
     <td align="center">$\text{\color{Red}Hard}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
+      <a href="#bucket-sort">Bucket Sort</a>, 
+      <a href="#ordered-set">Ordered Set</a>, 
+      <a href="#sliding-window">Sliding Window</a>, 
       <a href="#sorting">Sorting</a>
     </td>
     <td></td>
@@ -2654,6 +2660,39 @@
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Iterative.java"><em>Depth-First Search (Iterative)</em></a>, 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_DFS_Recursive.java"><em>Depth-First Search (Recursive)</em></a> or 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1971.%20Find%20if%20Path%20Exists%20in%20Graph/FindIfPathExistsInGraph_UnionFind.java"><em>Union Find</em></a>
+    </td>
+  </tr>
+</table>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<hr>
+</details>
+
+<details><summary><h3 id="bucket-sort">Bucket Sort</h3></summary>
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+  <td align="center">220</td>
+    <td><a href="https://leetcode.com/problems/contains-duplicate-iii/">Contains Duplicate III</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_SlidingWindow_HashMap_BucketSort.java">Sliding Window & Bucket Sort</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#bucket-sort">Bucket Sort</a>, 
+      <a href="#ordered-set">Ordered Set</a>, 
+      <a href="#sliding-window">Sliding Window</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_Sorting.java"><em>Sorting</em></a>
     </td>
   </tr>
 </table>
@@ -5980,6 +6019,24 @@
     </td>
   </tr>
   <tr>
+    <td align="center">220</td>
+    <td><a href="https://leetcode.com/problems/contains-duplicate-iii/">Contains Duplicate III</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_SlidingWindow_HashMap_BucketSort.java">Sliding Window & Bucket Sort</a>
+    </td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#bucket-sort">Bucket Sort</a>, 
+      <a href="#ordered-set">Ordered Set</a>, 
+      <a href="#sliding-window">Sliding Window</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_Sorting.java"><em>Sorting</em></a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">438</td>
     <td><a href="https://leetcode.com/problems/find-all-anagrams-in-a-string/">Find All Anagrams in a String</a></td>
     <td align="center">
@@ -6094,9 +6151,14 @@
     <td align="center">$\text{\color{Red}Hard}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
+      <a href="#bucket-sort">Bucket Sort</a>, 
+      <a href="#ordered-set">Ordered Set</a>, 
+      <a href="#sliding-window">Sliding Window</a>, 
       <a href="#sorting">Sorting</a>
     </td>
-    <td></td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_SlidingWindow_HashMap_BucketSort.java"><em>Sliding Window & Bucket Sort</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">295</td>
