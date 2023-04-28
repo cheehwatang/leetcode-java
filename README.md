@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 28th</td>
+    <td>1346. <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">Check If N and Its Double Exist</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 27th</td>
     <td>220. <a href="https://leetcode.com/problems/contains-duplicate-iii/">Contains Duplicate III</a></td>
     <td align="center">$\text{\color{Red}Hard}$</td>
@@ -75,18 +87,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#sliding-window">Sliding Window</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 23rd</td>
-    <td>219. <a href="https://leetcode.com/problems/contains-duplicate-ii/">Contains Duplicate II</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/219.%20Contains%20Duplicate%20II/ContainsDuplicateII_HashMap.java">Hash Map</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#hash-table">Hash Table</a>
     </td>
   </tr>
 </table>
@@ -952,6 +952,19 @@
       <a href="#heap-priority-queue">Heap (Priority Queue)</a>, 
       <a href="#matrix">Matrix</a>, 
       <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1346</td>
+    <td><a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">Check If N and Its Double Exist</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_HashTable.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -4419,6 +4432,19 @@
     <td>Solution Using 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/974.%20Subarray%20Sums%20Divisible%20by%20K/SubarraySumsDivisibleByK_Counting.java"><em>Counting</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">1346</td>
+    <td><a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">Check If N and Its Double Exist</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_HashTable.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1497</td>
