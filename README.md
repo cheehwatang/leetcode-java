@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">April 30th</td>
+    <td>1346. <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">Check If N and Its Double Exist</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_Sorting_BinarySearch.java">Binary Search & Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#binary-search">Binary Search</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 29th</td>
     <td>1346. <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">Check If N and Its Double Exist</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -36,7 +49,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>, 
-      <a href="#hash-table">Hash Table</a>, 
       <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
@@ -76,18 +88,6 @@
       <a href="#array">Array</a>, 
       <a href="#bucket-sort">Bucket Sort</a>, 
       <a href="#sliding-window">Sliding Window</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 25th</td>
-    <td>220. <a href="https://leetcode.com/problems/contains-duplicate-iii/">Contains Duplicate III</a></td>
-    <td align="center">$\text{\color{Red}Hard}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_Sorting.java">Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
@@ -960,13 +960,16 @@
     <td align="center">1346</td>
     <td><a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">Check If N and Its Double Exist</a></td>
     <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_Sorting_BinarySearch.java">Binary Search & Sorting</a>, 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_HashTable.java">Hash Table</a> or 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_TwoPointers.java">Two Pointers</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
+      <a href="#binary-search">Binary Search</a>, 
       <a href="#hash-table">Hash Table</a>, 
+      <a href="#sorting">Sorting</a>, 
       <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
@@ -1688,6 +1691,25 @@
     </td>
     <td>Solution Using 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix.java"><em>Linear Search</em></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">1346</td>
+    <td><a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">Check If N and Its Double Exist</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_Sorting_BinarySearch.java">Binary Search & Sorting</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#binary-search">Binary Search</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sorting">Sorting</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_HashTable.java"><em>Hash Table</em></a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_TwoPointers.java"><em>Two Pointers</em></a>
     </td>
   </tr>
   <tr>
@@ -4445,10 +4467,13 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
+      <a href="#binary-search">Binary Search</a>, 
       <a href="#hash-table">Hash Table</a>, 
+      <a href="#sorting">Sorting</a>, 
       <a href="#two-pointers">Two Pointers</a>
     </td>
     <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_Sorting_BinarySearch.java"><em>Binary Search & Sorting</em></a> or 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_TwoPointers.java"><em>Two Pointers</em></a>
     </td>
   </tr>
@@ -6359,6 +6384,25 @@
     </td>
   </tr>
   <tr>
+    <td align="center">1346</td>
+    <td><a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">Check If N and Its Double Exist</a></td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_Sorting_BinarySearch.java">Binary Search & Sorting</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#binary-search">Binary Search</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#sorting">Sorting</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_HashTable.java"><em>Hash Table</em></a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_TwoPointers.java"><em>Two Pointers</em></a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">1636</td>
     <td><a href="https://leetcode.com/problems/sort-array-by-increasing-frequency/">Sort Array by Increasing Frequency</a></td>
     <td align="center">
@@ -8106,10 +8150,13 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>, 
+      <a href="#binary-search">Binary Search</a>, 
       <a href="#hash-table">Hash Table</a>, 
+      <a href="#sorting">Sorting</a>, 
       <a href="#two-pointers">Two Pointers</a>
     </td>
     <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_Sorting_BinarySearch.java"><em>Binary Search & Sorting</em></a> or 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_HashTable.java"><em>Hash Table</em></a>
     </td>
   </tr>
