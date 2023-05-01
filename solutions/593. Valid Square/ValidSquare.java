@@ -3,29 +3,11 @@ package com.cheehwatang.leetcode;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Problem:
- * Given the coordinates of 4 points in a 2D plane, p1, p2, p3 and p4,
- * return true if the four points construct a valid square.
- * The coordinate of a point represents the [x,y] position.
- * A valid square has four sides of equal positive length and four 90-degrees angles.
- *
- *
- * Example 1:
- * Input    : p1 = [0,0], p2 = [0,1], p3 = [1,0], p4 = [1,1]
- * Output   : true
- *
- * Example 2:
- * Input    : p1 = [1,0], p2 = [-1,0], p3 = [0,1], p4 = [0,-1]
- * Output   : true
- *
- * Example 3:
- * Input    : p1 = [0,0], p2 = [0,2], p3 = [2,0], p4 = [3,1]
- * Output   : false
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(1),
+// as the operations to check for the validSquare is constant with a fixed number of valid inputs.
+//
+// Space Complexity : O(1),
+// as a constant space is used for the HashSet.
 
 public class ValidSquare {
 
