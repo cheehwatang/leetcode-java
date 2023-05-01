@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 1st</td>
+    <td>593. <a href="https://leetcode.com/problems/valid-square/">Valid Square</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/593.%20Valid%20Square/ValidSquare.java">Geometry</a>
+    </td>
+    <td align="center">
+      <a href="#geometry">Geometry</a>, 
+      <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">April 30th</td>
     <td>1346. <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">Check If N and Its Double Exist</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -74,19 +86,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#ordered-set">Ordered Set</a>, 
-      <a href="#sliding-window">Sliding Window</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 26th</td>
-    <td>220. <a href="https://leetcode.com/problems/contains-duplicate-iii/">Contains Duplicate III</a></td>
-    <td align="center">$\text{\color{Red}Hard}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_SlidingWindow_HashMap_BucketSort.java">Sliding Window & Bucket Sort</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#bucket-sort">Bucket Sort</a>, 
       <a href="#sliding-window">Sliding Window</a>
     </td>
   </tr>
