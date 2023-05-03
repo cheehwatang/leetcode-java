@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 3rd</td>
+    <td>557. <a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/">Reverse Words in a String III</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/557.%20Reverse%20Words%20in%20a%20String%20III/ReverseWordsInAStringIII_TwoPointers.java">Two Pointers</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 2nd</td>
     <td>557. <a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/">Reverse Words in a String III</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -74,18 +86,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 28th</td>
-    <td>1346. <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">Check If N and Its Double Exist</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_HashTable.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#hash-table">Hash Table</a>
     </td>
   </tr>
 </table>
@@ -6990,8 +6990,9 @@
   <tr>
     <td align="center">557</td>
     <td><a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/">Reverse Words in a String III</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/557.%20Reverse%20Words%20in%20a%20String%20III/ReverseWordsInAStringIII_StringBuilder.java">Java</a>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/557.%20Reverse%20Words%20in%20a%20String%20III/ReverseWordsInAStringIII_StringBuilder.java">String Builder</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/557.%20Reverse%20Words%20in%20a%20String%20III/ReverseWordsInAStringIII_TwoPointers.java">Two Pointers</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -8025,6 +8026,21 @@
       <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">557</td>
+    <td><a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/">Reverse Words in a String III</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/557.%20Reverse%20Words%20in%20a%20String%20III/ReverseWordsInAStringIII_TwoPointers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#string">String</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td>Solution Using 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/557.%20Reverse%20Words%20in%20a%20String%20III/ReverseWordsInAStringIII_StringBuilder.java"><em>String Builder</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">567</td>
