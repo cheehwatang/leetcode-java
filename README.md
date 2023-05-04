@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 4th</td>
+    <td>609. <a href="https://leetcode.com/problems/find-duplicate-file-in-system/">Find Duplicate File in System</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/609.%20Find%20Duplicate%20File%20in%20System/FindDuplicateFileInSystem_HashMap.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 3rd</td>
     <td>557. <a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/">Reverse Words in a String III</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -74,18 +87,6 @@
       <a href="#array">Array</a>, 
       <a href="#binary-search">Binary Search</a>, 
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 29th</td>
-    <td>1346. <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">Check If N and Its Double Exist</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_TwoPointers.java">Two Pointers</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
