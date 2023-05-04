@@ -2,46 +2,35 @@ package com.cheehwatang.leetcode;
 
 import java.util.*;
 
-/**
- * Problem:
- * Given a list 'paths' of directory info, containing the directory path and all the files and contents in the directory,
- * return all the duplicate files in the 'paths'.
- * Duplicate files is only when at least two files have the same content.
- * See below for input and output examples.
- *
- * Note:
- * File Paths Example:
- * Input = ["root/a 1.txt(apple) 2.txt(cherry)", "root/b 1.txt(apple)"]
- * 'directory' = "root/a" and "root/b"
- * 'filename'  = "1.txt" and "2.txt"
- * 'content'   = "apple" and "cherry"
- * Output = (directory + filename) [["root/a/1.txt", "root/b/1.txt"]]
- * Note that there can be identical filenames in different directory with different contents.
- *
- *
- * Example 1:
- * Input: paths = ["root/a 1.txt(apple) 2.txt(cherry)", "root 3.txt(apple)", "root/c 2.txt(peach) 3.txt(apple)"]
- * Output = [["root/a/1.txt", "root/3.txt", "root/c/3.txt"]]
- *
- * Example 2:
- * Input: paths = ["root/a 2.txt(cherry)", "root 3.txt(apple)", "root/c 2.txt(peach)"]
- * Output = [[]]
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(m),
+// where 'm' is the number of characters in 'paths'.
+// For each string in 'paths', we perform String.split() method, which in total as a linear time complexity.
+// Additionally, the string concatenation to form the file path approximate to linear time complexity as well.
+//
+// Space Complexity : O(n),
+// where 'n' is the number of strings in 'paths' array.
+// In the worst-case when no duplicate content is found and each string in 'paths' only contain a file,
+// the space of the HashMap used is O(n).
+// Additionally, the space used by each re-constructed file path grows linearly with the input length 'n'.
 
 public class FindDuplicateFileInSystem_HashMap {
 
-    public List<List<String>> findDuplicate(String[] paths) {
+    // Approach:
+    // Using a HashMap to store the list of paths with the same content,
+    // with key = content, and value = the list of paths with that content.
+    // With each string in 'paths' being a unique directory, we can split each string by whitespace.
+    // The first of the array is the directory, while the remaining elements are the filename and content.
+    // To get the content, we can extract based on the open bracket "(", as the content is in the format "()".
+    // For each file, we format the path with the following format:
+    // directory + "/" + filename
+    // Once all the paths are mapped to its content in the HashMap, we only add the list of paths with multiple paths.
 
+    public List<List<String>> findDuplicate(String[] paths) {
         // Set up the result list.
         List<List<String>> result = new ArrayList<>();
 
         // Return an empty list if there is no item in the paths.
-        if (paths.length == 0) {
-            return result;
-        }
+        if (paths.length == 0) return result;
 
         // Use a HashMap to record the content (key) and the file path list (value).
         Map<String, List<String>> map = new HashMap<>();
@@ -51,7 +40,7 @@ public class FindDuplicateFileInSystem_HashMap {
             // Example:
             // String path = "root/a 1.txt(abcd) 2.txt(efgh)"
             // path.split("\\s+") = ["root/a", "1.txt(abcd)", "2.txt(efgh)"]
-            // with split("\\s+") split string separated by a single space " ".
+            // with split("\\s+") split string separated by whitespace characters " ".
             String[] strings = path.split("\\s+");
 
             // We know that path[0] is always the directory.
@@ -61,7 +50,7 @@ public class FindDuplicateFileInSystem_HashMap {
                 int index = strings[i].indexOf("(");
 
                 // Example:
-                // content = "abcd)" or "efgh)".
+                // String.substring(index) results in content = "(abcd)" or "(efgh)".
                 String content = strings[i].substring(index);
 
                 // Example:
@@ -69,7 +58,7 @@ public class FindDuplicateFileInSystem_HashMap {
                 // "root/a" + "/" + "2.txt" = "root/a/2.txt"
                 String filename = strings[0] + "/" + strings[i].substring(0, index);
 
-                // If the list contains the content (e.g. "abcd)" or "efgh)"),
+                // If the list contains the content (e.g. "(abcd)" or "(efgh)"),
                 // we add the 'filename' ("root/a/1.txt") to the list.
                 List<String> filenames = map.getOrDefault(content, new ArrayList<>());
                 filenames.add(filename);
@@ -79,7 +68,6 @@ public class FindDuplicateFileInSystem_HashMap {
                 map.put(content, filenames);
             }
         }
-
         // Check all the key (content) if there are duplicates (size > 1).
         // If there are duplicates, add the list to the result.
         for (String key : map.keySet()) {
@@ -87,8 +75,6 @@ public class FindDuplicateFileInSystem_HashMap {
                 result.add(map.get(key));
             }
         }
-
         return result;
     }
-
 }
