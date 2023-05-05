@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 5th</td>
+    <td>713. <a href="https://leetcode.com/problems/subarray-product-less-than-k/">Subarray Product Less Than K</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/713.%20Subarray%20Product%20Less%20Than%20K/SubarrayProductLessThanK.java">Sliding Window</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#sliding-window">Sliding Window</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 4th</td>
     <td>609. <a href="https://leetcode.com/problems/find-duplicate-file-in-system/">Find Duplicate File in System</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,19 +86,6 @@
     <td align="center">
       <a href="#geometry">Geometry</a>, 
       <a href="#math">Math</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">April 30th</td>
-    <td>1346. <a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">Check If N and Its Double Exist</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_Sorting_BinarySearch.java">Binary Search & Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#binary-search">Binary Search</a>, 
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
@@ -627,6 +626,19 @@
       <a href="#bit-manipulation">Bit Manipulation</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">713</td>
+    <td><a href="https://leetcode.com/problems/subarray-product-less-than-k/">Subarray Product Less Than K</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/713.%20Subarray%20Product%20Less%20Than%20K/SubarrayProductLessThanK.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#sliding-window">Sliding Window</a>
     </td>
     <td></td>
   </tr>
@@ -6157,6 +6169,19 @@
       <a href="#sliding-window">Sliding Window</a>, 
       <a href="#string">String</a>, 
       <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">713</td>
+    <td><a href="https://leetcode.com/problems/subarray-product-less-than-k/">Subarray Product Less Than K</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/713.%20Subarray%20Product%20Less%20Than%20K/SubarrayProductLessThanK.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#sliding-window">Sliding Window</a>
     </td>
     <td></td>
   </tr>
