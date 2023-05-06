@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 6th</td>
+    <td>645. <a href="https://leetcode.com/problems/set-mismatch/">Set Mismatch</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_BitManipulation.java">Bit Manipulation</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#bit-manipulation">Bit Manipulation</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 5th</td>
     <td>713. <a href="https://leetcode.com/problems/subarray-product-less-than-k/">Subarray Product Less Than K</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,18 +86,6 @@
     <td align="center">
       <a href="#string">String</a>, 
       <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 1st</td>
-    <td>593. <a href="https://leetcode.com/problems/valid-square/">Valid Square</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/593.%20Valid%20Square/ValidSquare.java">Geometry</a>
-    </td>
-    <td align="center">
-      <a href="#geometry">Geometry</a>, 
-      <a href="#math">Math</a>
     </td>
   </tr>
 </table>
