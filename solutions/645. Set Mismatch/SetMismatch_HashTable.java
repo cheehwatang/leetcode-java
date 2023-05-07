@@ -3,29 +3,14 @@ package com.cheehwatang.leetcode;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Problem:
- * An array of integers 'nums' with length of 'n', which originally contains all the numbers from 1 to 'n',
- * but currently contains an error, which resulted in the repetition of one number and loss of another number.
- * Return an integer array representing:
- * 1. the number that occurs twice, and
- * 2. the number that is missing.
- *
- *
- * Example 1:
- * Input    : nums = [1,1]
- * Output   : [1,2]
- * Explanation: The integer '1' occurs twice, while integer '2' is missing.
- *
- *
- * Example 2:
- * Input    : nums = [3,2,2,4]
- * Output   : [2,1]
- * Explanation: The 'nums' contains the number from 1 to 4. The integer '2' occurs twice, while integer '1' is missing.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of 'nums'.
+// We traverse the 'nums' array and the imaginary correct array once to find the duplicate and the missing number.
+// In actual, it is O(2n), which simplified to O(n).
+//
+// Space Complexity : O(n),
+// where 'n' is the length of 'nums'.
+// We use a HashSet which grows linearly with the length of the input 'nums'.
 
 public class SetMismatch_HashTable {
 
@@ -34,6 +19,8 @@ public class SetMismatch_HashTable {
     // This is because we know for a fact that the integers in 'nums' is from 1 to n.
 
     public int[] findErrorNums(int[] nums) {
+        // Optional to use result = new int[], with result[0] == duplicate, and result[1] == missing.
+        // Here, we use separate variable for readability.
         int duplicate = 0;
         int missing = 0;
         Set<Integer> set = new HashSet<>();
