@@ -1,28 +1,13 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * An array of integers 'nums' with length of 'n', which originally contains all the numbers from 1 to 'n',
- * but currently contains an error, which resulted in the repetition of one number and loss of another number.
- * Return an integer array representing:
- * 1. the number that occurs twice, and
- * 2. the number that is missing.
- *
- *
- * Example 1:
- * Input    : nums = [1,1]
- * Output   : [1,2]
- * Explanation: The integer '1' occurs twice, while integer '2' is missing.
- *
- *
- * Example 2:
- * Input    : nums = [3,2,2,4]
- * Output   : [2,1]
- * Explanation: The 'nums' contains the number from 1 to 4. The integer '2' occurs twice, while integer '1' is missing.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of 'nums'.
+// Since we know that the sorted array would be from 1 to 'n', the implemented sorting function only has
+// time complexity of O(2n), with the sorting and traversal of 'nums' each results in O(n).
+// Additionally, we traverse the array once more to find the missing and the duplicate numbers.
+//
+// Space Complexity : O(1),
+// as the auxiliary space used is independent on the size of the input.
 
 public class SetMismatch_Sorting {
 
@@ -44,6 +29,8 @@ public class SetMismatch_Sorting {
             int correct = nums[i] - 1;
             // If the integer at 'i' is not at the correct index, we swap nums[i] to its correct position.
             // As the number swapped to position 'i' maybe not be correct, continue swapping.
+            // Note that if we encounter the duplicate, 'nums[i] != nums[correct]' would return false,
+            // thus continuing to the next number while keeping the duplicate number in the missing position.
             if (nums[i] != nums[correct]) {
                 swap(nums, i, correct);
             }
@@ -51,19 +38,21 @@ public class SetMismatch_Sorting {
                 i++;
             }
         }
-        // Note that result[0] is the duplicate integer, result[1] is the missing integer.
-        int[] result = new int[2];
+        // Optional to use result = new int[], with result[0] == duplicate, and result[1] == missing.
+        // Here, we use separate variable for readability.
+        int duplicate = 0;
+        int missing = 0;
         // Traverse the "sorted" array once more to find the integer that is not in its position.
         for (int j = 0; j < nums.length; j++) {
             if (j + 1 != nums[j]) {
                 // nums[j] is the duplicate.
-                result[0] = nums[j];
+                duplicate = nums[j];
                 // j + 1 is the missing number.
-                result[1] = j + 1;
+                missing = j + 1;
                 break;
             }
         }
-        return result;
+        return new int[]{duplicate, missing};
     }
 
     // Method to swap elements.

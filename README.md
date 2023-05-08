@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 8th</td>
+    <td>645. <a href="https://leetcode.com/problems/set-mismatch/">Set Mismatch</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_Sorting.java">Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 7th</td>
     <td>645. <a href="https://leetcode.com/problems/set-mismatch/">Set Mismatch</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -74,18 +86,6 @@
       <a href="#array">Array</a>, 
       <a href="#hash-table">Hash Table</a>, 
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 3rd</td>
-    <td>557. <a href="https://leetcode.com/problems/reverse-words-in-a-string-iii/">Reverse Words in a String III</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/557.%20Reverse%20Words%20in%20a%20String%20III/ReverseWordsInAStringIII_TwoPointers.java">Two Pointers</a>
-    </td>
-    <td align="center">
-      <a href="#string">String</a>, 
-      <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
