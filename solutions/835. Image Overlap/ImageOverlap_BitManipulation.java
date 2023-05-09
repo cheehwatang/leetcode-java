@@ -1,32 +1,16 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given two images, 'img1' and 'img2', represented as binary in a square matrices of size n * n,
- * return the largest possible overlap of the 1s in both images,
- * where we can translate one image however we choose by sliding in any combinations of directions.
- *
- *
- * Example 1:
- * Input    : img1 = [[1,1],[1,0]], img2 = [[0,1],[0,1]]
- *            img1 = | 1 | 1 |      img2 = | 0 | 1 |
- *                   | 1 | 0 |             | 0 | 1 |
- * Output   : 2
- * Explanation : Largest overlap of 2, when we slide 'img1' right by 1 unit.
- *
- *
- * Example 2:
- * Input    : img1 = [[1,1,0],[0,1,1],[1,1,0], img2 = [[0,0,0],[1,1,1],[0,0,1]
- *            img1 = | 1 | 1 | 0 |             img2 = | 0 | 0 | 0 |
- *                   | 0 | 1 | 1 |                    | 1 | 1 | 1 |
- *                   | 1 | 1 | 0 |                    | 0 | 0 | 1 |
- * Output   : 3
- * Explanation : Largest overlap of 3, when we slide 'img1' right by 1 unit and down by 1 unit,
- *               or just shift 'img1' down by 1 unit.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n^3),
+// where 'n' is the number of rows in 'img1' and 'img2'.
+// We traverse both 'img1' and 'img2' once to convert the rows into binaries represented by an integer,
+// which results in time complexity of O(n^2).
+// Next, we shift the images in both axes, for iterating through each of the 4 directions.
+// Since we use the bitwise shift operators '<<' and '>>', the time complexity lowers to O(n^3).
+// This results in the final time complexity of O(n^3).
+//
+// Space Complexity : O(n),
+// where 'n' is the number of rows in 'img1' and 'img2'.
+// We use 2 arrays of length 'n' to store the rows (after conversion to binaries and stored as bits) of both images.
 
 public class ImageOverlap_BitManipulation {
 
@@ -34,12 +18,12 @@ public class ImageOverlap_BitManipulation {
     // This is basically a brute force technique by translating 'img1' in all the possible combinations.
     // which will result in a O(n^4) time complexity, 'n' to translate horizontally, nest 'n' to translate vertically,
     // nest 'n' to traverse every row, nest 'n' to traverse every column.
-    // However, we can use Bit Manipulation to lower the time complexity to O(N3).
-    // Given the constraint of 1 <= n <= 30, O(n^3) is possible for the solution.
+    // For improvement, we can use Bit Manipulation to lower the time complexity to O(n^3).
+    // Given the constraint of 1 <= n <= 30, O(n^3) is possible as a solution without getting the TimeLimitExceeded notice.
     // Using a primitive type int that can store maximum 2 ^ 31 - 1,
-    // we can store the rows as binary using the left shift << operator and bitwise OR | operation.
+    // we can store the rows as binary using the left shift '<<' operator and bitwise OR '|' operation.
     //
-    // When comparing for overlap, we can simply use bitwise AND & operation, for each row.
+    // When comparing for overlap, we can simply use bitwise AND '&' operation, for each row.
     // Bit Manipulation allows us to reduce time complexity by reducing the need to traverse the row to check for overlap.
     // Note:
     // As we need to left shift by 'n' when checking for overlap, resulting in a number of 2^60,
@@ -65,15 +49,13 @@ public class ImageOverlap_BitManipulation {
             for (int j = 0; j < n; j++) {
                 int countDownRight = 0;
                 int countDownLeft = 0;
-                // Shift down, by comparing image1[k] with image2[k + j]
-                for (int k = 0; k < n - j; k++) {
-                    countDownRight += Long.bitCount(image1[k] >> i & image2[k + j]);
-                    countDownLeft += Long.bitCount(image1[k] << i & image2[k + j]);
-                }
                 int countUpRight = 0;
                 int countUpLeft = 0;
-                // Shift up, by comparing image1[k + j] with image2[k]
                 for (int k = 0; k < n - j; k++) {
+                    // Shift down, by comparing image1[k] with image2[k + j]
+                    countDownRight += Long.bitCount(image1[k] >> i & image2[k + j]);
+                    countDownLeft += Long.bitCount(image1[k] << i & image2[k + j]);
+                    // Shift up, by comparing image1[k + j] with image2[k]
                     countUpRight += Long.bitCount(image1[k + j] & image2[k] << i);
                     countUpLeft += Long.bitCount(image1[k + j] & image2[k] >> i);
                 }

@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 9th</td>
+    <td>835. <a href="https://leetcode.com/problems/image-overlap/">Image Overlap</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/835.%20Image%20Overlap/ImageOverlap_BitManipulation.java">Bit Manipulation</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#matrix">Matrix</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 8th</td>
     <td>645. <a href="https://leetcode.com/problems/set-mismatch/">Set Mismatch</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,19 +85,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#sliding-window">Sliding Window</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 4th</td>
-    <td>609. <a href="https://leetcode.com/problems/find-duplicate-file-in-system/">Find Duplicate File in System</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/609.%20Find%20Duplicate%20File%20in%20System/FindDuplicateFileInSystem_HashMap.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#hash-table">Hash Table</a>, 
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
