@@ -5,40 +5,24 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Problem:
- * Given two images, 'img1' and 'img2', represented as binary in a square matrices of size n * n,
- * return the largest possible overlap of the 1s in both images,
- * where we can translate one image however we choose by sliding in any combinations of directions.
- *
- *
- * Example 1:
- * Input    : img1 = [[1,1],[1,0]], img2 = [[0,1],[0,1]]
- *            img1 = | 1 | 1 |      img2 = | 0 | 1 |
- *                   | 1 | 0 |             | 0 | 1 |
- * Output   : 2
- * Explanation : Largest overlap of 2, when we slide 'img1' right by 1 unit.
- *
- *
- * Example 2:
- * Input    : img1 = [[1,1,0],[0,1,1],[1,1,0], img2 = [[0,0,0],[1,1,1],[0,0,1]
- *            img1 = | 1 | 1 | 0 |             img2 = | 0 | 0 | 0 |
- *                   | 0 | 1 | 1 |                    | 1 | 1 | 1 |
- *                   | 1 | 1 | 0 |                    | 0 | 0 | 1 |
- * Output   : 3
- * Explanation : Largest overlap of 3, when we slide 'img1' right by 1 unit and down by 1 unit,
- *               or just shift 'img1' down by 1 unit.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n^2),
+// where 'n' is the number of rows in 'img1' and 'img2'.
+// As the matrix for both images is square, the number of rows and columns is the same.
+// We first traverse both images once to convert the 1s to hash and store in the list.
+// Next, we traverse the lists in a nested loop to get the coordinate differences,
+// with the worst-case being O(n^2), where both images are only consist of 1s.
+// This results in the final time complexity of O(n).
+//
+// Space Complexity : O(n^2),
+// where 'n' is the number of rows in 'img1' and 'img2'.
+// Both list has a space complexity of O(n^2), if both images only consist of 1s.
+// Additionally, this results in the HashMap having a maximum of n^2 size.
 
 public class ImageOverlap_HashTable {
 
     // Approach:
     // Every 1 in 'img1' has a certain relationship with the 1s in 'img2',
     // in terms of the differences in the 'row' and 'column.
-    // Using Example 2 above, img1[0][0] has the same 'row' with img2[1][0], but 1 unit more in 'column'.
     //
     // If two points in 'img1' overlaps with two points in 'img2',
     // then this two pairs has the same 'row' and 'column' differences.
@@ -58,6 +42,7 @@ public class ImageOverlap_HashTable {
             if (img1[i / n][i % n] == 1) coordinates1.add(hash);
             if (img2[i / n][i % n] == 1) coordinates2.add(hash);
         }
+
         Map<Integer, Integer> map = new HashMap<>();
         int max = 0;
         // Compare all the coordinates from 'img1' containing 1 with the coordinates from 'img2' containing 1.
