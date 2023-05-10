@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 10th</td>
+    <td>835. <a href="https://leetcode.com/problems/image-overlap/">Image Overlap</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/835.%20Image%20Overlap/ImageOverlap_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#matrix">Matrix</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 9th</td>
     <td>835. <a href="https://leetcode.com/problems/image-overlap/">Image Overlap</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -73,18 +85,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#bit-manipulation">Bit Manipulation</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 5th</td>
-    <td>713. <a href="https://leetcode.com/problems/subarray-product-less-than-k/">Subarray Product Less Than K</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/713.%20Subarray%20Product%20Less%20Than%20K/SubarrayProductLessThanK.java">Sliding Window</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#sliding-window">Sliding Window</a>
     </td>
   </tr>
 </table>
