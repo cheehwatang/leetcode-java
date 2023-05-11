@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 11th</td>
+    <td>766. <a href="https://leetcode.com/problems/toeplitz-matrix/">Toeplitz Matrix</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix.java">Matrix Traversal</a>, 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix_OneRowAtATime.java">One Row at a Time</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix_OneColumnAtATime.java">One Column at a Time</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#matrix">Matrix</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 10th</td>
     <td>835. <a href="https://leetcode.com/problems/image-overlap/">Image Overlap</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -73,18 +87,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#hash-table">Hash Table</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 6th</td>
-    <td>645. <a href="https://leetcode.com/problems/set-mismatch/">Set Mismatch</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_BitManipulation.java">Bit Manipulation</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#bit-manipulation">Bit Manipulation</a>
     </td>
   </tr>
 </table>
