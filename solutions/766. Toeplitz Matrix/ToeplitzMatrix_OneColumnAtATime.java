@@ -3,33 +3,13 @@ package com.cheehwatang.leetcode;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- * Problem:
- * Given an m x n matrix, return true if the matrix is Toeplitz, return false otherwise.
- * A Toeplitz matrix is which every diagonal elements from top=left to bottom-right has the same elements.
- *
- * Extra Constraint:
- * - What if we can only read a partial row of the matrix at a time?
- *
- * Example 1:
- * Input    : matrix = [[0,1,2,3,4],
- *                      [9,0,1,2,3],
- *                      [8,9,0,1,2],
- *                      [7,8,9,0,1],
- *                      [6,7,8,9,0]]
- * Output   : true
- * Explanation : Each diagonal (top-left to bottom-right direction) has the identical elements.
- *
- *
- * Example 2:
- * Input    : matrix = [[0,1,2],
- *                      [1,2,3]]
- * Output   : false
- * Explanation : The diagonals with identical elements are not in the top-left to bottom-right direction.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n * m),
+// where 'n' is the number of rows, and 'm' is the number of columns in the matrix.
+// We traverse the matrix once to check if the matrix is Toeplitz.
+//
+// Space Complexity : O(n),
+// where 'n' is the number of rows.
+// We use a Linked List to store the elements of a column, with 'n' number of elements.
 
 public class ToeplitzMatrix_OneColumnAtATime {
 
@@ -54,17 +34,17 @@ public class ToeplitzMatrix_OneColumnAtATime {
         int totalColumns = matrix[0].length;
 
         // Initiate the linked list and add the first column to the linked list.
-        List<Integer> linkedList = new LinkedList<>();
-        for (int[] ints : matrix) linkedList.add(ints[0]);
+        List<Integer> list = new LinkedList<>();
+        for (int[] row : matrix) list.add(row[0]);
 
         for (int column = 1; column < totalColumns; column++) {
             // Check the column to see if any is not identical to the linked list elements.
             for (int row = 1; row < totalRows; row++)
-                if (matrix[row][column] != linkedList.get(row - 1))
-                    return false;
+                if (matrix[row][column] != list.get(row - 1)) return false;
+
             // Update the linked list for the next line.
-            linkedList.remove(linkedList.size() - 1);
-            linkedList.add(0, matrix[0][column]);
+            list.remove(list.size() - 1);
+            list.add(0, matrix[0][column]);
         }
         return true;
     }
