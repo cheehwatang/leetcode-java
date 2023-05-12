@@ -1,24 +1,11 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given an array of points with coordinates [x,y] in a 2D plane,
- * return the area of the largest triangle that be formed using any of the three different points.
- *
- *
- * Example 1:
- * Input    : points = [[0,0],[0,2],[2,0]]
- * Output   : 2.00000
- *
- *
- * Example 2:
- * Input    : points = [[0,0],[0,2],[2,0],[0,3],[3,0]]
- * Output   : 4.50000
- *
- *
- * @author Chee Hwa Tang
- */
-
+// Time Complexity  : O(n^3),
+// where 'n' is the length of 'points'.
+// We traverse 'points' in 3 for-loops to check every combination.
+//
+// Space Complexity : O(1),
+// as the auxiliary space used is independent on the size of the input 'points'.
 
 public class LargestTriangleArea {
 
@@ -26,7 +13,7 @@ public class LargestTriangleArea {
     // The equation to calculate the triangle area of any 3 points:
     // 1. (1/2) * (x1*y2 + x2*y3 + x3*y1 - x1*y3 - x2*y1 - x3*y2), or simplified to
     // 2. (1/2) * (x1*(y2-y3) + x2*(y3-y1) + x3*(y1-y2))
-    // Time-Complexity = O(N3) as we need to traverse the 'points' in 3 for-loops.
+    // We traverse the 'points' in 3 for-loops to check every combination.
 
     public double largestTriangleArea(int[][] points) {
 
