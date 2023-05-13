@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 13th</td>
+    <td>929. <a href="https://leetcode.com/problems/unique-email-addresses/">Unique Email Addresses</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/929.%20Unique%20Email%20Addresses/UniqueEmailAddresses_HashSet.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#hash-table">Hash Table</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 12th</td>
     <td>812. <a href="https://leetcode.com/problems/largest-triangle-area/">Largest Triangle Area</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -76,18 +89,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#matrix">Matrix</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 8th</td>
-    <td>645. <a href="https://leetcode.com/problems/set-mismatch/">Set Mismatch</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/645.%20Set%20Mismatch/SetMismatch_Sorting.java">Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
