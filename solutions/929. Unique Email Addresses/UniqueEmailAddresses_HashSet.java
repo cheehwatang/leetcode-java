@@ -3,40 +3,15 @@ package com.cheehwatang.leetcode;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Problem:
- * Given an array of String 'emails', return the number of different email addresses that can receive emails.
- * A valid email address consists of the following:
- * 1. A localName (containing only lowercase letters, and may contain '.' or '+').
- * 2. A domainName starting with the '@' symbol.
- *
- * For the localName, the following rules apply:
- * a. Ignore the '.' symbol.
- * b. Ignore any letters inclusive and after '+'.
- *
- * For the domainName, retain every letters. Note that it is guaranteed to have the '.com' suffix.
- *
- *
- * Example 1:
- * Input    : emails = ["alice@example.com", "alice+bob@example.com", "a.lice+b.ob@example.com"]
- * Output   : 1
- * Explanation:
- * 1. "alice@example.com" = "alice@example.com", no modification made.
- * 2. "alice+bob@example.com" = "alice@example.com", the "+bob" is ignored.
- * 3. "a.lice+b.ob@example.com" = "alice@example.com", "." in "a.lice" is ignored, as well as "+b.ob" is ignored.
- *
- *
- * Example 2:
- * Input    : emails = ["a.b@abc.com", "a+b@a.bc.com", "a.b@a.bc.com"]
- * Output   : 3
- * Explanation:
- * 1. "a.b@abc.com" = "ab@abc.com", ignored the "." in the localName.
- * 2. "a+b@a.bc.com" = "a@a.bc.com", ignored the "+b" in the localName.
- * 3. "a.b@a.bc.com" = "ab@a.bc.com", ignored the "." in the localName only.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n * m),
+// where 'n' is the length of 'emails', and 'm' is the average number of characters per email.
+// For each email, we perform split() and replace() functions which have linear time complexity of O(m).
+// Thus, the time complexity is O(n * m), or linear with the number of characters in 'emails'.
+//
+// Space Complexity : O(n * m),
+// where 'n' is the length of 'emails', and 'm' is the average number of characters per email.
+// The split() method and the string concatenation results in the linear time complexity with the length of each email.
+// Additionally, the HashSet has a linear time complexity, with worst-case being all emails are unique.
 
 public class UniqueEmailAddresses_HashSet {
 
@@ -44,6 +19,7 @@ public class UniqueEmailAddresses_HashSet {
     // Split the email by the "@" and "+" symbol,
     // then re-assemble the parts before the "+" symbol (while eliminating the "."),
     // and the parts inclusive and after the "@" symbol.
+    // Use HashSet to store altered email addresses, and get the number of unique email addresses.
 
     public int numUniqueEmails(String[] emails) {
 
