@@ -3,38 +3,27 @@ package com.cheehwatang.leetcode;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Problem:
- * Given an array of strings 'arr', return the maximum possible length of the string 's' formed
- * by concatenating a subsequence of 'arr' such that 's' only contains unique characters.
- *
- *
- * Example 1:
- * Input    : arr = ["a", "b", "c", "a"]
- * Output   : 3
- * Explanation: All valid concatenations with only unique characters are "", "a", "b", "c", "ab", "ac", "bc" and "abc".
- *              So the maximum possible length is 3.
- *
- *
- * Example 2:
- * Input    : arr = ["aa", "bb", "cc"]
- * Output   : 0
- * Explanation: Only "" is possible, as all the elements in 'arr' contain duplicate characters.
- *              So maximum possible length is 0.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n^3 + m),
+// where 'n' is the length of the list 'arr', and 'm' is the number of characters in the list 'arr'.
+// We iterate through each character in the strings to find duplicates, with O(m) time complexity.
+// In the worst-case when all characters are unique, we iterate through 'bitmaskList', O(n^2) size,
+// for string in the list 'arr'.
+//
+// Space Complexity : O(n^2 + m),
+// where 'n' is the length of the list 'arr', and 'm' is the number of characters in the list 'arr'.
+// In the worst-case when all characters are unique, the space used in the 'bitmaskList' is O(n^2),
+// since 'n' number of elements is added to the list for each element.
+// Each string in the list 'n' is converted to char Array, resulting in time complexity of O(m).
 
 public class MaximumLengthOfAConcatenatedStringWithUniqueCharacters_BitManipulation {
 
     // Approach:
-    // Using bit masking and bit manipulation to check for duplicates and 'concatenate' the unique characters.
+    // Using bitmasking and bit manipulation to check for duplicates and 'concatenate' the unique characters.
     //
-    // First, bit masking is the process of storing data as bits (binary).
+    // First, bitmasking is the process of storing data as bits (binary).
     // As a bit is represented by 0 or 1, it can be treated as true or false.
     // For string characters with radix of less than 31, in this case 26 lowercase English alphabets,
-    // we can use bit masking to store if any character exist (1) or not exist (0).
+    // we can use bitmasking to store if any character exist (1) or not exist (0).
     // Using the left shift operation '<<', we can store 1 at a certain bit position in the number.
     // For example, 'a' is stored as 1 << 'a' - 'a' (1 << 0) as 1, 'b' as 10 binary, 'c' as 100 binary, etc.
     // Note:
@@ -42,7 +31,7 @@ public class MaximumLengthOfAConcatenatedStringWithUniqueCharacters_BitManipulat
     //
     // In bit manipulation,
     // '&' bitwise AND operation can be used to check for duplicate.
-    // For example: Using bit masking mentioned above, "abc" == '111' in binary, "cde" == '11100' in binary.
+    // For example: Using bitmasking mentioned above, "abc" == '111' in binary, "cde" == '11100' in binary.
     //              '00111' & '11100' == '00100'.
     //              So if '&' two bitmasked elements with result of > 0, then we have found duplicate.
     // '|' bitwise OR operation can be used to 'concatenate' the unique characters.
@@ -59,7 +48,9 @@ public class MaximumLengthOfAConcatenatedStringWithUniqueCharacters_BitManipulat
         for (String str : arr) {
             int duplicate = 0;
             int currentBitmasked = 0;
-            // Check if 'str' contains duplicate characters, as well as perform bit masking into 'currentBitmasked'.
+            // Check if 'str' contains duplicate characters, as well as perform bitmasking into 'currentBitmasked'.
+            // Optional to use str.get(index) to get the character, saving on the time and space complexity.
+            // Below is written for better readability.
             for (char character : str.toCharArray()) {
                 // '&' get > 0 if contains duplicate.
                 duplicate |= currentBitmasked & (1 << (character - 'a'));
@@ -74,7 +65,7 @@ public class MaximumLengthOfAConcatenatedStringWithUniqueCharacters_BitManipulat
                 // skip if the string shared same character, or
                 if ((bitmaskList.get(i) & currentBitmasked) > 0) continue;
 
-                // 'concatenate' otherwise.
+                // concatenate otherwise.
                 bitmaskList.add(bitmaskList.get(i) | currentBitmasked);
                 // For all strings, get the longest, using bitCount method to get all the 1s in the bit masked String.
                 max = Math.max(max, Integer.bitCount(bitmaskList.get(i) | currentBitmasked));
