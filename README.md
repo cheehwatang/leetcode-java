@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 16th</td>
+    <td>1337. <a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix.java">Linear Search</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#matrix">Matrix</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 15th</td>
     <td>1239. <a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/">Maximum Length of a Concatenated String with Unique Characters</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -77,32 +89,6 @@
       <a href="#array">Array</a>, 
       <a href="#geometry">Geometry</a>, 
       <a href="#math">Math</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 11th</td>
-    <td>766. <a href="https://leetcode.com/problems/toeplitz-matrix/">Toeplitz Matrix</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix.java">Matrix Traversal</a>, 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix_OneRowAtATime.java">One Row at a Time</a> or
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/766.%20Toeplitz%20Matrix/ToeplitzMatrix_OneColumnAtATime.java">One Column at a Time</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#matrix">Matrix</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 10th</td>
-    <td>835. <a href="https://leetcode.com/problems/image-overlap/">Image Overlap</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/835.%20Image%20Overlap/ImageOverlap_HashTable.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#matrix">Matrix</a>
     </td>
   </tr>
 </table>
@@ -971,8 +957,9 @@
     <td align="center">1337</td>
     <td><a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
     <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Heap.java">Heap (Priority Queue)</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sort.java">Sorting</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix.java">Linear Search</a>, 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Heap.java">Heap (Priority Queue) & Binary Search</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sort.java">Sorting & Binary Search</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -1706,8 +1693,8 @@
     <td align="center">1337</td>
     <td><a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
     <td align="center">Java with 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Heap.java">Heap (Priority Queue)</a> or 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sort.java">Sorting</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Heap.java">Heap (Priority Queue) & Binary Search</a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sort.java">Sorting & Binary Search</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -4800,8 +4787,8 @@
   <tr>
     <td align="center">1337</td>
     <td><a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Heap.java">Java</a>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Heap.java">Heap (Priority Queue) & Binary Search</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -4812,7 +4799,8 @@
       <a href="#sorting">Sorting</a>
     </td>
     <td>Solution Using 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sort.java"><em>Sorting</em></a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix.java"><em>Linear Search</em></a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sort.java"><em>Sorting & Binary Search</em></a>
     </td>
   </tr>
   <tr>
@@ -5588,6 +5576,7 @@
     <td align="center">1337</td>
     <td><a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
     <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix.java">Linear Search</a>, 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Heap.java">Heap (Priority Queue)</a> or 
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sort.java">Sorting</a>
     </td>
@@ -6409,8 +6398,8 @@
   <tr>
     <td align="center">1337</td>
     <td><a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sort.java">Java</a>
+    <td align="center">Java with 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sort.java">Sorting & Binary Search</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -6421,7 +6410,8 @@
       <a href="#sorting">Sorting</a>
     </td>
     <td>Solution Using 
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Heap.java"><em>Heap (Priority Queue)</em></a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix.java"><em>Linear Search</em></a> or 
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Heap.java"><em>Heap (Priority Queue) & Binary Search</em></a>
     </td>
   </tr>
   <tr>

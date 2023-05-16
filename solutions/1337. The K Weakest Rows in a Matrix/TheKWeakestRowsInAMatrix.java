@@ -1,88 +1,81 @@
 package com.cheehwatang.leetcode;
 
-import java.util.PriorityQueue;
+import java.util.LinkedList;
+import java.util.Queue;
 
-/**
- * Problem:
- * Given the 2D binary matrix as described below, return k number of indices, of the weakest rows from weakest
- * to strongest.
- *
- * Note:
- * In a 2D binary matrix of int[m][n], with 1s (representing soldiers) and 0s (representing civilians).
- * In each row of int[m], the 1s (soldiers) are positioned to the left of the 0s (civilians).
- * Example:
- * int[m][n] mat = [ [1,1,0,0,0],   => m = 0
- *                   [1,1,1,0,0],        = 1
- *                   [1,0,0,0,0],        = 2
- *                   [1,1,1,0,0],        = 3
- *                   [1,1,1,1,1],        = 4
- *                   [1,0,0,0,0] ]       = 5
- *                n = 0,1,2,3,4
- *
- * A row (i) is weaker than a row (j) if one of the following conditions is true:
- * Condition 1: The number of 1s (soldier) in row (i) is less than the number of 1s (soldier) in row (j).
- * Condition 2: Row of the lower index (i < j) if both rows have the same number of 1s (soldier).
- *
- * Using the example above, to sort from weakest to strongest (Condition 1), with preceeding rows first (Condition 2):
- * int[m][n] mat = [ [1,0,0,0,0],   => m = 2
- *                   [1,0,0,0,0],        = 5
- *                   [1,1,0,0,0],        = 0
- *                   [1,1,1,0,0],        = 1
- *                   [1,1,1,0,0],        = 3
- *                   [1,1,1,1,1] ]       = 4
- *                n = 0,1,2,3,4
- * If k = 2: Output = [2,5]
- * If k = 4: Output = [2,5,0,1]
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(m * n),
+// where 'm' is the number of rows in 'mat', and 'n' is the number of columns in 'mat'.
+// The setup of the 'strengths' array and recording of results both have time complexity of O(n).
+// However, for counting the soldiers for each row, the time complexity is O(m * n).
+//
+// Space Complexity : O(m + n + k)
+// where 'm' is the number of rows in 'mat', 'n' is the number of columns in 'mat', and 'k' is the input 'k'.
+// The 'strengths' array has size that grows linearly with 'n',
+// with the total size of the nodes in the Queues being the same as 'm',
+// and the 'result' array has size of 'k'.
 
 public class TheKWeakestRowsInAMatrix {
 
+    // Approach:
+    // Traverse every row in the matrix to record the indices using LinkedList array 'strengths'.
+    // In the 'strengths' array, each index represents the number of soldiers in a row.
+    // The LinkedList will implement a Queue (FIFO = first-in-first-out) for rows with the same number of soldier.
+    // Using the array 'strengths', we can fulfill:
+    // - Condition 1: Traverse 'strengths' in ascending order, with 0 soldiers = weakest and 'n' being the strongest.
+    // - Condition 2: Poll the row index 'm' from the front of the queue (FIFO).
+    // Return the result with 'k' number of indices, by fulfilling condition 1 followed by condition 2.
+    //
+    // Here the strength of a row (number of soldiers '1') is determined with linear search of the first civilian '0',
+    // or just counting the number of soldiers '1' in the row.
+
     public int[] kWeakestRows(int[][] mat, int k) {
+        int rows = mat.length;
+        int columns = mat[0].length;
 
-        // Traverse every row (m) in the matrix to record the indices using an array of LinkedList (strengthArray).
-        // In the array, each index represents the number of soldiers in a row.
-        // The Linked List will implement a Queue (FIFO = first-in-first-out) for rows with the same number of soldier.
-        // Using the recorded array (strengthArray), fulfill:
-        // - condition 1: start from index 0 (0 soldiers = weakest possible).
-        // - condition 2: get the front of the queue (FIFO).
-        // Return the result with a number (int k) of indices, by fulfilling condition 1 followed by condition 2.
-
-        // Initialize array of PriorityQueue (strengthQueue)
-        PriorityQueue<Integer>[] strengthQueue = new PriorityQueue[mat[0].length + 1];
-        for (int i = 0; i < strengthQueue.length; i++) {
-            strengthQueue[i] = new PriorityQueue<>();
+        // Initialize the Queue array 'strengths'.
+        // Note that we are using 'columns + 1', as the array is zero-indexed.
+        Queue<Integer>[] strengths = new LinkedList[columns + 1];
+        // Traverse the 'strengths' array to initialize each Queue.
+        // Note: Avoid using Arrays.fill() as it would result in using the same Queue for all strengths.
+        for (int i = 0; i < strengths.length; i++) {
+            strengths[i] = new LinkedList<>();
         }
 
-        // Record into the strengthQueue
-        int count;
-        for (int m = 0; m < mat.length; m++) {
-            count = 0;
-            for (int n = 0; n < mat[m].length; n++) {
-                if (mat[m][n] == 0) {
-                    break;
-                }
-                count++;
-            }
-            strengthQueue[count].add(m);
+        // For each row,
+        for (int row = 0; row < rows; row++) {
+            // perform linear search for civilian '0' to count the number of soldiers '1'.
+            int strength = numberOfSoldiers(mat[row]);
+            // Record the 'row' index into the 'strengths' queue for the strength 'column'.
+            strengths[strength].offer(row);
         }
 
-        // Check for condition 1 followed by condition 2 in the strengthQueue
-        // Return only up to k number of indices
+        // Set up a 'result' array and use a 'index' variable to track to index to record the result.
         int[] result = new int[k];
         int index = 0;
-        for (PriorityQueue<Integer> listOfSameSoldier : strengthQueue) {
-            while (!listOfSameSoldier.isEmpty()) {
-                result[index++] = listOfSameSoldier.remove();
+        // Traverse 'strengths' in ascending order, to fulfill condition 1.
+        for (Queue<Integer> strength : strengths) {
+            // If the 'strength' is not empty, record the row index into the 'result'.
+            // Always poll from the Queue to get the row of lower index number first, to fulfill condition 2.
+            while (!strength.isEmpty()) {
+                result[index++] = strength.poll();
+                // Once we reach 'k', return the result.
                 if (index == k) {
-                    break;
+                    return result;
                 }
-            }
-            if (index == k) {
-                break;
             }
         }
         return result;
+    }
+
+    // Using linear search to determine the strength of a row (number of soldiers '1').
+    private int numberOfSoldiers (int[] row) {
+        int column;
+        for (column = 0; column < row.length; column++) {
+            // Once we found a civilian, the strength of the row is 'column'.
+            if (row[column] == 0) {
+                break;
+            }
+        }
+        return column;
     }
 }
