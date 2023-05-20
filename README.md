@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 20th</td>
+    <td>1328. <a href="https://leetcode.com/problems/break-a-palindrome/">Break a Palindrome</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1328.%20Break%20a%20Palindrome/BreakAPalindrome.java">Greedy</a>
+    </td>
+    <td align="center">
+      <a href="#greedy">Greedy</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 19th</td>
     <td>1337. <a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -78,32 +90,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#matrix">Matrix</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 15th</td>
-    <td>1239. <a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/">Maximum Length of a Concatenated String with Unique Characters</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/MaximumLengthOfAConcatenatedStringWithUniqueCharacters_BitManipulation.java">Bit Manipulation</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#bit-manipulation">Bit Manipulation</a>, 
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 14th</td>
-    <td>1239. <a href="https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/">Maximum Length of a Concatenated String with Unique Characters</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/MaximumLengthOfAConcatenatedStringWithUniqueCharacters_Backtracking.java">Backtracking</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#backtracking">Backtracking</a>, 
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
