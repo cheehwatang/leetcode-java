@@ -1,35 +1,14 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given a palindromic string of lowercase English letters 'palindrome',
- * replace exactly one character with any lowercase English letter to make the string NOT a palindrome (non-palindrome)
- * that it is lexicographically smallest, and return the resulting string.
- * If it is not possible to make the string non-palindromic, return an empty string.
- *
- *
- * Example 1:
- * Input    : palindrome = "abcba"
- * Output   : "aacba"
- * Explanation: Some possible non-palindromes are "aacba", "abcaa" and "zbcba".
- *              Of all, "aacba" is lexicographically smallest.
- *
- *
- * Example 2:
- * Input    : palindrome = "aabaa"
- * Output   : "aabab"
- * Explanation: Some possible non-palindromes are "zabaa", "acbaa", "aabca" and "aabag".
- *              Of all, "aabab" is lexicographically smallest.
- *
- *
- * Example 3:
- * Input    : palindrome = "g"
- * Output   : ""
- * Explanation: The is no way to replace a single character to make "g" a non-palindrome.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of 'palindrome'.
+// We traverse half of the string 'palindrome' to find characters that are not 'a'.
+// Additionally, the conversion of the string 'palindrome' to char array, and conversion of char array to string
+// has linear time complexity.
+//
+// Space Complexity : O(n),
+// where 'n' is the length of 'palindrome'.
+// We convert the string 'palindrome' to char array, and convert the char array to string to return the result.
 
 public class BreakAPalindrome {
 
@@ -42,6 +21,8 @@ public class BreakAPalindrome {
     // In Example 3: If the string only consists of one character, then not possible to make non-palindrome.
 
     public String breakPalindrome(String palindrome) {
+        // If length is 1, return empty string (Example 3).
+        if (palindrome.length() == 1) return "";
 
         // Make the string into char[] to make it easier to change character.
         char[] chars = palindrome.toCharArray();
@@ -55,11 +36,7 @@ public class BreakAPalindrome {
             }
         }
         // If no non-'a' that is found and length is more than one, replace the last character with 'b' (Example 2).
-        if (length > 1) {
-            chars[length - 1] = 'b';
-            return String.valueOf(chars);
-        }
-        // If length is 1, return empty string (Example 3).
-        return "";
+        chars[length - 1] = 'b';
+        return String.valueOf(chars);
     }
 }
