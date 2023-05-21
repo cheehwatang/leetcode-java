@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 21st</td>
+    <td>985. <a href="https://leetcode.com/problems/sum-of-even-numbers-after-queries/">Sum of Even Numbers After Queries</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/985.%20Sum%20of%20Even%20Numbers%20After%20Queries/SumOfEvenNumbersAfterQueries.java">Simulation</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#simulation">Simulation</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 20th</td>
     <td>1328. <a href="https://leetcode.com/problems/break-a-palindrome/">Break a Palindrome</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -77,18 +89,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#binary-search">Binary Search</a>, 
-      <a href="#matrix">Matrix</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 16th</td>
-    <td>1337. <a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix.java">Linear Search</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
       <a href="#matrix">Matrix</a>
     </td>
   </tr>
