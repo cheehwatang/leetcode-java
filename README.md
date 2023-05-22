@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 22nd</td>
+    <td>1592. <a href="https://leetcode.com/problems/rearrange-spaces-between-words/">Rearrange Spaces Between Words</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1592.%20Rearrange%20Spaces%20Between%20Words/RearrangeSpacesBetweenWords.java">String</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 21st</td>
     <td>985. <a href="https://leetcode.com/problems/sum-of-even-numbers-after-queries/">Sum of Even Numbers After Queries</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -77,19 +88,6 @@
       <a href="#binary-search">Binary Search</a>, 
       <a href="#matrix">Matrix</a>, 
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 17th</td>
-    <td>1337. <a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch.java">Binary Search</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#binary-search">Binary Search</a>, 
-      <a href="#matrix">Matrix</a>
     </td>
   </tr>
 </table>
