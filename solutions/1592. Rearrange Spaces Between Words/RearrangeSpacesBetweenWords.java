@@ -1,37 +1,27 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given a String 'text' of words with varied number of spaces,
- * return a String with all the spaces rearranged in the following conditions:
- * 1. Equal number of spaces between every word.
- * 2. Ensure the spaces between words are maximized.
- * 3. Place the remaining spaces at the end of the text, thus returning a String of same length as 'text'.
- * Note that all the words are in lower case, and the 'text' has at least one word in it.
- *
- *
- * Example 1:
- * Input : text = "   leetcode is awesome   "
- * Output: "leetcode    is    awesome"
- *
- * Example 2:
- * Input : text = " keep up   the   good work  "
- * Output: "keep  up  the  good  work   "
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of 'text'.
+// The String.split() method, String.chars() and filter(), and the string concatenation of the result string,
+// all has linear time complexity.
+//
+// Space Complexity : O(n),
+// where 'n' is the length of 'text'.
+// The splitting of the 'text' to form a string array with approximately 'n' length.
+// The string concatenation the form the result string has the same size as the input 'text'.
 
 public class RearrangeSpacesBetweenWords {
 
     // Approach:
-    // Count the spaces and words in the 'text', then determine the count of spaces between words and trailing spaces.
+    // Count the spaces and words in the 'text'.
+    // Then, we determine the count of spaces between words and trailing spaces.
     // Then create a new String using the determined counts.
 
     public String reorderSpaces(String text) {
 
         // String.trim() removes all the leading and trailing spaces.
         // String.split("\\s+") provide an array of words,
-        // where words are determined as non-space characters separated by spaces.
+        // where words are determined as non-whitespace characters separated by spaces.
         String[] words = text.trim().split("\\s+");
 
         // Every element in 'words' array is a word.
