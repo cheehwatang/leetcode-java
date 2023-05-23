@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 23rd</td>
+    <td>1486. <a href="https://leetcode.com/problems/xor-operation-in-an-array/">XOR Operation in an Array</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1486.%20XOR%20Operation%20in%20an%20Array/XOROperationInAnArray.java">Bit Manipulation</a>
+    </td>
+    <td align="center">
+      <a href="#bit-manipulation">Bit Manipulation</a>, 
+      <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 22nd</td>
     <td>1592. <a href="https://leetcode.com/problems/rearrange-spaces-between-words/">Rearrange Spaces Between Words</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -74,20 +86,6 @@
       <a href="#binary-search">Binary Search</a>, 
       <a href="#heap-priority-queue">Heap (Priority Queue)</a>, 
       <a href="#matrix">Matrix</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 18th</td>
-    <td>1337. <a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_Sorting.java">Sorting & Binary Search</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#binary-search">Binary Search</a>, 
-      <a href="#matrix">Matrix</a>, 
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
