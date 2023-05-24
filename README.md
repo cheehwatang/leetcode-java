@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 24th</td>
+    <td>1480. <a href="https://leetcode.com/problems/running-sum-of-1d-array/">Running Sum of 1D Array</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1480.%20Running%20Sum%20of%201D%20Array/RunningSumOf1DArray.java">Prefix Sum</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#prefix-sum">Prefix Sum</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 23rd</td>
     <td>1486. <a href="https://leetcode.com/problems/xor-operation-in-an-array/">XOR Operation in an Array</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -72,20 +84,6 @@
     <td align="center">
       <a href="#greedy">Greedy</a>, 
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 19th</td>
-    <td>1337. <a href="https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/">The K Weakest Rows in a Matrix</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix/TheKWeakestRowsInAMatrix_BinarySearch_PriorityQueue.java">Heap (Priority Queue) & Binary Search</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#binary-search">Binary Search</a>, 
-      <a href="#heap-priority-queue">Heap (Priority Queue)</a>, 
-      <a href="#matrix">Matrix</a>
     </td>
   </tr>
 </table>
