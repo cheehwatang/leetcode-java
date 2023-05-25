@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 25th</td>
+    <td>948. <a href="https://leetcode.com/problems/bag-of-tokens/">Bag of Tokens</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/948.%20Bag%20of%20Tokens/BagOfTokens.java">Sorting & Two Pointers</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>, 
+      <a href="#sorting">Sorting</a>, 
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 24th</td>
     <td>1480. <a href="https://leetcode.com/problems/running-sum-of-1d-array/">Running Sum of 1D Array</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -72,18 +86,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#simulation">Simulation</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 20th</td>
-    <td>1328. <a href="https://leetcode.com/problems/break-a-palindrome/">Break a Palindrome</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1328.%20Break%20a%20Palindrome/BreakAPalindrome.java">Greedy</a>
-    </td>
-    <td align="center">
-      <a href="#greedy">Greedy</a>, 
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>

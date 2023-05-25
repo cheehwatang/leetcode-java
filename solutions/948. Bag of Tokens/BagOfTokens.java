@@ -2,49 +2,13 @@ package com.cheehwatang.leetcode;
 
 import java.util.Arrays;
 
-/**
- * Problem:
- * Given an array of tokens and an initial power value, return the highest possible score with the rules stated below.
- *
- * Note:
- * You have the following starting parameters:
- * - Power          : power
- * - Score          : 0
- * - Bag of Tokens  : tokens[i], where i is the value of ith token
- *
- * Rules:
- * 1.   If your current power is at least the value of a token, you may play the token face up,
- *      losing power of equivalent value and gaining 1 score.
- * 2.   If your current score is at least 1, you may play the token face down,
- *      gaining power of equivalent value and losing 1 score.
- * 3.   Each token can only be played once, while not necessary to play all tokens.
- *
- * Return the highest score achievable.
- *
- * Example 1:
- * Input    : tokens = [20], power = 15
- * Output   : 0
- * Explanation: Power of 15 is lower than 20, not able to gain a score due to too little score or too little power.
- *
- * Example 2:
- * Input    : tokens = [50,150], power = 100
- * Output   : 1
- * Explanation: Play the 0th token (50) face up, your power becomes 50 and score becomes 1.
- *              Unable to gain another score due to insufficient power.
- *
- * Example 3:
- * Input    : tokens = [20,40,60,80,100], power = 40
- * Output   : 2
- * Explanation:
- * 1. Play the 0th token (20) face up, your power becomes 20 and score becomes 1.
- * 2. Play the 4th token (100) face down, your power becomes 120 and score becomes 0.
- * 3. Play the 1st token (40) face up, your power becomes 80 and score becomes 1.
- * 4. Play the 2nd token (60) face up, your power becomes 20 and score becomes 2.
- * 5. Unable to gain another score due to insufficient power to play the 3rd token (80).
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n logn),
+// where 'n' is the length of 'tokens'.
+// We use Arrays.sort() to sort 'tokens', which implements the Dual-Pivot Quicksort with O(n logn) time complexity.
+// Additionally, we traverse the 'tokens' array once to perform the greedy approach to get the maximum score.
+//
+// Space Complexity : O(1),
+// as the auxiliary space used is independent on the size of the input.
 
 public class BagOfTokens {
 
@@ -75,12 +39,13 @@ public class BagOfTokens {
             else if (score > 0 && tokens[head] < tokens[tail]) {
                 power += tokens[tail--];
                 score--;
-            } else {
+            }
+            // End while loop when all remaining tokens is same value,
+            else {
                 break;
             }
-            // End while loop when all remaining tokens is same value, or when head > tail.
+            // or when head > tail.
         }
         return score;
     }
-
 }
