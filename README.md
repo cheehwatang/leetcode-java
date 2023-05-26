@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 26th</td>
+    <td>371. <a href="https://leetcode.com/problems/sum-of-two-integers/">Sum of Two Integers</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/371.%20Sum%20of%20Two%20Integers/SumOfTwoIntegers.java">Bit Manipulation</a>
+    </td>
+    <td align="center">
+      <a href="#bit-manipulation">Bit Manipulation</a>, 
+      <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 25th</td>
     <td>948. <a href="https://leetcode.com/problems/bag-of-tokens/">Bag of Tokens</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,18 +86,6 @@
     </td>
     <td align="center">
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 21st</td>
-    <td>985. <a href="https://leetcode.com/problems/sum-of-even-numbers-after-queries/">Sum of Even Numbers After Queries</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/985.%20Sum%20of%20Even%20Numbers%20After%20Queries/SumOfEvenNumbersAfterQueries.java">Simulation</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#simulation">Simulation</a>
     </td>
   </tr>
 </table>
