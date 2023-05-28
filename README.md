@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 28th</td>
+    <td>1323. <a href="https://leetcode.com/problems/maximum-69-number/">Maximum 69 Number</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1323.%20Maximum%2069%20Number/Maximum69Number_Math.java">Math</a>
+    </td>
+    <td align="center">
+      <a href="#greedy">Greedy</a>, 
+      <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 27th</td>
     <td>1323. <a href="https://leetcode.com/problems/maximum-69-number/">Maximum 69 Number</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -75,18 +87,6 @@
     <td align="center">
       <a href="#array">Array</a>, 
       <a href="#prefix-sum">Prefix Sum</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 23rd</td>
-    <td>1486. <a href="https://leetcode.com/problems/xor-operation-in-an-array/">XOR Operation in an Array</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1486.%20XOR%20Operation%20in%20an%20Array/XOROperationInAnArray.java">Bit Manipulation</a>
-    </td>
-    <td align="center">
-      <a href="#bit-manipulation">Bit Manipulation</a>, 
-      <a href="#math">Math</a>
     </td>
   </tr>
 </table>
