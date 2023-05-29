@@ -1,43 +1,28 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given a string 'date' representing a Gregorian calendar date formatted as 'YYYY-MM-DD',
- * return the number of days of the year.
- *
- *
- * Example 1:
- * Input    : date = "2018-01-10"
- * Output   : 10
- * Explanation: The date is the 10th day of 2018.
- *
- *
- * Example 2:
- * Input    : date = "2018-03-01"
- * Output   : 60
- * Explanation: The date is the 60th day of 2018.
- *
- *
- * Example 3:
- * Input    : date = "2016-03-01"
- * Output   : 61
- * Explanation: The date is the 61st day of 2016.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n + m),
+// where 'n' is the length of string 'date', and 'm' is the month.
+// We split the string which has a linear time complexity to the length of the string.
+// Then, we traverse the 'dayOfMonth' array for the number of months to get the day sum of the previous months.
+//
+// Space Complexity : O(n + 12),
+// where 'n' is the length of string 'date'.
+// The String.split() method results in creation of strings with total length of 'date'.
+// The 'dayOfMonth' array has length of 12.
 
 public class DayOfTheYear {
 
     // Approach:
-    // Use a database of day in the months. Check for leap year and adjust the day in February accordingly.
+    // Use an array of day in the months.
+    // For each year, check for leap year and adjust the day in February accordingly.
+    // Then, iterate from 0 to the previous month to sum the days in the previous month.
+    // For that month, we sum the day of the month.
 
     public int dayOfYear(String date) {
-
         // Split the date String to the year, month and day.
         String[] str = date.split("-");
 
-        // Data for the day of the month.
+        // Array for the day of the month.
         int[] dayOfMonth = new int[]{31,28,31,30,31,30,31,31,30,31,30,31};
 
         // If the year is a leap year, increase the day in February (index 1) by 1.
