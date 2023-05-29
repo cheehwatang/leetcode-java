@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 29th</td>
+    <td>1154. <a href="https://leetcode.com/problems/day-of-the-year/">Day of the Year</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1154.%20Day%20of%20the%20Year/DayOfTheYear.java">Math</a>
+    </td>
+    <td align="center">
+      <a href="#math">Math</a>, 
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 28th</td>
     <td>1323. <a href="https://leetcode.com/problems/maximum-69-number/">Maximum 69 Number</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -75,18 +87,6 @@
       <a href="#greedy">Greedy</a>, 
       <a href="#sorting">Sorting</a>, 
       <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 24th</td>
-    <td>1480. <a href="https://leetcode.com/problems/running-sum-of-1d-array/">Running Sum of 1D Array</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1480.%20Running%20Sum%20of%201D%20Array/RunningSumOf1DArray.java">Prefix Sum</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#prefix-sum">Prefix Sum</a>
     </td>
   </tr>
 </table>
