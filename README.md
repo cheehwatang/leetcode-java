@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 30th</td>
+    <td>368. <a href="https://leetcode.com/problems/largest-divisible-subset/">Largest Divisible Subset</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/368.%20Largest%20Divisible%20Subset/LargestDivisibleSubset.java">Dynamic Programming & Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#dynamic-programming">Dynamic Programming</a>, 
+      <a href="#math">Math</a>, 
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 29th</td>
     <td>1154. <a href="https://leetcode.com/problems/day-of-the-year/">Day of the Year</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,20 +87,6 @@
     <td align="center">
       <a href="#bit-manipulation">Bit Manipulation</a>, 
       <a href="#math">Math</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 25th</td>
-    <td>948. <a href="https://leetcode.com/problems/bag-of-tokens/">Bag of Tokens</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/948.%20Bag%20of%20Tokens/BagOfTokens.java">Sorting & Two Pointers</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>, 
-      <a href="#greedy">Greedy</a>, 
-      <a href="#sorting">Sorting</a>, 
-      <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
