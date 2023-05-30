@@ -4,28 +4,17 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * Problem:
- * Given an array of integers 'nums' with distinct positive integers,
- * return the largest subset such that every pair of elements in the subset satisfies:
- * - nums[i] % nums[j] == 0, or
- * - nums[j] % nums[i] == 0,
- *
- *
- * Example 1:
- * Input    : nums = [1,2,3,4]
- * Output   : [1,2,4]
- * Explanation : 2 is divisible by 1, 4 is divisible by 1 and 2.
- *
- *
- * Example 2:
- * Input    : nums = [2,3,4,5,6]
- * Output   : [2,4]
- * Explanation : [3,6] or [2,6] is also accepted.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n^2),
+// where 'n' is the size of the input 'nums'.
+// The Arrays.sort() method implements the Dual-Pivot Quicksort, which has O(n logn) time complexity.
+// Additionally, we traverse 'nums' in a nested for-loop, which results in O(n^2) time complexity.
+// Lastly, we traverse the 'previous' array once to record the result into a List,
+// which has linear time complexity.
+// Thus, the time complexity of the 'largestDivisibleSubset()' is O(n^2).
+//
+// Space Complexity : O(n),
+// where 'n' is the size of the input 'nums'.
+// We use two arrays of size 'n', 'length' and 'previous' to record the length and links of the divisible subset.
 
 public class LargestDivisibleSubset {
 
@@ -57,12 +46,12 @@ public class LargestDivisibleSubset {
         int index = -1;
         for (int i = 0; i < n; i++) {
             // Initialize the arrays. Length is 1 because that is the shortest possible length, with 1 element.
-            // Previous with -1 for when that number is the start of the subsequence (do not have any divisor).
+            // Set 'previous' as -1 for when that number is the start of the subsequence (do not have any divisor).
             length[i] = 1;
             previous[i] = -1;
             for (int j = i - 1; j >= 0; j--) {
                 // If we found a divisor, as the length is greater, then record in the arrays.
-                if (nums[i] % nums[j] == 0 && length[j] + 1 > length[i]) {
+                if (nums[i] % nums[j] == 0 && length[j] >= length[i]) {
                     length[i] = length[j] + 1;
                     previous[i] = j;
                 }
