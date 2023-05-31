@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">May 31st</td>
+    <td>334. <a href="https://leetcode.com/problems/increasing-triplet-subsequence/">Increasing Triplet Subsequence</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/334.%20Increasing%20Triplet%20Subsequence/IncreasingTripletSubsequence.java">Greedy</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>, 
+      <a href="#greedy">Greedy</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 30th</td>
     <td>368. <a href="https://leetcode.com/problems/largest-divisible-subset/">Largest Divisible Subset</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,18 +86,6 @@
     </td>
     <td align="center">
       <a href="#greedy">Greedy</a>, 
-      <a href="#math">Math</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 26th</td>
-    <td>371. <a href="https://leetcode.com/problems/sum-of-two-integers/">Sum of Two Integers</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/371.%20Sum%20of%20Two%20Integers/SumOfTwoIntegers.java">Bit Manipulation</a>
-    </td>
-    <td align="center">
-      <a href="#bit-manipulation">Bit Manipulation</a>, 
       <a href="#math">Math</a>
     </td>
   </tr>
