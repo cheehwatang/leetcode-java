@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 1st</td>
+    <td>1603. <a href="https://leetcode.com/problems/design-parking-system/">Design Parking System</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1603.%20Design%20Parking%20System/ParkingSystem.java">Design & Counting</a>
+    </td>
+    <td align="center">
+      <a href="#counting">Counting</a>, 
+      <a href="#design">Design</a>, 
+      <a href="#simulation">Simulation</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">May 31st</td>
     <td>334. <a href="https://leetcode.com/problems/increasing-triplet-subsequence/">Increasing Triplet Subsequence</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -71,18 +84,6 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1323.%20Maximum%2069%20Number/Maximum69Number_Math.java">Math</a>
-    </td>
-    <td align="center">
-      <a href="#greedy">Greedy</a>, 
-      <a href="#math">Math</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 27th</td>
-    <td>1323. <a href="https://leetcode.com/problems/maximum-69-number/">Maximum 69 Number</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1323.%20Maximum%2069%20Number/Maximum69Number_String.java">String</a>
     </td>
     <td align="center">
       <a href="#greedy">Greedy</a>, 
@@ -2800,6 +2801,20 @@
     </td>
   </tr>
   <tr>
+    <td align="center">1603</td>
+    <td><a href="https://leetcode.com/problems/design-parking-system/">Design Parking System</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1603.%20Design%20Parking%20System/ParkingSystem.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#counting">Counting</a>, 
+      <a href="#design">Design</a>, 
+      <a href="#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2131</td>
     <td><a href="https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/">Longest Palindrome by Concatenating Two Letter Words</a></td>
     <td align="center">
@@ -3457,6 +3472,20 @@
     <td align="center">
       <a href="#design">Design</a>, 
       <a href="#linked-list">Linked List</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1603</td>
+    <td><a href="https://leetcode.com/problems/design-parking-system/">Design Parking System</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1603.%20Design%20Parking%20System/ParkingSystem.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#counting">Counting</a>, 
+      <a href="#design">Design</a>, 
+      <a href="#simulation">Simulation</a>
     </td>
     <td></td>
   </tr>
@@ -6069,6 +6098,20 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#math">Math</a>, 
+      <a href="#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1603</td>
+    <td><a href="https://leetcode.com/problems/design-parking-system/">Design Parking System</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1603.%20Design%20Parking%20System/ParkingSystem.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#counting">Counting</a>, 
+      <a href="#design">Design</a>, 
       <a href="#simulation">Simulation</a>
     </td>
     <td></td>
