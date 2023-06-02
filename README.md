@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 2nd</td>
+    <td>1342. <a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">Number of Steps to Reduce a Number to Zero</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1342.%20Numbers%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/NumberOfStepsToReduceANumberToZero_Math.java">Math</a>
+    </td>
+    <td align="center">
+      <a href="#bit-manipulation">Bit Manipulation</a>, 
+      <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 1st</td>
     <td>1603. <a href="https://leetcode.com/problems/design-parking-system/">Design Parking System</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -76,18 +88,6 @@
     <td align="center">
       <a href="#math">Math</a>, 
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 28th</td>
-    <td>1323. <a href="https://leetcode.com/problems/maximum-69-number/">Maximum 69 Number</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1323.%20Maximum%2069%20Number/Maximum69Number_Math.java">Math</a>
-    </td>
-    <td align="center">
-      <a href="#greedy">Greedy</a>, 
-      <a href="#math">Math</a>
     </td>
   </tr>
 </table>
