@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 3rd</td>
+    <td>1342. <a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">Number of Steps to Reduce a Number to Zero</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1342.%20Numbers%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/NumberOfStepsToReduceANumberToZero_BitManipulation.java">Bit Manipulation</a>
+    </td>
+    <td align="center">
+      <a href="#bit-manipulation">Bit Manipulation</a>, 
+      <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 2nd</td>
     <td>1342. <a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/">Number of Steps to Reduce a Number to Zero</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -76,18 +88,6 @@
       <a href="#dynamic-programming">Dynamic Programming</a>, 
       <a href="#math">Math</a>, 
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 29th</td>
-    <td>1154. <a href="https://leetcode.com/problems/day-of-the-year/">Day of the Year</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1154.%20Day%20of%20the%20Year/DayOfTheYear.java">Math</a>
-    </td>
-    <td align="center">
-      <a href="#math">Math</a>, 
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
