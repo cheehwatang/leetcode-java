@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 5th</td>
+    <td>38. <a href="https://leetcode.com/problems/count-and-say/">Count and Say</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/38.%20Count%20and%20Say/CountAndSay_Recursive.java">Recursive</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 4th</td>
     <td>38. <a href="https://leetcode.com/problems/count-and-say/">Count and Say</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -73,18 +84,6 @@
       <a href="#counting">Counting</a>,
       <a href="#design">Design</a>,
       <a href="#simulation">Simulation</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">May 31st</td>
-    <td>334. <a href="https://leetcode.com/problems/increasing-triplet-subsequence/">Increasing Triplet Subsequence</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/334.%20Increasing%20Triplet%20Subsequence/IncreasingTripletSubsequence.java">Greedy</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#greedy">Greedy</a>
     </td>
   </tr>
 </table>
