@@ -1,24 +1,12 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given a string 'sentence' containing only lowercase English letters,
- * return 'true' if the 'sentence' is a pangram, and return false otherwise.
- * A pangram is a sentence where every letter of the English alphabet appears at least once.
- *
- *
- * Example 1:
- * Input    : "thequickbrownfoxjumpsoverthelazydog"
- * Output   : true
- *
- *
- * Example 2:
- * Input    : "leetcodeisawesome"
- * Output   : 0
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(26 * n),
+// where 'n' is the length of the string 'sentence'.
+// For each alphabet, we use String.indexOf() method to check if the alphabet is in 'sentence'.
+// String.indexOf() has time complexity of O(n).
+//
+// Space Complexity : O(1),
+// as the auxiliary space used is independent of the input size.
 
 public class CheckIfTheSentenceIsPangram {
 
@@ -29,9 +17,7 @@ public class CheckIfTheSentenceIsPangram {
 
         // A quick check. If the String length is less than 26 characters, we know it is not a pangram,
         // given there are no spaces in the 'sentence'.
-        if (sentence.length() < 26) {
-            return false;
-        }
+        if (sentence.length() < 26) return false;
 
         // Traversing the alphabet from 'a' to 'z', check if any is in 'sentence'.
         // If the index is less than 0, return false.
