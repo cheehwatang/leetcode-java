@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 6th</td>
+    <td>1832. <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">Check if the Sentence is Pangram</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram.java">String</a>
+    </td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 5th</td>
     <td>38. <a href="https://leetcode.com/problems/count-and-say/">Count and Say</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -71,19 +83,6 @@
     <td align="center">
       <a href="#bit-manipulation">Bit Manipulation</a>,
       <a href="#math">Math</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 1st</td>
-    <td>1603. <a href="https://leetcode.com/problems/design-parking-system/">Design Parking System</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1603.%20Design%20Parking%20System/ParkingSystem.java">Design & Counting</a>
-    </td>
-    <td align="center">
-      <a href="#counting">Counting</a>,
-      <a href="#design">Design</a>,
-      <a href="#simulation">Simulation</a>
     </td>
   </tr>
 </table>
