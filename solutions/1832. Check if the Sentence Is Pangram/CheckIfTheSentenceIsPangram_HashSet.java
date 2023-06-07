@@ -3,25 +3,12 @@ package com.cheehwatang.leetcode;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Problem:
- * Given a string 'sentence' containing only lowercase English letters,
- * return 'true' if the 'sentence' is a pangram, and return false otherwise.
- * A pangram is a sentence where every letter of the English alphabet appears at least once.
- *
- *
- * Example 1:
- * Input    : "thequickbrownfoxjumpsoverthelazydog"
- * Output   : true
- *
- *
- * Example 2:
- * Input    : "leetcodeisawesome"
- * Output   : 0
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of the string 'sentence'.
+// We traverse the string 'sentence' to add the characters to the HashSet.
+//
+// Space Complexity : O(1),
+// as the HashSet has a fixed maximum size of 26.
 
 public class CheckIfTheSentenceIsPangram_HashSet {
 
@@ -31,12 +18,9 @@ public class CheckIfTheSentenceIsPangram_HashSet {
     // This works as there no spaces, other symbols and only consist of lowercase letters. Other approach needed otherwise.
 
     public boolean checkIfPangram(String sentence) {
-
         // A quick check. If the String length is less than 26 characters, we know it is not a pangram,
         // given there are no spaces in the 'sentence'.
-        if (sentence.length() < 26) {
-            return false;
-        }
+        if (sentence.length() < 26) return false;
 
         // Record each character in HashSet.
         Set<Character> set = new HashSet<>();
