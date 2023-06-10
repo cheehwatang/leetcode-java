@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 10th</td>
+    <td>1680. <a href="https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/">Concatenation of Consecutive Binary Numbers</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/ConcatenationOfConsecutiveBinaryNumbers_Math.java">Math</a>
+    </td>
+    <td align="center">
+      <a href="#math">Math</a>,
+      <a href="#simulation">Simulation</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 9th</td>
     <td>1832. <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">Check if the Sentence is Pangram</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -72,17 +84,6 @@
     </td>
     <td align="center">
       <a href="#hash-table">Hash Table</a>,
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 5th</td>
-    <td>38. <a href="https://leetcode.com/problems/count-and-say/">Count and Say</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/38.%20Count%20and%20Say/CountAndSay_Recursive.java">Recursive</a>
-    </td>
-    <td align="center">
       <a href="#string">String</a>
     </td>
   </tr>
