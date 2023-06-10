@@ -1,27 +1,12 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given an integer 'n', return the decimal value of the binary string formed by concatenating the binary representation,
- * in the modulo '1e9 + 7'.
- *
- * Note:
- * Use bit manipulation or math.
- *
- * Example 1:
- * Input    : n = 2
- * Output   : 6
- * Explanation: In binary, 1 and 2 corresponds to 1 and 10. Concatenating result in 110 = 6.
- *
- * Example 2:
- * Input    : n = 11
- * Output   : 406586234
- * Explanation: The concatenations result in "110111001011101111000100110101011" = 7406586283.
- * With modulo 1e9 + 7 will result in 406586234.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n logn),
+// where 'n' is the input 'n'.
+// We traverse from 1 to 'n', and we use division to find the bit length of each number, with O(log n) time complexity,
+// resulting in the final O(n logn) time complexity.
+//
+// Space Complexity : O(1),
+// as the auxiliary space used is independent on the input 'n'.
 
 public class ConcatenationOfConsecutiveBinaryNumbers_Math {
 
