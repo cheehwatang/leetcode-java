@@ -1,31 +1,11 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given an integer 'n', return the decimal value of the binary string formed by concatenating the binary representation,
- * in the modulo '1e9 + 7'.
- *
- * Note:
- * Use bit manipulation or math.
- *
- * Example 1:
- * Input    : n = 2
- * Output   : 6
- * Explanation: In binary, 1 and 2 corresponds to 1 and 10. Concatenating result in 110 = 6.
- *
- * Example 2:
- * Input    : n = 11
- * Output   : 406586234
- * Explanation: The concatenations result in "110111001011101111000100110101011" = 7406586283.
- * With modulo 1e9 + 7 will result in 406586234.
- *
- *
- * @author Chee Hwa Tang
- */
-
-// Time Complexity: O(N)
-// Space Complexity: O(1)
-// where N is n.
+// Time Complexity  : O(n),
+// where 'n' is the input 'n'.
+// We traverse from 1 to 'n' to record the binary digits and get the concatenation binary numbers.
+//
+// Space Complexity : O(1),
+// as the auxiliary space used is independent on the input 'n'.
 
 public class ConcatenationOfConsecutiveBinaryNumbers_BitManipulation {
 
@@ -41,7 +21,6 @@ public class ConcatenationOfConsecutiveBinaryNumbers_BitManipulation {
     // 2. << - Shift Left operation, by n position:
     //    Example:
     //    11 (3) << 2 (n position) = 1100 (14)
-    //
 
     public int concatenatedBinary(int n) {
 
@@ -58,9 +37,7 @@ public class ConcatenationOfConsecutiveBinaryNumbers_BitManipulation {
             // i = 8 (1000), i-1 = 7 (111)
             // i & (i-1) = 1000 & 111 = 0
             // So we know we have increased the binaryDigits from 3 (in 111) to 4 (in 1000).
-            if ((i & (i - 1)) == 0) {
-                binaryDigits++;
-            }
+            if ((i & (i - 1)) == 0) binaryDigits++;
 
             // With the updated binaryDigits, we now can concatenate i to the result.
             // Each time get the remainder of the result % modulo.
