@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 12th</td>
+    <td>1672. <a href="https://leetcode.com/problems/richest-customer-wealth/">Richest Customer Wealth</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1672.%20Richest%20Customer%20Wealth/RichestCustomerWealth.java">Matrix</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#matrix">Matrix</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 11th</td>
     <td>1680. <a href="https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/">Concatenation of Consecutive Binary Numbers</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -69,18 +81,6 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram_Counting.java">Counting</a>
-    </td>
-    <td align="center">
-      <a href="#hash-table">Hash Table</a>,
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 7th</td>
-    <td>1832. <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">Check if the Sentence is Pangram</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram_HashSet.java">Hash Table</a>
     </td>
     <td align="center">
       <a href="#hash-table">Hash Table</a>,
