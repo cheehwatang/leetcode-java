@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 13th</td>
+    <td>1103. <a href="https://leetcode.com/problems/distribute-candies-to-people/">Distribute Candies to People</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1103.%20Distribute%20Candies%20to%20People/DistributeCandiesToPeople.java">Math</a>
+    </td>
+    <td align="center">
+      <a href="#math">Math</a>,
+      <a href="#simulation">Simulation</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 12th</td>
     <td>1672. <a href="https://leetcode.com/problems/richest-customer-wealth/">Richest Customer Wealth</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -69,18 +81,6 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram_BitManipulation.java">Bit Manipulation</a>
-    </td>
-    <td align="center">
-      <a href="#hash-table">Hash Table</a>,
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 8th</td>
-    <td>1832. <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">Check if the Sentence is Pangram</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram_Counting.java">Counting</a>
     </td>
     <td align="center">
       <a href="#hash-table">Hash Table</a>,
