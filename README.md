@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 14th</td>
+    <td>976. <a href="https://leetcode.com/problems/largest-perimeter-triangle/">Largest Perimeter Triangle</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/976.%20Largest%20Perimeter%20Triangle/LargestPerimeterTriangle.java">Greedy & Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#greedy">Greedy</a>,
+      <a href="#math">Math</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 13th</td>
     <td>1103. <a href="https://leetcode.com/problems/distribute-candies-to-people/">Distribute Candies to People</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,18 +87,6 @@
     <td align="center">
       <a href="#math">Math</a>,
       <a href="#simulation">Simulation</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 9th</td>
-    <td>1832. <a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">Check if the Sentence is Pangram</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram_BitManipulation.java">Bit Manipulation</a>
-    </td>
-    <td align="center">
-      <a href="#hash-table">Hash Table</a>,
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
