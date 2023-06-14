@@ -2,27 +2,13 @@ package com.cheehwatang.leetcode;
 
 import java.util.Arrays;
 
-/**
- * Problem:
- * Given an array of integers 'nums' representing the length of the edge of a triangle,
- * return the largest perimeter of a triangle with a non-zero area, formed from three of the lengths in 'nums'.
- * If not triangle is possible, return 0.
- *
- *
- * Example 1:
- * Input    : nums = [2,3,2]
- * Output   : 7
- * Explanation: A triangle with short edges 2,2, and a long edge of 3 is possible.
- *
- *
- * Example 2:
- * Input    : nums = [3,2,1]
- * Output   : 0
- * Explanation: A triangle using the 3 length is not possible.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n logn),
+// where 'n' is the length of 'nums'.
+// We use Arrays.sort() to sort 'nums', which implements the Dual-Pivot Quicksort with O(n logn) time complexity.
+// Then, we traverse the 'nums' array once to find the largest perimeter triangle.
+//
+// Space Complexity : O(1),
+// as the auxiliary space used is independent on the size of the input.
 
 public class LargestPerimeterTriangle {
 
