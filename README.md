@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 16th</td>
+    <td>1679. <a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_Sorting_TwoPointers.java">Sorting & Two Pointers</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>,
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 15th</td>
     <td>1679. <a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -75,18 +88,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#matrix">Matrix</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 11th</td>
-    <td>1680. <a href="https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/">Concatenation of Consecutive Binary Numbers</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/ConcatenationOfConsecutiveBinaryNumbers_BitManipulation.java">Bit Manipulation</a>
-    </td>
-    <td align="center">
-      <a href="#bit-manipulation">Bit Manipulation</a>,
-      <a href="#simulation">Simulation</a>
     </td>
   </tr>
 </table>

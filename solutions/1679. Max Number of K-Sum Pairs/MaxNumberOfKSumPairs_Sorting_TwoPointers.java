@@ -2,31 +2,13 @@ package com.cheehwatang.leetcode;
 
 import java.util.Arrays;
 
-/**
- * Problem:
- * Given an array of integers 'nums' and an integer 'k'.
- * In one operation, you can pick two numbers from the array whose sum equals 'k' and remove them from the array.
- * Return the maximum number of operations that can be performed on the array.
- *
- *
- * Example 1:
- * Input    : nums = [1,2,3,4,5], k = 6
- * Output   : 2
- * Explanation:
- * 1. Remove 1 and 5, nums = [2,3,4].
- * 2. Remove 2 and 4, nums = [3].
- * No more pairs left to get a sum of 6.
- *
- *
- * Example 2:
- * Input    : nums = [1,2,3,4,5], k = 2
- * Output   : 0
- * The unique pairs with k difference:
- * No more pair can get a sum of 2.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n logn),
+// where 'n' is the length of 'nums'.
+// We use Arrays.sort() to sort the array, which implements Dual-Pivot Quicksort which has O(n logn) time complexity.
+// Additionally, we use two pointers to traverse 'nums' once, with O(n) time complexity.
+//
+// Space Complexity : O(1),
+// as the auxiliary space used is independent of the input size.
 
 public class MaxNumberOfKSumPairs_Sorting_TwoPointers {
 
