@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 17th</td>
+    <td>1232. <a href="https://leetcode.com/problems/check-if-it-is-a-straight-line/">Check If It Is a Straight Line</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/CheckIfItIsAStraightLine.java">Geometry & Math</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#geometry">Geometry</a>,
+      <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 16th</td>
     <td>1679. <a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -76,18 +89,6 @@
     <td align="center">
       <a href="#math">Math</a>,
       <a href="#simulation">Simulation</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 12th</td>
-    <td>1672. <a href="https://leetcode.com/problems/richest-customer-wealth/">Richest Customer Wealth</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1672.%20Richest%20Customer%20Wealth/RichestCustomerWealth.java">Matrix</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#matrix">Matrix</a>
     </td>
   </tr>
 </table>
@@ -909,6 +910,20 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1232</td>
+    <td><a href="https://leetcode.com/problems/check-if-it-is-a-straight-line/">Check If It Is a Straight Line</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/CheckIfItIsAStraightLine.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#geometry">Geometry</a>,
+      <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -3798,6 +3813,20 @@
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">1232</td>
+    <td><a href="https://leetcode.com/problems/check-if-it-is-a-straight-line/">Check If It Is a Straight Line</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/CheckIfItIsAStraightLine.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#geometry">Geometry</a>,
+      <a href="#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 <hr>
@@ -5322,6 +5351,20 @@
     <td align="center">
       <a href="#math">Math</a>,
       <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1232</td>
+    <td><a href="https://leetcode.com/problems/check-if-it-is-a-straight-line/">Check If It Is a Straight Line</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/CheckIfItIsAStraightLine.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#geometry">Geometry</a>,
+      <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
