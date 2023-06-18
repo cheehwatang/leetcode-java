@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 18th</td>
+    <td>274. <a href="https://leetcode.com/problems/h-index/">H-Index</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_Sorting.java">Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 17th</td>
     <td>1232. <a href="https://leetcode.com/problems/check-if-it-is-a-straight-line/">Check If It Is a Straight Line</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -77,18 +89,6 @@
       <a href="#greedy">Greedy</a>,
       <a href="#math">Math</a>,
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 13th</td>
-    <td>1103. <a href="https://leetcode.com/problems/distribute-candies-to-people/">Distribute Candies to People</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1103.%20Distribute%20Candies%20to%20People/DistributeCandiesToPeople.java">Math</a>
-    </td>
-    <td align="center">
-      <a href="#math">Math</a>,
-      <a href="#simulation">Simulation</a>
     </td>
   </tr>
 </table>
@@ -473,6 +473,20 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#prefix-sum">Prefix Sum</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">274</td>
+    <td><a href="https://leetcode.com/problems/h-index/">H-Index</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_Sorting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
+      <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -6376,6 +6390,20 @@
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_SlidingWindow_HashMap_BucketSort.java"><em>Sliding Window & Bucket Sort</em></a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_SlidingWindow_TreeSet_OrderedSet.java"><em>Sliding Window & Ordered Set</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">274</td>
+    <td><a href="https://leetcode.com/problems/h-index/">H-Index</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_Sorting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">295</td>
