@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 19th</td>
+    <td>274. <a href="https://leetcode.com/problems/h-index/">H-Index</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_CountingSort.java">Counting Sort</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 18th</td>
     <td>274. <a href="https://leetcode.com/problems/h-index/">H-Index</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -77,20 +90,6 @@
       <a href="#hash-table">Hash Table</a>,
     </td>
   </tr>
-  <tr>
-    <td align="center">June 14th</td>
-    <td>976. <a href="https://leetcode.com/problems/largest-perimeter-triangle/">Largest Perimeter Triangle</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/976.%20Largest%20Perimeter%20Triangle/LargestPerimeterTriangle.java">Greedy & Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#greedy">Greedy</a>,
-      <a href="#math">Math</a>,
-      <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
 </table>
 </br>
 <hr>
@@ -108,6 +107,7 @@
   <li><a href="#breadth-first-search">Breadth-First Search</a></li>
   <li><a href="#bucket-sort">Bucket Sort</a></li>
   <li><a href="#counting">Counting</a></li>
+  <li><a href="#counting-sort">Counting Sort</a></li>
   <li><a href="#data-stream">Data Stream</a></li>
   <li><a href="#depth-first-search">Depth-First Search</a></li>
   <li><a href="#design">Design</a></li>
@@ -479,8 +479,9 @@
   <tr>
     <td align="center">274</td>
     <td><a href="https://leetcode.com/problems/h-index/">H-Index</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_Sorting.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_CountingSort.java">Counting Sort</a> and
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_Sorting.java">Sorting</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -2905,6 +2906,37 @@
       <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
+  </tr>
+</table>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<hr>
+</details>
+
+<details><summary><h3 id="counting-sort">Counting Sort</h3></summary>
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">274</td>
+    <td><a href="https://leetcode.com/problems/h-index/">H-Index</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_CountingSort.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_Sorting.java"><em>Sorting</em></a>
+    </td>
   </tr>
 </table>
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
@@ -6394,8 +6426,9 @@
   <tr>
     <td align="center">274</td>
     <td><a href="https://leetcode.com/problems/h-index/">H-Index</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_Sorting.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_CountingSort.java">Counting Sort</a> and
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_Sorting.java">Sorting</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
