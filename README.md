@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 20th</td>
+    <td>275. <a href="https://leetcode.com/problems/h-index/">H-Index II</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/275.%20H-Index%20II/HIndexII.java">Binary Search</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#binary-search">Binary Search</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 19th</td>
     <td>274. <a href="https://leetcode.com/problems/h-index/">H-Index</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -76,18 +88,6 @@
       <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>,
       <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 15th</td>
-    <td>1679. <a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_HashTable.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#hash-table">Hash Table</a>,
     </td>
   </tr>
 </table>
@@ -488,6 +488,19 @@
       <a href="#array">Array</a>,
       <a href="#counting-sort">Counting Sort</a>,
       <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">275</td>
+    <td><a href="https://leetcode.com/problems/h-index-ii/">H-Index II</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/275.%20H-Index%20II/HIndexII.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#binary-search">Binary Search</a>
     </td>
     <td></td>
   </tr>
@@ -1703,6 +1716,19 @@
       <a href="#binary-tree">Binary Tree</a>,
       <a href="#depth-first-search">Depth-First Search</a>,
       <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">275</td>
+    <td><a href="https://leetcode.com/problems/h-index-ii/">H-Index II</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/275.%20H-Index%20II/HIndexII.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#binary-search">Binary Search</a>
     </td>
     <td></td>
   </tr>
