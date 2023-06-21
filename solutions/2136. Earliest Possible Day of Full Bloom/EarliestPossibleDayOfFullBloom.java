@@ -2,40 +2,16 @@ package com.cheehwatang.leetcode;
 
 import java.util.Arrays;
 
-/**
- * Problem:
- * Given two arrays of integers:
- * - 'plantTime' representing the number of full days to plant the i-th seed, and
- * - 'growTime' representing the number of full days for the seed to grow after being completely planted
- *    which blooms after the last day of growth,
- * return the earliest possible day when all seeds are blooming.
- * Note that it is not required to work on planting the same seed on consecutive days,
- * but the seed only starts to grow after it is completely planted.
- *
- *
- * Example 1:
- * Input    : plantTime = [1,2,3], growTime = [1,2,3]
- * Output   : 7
- * Explanation : (using '*' as planting, '#' as growing and '^' as bloomed)
- *                                Days 0 1 2 3 4 5 6 7
- * plantTime = 3, growTime = 3,        * * * # # # ^
- * plantTime = 2, growTime = 2,              * * # # ^
- * plantTime = 1, growTime = 1.                  * # ^
- *
- *
- * Example 2:
- * Input    : plantTime = [2,5,3,1], growTime = [8,2,1,4]
- * Output   : 12
- * Explanation : (using '*' as planting, '#' as growing and '^' as bloomed)
- *                                Days 0  1  2  3  4  5  6  7  8  9  10 11 12
- * plantTime = 2, growTime = 8,        *  *  #  #  #  #  #  #  #  #  ^
- * plantTime = 5, growTime = 2,              *  *  *  *  *  #  #  ^
- * plantTime = 1, growTime = 4.                             *  #  #  #  #  ^
- * plantTime = 3, growTime = 1.                                *  *  *  #  ^
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n logn),
+// where 'n' is the length of 'plantTime' or 'growTime'.
+// We first traverse both arrays to pair the plant time and grow time, with O(n) time complexity.
+// Then, we sort the new array with Arrays.sort function with O(n logn) time complexity.
+// Lastly, we traverse the sorted array to get the earliest possible day, with O(n) time complexity.
+// Thus, the time complexity is O(n logn).
+//
+// Space Complexity : O(n),
+// where 'n' is the length of 'plantTime' or 'growTime'.
+// We use an array of length 'n' to store the pair of plant time and grow time.
 
 public class EarliestPossibleDayOfFullBloom {
 

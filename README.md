@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 21st</td>
+    <td>2136. <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a></td>
+    <td align="center">$\text{\color{Red}Hard}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom/EarliestPossibleDayOfFullBloom.java">Sorting & Greedy</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#greedy">Greedy</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 20th</td>
     <td>275. <a href="https://leetcode.com/problems/h-index/">H-Index II</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -75,19 +88,6 @@
       <a href="#array">Array</a>,
       <a href="#geometry">Geometry</a>,
       <a href="#math">Math</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 16th</td>
-    <td>1679. <a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/MaxNumberOfKSumPairs_Sorting_TwoPointers.java">Sorting & Two Pointers</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#sorting">Sorting</a>,
-      <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
