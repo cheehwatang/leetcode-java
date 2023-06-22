@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 22nd</td>
+    <td>1995. <a href="https://leetcode.com/problems/count-special-quadruplets/">Count Special Quadruplets</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1995.%20Count%20Special%20Quadruplets/CountSpecialQuadruplets.java">Enumeration</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#enumeration">Enumeration</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 21st</td>
     <td>2136. <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a></td>
     <td align="center">$\text{\color{Red}Hard}$</td>
@@ -75,19 +87,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 17th</td>
-    <td>1232. <a href="https://leetcode.com/problems/check-if-it-is-a-straight-line/">Check If It Is a Straight Line</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line/CheckIfItIsAStraightLine.java">Geometry & Math</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#geometry">Geometry</a>,
-      <a href="#math">Math</a>
     </td>
   </tr>
 </table>
