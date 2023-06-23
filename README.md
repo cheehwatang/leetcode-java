@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+  <td align="center">June 23rd</td>
+    <td>1995. <a href="https://leetcode.com/problems/count-special-quadruplets/">Count Special Quadruplets</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1995.%20Count%20Special%20Quadruplets/CountSpecialQuadruplets_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#enumeration">Enumeration</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 22nd</td>
     <td>1995. <a href="https://leetcode.com/problems/count-special-quadruplets/">Count Special Quadruplets</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -74,18 +86,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#counting-sort">Counting Sort</a>,
-      <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 18th</td>
-    <td>274. <a href="https://leetcode.com/problems/h-index/">H-Index</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_Sorting.java">Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>
     </td>
   </tr>

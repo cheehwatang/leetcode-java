@@ -3,44 +3,22 @@ package com.cheehwatang.leetcode;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Problem:
- * Given a 0-indexed array of integers 'nums', return the number of distinct quadruplets (i, j, k, l) such that
- * i < j < k < l and nums[i] + nums[j] + nums[k] == nums[l].
- *
- *
- * Example 1:
- * Input    : nums = [1,2,3,6]
- * Output   : 1
- * Explanation: i = 0 < j = 1 < k = 2 < l = 3, nums[i] + nums[j] + nums[k] = 1 + 2 + 3 == nums[l] = 6.
- *
- *
- * Example 2:
- * Input    : nums = [1,6,2,6,3]
- * Output   : 0
- * Explanation: No quadruplets fulfilling the requirements.
- *
- *
- * Example 3:
- * Input    : nums = [1,1,2,2,4,5]
- * Output   : 4
- * Explanation:
- * - (0,1,2,4): 1 + 1 + 2 == 4
- * - (0,1,3,4): 1 + 1 + 2 == 4
- * - (0,2,3,5): 1 + 2 + 2 == 5
- * - (1,2,3,5): 1 + 2 + 2 == 5
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n^2),
+// where 'n' is the length of 'nums'.
+// We traverse 'nums' with 2 separate pairs of double nested for-loops,
+// first to count the frequency of "nums[l] - nums[k]", and second to check if "nums[i] + nums[j]" is in the HashMap.
+//
+// Space Complexity : O(n^2),
+// where 'n' is the length of 'nums'.
+// We use HashMap to count the frequency of "nums[l] - nums[k]", with quadratic time complexity O(n^2).
 
 public class CountSpecialQuadruplets_HashTable {
 
     // Approach:
-    // Using a HashTable, we can split the brute force O(N^4) time complexity into two separate O(N^2) algorithms.
+    // Using a HashMap, we can split the brute force O(n^4) time complexity into two separate O(n^2) algorithms.
     // By adjusting nums[i] + nums[j] + nums[k] == nums[l] into nums[i] + nums[j] == nums[l] - nums[k],
-    // use the HashTable to store the nums[l] - nums[k], then check each nums[i] + nums[j] if it is in the Hashtable.
-    // The HashTable recorded the nums[l] - nums[k] and its frequency.
+    // we can use the HashMap to store the nums[l] - nums[k],
+    // and then check each nums[i] + nums[j] if it is in the HashMap.
 
     public int countQuadruplets(int[] nums) {
         int n = nums.length;
@@ -49,7 +27,7 @@ public class CountSpecialQuadruplets_HashTable {
         // From right to left, first make k == n - 2, l == n - 1.
         map.put(nums[n - 1] - nums[n - 2], 1);
         int count = 0;
-        // Starting with j = n - 3, traverse left to check if nums[i] + nums[j] is in the HashTable.
+        // Starting with j = n - 3, traverse left to check if nums[i] + nums[j] is in the HashMap.
         // If found, add the frequency of the found nums[l] - nums[k] to the count.
         for (int j = n - 3; j >= 0; j--) {
             for (int i = j - 1; i >= 0; i--) {
