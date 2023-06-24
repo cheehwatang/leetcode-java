@@ -1,40 +1,28 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given an array of integers 'nums' and an integer 'k',
- * return the number of pairs where nums[i] == nums[j], and i * j is divisible by k.
- *
- *
- * Example 1:
- * Input    : nums = [1,2,3,3,2,1], k = 2
- * Output   : 3
- * Explanation:
- * The pairs with same value, and i * j is divisible by k.
- * - [1*,2,3,3,2,1*], i * j = 0 * 5 = 0 divisible by 2.
- * - [1,2*,3,3,2*,1], i * j = 1 * 4 = 4 divisible by 2.
- * - [1,2,3*,3*,2,1], i * j = 2 * 3 = 6 divisible by 2.
- *
- *
- * Example 2:
- * Input    : nums = [1,2,3], k = 1
- * Output   : 0
- * Explanation: No repeated numbers.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n^2),
+// where 'n' is the length of 'nums'.
+// We traverse 'nums' with two nested for-loops.
+//
+// Space Complexity : O(1),
+// as the auxiliary space used is independent of the inputs.
 
 public class CountEqualAndDivisiblePairsInAnArray {
 
+    // Approach:
+    // The intuitive and the brute force approach is to traverse 'nums' with two nested for-loops,
+    // checking each combination and count if the requirements are met:
+    // 1. nums[i] == nums[j],
+    // 2. i * j is divisible by k.
+
     public int countPairs(int[] nums, int k) {
+        int n = nums.length;
+
         int count = 0;
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = i+1; j < nums.length; j++) {
-                // Check if i and j meets the condition.
-                if (nums[i] == nums[j] && (i * j) % k == 0) {
-                    count++;
-                }
+        for (int i = 0; i < n; i++) {
+            for (int j = i+1; j < n; j++) {
+                // Check if i and j meet the condition.
+                if (nums[i] == nums[j] && (i * j) % k == 0) count++;
             }
         }
         return count;

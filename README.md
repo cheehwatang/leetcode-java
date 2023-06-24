@@ -27,6 +27,17 @@
     <th>Solution</th>
     <th>Topics</th>
   </tr>
+    <tr>
+    <td align="center">June 24th</td>
+    <td>2176. <a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Equal and Divisible Pairs in an Array</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2176.%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/CountEqualAndDivisiblePairsInAnArray.java">Array</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
   <tr>
   <td align="center">June 23rd</td>
     <td>1995. <a href="https://leetcode.com/problems/count-special-quadruplets/">Count Special Quadruplets</a></td>
@@ -74,19 +85,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#binary-search">Binary Search</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 19th</td>
-    <td>274. <a href="https://leetcode.com/problems/h-index/">H-Index</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_CountingSort.java">Counting Sort</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#counting-sort">Counting Sort</a>,
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
