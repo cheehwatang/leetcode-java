@@ -27,7 +27,19 @@
     <th>Solution</th>
     <th>Topics</th>
   </tr>
-    <tr>
+  <tr>
+    <td align="center">June 25th</td>
+    <td>2023. <a href="https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/">Number of Pairs of Strings With Concatenation Equal to Target</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2023.%20Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/NumberOfPairsOfStringsWithConcatenationEqualToTarget_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 24th</td>
     <td>2176. <a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Equal and Divisible Pairs in an Array</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,18 +85,6 @@
       <a href="#array">Array</a>,
       <a href="#greedy">Greedy</a>,
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 20th</td>
-    <td>275. <a href="https://leetcode.com/problems/h-index/">H-Index II</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/275.%20H-Index%20II/HIndexII.java">Binary Search</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#binary-search">Binary Search</a>
     </td>
   </tr>
 </table>
