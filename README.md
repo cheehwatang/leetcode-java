@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 26th</td>
+    <td>1865. <a href="https://leetcode.com/problems/finding-pairs-with-a-certain-sum/">Finding Pairs With a Certain Sum</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1865.%20Finding%20Pairs%20With%20a%20Certain%20Sum/FindingPairsWithACertainSum.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#design">Design</a>,
+      <a href="#hash-table">Hash Table</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 25th</td>
     <td>2023. <a href="https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/">Number of Pairs of Strings With Concatenation Equal to Target</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -72,19 +85,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#enumeration">Enumeration</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 21st</td>
-    <td>2136. <a href="https://leetcode.com/problems/earliest-possible-day-of-full-bloom/">Earliest Possible Day of Full Bloom</a></td>
-    <td align="center">$\text{\color{Red}Hard}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom/EarliestPossibleDayOfFullBloom.java">Sorting & Greedy</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#greedy">Greedy</a>,
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
