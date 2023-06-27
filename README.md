@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 27th</td>
+    <td>2169. <a href="https://leetcode.com/problems/count-operations-to-obtain-zero/">Count Operations to Obtain Zero</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2169.%20Count%20Operations%20to%20Obtain%20Zero/CountOperationsToObtainZero.java">Math</a>
+    </td>
+    <td align="center">
+      <a href="#math">Math</a>,
+      <a href="#simulation">Simulation</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 26th</td>
     <td>1865. <a href="https://leetcode.com/problems/finding-pairs-with-a-certain-sum/">Finding Pairs With a Certain Sum</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -69,18 +81,6 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1995.%20Count%20Special%20Quadruplets/CountSpecialQuadruplets_HashTable.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#enumeration">Enumeration</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 22nd</td>
-    <td>1995. <a href="https://leetcode.com/problems/count-special-quadruplets/">Count Special Quadruplets</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1995.%20Count%20Special%20Quadruplets/CountSpecialQuadruplets.java">Enumeration</a>
     </td>
     <td align="center">
       <a href="#array">Array</a>,
