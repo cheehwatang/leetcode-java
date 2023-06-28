@@ -1,27 +1,12 @@
 package com.cheehwatang.leetcode;
 
-/**
- * Problem:
- * Given an array of integers 'nums', return the greatest common divisor of the smallest and largest number in 'nums'.
- * The greatest common divisor of two numbers is the largest positive integer that evenly divides both numbers.
- *
- *
- * Example 1:
- * Input    : nums = [2,3,4,5,6]
- * Output   : 2
- * Explanation:
- * The greatest common divisor for smallest number, 2, and largest number, 6, is 2.
- *
- *
- * Example 2:
- * Input    : nums = [8,10,6,11,15]
- * Output   : 3
- * Explanation:
- * The greatest common divisor for smallest number, 6, and largest number, 15, is 3.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n),
+// where 'n' is the length of 'nums'.
+// We traverse 'nums' once to find the minimum and the maximum number.
+//
+// Space Complexity : O(1),
+// as the recursive call stack is not quantifiable from the input, thus we can assume that the memory used is constant.
+// The recursive method can be implemented iteratively.
 
 public class FindGreatestCommonDivisorOfArray {
 
@@ -50,6 +35,7 @@ public class FindGreatestCommonDivisorOfArray {
         return gcd(max, min);
     }
 
+    // Recursive method to find the Greatest Common Divisor of 2 integers.
     private int gcd(int num1, int num2) {
         if (num2 == 0) return num1;
         return gcd(num2, num1 % num2);
