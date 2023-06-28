@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 28th</td>
+    <td>1979. <a href="https://leetcode.com/problems/find-greatest-common-divisor-of-array/">Find Greatest Common Divisor of Array</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1979.%20Find%20Greatest%20Common%20Divisor%20of%20Array/FindGreatestCommonDivisorOfArray.java">Math</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#math">Math</a>,
+      <a href="#number-theory">Number Theory</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 27th</td>
     <td>2169. <a href="https://leetcode.com/problems/count-operations-to-obtain-zero/">Count Operations to Obtain Zero</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,18 +86,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-  <td align="center">June 23rd</td>
-    <td>1995. <a href="https://leetcode.com/problems/count-special-quadruplets/">Count Special Quadruplets</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1995.%20Count%20Special%20Quadruplets/CountSpecialQuadruplets_HashTable.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#enumeration">Enumeration</a>
     </td>
   </tr>
 </table>
