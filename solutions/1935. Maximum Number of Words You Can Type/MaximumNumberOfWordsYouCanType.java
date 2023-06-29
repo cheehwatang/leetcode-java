@@ -3,40 +3,28 @@ package com.cheehwatang.leetcode;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Problem:
- * There is a malfunctioning keyboard where some letter keys do not work.
- * Given a string 'text' of words separated by a single space,
- * and a string 'brokenLetters' of all distinct letter keys that do not work,
- * return the number of words in 'text' that can be fully types using the keyboard.
- *
- *
- * Example 1:
- * Input    : text = "hello world", brokenLetters = "h"
- * Output   : 1
- * Explanation: Cannot type "hello" because the 'h' is broken.
- *
- *
- * Example 2:
- * Input    : text = "hello world", brokenLetters = "xzoac"
- * Output   : 0
- * Explanation: Cannot type "hello" and "world" because the 'o' is broken.
- *
- *
- * Example 3:
- * Input    : text = "hello world", brokenLetters = "abcxyz"
- * Output   : 2
- * Explanation: No words are broken.
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n + m),
+// where 'n' is the length of 'text' and 'm' is the length of 'brokenLetters'.
+// We traverse 'brokenLetters' once to record each letter into the HashSet, with O(m) time complexity.
+// The String.split() function has a linear time complexity O(n) to the length of the input string.
+// Additionally, we traverse each word in 'words' to check if the word is broken,
+// approximating to O(n) time complexity.
+// As such, the total time complexity of the method is O(n + m).
+//
+// Space Complexity : O(n + m),
+// where 'n' is the length of 'text' and 'm' is the length of 'brokenLetters'.
+// We record each letters in 'brokenLetters' in the HashSet.
+// We split 'text' into an array of 'words', with the total length of the strings in the array
+// approximate to the length of 'text'.
 
 public class MaximumNumberOfWordsYouCanType {
 
     // Approach:
     // Store the characters in the 'brokenLetters' in a HashSet.
-    // When traversing each world, check if any letters are in the HashSet. If none, increase the count by 1.
+    // When traversing each word, check if any letters are in the HashSet.
+    // If none, increase the count by 1.
+    // We can use String.split() function to split the 'text' into words,
+    // since the words are guaranteed to be separated by a single space.
 
     public int canBeTypedWords(String text, String brokenLetters) {
         // If all the keys are broken, then no words can be typed.
