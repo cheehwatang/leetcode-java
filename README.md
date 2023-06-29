@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 29th</td>
+    <td>1935. <a href="https://leetcode.com/problems/maximum-number-of-words-you-can-type/">Maximum Number of Words You Can Type</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type/MaximumNumberOfWordsYouCanType.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 28th</td>
     <td>1979. <a href="https://leetcode.com/problems/find-greatest-common-divisor-of-array/">Find Greatest Common Divisor of Array</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -75,17 +87,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 24th</td>
-    <td>2176. <a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Equal and Divisible Pairs in an Array</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2176.%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array/CountEqualAndDivisiblePairsInAnArray.java">Array</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>
     </td>
   </tr>
 </table>
