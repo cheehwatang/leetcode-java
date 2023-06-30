@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">June 30th</td>
+    <td>238. <a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/238.%20Product%20of%20Array%20Except%20Self/ProductOfArrayExceptSelf.java">Prefix Sum</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#prefix-sum">Prefix Sum</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 29th</td>
     <td>1935. <a href="https://leetcode.com/problems/maximum-number-of-words-you-can-type/">Maximum Number of Words You Can Type</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -75,18 +87,6 @@
       <a href="#array">Array</a>,
       <a href="#design">Design</a>,
       <a href="#hash-table">Hash Table</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 25th</td>
-    <td>2023. <a href="https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/">Number of Pairs of Strings With Concatenation Equal to Target</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2023.%20Number%20of%20Pairs%20of%20Strings%20With%20Concatenation%20Equal%20to%20Target/NumberOfPairsOfStringsWithConcatenationEqualToTarget_HashTable.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
