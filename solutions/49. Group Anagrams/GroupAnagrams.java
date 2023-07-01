@@ -2,24 +2,16 @@ package com.cheehwatang.leetcode;
 
 import java.util.*;
 
-/**
- * Problem:
- * Given an array of strings 'strs', group the anagrams together and return a list of the anagrams list.
- * An anagram is a word or phrase formed by rearranging the letters of a different word or phrase.
- *
- *
- * Example 1:
- * Input    : strs = ["abc", "aaa", "aba", "cba", "bac", "baa"]
- * Output   : [["aaa"],["aba","baa"],["abc","bac","cba"]]
- *
- *
- * Example 2:
- * Input    : strs = [""]
- * Output   : [[""]]
- *
- *
- * @author Chee Hwa Tang
- */
+// Time Complexity  : O(n * m logm),
+// where 'n' is the length of 'strs', and 'm' is the average length of each string.
+// For each of the elements in 'strs',
+// we convert the string to char array, and convert char array back to string, each with O(m) time complexity,
+// and the sorting of the char array results in O(m logm) time complexity.
+// As such, the time complexity is O(n * m logm).
+//
+// Space Complexity : O(n),
+// where 'n' is the length of 'strs'.
+// The HashMap has a maximum length of 'n', in the case where each strings in 'strs' is a unique anagram.
 
 public class GroupAnagrams {
 
