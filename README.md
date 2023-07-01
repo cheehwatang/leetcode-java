@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 1st</td>
+    <td>49. <a href="https://leetcode.com/problems/group-anagrams/">Group Anagrams</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/49.%20Group%20Anagrams/GroupAnagrams.java">Hash Table & Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>,
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">June 30th</td>
     <td>238. <a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,19 +88,6 @@
     <td align="center">
       <a href="#math">Math</a>,
       <a href="#simulation">Simulation</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 26th</td>
-    <td>1865. <a href="https://leetcode.com/problems/finding-pairs-with-a-certain-sum/">Finding Pairs With a Certain Sum</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1865.%20Finding%20Pairs%20With%20a%20Certain%20Sum/FindingPairsWithACertainSum.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#design">Design</a>,
-      <a href="#hash-table">Hash Table</a>
     </td>
   </tr>
 </table>
