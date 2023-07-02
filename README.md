@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 2nd</td>
+    <td>169. <a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_Sorting.java">Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 1st</td>
     <td>49. <a href="https://leetcode.com/problems/group-anagrams/">Group Anagrams</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -76,18 +88,6 @@
       <a href="#array">Array</a>,
       <a href="#math">Math</a>,
       <a href="#number-theory">Number Theory</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 27th</td>
-    <td>2169. <a href="https://leetcode.com/problems/count-operations-to-obtain-zero/">Count Operations to Obtain Zero</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2169.%20Count%20Operations%20to%20Obtain%20Zero/CountOperationsToObtainZero.java">Math</a>
-    </td>
-    <td align="center">
-      <a href="#math">Math</a>,
-      <a href="#simulation">Simulation</a>
     </td>
   </tr>
 </table>
@@ -393,6 +393,19 @@
       <a href="#array">Array</a>,
       <a href="#binary-search">Binary Search</a>,
       <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">169</td>
+    <td><a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_Sorting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -6412,6 +6425,19 @@
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/88.%20Merge%20Sorted%20Array/MergeSortedArray_TwoPointers.java"><em>Two Pointers</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">169</td>
+    <td><a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_Sorting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">217</td>
