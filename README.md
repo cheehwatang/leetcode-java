@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 4th</td>
+    <td>169. <a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_DivideAndConquer_Counting.java">Counting & Divide and Conquer</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#divide-and-conquer">Divide and Conquer</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 3rd</td>
     <td>169. <a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -78,18 +91,6 @@
       <a href="#prefix-sum">Prefix Sum</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">June 29th</td>
-    <td>1935. <a href="https://leetcode.com/problems/maximum-number-of-words-you-can-type/">Maximum Number of Words You Can Type</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type/MaximumNumberOfWordsYouCanType.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#hash-table">Hash Table</a>,
-      <a href="#string">String</a>
-    </td>
-  </tr>
 </table>
 </br>
 <hr>
@@ -111,6 +112,7 @@
   <li><a href="#data-stream">Data Stream</a></li>
   <li><a href="#depth-first-search">Depth-First Search</a></li>
   <li><a href="#design">Design</a></li>
+  <li><a href="#divide-and-conquer">Divide and Conquer</a></li>
   <li><a href="#dynamic-programming">Dynamic Programming</a></li>
   <li><a href="#enumeration">Enumeration</a></li>
   <li><a href="#geometry">Geometry</a></li>
@@ -400,6 +402,7 @@
     <td align="center">169</td>
     <td><a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
     <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_DivideAndConquer_Counting.java">Counting & Divide and Conquer</a>,
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_HashTable_Counting.java">Counting & Hash Table</a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_Sorting.java">Sorting</a>
     </td>
@@ -407,6 +410,7 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#counting">Counting</a>,
+      <a href="#divide-and-conquer">Divide and Conquer</a>,
       <a href="#hash-table">Hash Table</a>,
       <a href="#sorting">Sorting</a>
     </td>
@@ -2843,13 +2847,15 @@
   <tr>
     <td align="center">169</td>
     <td><a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_HashTable_Counting.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_DivideAndConquer_Counting.java">Counting & Divide and Conquer</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_HashTable_Counting.java">Counting & Hash Table</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#counting">Counting</a>,
+      <a href="#divide-and-conquer">Divide and Conquer</a>,
       <a href="#hash-table">Hash Table</a>,
       <a href="#sorting">Sorting</a>
     </td>
@@ -3628,6 +3634,40 @@
 <hr>
 </details>
 
+<details><summary><h3 id="divide-and-conquer">Divide and Conquer</h3></summary>
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problem</th>
+    <th>Solution</th>
+    <th>Difficulty</th>
+    <th>Topics</th>
+    <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">169</td>
+    <td><a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_DivideAndConquer_Counting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#divide-and-conquer">Divide and Conquer</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_HashTable_Counting.java"><em>Counting & Hash Table</em></a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_Sorting.java"><em>Sorting</em></a>
+    </td>
+  </tr>
+</table>
+<p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
+<hr>
+</details>
+
 <details><summary><h3 id="dynamic-programming">Dynamic Programming</h3></summary>
 <table>
   <tr>
@@ -4368,10 +4408,12 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#counting">Counting</a>,
+      <a href="#divide-and-conquer">Divide and Conquer</a>,
       <a href="#hash-table">Hash Table</a>,
       <a href="#sorting">Sorting</a>
     </td>
     <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_DivideAndConquer_Counting.java"><em>Counting & Divide and Conquer</em></a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_Sorting.java"><em>Sorting</em></a>
     </td>
   </tr>
@@ -6473,10 +6515,12 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#counting">Counting</a>,
+      <a href="#divide-and-conquer">Divide and Conquer</a>,
       <a href="#hash-table">Hash Table</a>,
       <a href="#sorting">Sorting</a>
     </td>
     <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_DivideAndConquer_Counting.java"><em>Counting & Divide and Conquer</em></a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_HashTable_Counting.java"><em>Counting & Hash Table</em></a>
     </td>
   </tr>
