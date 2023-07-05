@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 5th</td>
+    <td>169. <a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_BoyerMooreVotingAlgorithm.java">Boyer-Moore Majority Voting Algorithm</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 4th</td>
     <td>169. <a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -77,18 +88,6 @@
       <a href="#hash-table">Hash Table</a>,
       <a href="#sorting">Sorting</a>,
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">June 30th</td>
-    <td>238. <a href="https://leetcode.com/problems/product-of-array-except-self/">Product of Array Except Self</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/238.%20Product%20of%20Array%20Except%20Self/ProductOfArrayExceptSelf.java">Prefix Sum</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#prefix-sum">Prefix Sum</a>
     </td>
   </tr>
 </table>
@@ -402,6 +401,7 @@
     <td align="center">169</td>
     <td><a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
     <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_BoyerMooreVotingAlgorithm.java">Boyer-Moore Majority Voting Algorithm</a>,
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_DivideAndConquer_Counting.java">Counting & Divide and Conquer</a>,
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_HashTable_Counting.java">Counting & Hash Table</a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_Sorting.java">Sorting</a>
@@ -2860,6 +2860,7 @@
       <a href="#sorting">Sorting</a>
     </td>
     <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_BoyerMooreVotingAlgorithm.java"><em>Boyer-Moore Majority Voting Algorithm</em></a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_Sorting.java"><em>Sorting</em></a>
     </td>
   </tr>
@@ -3659,6 +3660,7 @@
       <a href="#sorting">Sorting</a>
     </td>
     <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_BoyerMooreVotingAlgorithm.java"><em>Boyer-Moore Majority Voting Algorithm</em></a>,
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_HashTable_Counting.java"><em>Counting & Hash Table</em></a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_Sorting.java"><em>Sorting</em></a>
     </td>
@@ -4413,6 +4415,7 @@
       <a href="#sorting">Sorting</a>
     </td>
     <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_BoyerMooreVotingAlgorithm.java"><em>Boyer-Moore Majority Voting Algorithm</em></a>,
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_DivideAndConquer_Counting.java"><em>Counting & Divide and Conquer</em></a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_Sorting.java"><em>Sorting</em></a>
     </td>
@@ -6520,6 +6523,7 @@
       <a href="#sorting">Sorting</a>
     </td>
     <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_BoyerMooreVotingAlgorithm.java"><em>Boyer-Moore Majority Voting Algorithm</em></a>,
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_DivideAndConquer_Counting.java"><em>Counting & Divide and Conquer</em></a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_HashTable_Counting.java"><em>Counting & Hash Table</em></a>
     </td>
