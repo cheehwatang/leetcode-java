@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 6th</td>
+    <td>229. <a href="https://leetcode.com/problems/majority-element-ii/">Majority Element II</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/229.%20Majority%20Element%20II/MajorityElementII_Sorting.java">Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 5th</td>
     <td>169. <a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -74,20 +86,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 1st</td>
-    <td>49. <a href="https://leetcode.com/problems/group-anagrams/">Group Anagrams</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/49.%20Group%20Anagrams/GroupAnagrams.java">Hash Table & Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#hash-table">Hash Table</a>,
-      <a href="#sorting">Sorting</a>,
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
@@ -479,6 +477,19 @@
       <a href="#bucket-sort">Bucket Sort</a>,
       <a href="#ordered-set">Ordered Set</a>,
       <a href="#sliding-window">Sliding Window</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">229</td>
+    <td><a href="https://leetcode.com/problems/majority-element-ii/">Majority Element II</a></td>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/229.%20Majority%20Element%20II/MajorityElementII_Sorting.java">Sorting</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>
     </td>
     <td></td>
@@ -6563,6 +6574,19 @@
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_SlidingWindow_HashMap_BucketSort.java"><em>Sliding Window & Bucket Sort</em></a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/220.%20Contains%20Duplicate%20III/ContainsDuplicateIII_SlidingWindow_TreeSet_OrderedSet.java"><em>Sliding Window & Ordered Set</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">229</td>
+    <td><a href="https://leetcode.com/problems/majority-element-ii/">Majority Element II</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/229.%20Majority%20Element%20II/MajorityElementII_Sorting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">274</td>
