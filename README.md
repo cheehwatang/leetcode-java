@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 7th</td>
+    <td>229. <a href="https://leetcode.com/problems/majority-element-ii/">Majority Element II</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/229.%20Majority%20Element%20II/MajorityElementII_HashTable_Counting.java">Counting & Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 6th</td>
     <td>229. <a href="https://leetcode.com/problems/majority-element-ii/">Majority Element II</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,18 +87,6 @@
       <a href="#array">Array</a>,
       <a href="#counting">Counting</a>,
       <a href="#hash-table">Hash Table</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 2nd</td>
-    <td>169. <a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_Sorting.java">Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
@@ -485,11 +486,14 @@
     <td align="center">229</td>
     <td><a href="https://leetcode.com/problems/majority-element-ii/">Majority Element II</a></td>
     <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/229.%20Majority%20Element%20II/MajorityElementII_HashTable_Counting.java">Counting & Hash Table</a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/229.%20Majority%20Element%20II/MajorityElementII_Sorting.java">Sorting</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>,
       <a href="#sorting">Sorting</a>
     </td>
     <td></td>
@@ -2876,6 +2880,23 @@
     </td>
   </tr>
   <tr>
+    <td align="center">229</td>
+    <td><a href="https://leetcode.com/problems/majority-element-ii/">Majority Element II</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/229.%20Majority%20Element%20II/MajorityElementII_HashTable_Counting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/229.%20Majority%20Element%20II/MajorityElementII_Sorting.java"><em>Sorting</em></a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">383</td>
     <td><a href="https://leetcode.com/problems/ransom-note/">Ransom Note</a></td>
     <td align="center">
@@ -4475,6 +4496,23 @@
     </td>
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/219.%20Contains%20Duplicate%20II/ContainsDuplicateII_SlidingWindow.java"><em>Sliding Window</em></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">229</td>
+    <td><a href="https://leetcode.com/problems/majority-element-ii/">Majority Element II</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/229.%20Majority%20Element%20II/MajorityElementII_HashTable_Counting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/229.%20Majority%20Element%20II/MajorityElementII_Sorting.java"><em>Sorting</em></a>
     </td>
   </tr>
   <tr>
@@ -6584,9 +6622,13 @@
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>,
       <a href="#sorting">Sorting</a>
     </td>
-    <td></td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/229.%20Majority%20Element%20II/MajorityElementII_HashTable_Counting.java"><em>Counting & Hash Table</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">274</td>
