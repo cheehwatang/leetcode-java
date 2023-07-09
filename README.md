@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 9th</td>
+    <td>228. <a href="https://leetcode.com/problems/summary-ranges/">Summary Ranges</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/228.%20Summary%20Ranges/SummaryRanges.java">Array</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 8th</td>
     <td>229. <a href="https://leetcode.com/problems/majority-element-ii/">Majority Element II</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -72,19 +83,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 4th</td>
-    <td>169. <a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_DivideAndConquer_Counting.java">Counting & Divide and Conquer</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#counting">Counting</a>,
-      <a href="#divide-and-conquer">Divide and Conquer</a>
     </td>
   </tr>
 </table>
@@ -477,6 +475,18 @@
       <a href="#ordered-set">Ordered Set</a>,
       <a href="#sliding-window">Sliding Window</a>,
       <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">228</td>
+    <td><a href="https://leetcode.com/problems/summary-ranges/">Summary Ranges</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/228.%20Summary%20Ranges/SummaryRanges.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>
     </td>
     <td></td>
   </tr>
