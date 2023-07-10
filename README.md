@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 10th</td>
+    <td>561. <a href="https://leetcode.com/problems/array-partition/">Array Partition</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_Sorting_Greedy.java">Greedy & Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#greedy">Greedy</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 9th</td>
     <td>228. <a href="https://leetcode.com/problems/summary-ranges/">Summary Ranges</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -72,17 +85,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 5th</td>
-    <td>169. <a href="https://leetcode.com/problems/majority-element/">Majority Element</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/169.%20Majority%20Element/MajorityElement_BoyerMooreVotingAlgorithm.java">Boyer-Moore Majority Voting Algorithm</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>
     </td>
   </tr>
 </table>
@@ -670,6 +672,20 @@
       <a href="#array">Array</a>,
       <a href="#hash-table">Hash Table</a>,
       <a href="#prefix-sum">Prefix Sum</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">561</td>
+    <td><a href="https://leetcode.com/problems/array-partition/">Array Partition</a></td>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_Sorting_Greedy.java">Greedy & Sorting</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#greedy">Greedy</a>,
+      <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -4155,6 +4171,20 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">561</td>
+    <td><a href="https://leetcode.com/problems/array-partition/">Array Partition</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_Sorting_Greedy.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#greedy">Greedy</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">948</td>
     <td><a href="https://leetcode.com/problems/bag-of-tokens/">Bag of Tokens</a></td>
     <td align="center">
@@ -6672,6 +6702,20 @@
       <a href="#two-pointers">Two Pointers</a>
     </td>
     <td>Use of Sorting & Two Pointers resulted in TLE (Time Limit Exceed) for large datasets.</td>
+  </tr>
+  <tr>
+    <td align="center">561</td>
+    <td><a href="https://leetcode.com/problems/array-partition/">Array Partition</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_Sorting_Greedy.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#greedy">Greedy</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">645</td>
