@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 11th</td>
+    <td>561. <a href="https://leetcode.com/problems/array-partition/">Array Partition</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_CountingSort_Greedy.java">Greedy & Counting Sort</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
+      <a href="#greedy">Greedy</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 10th</td>
     <td>561. <a href="https://leetcode.com/problems/array-partition/">Array Partition</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,18 +87,6 @@
       <a href="#array">Array</a>,
       <a href="#counting">Counting</a>,
       <a href="#hash-table">Hash Table</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 6th</td>
-    <td>229. <a href="https://leetcode.com/problems/majority-element-ii/">Majority Element II</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/229.%20Majority%20Element%20II/MajorityElementII_Sorting.java">Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
@@ -679,11 +681,13 @@
     <td align="center">561</td>
     <td><a href="https://leetcode.com/problems/array-partition/">Array Partition</a></td>
     <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_CountingSort_Greedy.java">Greedy & Counting Sort</a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_Sorting_Greedy.java">Greedy & Sorting</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
       <a href="#greedy">Greedy</a>,
       <a href="#sorting">Sorting</a>
     </td>
@@ -3062,6 +3066,23 @@
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/274.%20H-Index/HIndex_Sorting.java"><em>Sorting</em></a>
     </td>
   </tr>
+  <tr>
+    <td align="center">561</td>
+    <td><a href="https://leetcode.com/problems/array-partition/">Array Partition</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_CountingSort_Greedy.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
+      <a href="#greedy">Greedy</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_Sorting_Greedy.java"><em>Greedy & Sorting</em></a>
+    </td>
+  </tr>
 </table>
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 <hr>
@@ -4173,12 +4194,14 @@
   <tr>
     <td align="center">561</td>
     <td><a href="https://leetcode.com/problems/array-partition/">Array Partition</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_Sorting_Greedy.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_CountingSort_Greedy.java">Greedy & Counting Sort</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_Sorting_Greedy.java">Greedy & Sorting</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
       <a href="#greedy">Greedy</a>,
       <a href="#sorting">Sorting</a>
     </td>
@@ -6706,12 +6729,14 @@
   <tr>
     <td align="center">561</td>
     <td><a href="https://leetcode.com/problems/array-partition/">Array Partition</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_Sorting_Greedy.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_CountingSort_Greedy.java">Greedy & Counting Sort</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_Sorting_Greedy.java">Greedy & Sorting</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
       <a href="#greedy">Greedy</a>,
       <a href="#sorting">Sorting</a>
     </td>
