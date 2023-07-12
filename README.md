@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 12th</td>
+    <td>2007. <a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_Counting.java">Counting Array</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#greedy">Greedy</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 11th</td>
     <td>561. <a href="https://leetcode.com/problems/array-partition/">Array Partition</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -74,19 +86,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 7th</td>
-    <td>229. <a href="https://leetcode.com/problems/majority-element-ii/">Majority Element II</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/229.%20Majority%20Element%20II/MajorityElementII_HashTable_Counting.java">Counting & Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#counting">Counting</a>,
-      <a href="#hash-table">Hash Table</a>
     </td>
   </tr>
 </table>
