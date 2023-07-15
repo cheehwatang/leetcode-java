@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 15th</td>
+    <td>1869. <a href="https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/">Longer Contiguous Segments of Ones than Zeros</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1869.%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/LongerContiguousSegmentsOfOnesThanZeros.java">String</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 14th</td>
     <td>2007. <a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -76,19 +87,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#counting-sort">Counting Sort</a>,
-      <a href="#greedy">Greedy</a>,
-      <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 10th</td>
-    <td>561. <a href="https://leetcode.com/problems/array-partition/">Array Partition</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_Sorting_Greedy.java">Greedy & Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
       <a href="#greedy">Greedy</a>,
       <a href="#sorting">Sorting</a>
     </td>
@@ -7718,6 +7716,18 @@
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram_Counting.java"><em>Counting</em></a> and
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram/CheckIfTheSentenceIsPangram_HashSet.java"><em>Hash Table</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">1869</td>
+    <td><a href="https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/">Longer Contiguous Segments of Ones than Zeros</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1869.%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/LongerContiguousSegmentsOfOnesThanZeros.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#string">String</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1935</td>
