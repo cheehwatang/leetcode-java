@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 17th</td>
+    <td>1732. <a href="https://leetcode.com/problems/find-the-highest-altitude/">Find the Highest Altitude</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1732.%20Find%20the%20Highest%20Altitude/FindTheHighestAltitude.java">Prefix Sum</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#prefix-sum">Prefix Sum</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 16th</td>
     <td>1704. <a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/">Determine if String Halves Are Alike</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -75,18 +87,6 @@
       <a href="#greedy">Greedy</a>,
       <a href="#hash-table">Hash Table</a>,
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 12th</td>
-    <td>2007. <a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_Counting.java">Counting Array</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#greedy">Greedy</a>
     </td>
   </tr>
 </table>
@@ -1219,6 +1219,19 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1732</td>
+    <td><a href="https://leetcode.com/problems/find-the-highest-altitude/">Find the Highest Altitude</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1732.%20Find%20the%20Highest%20Altitude/FindTheHighestAltitude.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#prefix-sum">Prefix Sum</a>
     </td>
     <td></td>
   </tr>
@@ -6273,6 +6286,19 @@
     <td><a href="https://leetcode.com/problems/running-sum-of-1d-array/">Running Sum of 1D Array</a></td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1480.%20Running%20Sum%20of%201D%20Array/RunningSumOf1DArray.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#prefix-sum">Prefix Sum</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1732</td>
+    <td><a href="https://leetcode.com/problems/find-the-highest-altitude/">Find the Highest Altitude</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1732.%20Find%20the%20Highest%20Altitude/FindTheHighestAltitude.java">Java</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
