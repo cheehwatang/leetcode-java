@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 18th</td>
+    <td>1657. <a href="https://leetcode.com/problems/determine-if-two-strings-are-close/">Determine if Two Strings Are Close</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/DetermineIfTwoStringsAreClose_Sorting.java">Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 17th</td>
     <td>1732. <a href="https://leetcode.com/problems/find-the-highest-altitude/">Find the Highest Altitude</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -72,20 +84,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#greedy">Greedy</a>,
-      <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 13th</td>
-    <td>2007. <a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_HashMap_Sorting.java">Hash Table & Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#greedy">Greedy</a>,
-      <a href="#hash-table">Hash Table</a>,
       <a href="#sorting">Sorting</a>
     </td>
   </tr>
@@ -6927,6 +6925,19 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">1657</td>
+    <td><a href="https://leetcode.com/problems/determine-if-two-strings-are-close/">Determine if Two Strings Are Close</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/DetermineIfTwoStringsAreClose_Sorting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1679</td>
     <td><a href="https://leetcode.com/problems/max-number-of-k-sum-pairs/">Max Number of K-Sum Pairs</a></td>
     <td align="center">
@@ -7720,6 +7731,19 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1657</td>
+    <td><a href="https://leetcode.com/problems/determine-if-two-strings-are-close/">Determine if Two Strings Are Close</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/DetermineIfTwoStringsAreClose_Sorting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
