@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 19th</td>
+    <td>1657. <a href="https://leetcode.com/problems/determine-if-two-strings-are-close/">Determine if Two Strings Are Close</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/DetermineIfTwoStringsAreClose_Sorting_HashTable.java">Hash Table & Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 18th</td>
     <td>1657. <a href="https://leetcode.com/problems/determine-if-two-strings-are-close/">Determine if Two Strings Are Close</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -72,19 +85,6 @@
     </td>
     <td align="center">
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 14th</td>
-    <td>2007. <a href="https://leetcode.com/problems/find-original-array-from-doubled-array/">Find Original Array From Doubled Array</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2007.%20Find%20Original%20Array%20From%20Doubled%20Array/FindOriginalArrayFromDoubledArray_Queue_Sorting.java">Queue & Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#greedy">Greedy</a>,
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
@@ -4839,7 +4839,7 @@
     <td align="center">1346</td>
     <td><a href="https://leetcode.com/problems/check-if-n-and-its-double-exist/">Check If N and Its Double Exist</a></td>
     <td align="center">Java with
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_HashTable.java">Java</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_HashTable.java">Hash Table</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -4883,6 +4883,22 @@
       <a href="#sorting">Sorting</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">1657</td>
+    <td><a href="https://leetcode.com/problems/determine-if-two-strings-are-close/">Determine if Two Strings Are Close</a></td>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/DetermineIfTwoStringsAreClose_Sorting_HashTable.java">Hash Table & Sorting</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/DetermineIfTwoStringsAreClose_Sorting.java"><em>only Sorting</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">1679</td>
@@ -6927,12 +6943,14 @@
   <tr>
     <td align="center">1657</td>
     <td><a href="https://leetcode.com/problems/determine-if-two-strings-are-close/">Determine if Two Strings Are Close</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/DetermineIfTwoStringsAreClose_Sorting.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/DetermineIfTwoStringsAreClose_Sorting.java">Sorting</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/DetermineIfTwoStringsAreClose_Sorting_HashTable.java">Hash Table & Sorting</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>,
       <a href="#sorting">Sorting</a>
     </td>
     <td></td>
@@ -7737,12 +7755,14 @@
   <tr>
     <td align="center">1657</td>
     <td><a href="https://leetcode.com/problems/determine-if-two-strings-are-close/">Determine if Two Strings Are Close</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/DetermineIfTwoStringsAreClose_Sorting.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/DetermineIfTwoStringsAreClose_Sorting.java">Sorting</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/DetermineIfTwoStringsAreClose_Sorting_HashTable.java">Hash Table & Sorting</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>,
       <a href="#sorting">Sorting</a>
     </td>
     <td></td>
