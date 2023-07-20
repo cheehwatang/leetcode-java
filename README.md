@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 20th</td>
+    <td>1207. <a href="https://leetcode.com/problems/unique-number-of-occurrences/">Unique Number of Occurrences</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1207.%20Unique%20Number%20of%20Occurrences/UniqueNumberOfOccurrences_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 19th</td>
     <td>1657. <a href="https://leetcode.com/problems/determine-if-two-strings-are-close/">Determine if Two Strings Are Close</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -73,17 +85,6 @@
     </td>
     <td align="center">
       <a href="#counting">Counting</a>,
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 15th</td>
-    <td>1869. <a href="https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/">Longer Contiguous Segments of Ones than Zeros</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1869.%20Longer%20Contiguous%20Segments%20of%20Ones%20than%20Zeros/LongerContiguousSegmentsOfOnesThanZeros.java">String</a>
-    </td>
-    <td align="center">
       <a href="#string">String</a>
     </td>
   </tr>
@@ -1000,6 +1001,19 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1207</td>
+    <td><a href="https://leetcode.com/problems/unique-number-of-occurrences/">Unique Number of Occurrences</a></td>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1207.%20Unique%20Number%20of%20Occurrences/UniqueNumberOfOccurrences_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -4834,6 +4848,19 @@
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/974.%20Subarray%20Sums%20Divisible%20by%20K/SubarraySumsDivisibleByK_Counting.java"><em>Counting</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">1207</td>
+    <td><a href="https://leetcode.com/problems/unique-number-of-occurrences/">Unique Number of Occurrences</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1207.%20Unique%20Number%20of%20Occurrences/UniqueNumberOfOccurrences_HashTable.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1346</td>
