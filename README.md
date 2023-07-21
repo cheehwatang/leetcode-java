@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 21st</td>
+    <td>1207. <a href="https://leetcode.com/problems/unique-number-of-occurrences/">Unique Number of Occurrences</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1207.%20Unique%20Number%20of%20Occurrences/UniqueNumberOfOccurrences_Counting_Sorting.java">Counting & Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 20th</td>
     <td>1207. <a href="https://leetcode.com/problems/unique-number-of-occurrences/">Unique Number of Occurrences</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -74,18 +85,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#prefix-sum">Prefix Sum</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 16th</td>
-    <td>1704. <a href="https://leetcode.com/problems/determine-if-string-halves-are-alike/">Determine if String Halves Are Alike</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1704.%20Determine%20if%20String%20Halves%20Are%20Alike/DetermineIfStringHalvesAreAlike.java">Counting</a>
-    </td>
-    <td align="center">
-      <a href="#counting">Counting</a>,
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
@@ -1008,6 +1007,7 @@
     <td align="center">1207</td>
     <td><a href="https://leetcode.com/problems/unique-number-of-occurrences/">Unique Number of Occurrences</a></td>
     <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1207.%20Unique%20Number%20of%20Occurrences/UniqueNumberOfOccurrences_Counting_Sorting.java">Counting & Sorting</a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1207.%20Unique%20Number%20of%20Occurrences/UniqueNumberOfOccurrences_HashTable.java">Hash Table</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -4860,7 +4860,9 @@
       <a href="#array">Array</a>,
       <a href="#hash-table">Hash Table</a>
     </td>
-    <td></td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1207.%20Unique%20Number%20of%20Occurrences/UniqueNumberOfOccurrences_Counting_Sorting.java"><em>Counting & Sorting</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">1346</td>
