@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 22nd</td>
+    <td>1318. <a href="https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/">Minimum Flips to Make a OR b Equal to c</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/MinimumFlipsToMakeAORBEqualToC.java">Bit Manipulation</a>
+    </td>
+    <td align="center">
+      <a href="#bit-manipulation">Bit Manipulation</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 21st</td>
     <td>1207. <a href="https://leetcode.com/problems/unique-number-of-occurrences/">Unique Number of Occurrences</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,18 +84,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 17th</td>
-    <td>1732. <a href="https://leetcode.com/problems/find-the-highest-altitude/">Find the Highest Altitude</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1732.%20Find%20the%20Highest%20Altitude/FindTheHighestAltitude.java">Prefix Sum</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#prefix-sum">Prefix Sum</a>
     </td>
   </tr>
 </table>
@@ -2398,6 +2397,18 @@
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters/MaximumLengthOfAConcatenatedStringWithUniqueCharacters_Backtracking.java"><em>Backtracking</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">1318</td>
+    <td><a href="https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/">Minimum Flips to Make a OR b Equal to c</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/MinimumFlipsToMakeAORBEqualToC.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#bit-manipulation">Bit Manipulation</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1342</td>
