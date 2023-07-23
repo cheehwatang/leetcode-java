@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 23rd</td>
+    <td>989. <a href="https://leetcode.com/problems/add-to-array-form-of-integer/">Add to Array-Form of Integer</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/989.%20Add%20to%20Array-Form%20of%20Integer/AddToArrayFormOfInteger.java">Math</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 22nd</td>
     <td>1318. <a href="https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/">Minimum Flips to Make a OR b Equal to c</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -71,18 +83,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#hash-table">Hash Table</a>,
-      <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 18th</td>
-    <td>1657. <a href="https://leetcode.com/problems/determine-if-two-strings-are-close/">Determine if Two Strings Are Close</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/DetermineIfTwoStringsAreClose_Sorting.java">Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>
     </td>
   </tr>
@@ -957,6 +957,19 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">989</td>
+    <td><a href="https://leetcode.com/problems/add-to-array-form-of-integer/">Add to Array-Form of Integer</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/989.%20Add%20to%20Array-Form%20of%20Integer/AddToArrayFormOfInteger.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -5645,6 +5658,19 @@
       <a href="#greedy">Greedy</a>,
       <a href="#math">Math</a>,
       <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">989</td>
+    <td><a href="https://leetcode.com/problems/add-to-array-form-of-integer/">Add to Array-Form of Integer</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/989.%20Add%20to%20Array-Form%20of%20Integer/AddToArrayFormOfInteger.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
