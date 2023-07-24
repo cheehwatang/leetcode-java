@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 24th</td>
+    <td>1122. <a href="https://leetcode.com/problems/relative-sort-array/">Relative Sort Array</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1122.%20Relative%20Sort%20Array/RelativeSortArray_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 23rd</td>
     <td>989. <a href="https://leetcode.com/problems/add-to-array-form-of-integer/">Add to Array-Form of Integer</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -71,19 +83,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#hash-table">Hash Table</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 19th</td>
-    <td>1657. <a href="https://leetcode.com/problems/determine-if-two-strings-are-close/">Determine if Two Strings Are Close</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1657.%20Determine%20if%20Two%20Strings%20Are%20Close/DetermineIfTwoStringsAreClose_Sorting_HashTable.java">Hash Table & Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#hash-table">Hash Table</a>,
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
@@ -1012,6 +1011,19 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1122</td>
+    <td><a href="https://leetcode.com/problems/relative-sort-array/">Relative Sort Array</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1122.%20Relative%20Sort%20Array/RelativeSortArray_HashTable.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -4872,6 +4884,19 @@
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/974.%20Subarray%20Sums%20Divisible%20by%20K/SubarraySumsDivisibleByK_Counting.java"><em>Counting</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">1122</td>
+    <td><a href="https://leetcode.com/problems/relative-sort-array/">Relative Sort Array</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1122.%20Relative%20Sort%20Array/RelativeSortArray_HashTable.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1207</td>
