@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 25th</td>
+    <td>1122. <a href="https://leetcode.com/problems/relative-sort-array/">Relative Sort Array</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1122.%20Relative%20Sort%20Array/RelativeSortArray_CountingSort_Sorting.java">Counting Sort</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 24th</td>
     <td>1122. <a href="https://leetcode.com/problems/relative-sort-array/">Relative Sort Array</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -71,18 +84,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 20th</td>
-    <td>1207. <a href="https://leetcode.com/problems/unique-number-of-occurrences/">Unique Number of Occurrences</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1207.%20Unique%20Number%20of%20Occurrences/UniqueNumberOfOccurrences_HashTable.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#hash-table">Hash Table</a>
     </td>
   </tr>
 </table>
@@ -1017,13 +1018,16 @@
   <tr>
     <td align="center">1122</td>
     <td><a href="https://leetcode.com/problems/relative-sort-array/">Relative Sort Array</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1122.%20Relative%20Sort%20Array/RelativeSortArray_HashTable.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1122.%20Relative%20Sort%20Array/RelativeSortArray_CountingSort_Sorting.java">Counting Sort</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1122.%20Relative%20Sort%20Array/RelativeSortArray_HashTable.java">Hash Table</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>,
-      <a href="#hash-table">Hash Table</a>
+      <a href="#counting-sort">Counting Sort</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -3157,6 +3161,23 @@
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_Sorting_Greedy.java"><em>Greedy & Sorting</em></a>
     </td>
   </tr>
+  <tr>
+    <td align="center">1122</td>
+    <td><a href="https://leetcode.com/problems/relative-sort-array/">Relative Sort Array</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1122.%20Relative%20Sort%20Array/RelativeSortArray_CountingSort_Sorting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1122.%20Relative%20Sort%20Array/RelativeSortArray_HashTable.java"><em>Hash Table</em></a>
+    </td>
+  </tr>
 </table>
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 <hr>
@@ -4894,9 +4915,13 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>,
-      <a href="#hash-table">Hash Table</a>
+      <a href="#counting-sort">Counting Sort</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>
     </td>
-    <td></td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1122.%20Relative%20Sort%20Array/RelativeSortArray_CountingSort_Sorting.java"><em>Counting Sort</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">1207</td>
@@ -6976,6 +7001,23 @@
     </td>
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/977.%20Squares%20of%20a%20Sorted%20Array/SquaresOfASortedArray_TwoPointers.java"><em>Two Pointers</em></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">1122</td>
+    <td><a href="https://leetcode.com/problems/relative-sort-array/">Relative Sort Array</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1122.%20Relative%20Sort%20Array/RelativeSortArray_CountingSort_Sorting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1122.%20Relative%20Sort%20Array/RelativeSortArray_HashTable.java"><em>Hash Table</em></a>
     </td>
   </tr>
   <tr>
