@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 26th</td>
+    <td>24. <a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/24.%20Swap%20Nodes%20in%20Pairs/SwapNodesInPairs.java">Linked List</a>
+    </td>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 25th</td>
     <td>1122. <a href="https://leetcode.com/problems/relative-sort-array/">Relative Sort Array</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,17 +84,6 @@
     </td>
     <td align="center">
       <a href="#bit-manipulation">Bit Manipulation</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 21st</td>
-    <td>1207. <a href="https://leetcode.com/problems/unique-number-of-occurrences/">Unique Number of Occurrences</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1207.%20Unique%20Number%20of%20Occurrences/UniqueNumberOfOccurrences_Counting_Sorting.java">Counting & Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>
     </td>
   </tr>
 </table>
@@ -5361,13 +5361,25 @@
     <td align="center">19</td>
     <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Remove Nth Node From End of List</a></td>
     <td align="center">Java with
-      <a href="hhttps://github.com/cheehwatang/leetcode-java/blob/main/solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/RemoveNthNodeFromEndOfList_OnePass.java">One Pass</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/RemoveNthNodeFromEndOfList_OnePass.java">One Pass</a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/RemoveNthNodeFromEndOfList_TwoPasses.java">Two Passes</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#linked-list">Linked List</a>,
       <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">24</td>
+    <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/24.%20Swap%20Nodes%20in%20Pairs/SwapNodesInPairs.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>
     </td>
     <td></td>
   </tr>
@@ -8564,7 +8576,8 @@
     <td><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/">Remove Nth Node From End of List</a></td>
     <td align="center">Java with
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/RemoveNthNodeFromEndOfList_OnePass.java">One Pass</a> or
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/RemoveNthNodeFromEndOfList_TwoPasses.java">Two Passes</a></td>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/RemoveNthNodeFromEndOfList_TwoPasses.java">Two Passes</a>
+    </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#linked-list">Linked List</a>,
