@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 27th</td>
+    <td>24. <a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/24.%20Swap%20Nodes%20in%20Pairs/SwapNodesInPairs.java">Recursion</a>
+    </td>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>,
+      <a href="#recursion">Recursion</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 26th</td>
     <td>24. <a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -73,17 +85,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#math">Math</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 22nd</td>
-    <td>1318. <a href="https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/">Minimum Flips to Make a OR b Equal to c</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c/MinimumFlipsToMakeAORBEqualToC.java">Bit Manipulation</a>
-    </td>
-    <td align="center">
-      <a href="#bit-manipulation">Bit Manipulation</a>
     </td>
   </tr>
 </table>
@@ -5374,12 +5375,14 @@
   <tr>
     <td align="center">24</td>
     <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/24.%20Swap%20Nodes%20in%20Pairs/SwapNodesInPairs.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/24.%20Swap%20Nodes%20in%20Pairs/SwapNodesInPairs.java">Iteration</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/24.%20Swap%20Nodes%20in%20Pairs/SwapNodesInPairs.java">Recursion</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-      <a href="#linked-list">Linked List</a>
+      <a href="#linked-list">Linked List</a>,
+      <a href="#recursion">Recursion</a>
     </td>
     <td></td>
   </tr>
@@ -6536,6 +6539,21 @@
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">24</td>
+    <td><a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/24.%20Swap%20Nodes%20in%20Pairs/SwapNodesInPairs.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>,
+      <a href="#recursion">Recursion</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/24.%20Swap%20Nodes%20in%20Pairs/SwapNodesInPairs.java"><em>Iteration</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">509</td>
