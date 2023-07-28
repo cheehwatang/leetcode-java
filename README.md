@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 28th</td>
+    <td>744. <a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Find Smallest Letter Greater Than Target</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/FindSmallestLetterGreaterThanTarget.java">Linear Search</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 27th</td>
     <td>24. <a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -73,18 +84,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#hash-table">Hash Table</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 23rd</td>
-    <td>989. <a href="https://leetcode.com/problems/add-to-array-form-of-integer/">Add to Array-Form of Integer</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/989.%20Add%20to%20Array-Form%20of%20Integer/AddToArrayFormOfInteger.java">Math</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#math">Math</a>
     </td>
   </tr>
 </table>
@@ -732,6 +731,18 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#sliding-window">Sliding Window</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">744</td>
+    <td><a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Find Smallest Letter Greater Than Target</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/FindSmallestLetterGreaterThanTarget.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>
     </td>
     <td></td>
   </tr>
