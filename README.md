@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 29th</td>
+    <td>744. <a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Find Smallest Letter Greater Than Target</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/FindSmallestLetterGreaterThanTarget_BinarySearch.java">Binary Search</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#binary-search">Binary Search</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 28th</td>
     <td>744. <a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Find Smallest Letter Greater Than Target</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -72,18 +84,6 @@
       <a href="#array">Array</a>,
       <a href="#counting-sort">Counting Sort</a>,
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 24th</td>
-    <td>1122. <a href="https://leetcode.com/problems/relative-sort-array/">Relative Sort Array</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1122.%20Relative%20Sort%20Array/RelativeSortArray_HashTable.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#hash-table">Hash Table</a>
     </td>
   </tr>
 </table>
@@ -737,12 +737,14 @@
   <tr>
     <td align="center">744</td>
     <td><a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Find Smallest Letter Greater Than Target</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/FindSmallestLetterGreaterThanTarget.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/FindSmallestLetterGreaterThanTarget.java">Linear Search</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/FindSmallestLetterGreaterThanTarget_BinarySearch.java">Binary Search</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-      <a href="#array">Array</a>
+      <a href="#array">Array</a>,
+      <a href="#binary-search">Binary Search</a>
     </td>
     <td></td>
   </tr>
@@ -1873,6 +1875,21 @@
       <a href="#interactive">Interactive</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">744</td>
+    <td><a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Find Smallest Letter Greater Than Target</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/FindSmallestLetterGreaterThanTarget_BinarySearch.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#binary-search">Binary Search</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/FindSmallestLetterGreaterThanTarget.java"><em>Linear Search</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">1337</td>
