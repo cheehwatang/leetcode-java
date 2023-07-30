@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 30th</td>
+    <td>1446. <a href="https://leetcode.com/problems/consecutive-characters/">Consecutive Characters</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1446.%20Consecutive%20Characters/ConsecutiveCharacters.java">String</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 29th</td>
     <td>744. <a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Find Smallest Letter Greater Than Target</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -71,19 +82,6 @@
     </td>
     <td align="center">
       <a href="#linked-list">Linked List</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 25th</td>
-    <td>1122. <a href="https://leetcode.com/problems/relative-sort-array/">Relative Sort Array</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1122.%20Relative%20Sort%20Array/RelativeSortArray_CountingSort_Sorting.java">Counting Sort</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#counting-sort">Counting Sort</a>,
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
@@ -7898,6 +7896,18 @@
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#greedy">Greedy</a>,
+      <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1446</td>
+    <td><a href="https://leetcode.com/problems/consecutive-characters/">Consecutive Characters</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1446.%20Consecutive%20Characters/ConsecutiveCharacters.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
       <a href="#string">String</a>
     </td>
     <td></td>
