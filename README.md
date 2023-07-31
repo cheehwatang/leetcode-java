@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">July 31st</td>
+    <td>2130. <a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Maximum Twin Sum of a Linked List</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaximumTwinSumOfALinkedList_TwoPointers.java">Two Pointers</a>
+    </td>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>,
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 30th</td>
     <td>1446. <a href="https://leetcode.com/problems/consecutive-characters/">Consecutive Characters</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -71,17 +83,6 @@
     <td align="center">
       <a href="#linked-list">Linked List</a>,
       <a href="#recursion">Recursion</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 26th</td>
-    <td>24. <a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/24.%20Swap%20Nodes%20in%20Pairs/SwapNodesInPairs.java">Linked List</a>
-    </td>
-    <td align="center">
-      <a href="#linked-list">Linked List</a>
     </td>
   </tr>
 </table>
@@ -5484,6 +5485,19 @@
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">2130</td>
+    <td><a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Maximum Twin Sum of a Linked List</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaximumTwinSumOfALinkedList_TwoPointers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>,
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 <hr>
@@ -8994,6 +9008,19 @@
     <td><a href="https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/">Delete the Middle Node of a Linked List</a></td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/DeleteTheMiddleNodeOfALinkedList.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>,
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2130</td>
+    <td><a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Maximum Twin Sum of a Linked List</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaximumTwinSumOfALinkedList_TwoPointers.java">Java</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
