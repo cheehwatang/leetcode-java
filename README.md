@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 1st</td>
+    <td>2130. <a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Maximum Twin Sum of a Linked List</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaximumTwinSumOfALinkedList_TwoPointers_Stack.java">Two Pointers & Stack</a>
+    </td>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>,
+      <a href="#stack">Stack</a>,
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">July 31st</td>
     <td>2130. <a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Maximum Twin Sum of a Linked List</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -71,18 +84,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 27th</td>
-    <td>24. <a href="https://leetcode.com/problems/swap-nodes-in-pairs/">Swap Nodes in Pairs</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/24.%20Swap%20Nodes%20in%20Pairs/SwapNodesInPairs.java">Recursion</a>
-    </td>
-    <td align="center">
-      <a href="#linked-list">Linked List</a>,
-      <a href="#recursion">Recursion</a>
     </td>
   </tr>
 </table>
@@ -5488,12 +5489,14 @@
   <tr>
     <td align="center">2130</td>
     <td><a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Maximum Twin Sum of a Linked List</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaximumTwinSumOfALinkedList_TwoPointers.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaximumTwinSumOfALinkedList_TwoPointers.java">Two Pointers</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaximumTwinSumOfALinkedList_TwoPointers_Stack.java">Two Pointers & Stack</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#linked-list">Linked List</a>,
+      <a href="#stack">Stack</a>,
       <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
@@ -7450,6 +7453,22 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">2130</td>
+    <td><a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Maximum Twin Sum of a Linked List</a></td>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaximumTwinSumOfALinkedList_TwoPointers_Stack.java">Two Pointers & Stack</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>,
+      <a href="#stack">Stack</a>,
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaximumTwinSumOfALinkedList_TwoPointers.java"><em>only Two Pointers</em></a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">2454</td>
     <td><a href="https://leetcode.com/problems/next-greater-element-iv/">Next Greater Element IV</a></td>
     <td align="center">
@@ -9019,12 +9038,14 @@
   <tr>
     <td align="center">2130</td>
     <td><a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Maximum Twin Sum of a Linked List</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaximumTwinSumOfALinkedList_TwoPointers.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaximumTwinSumOfALinkedList_TwoPointers.java">Two Pointers</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaximumTwinSumOfALinkedList_TwoPointers_Stack.java">Two Pointers & Stack</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#linked-list">Linked List</a>,
+      <a href="#stack">Stack</a>,
       <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
