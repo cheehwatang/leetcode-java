@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 2nd</td>
+    <td>2220. <a href="https://leetcode.com/problems/minimum-bit-flips-to-convert-number/">Minimum Bit Flips to Convert Number</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number/MinimumBitFlipsToConvertNumber.java">Bit Manipulation</a>
+    </td>
+    <td align="center">
+      <a href="#bit-manipulation">Bit Manipulation</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 1st</td>
     <td>2130. <a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Maximum Twin Sum of a Linked List</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -73,17 +84,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#binary-search">Binary Search</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 28th</td>
-    <td>744. <a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Find Smallest Letter Greater Than Target</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/FindSmallestLetterGreaterThanTarget.java">Linear Search</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>
     </td>
   </tr>
 </table>
@@ -2529,6 +2529,18 @@
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/ConcatenationOfConsecutiveBinaryNumbers_Math.java"><em>Math</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">2220</td>
+    <td><a href="https://leetcode.com/problems/minimum-bit-flips-to-convert-number/">Minimum Bit Flips to Convert Number</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number/MinimumBitFlipsToConvertNumber.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#bit-manipulation">Bit Manipulation</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">2438</td>
