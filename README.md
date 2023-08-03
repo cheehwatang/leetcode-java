@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 3rd</td>
+    <td>1051. <a href="https://leetcode.com/problems/height-checker/">Height Checker</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1051.%20Height%20Checker/HeightChecker_Sorting.java">Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 2nd</td>
     <td>2220. <a href="https://leetcode.com/problems/minimum-bit-flips-to-convert-number/">Minimum Bit Flips to Convert Number</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -72,18 +84,6 @@
     </td>
     <td align="center">
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 29th</td>
-    <td>744. <a href="https://leetcode.com/problems/find-smallest-letter-greater-than-target/">Find Smallest Letter Greater Than Target</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target/FindSmallestLetterGreaterThanTarget_BinarySearch.java">Binary Search</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#binary-search">Binary Search</a>
     </td>
   </tr>
 </table>
@@ -1013,6 +1013,19 @@
       <a href="#array">Array</a>,
       <a href="#geometry">Geometry</a>,
       <a href="#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1051</td>
+    <td><a href="https://leetcode.com/problems/height-checker/">Height Checker</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1051.%20Height%20Checker/HeightChecker_Sorting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -7087,6 +7100,19 @@
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/977.%20Squares%20of%20a%20Sorted%20Array/SquaresOfASortedArray_TwoPointers.java"><em>Two Pointers</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">1051</td>
+    <td><a href="https://leetcode.com/problems/height-checker/">Height Checker</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1051.%20Height%20Checker/HeightChecker_Sorting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1122</td>
