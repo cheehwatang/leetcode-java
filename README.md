@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 4th</td>
+    <td>1051. <a href="https://leetcode.com/problems/height-checker/">Height Checker</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1051.%20Height%20Checker/HeightChecker_CountingSort.java">Counting Sort</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 3rd</td>
     <td>1051. <a href="https://leetcode.com/problems/height-checker/">Height Checker</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,17 +86,6 @@
     <td align="center">
       <a href="#linked-list">Linked List</a>,
       <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 30th</td>
-    <td>1446. <a href="https://leetcode.com/problems/consecutive-characters/">Consecutive Characters</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1446.%20Consecutive%20Characters/ConsecutiveCharacters.java">String</a>
-    </td>
-    <td align="center">
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
@@ -1019,12 +1021,14 @@
   <tr>
     <td align="center">1051</td>
     <td><a href="https://leetcode.com/problems/height-checker/">Height Checker</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1051.%20Height%20Checker/HeightChecker_Sorting.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1051.%20Height%20Checker/HeightChecker_CountingSort.java">Counting Sort</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1051.%20Height%20Checker/HeightChecker_Sorting.java">Sorting</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
       <a href="#sorting">Sorting</a>
     </td>
     <td></td>
@@ -3213,6 +3217,22 @@
     </td>
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/561.%20Array%20Partition/ArrayPartition_Sorting_Greedy.java"><em>Greedy & Sorting</em></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">1051</td>
+    <td><a href="https://leetcode.com/problems/height-checker/">Height Checker</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1051.%20Height%20Checker/HeightChecker_CountingSort.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1051.%20Height%20Checker/HeightChecker_Sorting.java"><em>Sorting</em></a>
     </td>
   </tr>
   <tr>
@@ -7104,12 +7124,14 @@
   <tr>
     <td align="center">1051</td>
     <td><a href="https://leetcode.com/problems/height-checker/">Height Checker</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1051.%20Height%20Checker/HeightChecker_Sorting.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1051.%20Height%20Checker/HeightChecker_CountingSort.java">Counting Sort</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1051.%20Height%20Checker/HeightChecker_Sorting.java">Sorting</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>,
+      <a href="#counting-sort">Counting Sort</a>,
       <a href="#sorting">Sorting</a>
     </td>
     <td></td>
