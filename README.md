@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 5th</td>
+    <td>46. <a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Backtracking_Recursion.java">Backtracking</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#backtracking">Backtracking</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 4th</td>
     <td>1051. <a href="https://leetcode.com/problems/height-checker/">Height Checker</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,18 +85,6 @@
     <td align="center">
       <a href="#linked-list">Linked List</a>,
       <a href="#stack">Stack</a>,
-      <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">July 31st</td>
-    <td>2130. <a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Maximum Twin Sum of a Linked List</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaximumTwinSumOfALinkedList_TwoPointers.java">Two Pointers</a>
-    </td>
-    <td align="center">
-      <a href="#linked-list">Linked List</a>,
       <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
@@ -232,6 +232,19 @@
       <a href="#array">Array</a>,
       <a href="#dynamic-programming">Dynamic Programming</a>,
       <a href="#greedy">Greedy</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">46</td>
+    <td><a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Backtracking_Recursion.java">Backtracking</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#backtracking">Backtracking</a>
     </td>
     <td></td>
   </tr>
@@ -1646,6 +1659,19 @@
       <a href="#array">Array</a>,
       <a href="#backtracking">Backtracking</a>,
       <a href="#matrix">Matrix</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">46</td>
+    <td><a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Backtracking_Recursion.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#backtracking">Backtracking</a>
     </td>
     <td></td>
   </tr>
