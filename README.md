@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 6th</td>
+    <td>46. <a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Iteration.java">Iteration</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 5th</td>
     <td>46. <a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -73,19 +84,6 @@
     </td>
     <td align="center">
       <a href="#bit-manipulation">Bit Manipulation</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 1st</td>
-    <td>2130. <a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">Maximum Twin Sum of a Linked List</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List/MaximumTwinSumOfALinkedList_TwoPointers_Stack.java">Two Pointers & Stack</a>
-    </td>
-    <td align="center">
-      <a href="#linked-list">Linked List</a>,
-      <a href="#stack">Stack</a>,
-      <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
@@ -239,7 +237,8 @@
     <td align="center">46</td>
     <td><a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
     <td align="center">Java with
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Backtracking_Recursion.java">Backtracking</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Backtracking_Recursion.java">Backtracking</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Iteration.java">Iteration</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
@@ -1673,7 +1672,9 @@
       <a href="#array">Array</a>,
       <a href="#backtracking">Backtracking</a>
     </td>
-    <td></td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Iteration.java"><em>Iteration</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">79</td>
