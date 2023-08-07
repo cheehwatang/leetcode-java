@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 7th</td>
+    <td>46. <a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Recursion.java">Recursion</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 6th</td>
     <td>46. <a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -73,17 +84,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 2nd</td>
-    <td>2220. <a href="https://leetcode.com/problems/minimum-bit-flips-to-convert-number/">Minimum Bit Flips to Convert Number</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number/MinimumBitFlipsToConvertNumber.java">Bit Manipulation</a>
-    </td>
-    <td align="center">
-      <a href="#bit-manipulation">Bit Manipulation</a>
     </td>
   </tr>
 </table>
@@ -237,8 +237,9 @@
     <td align="center">46</td>
     <td><a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
     <td align="center">Java with
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Backtracking_Recursion.java">Backtracking</a> or
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Iteration.java">Iteration</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Backtracking_Recursion.java">Backtracking</a>,
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Iteration.java">Iteration</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Recursion.java">Recursion</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
@@ -1673,7 +1674,8 @@
       <a href="#backtracking">Backtracking</a>
     </td>
     <td>Solution Using
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Iteration.java"><em>Iteration</em></a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Iteration.java"><em>Iteration</em></a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Recursion.java"><em>Recursion</em></a>
     </td>
   </tr>
   <tr>
