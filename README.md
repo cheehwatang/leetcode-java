@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 8th</td>
+    <td>1920. <a href="https://leetcode.com/problems/build-array-from-permutation/">Build Array from Permutation</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1920.%20Build%20Array%20from%20Permutation/BuildArrayFromPermutation.java">Array</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#simulation">Simulation</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 7th</td>
     <td>46. <a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -71,18 +83,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#counting-sort">Counting Sort</a>,
-      <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 3rd</td>
-    <td>1051. <a href="https://leetcode.com/problems/height-checker/">Height Checker</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1051.%20Height%20Checker/HeightChecker_Sorting.java">Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>
     </td>
   </tr>
@@ -1358,6 +1358,19 @@
       <a href="#array">Array</a>,
       <a href="#design">Design</a>,
       <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1920</td>
+    <td><a href="https://leetcode.com/problems/build-array-from-permutation/">Build Array from Permutation</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1920.%20Build%20Array%20from%20Permutation/BuildArrayFromPermutation.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#simulation">Simulation</a>
     </td>
     <td></td>
   </tr>
@@ -6768,6 +6781,19 @@
     <td align="center">
       <a href="#bit-manipulation">Bit Manipulation</a>,
       <a href="#math">Math</a>,
+      <a href="#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1920</td>
+    <td><a href="https://leetcode.com/problems/build-array-from-permutation/">Build Array from Permutation</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1920.%20Build%20Array%20from%20Permutation/BuildArrayFromPermutation.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
       <a href="#simulation">Simulation</a>
     </td>
     <td></td>
