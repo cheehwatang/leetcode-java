@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 10th</td>
+    <td>1351. <a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/">Count Negative Numbers in a Sorted Matrix</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/CountNegativeNumbersInASortedMatrix_BinarySearch.java">Binary Search</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#binary-search">Binary Search</a>,
+      <a href="#matrix">Matrix</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 9th</td>
     <td>1351. <a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/">Count Negative Numbers in a Sorted Matrix</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -71,18 +84,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 5th</td>
-    <td>46. <a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Backtracking_Recursion.java">Backtracking</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#backtracking">Backtracking</a>
     </td>
   </tr>
 </table>
@@ -1182,12 +1183,14 @@
   <tr>
     <td align="center">1351</td>
     <td><a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/">Count Negative Numbers in a Sorted Matrix</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/CountNegativeNumbersInASortedMatrix.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/CountNegativeNumbersInASortedMatrix.java">Linear Search</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/CountNegativeNumbersInASortedMatrix_BinarySearch.java">Binary Search</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>,
+      <a href="#binary-search">Binary Search</a>,
       <a href="#matrix">Matrix</a>
     </td>
     <td></td>
@@ -1999,6 +2002,22 @@
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_HashTable.java"><em>Hash Table</em></a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist/CheckIfNAndItsDoubleExist_TwoPointers.java"><em>Two Pointers</em></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">1351</td>
+    <td><a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/">Count Negative Numbers in a Sorted Matrix</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/CountNegativeNumbersInASortedMatrix_BinarySearch.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#binary-search">Binary Search</a>,
+      <a href="#matrix">Matrix</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/CountNegativeNumbersInASortedMatrix.java"><em>Linear Search</em></a>
     </td>
   </tr>
   <tr>
@@ -6262,12 +6281,14 @@
   <tr>
     <td align="center">1351</td>
     <td><a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/">Count Negative Numbers in a Sorted Matrix</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/CountNegativeNumbersInASortedMatrix.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/CountNegativeNumbersInASortedMatrix.java">Linear Search</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/CountNegativeNumbersInASortedMatrix_BinarySearch.java">Binary Search</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>,
+      <a href="#binary-search">Binary Search</a>,
       <a href="#matrix">Matrix</a>
     </td>
     <td></td>
