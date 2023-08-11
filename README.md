@@ -28,6 +28,16 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 11th</td>
+    <td>92. <a href="https://leetcode.com/problems/reverse-linked-list-ii/">Reverse Linked List II</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/92.%20Reverse%20Linked%20List%20II/ReverseLinkedListII.java">Linked List</a>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 10th</td>
     <td>1351. <a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/">Count Negative Numbers in a Sorted Matrix</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -70,17 +80,6 @@
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Recursion.java">Recursion</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 6th</td>
-    <td>46. <a href="https://leetcode.com/problems/permutations/">Permutations</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/46.%20Permutations/Permutations_Iteration.java">Iteration</a>
     </td>
     <td align="center">
       <a href="#array">Array</a>
@@ -5529,6 +5528,17 @@
     <td align="center">
       <a href="#linked-list">Linked List</a>,
       <a href="#recursion">Recursion</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">92</td>
+    <td><a href="https://leetcode.com/problems/reverse-linked-list-ii/">Reverse Linked List II</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/92.%20Reverse%20Linked%20List%20II/ReverseLinkedListII.java">Java</a>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>
     </td>
     <td></td>
   </tr>
