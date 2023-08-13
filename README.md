@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 13th</td>
+    <td>448. <a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">Find All Numbers Disappeared in an Array</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/FindAllNumbersDisappearedInAnArray.java">Without Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 12th</td>
     <td>448. <a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">Find All Numbers Disappeared in an Array</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -72,18 +83,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#matrix">Matrix</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 8th</td>
-    <td>1920. <a href="https://leetcode.com/problems/build-array-from-permutation/">Build Array from Permutation</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1920.%20Build%20Array%20from%20Permutation/BuildArrayFromPermutation.java">Array</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#simulation">Simulation</a>
     </td>
   </tr>
 </table>
@@ -622,8 +621,9 @@
   <tr>
     <td align="center">448</td>
     <td><a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">Find All Numbers Disappeared in an Array</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/FindAllNumbersDisappearedInAnArray_HashTable.java">Java</a>
+    <td align="center">Java
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/FindAllNumbersDisappearedInAnArray_HashTable.java">with</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/FindAllNumbersDisappearedInAnArray.java">without</a> Hash Table
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -4904,7 +4904,9 @@
       <a href="#array">Array</a>,
       <a href="#hash-table">Hash Table</a>
     </td>
-    <td></td>
+    <td>Solution
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/FindAllNumbersDisappearedInAnArray.java"><em>without Hash Table</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">496</td>
