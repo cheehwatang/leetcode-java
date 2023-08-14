@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 14th</td>
+    <td>1534. <a href="https://leetcode.com/problems/count-good-triplets/">Count Good Triplets</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1534.%20Count%20Good%20Triplets/CountGoodTriplets.java">Enumeration</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#enumeration">Enumeration</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 13th</td>
     <td>448. <a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">Find All Numbers Disappeared in an Array</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -70,18 +82,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#binary-search">Binary Search</a>,
-      <a href="#matrix">Matrix</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 9th</td>
-    <td>1351. <a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/">Count Negative Numbers in a Sorted Matrix</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/CountNegativeNumbersInASortedMatrix.java">Linear Search</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
       <a href="#matrix">Matrix</a>
     </td>
   </tr>
@@ -1245,6 +1245,19 @@
       <a href="#array">Array</a>,
       <a href="#counting">Counting</a>,
       <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1534</td>
+    <td><a href="https://leetcode.com/problems/count-good-triplets/">Count Good Triplets</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1534.%20Count%20Good%20Triplets/CountGoodTriplets.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#enumeration">Enumeration</a>
     </td>
     <td></td>
   </tr>
@@ -4170,6 +4183,19 @@
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">1534</td>
+    <td><a href="https://leetcode.com/problems/count-good-triplets/">Count Good Triplets</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1534.%20Count%20Good%20Triplets/CountGoodTriplets.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#enumeration">Enumeration</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1995</td>
