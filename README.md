@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 15th</td>
+    <td>2352. <a href="https://leetcode.com/problems/equal-row-and-column-pairs/">Equal Row and Column Pairs</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2352.%20Equal%20Row%20and%20Column%20Pairs/EqualRowAndColumnPairs.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#matrix">Matrix</a>,
+      <a href="#simulation">Simulation</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 14th</td>
     <td>1534. <a href="https://leetcode.com/problems/count-good-triplets/">Count Good Triplets</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -70,19 +84,6 @@
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/92.%20Reverse%20Linked%20List%20II/ReverseLinkedListII.java">Linked List</a>
     <td align="center">
       <a href="#linked-list">Linked List</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 10th</td>
-    <td>1351. <a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/">Count Negative Numbers in a Sorted Matrix</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/CountNegativeNumbersInASortedMatrix_BinarySearch.java">Binary Search</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#binary-search">Binary Search</a>,
-      <a href="#matrix">Matrix</a>
     </td>
   </tr>
 </table>
@@ -1585,6 +1586,21 @@
       <a href="#array">Array</a>,
       <a href="#greedy">Greedy</a>,
       <a href="#sorting">Sorting</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2352</td>
+    <td><a href="https://leetcode.com/problems/equal-row-and-column-pairs/">Equal Row and Column Pairs</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2352.%20Equal%20Row%20and%20Column%20Pairs/EqualRowAndColumnPairs.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#matrix">Matrix</a>,
+      <a href="#simulation">Simulation</a>
     </td>
     <td></td>
   </tr>
@@ -5362,6 +5378,21 @@
     </td>
   </tr>
   <tr>
+    <td align="center">2352</td>
+    <td><a href="https://leetcode.com/problems/equal-row-and-column-pairs/">Equal Row and Column Pairs</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2352.%20Equal%20Row%20and%20Column%20Pairs/EqualRowAndColumnPairs.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#matrix">Matrix</a>,
+      <a href="#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">2395</td>
     <td><a href="https://leetcode.com/problems/find-subarrays-with-equal-sum/">Find Subarrays With Equal Sum</a></td>
     <td align="center">
@@ -6400,6 +6431,21 @@
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">2352</td>
+    <td><a href="https://leetcode.com/problems/equal-row-and-column-pairs/">Equal Row and Column Pairs</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2352.%20Equal%20Row%20and%20Column%20Pairs/EqualRowAndColumnPairs.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#matrix">Matrix</a>,
+      <a href="#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
 <hr>
@@ -6918,6 +6964,21 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#math">Math</a>,
+      <a href="#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">2352</td>
+    <td><a href="https://leetcode.com/problems/equal-row-and-column-pairs/">Equal Row and Column Pairs</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2352.%20Equal%20Row%20and%20Column%20Pairs/EqualRowAndColumnPairs.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#matrix">Matrix</a>,
       <a href="#simulation">Simulation</a>
     </td>
     <td></td>
