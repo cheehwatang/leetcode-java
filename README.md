@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 16th</td>
+    <td>206. <a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/206.%20Reverse%20Linked%20List/ReverseLinkedList.java">Linked List</a>
+    </td>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 15th</td>
     <td>2352. <a href="https://leetcode.com/problems/equal-row-and-column-pairs/">Equal Row and Column Pairs</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,16 +85,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#hash-table">Hash Table</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 11th</td>
-    <td>92. <a href="https://leetcode.com/problems/reverse-linked-list-ii/">Reverse Linked List II</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/92.%20Reverse%20Linked%20List%20II/ReverseLinkedListII.java">Linked List</a>
-    <td align="center">
-      <a href="#linked-list">Linked List</a>
     </td>
   </tr>
 </table>
@@ -5642,6 +5643,18 @@
       <a href="#linked-list">Linked List</a>,
       <a href="#stack">Stack</a>,
       <a href="#tree">Tree</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">206</td>
+    <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/206.%20Reverse%20Linked%20List/ReverseLinkedList.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>
     </td>
     <td></td>
   </tr>
