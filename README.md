@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 18th</td>
+    <td>206. <a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/206.%20Reverse%20Linked%20List/ReverseLinkedList_Recursive.java">Reverse Nodes Recursively</a>
+    </td>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>,
+      <a href="#recursion">Recursion</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 17th</td>
     <td>206. <a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,17 +85,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#enumeration">Enumeration</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 13th</td>
-    <td>448. <a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">Find All Numbers Disappeared in an Array</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array/FindAllNumbersDisappearedInAnArray.java">Without Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>
     </td>
   </tr>
 </table>
@@ -5649,12 +5650,14 @@
     <td align="center">206</td>
     <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</a></td>
     <td align="center">Java with
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/206.%20Reverse%20Linked%20List/ReverseLinkedList.java">Array List</a> and
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/206.%20Reverse%20Linked%20List/ReverseLinkedList.java">Reverse Nodes Iteratively</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/206.%20Reverse%20Linked%20List/ReverseLinkedList.java">Array List</a>, Reverse Nodes
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/206.%20Reverse%20Linked%20List/ReverseLinkedList.java">Iteratively</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/206.%20Reverse%20Linked%20List/ReverseLinkedList_Recursive.java">Recursively</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-      <a href="#linked-list">Linked List</a>
+      <a href="#linked-list">Linked List</a>,
+      <a href="#recursion">Recursion</a>
     </td>
     <td></td>
   </tr>
@@ -6853,6 +6856,22 @@
     </td>
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/24.%20Swap%20Nodes%20in%20Pairs/SwapNodesInPairs.java"><em>Iteration</em></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">206</td>
+    <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/206.%20Reverse%20Linked%20List/ReverseLinkedList_Recursive.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#linked-list">Linked List</a>,
+      <a href="#recursion">Recursion</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/206.%20Reverse%20Linked%20List/ReverseLinkedList.java"><em>Array List</em></a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/206.%20Reverse%20Linked%20List/ReverseLinkedList.java">Reverse Nodes Iteratively</a>
     </td>
   </tr>
   <tr>
