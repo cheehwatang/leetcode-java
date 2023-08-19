@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 19th</td>
+    <td>414. <a href="https://leetcode.com/problems/third-maximum-number/">Third Maximum Number</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber.java">Array</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 18th</td>
     <td>206. <a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,18 +84,6 @@
       <a href="#hash-table">Hash Table</a>,
       <a href="#matrix">Matrix</a>,
       <a href="#simulation">Simulation</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 14th</td>
-    <td>1534. <a href="https://leetcode.com/problems/count-good-triplets/">Count Good Triplets</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1534.%20Count%20Good%20Triplets/CountGoodTriplets.java">Enumeration</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#enumeration">Enumeration</a>
     </td>
   </tr>
 </table>
@@ -617,6 +616,18 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#bit-manipulation">Bit Manipulation</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">414</td>
+    <td><a href="https://leetcode.com/problems/third-maximum-number/">Third Maximum Number</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>
     </td>
     <td></td>
   </tr>
