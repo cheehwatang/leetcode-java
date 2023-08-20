@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 20th</td>
+    <td>414. <a href="https://leetcode.com/problems/third-maximum-number/">Third Maximum Number</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber.java">Sorting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 19th</td>
     <td>414. <a href="https://leetcode.com/problems/third-maximum-number/">Third Maximum Number</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -70,20 +82,6 @@
     </td>
     <td align="center">
       <a href="#linked-list">Linked List</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 15th</td>
-    <td>2352. <a href="https://leetcode.com/problems/equal-row-and-column-pairs/">Equal Row and Column Pairs</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2352.%20Equal%20Row%20and%20Column%20Pairs/EqualRowAndColumnPairs.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#hash-table">Hash Table</a>,
-      <a href="#matrix">Matrix</a>,
-      <a href="#simulation">Simulation</a>
     </td>
   </tr>
 </table>
@@ -622,12 +620,14 @@
   <tr>
     <td align="center">414</td>
     <td><a href="https://leetcode.com/problems/third-maximum-number/">Third Maximum Number</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber.java">Java</a>
+    <td align="center">Java
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber.java">with</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber_Sorting.java">without</a> Sorting
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-      <a href="#array">Array</a>
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
     </td>
     <td></td>
   </tr>
@@ -7282,6 +7282,21 @@
       <a href="#two-pointers">Two Pointers</a>
     </td>
     <td>Use of Sorting & Two Pointers resulted in TLE (Time Limit Exceed) for large datasets.</td>
+  </tr>
+  <tr>
+    <td align="center">414</td>
+    <td><a href="https://leetcode.com/problems/third-maximum-number/">Third Maximum Number</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>
+    </td>
+    <td>Solution
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber_Sorting.java"><em>without Sorting</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">561</td>
