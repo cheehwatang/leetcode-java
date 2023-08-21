@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 21st</td>
+    <td>414. <a href="https://leetcode.com/problems/third-maximum-number/">Third Maximum Number</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber_PriorityQueue_HashSet.java">Hash Table & Priority Queue</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 20th</td>
     <td>414. <a href="https://leetcode.com/problems/third-maximum-number/">Third Maximum Number</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -68,17 +79,6 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/206.%20Reverse%20Linked%20List/ReverseLinkedList.java">Reverse Nodes Iteratively</a>
-    </td>
-    <td align="center">
-      <a href="#linked-list">Linked List</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 16th</td>
-    <td>206. <a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/206.%20Reverse%20Linked%20List/ReverseLinkedList.java">Using Array List</a>
     </td>
     <td align="center">
       <a href="#linked-list">Linked List</a>
@@ -621,8 +621,9 @@
     <td align="center">414</td>
     <td><a href="https://leetcode.com/problems/third-maximum-number/">Third Maximum Number</a></td>
     <td align="center">Java
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber.java">with</a> or
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber_Sorting.java">without</a> Sorting
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber.java">with Sorting</a>,
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber_Sorting.java">without Sorting</a> or with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber_PriorityQueue_HashSet.java"><em>Hash Table & Priority Queue</em></a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
@@ -7295,7 +7296,8 @@
       <a href="#sorting">Sorting</a>
     </td>
     <td>Solution
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber_Sorting.java"><em>without Sorting</em></a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber_Sorting.java"><em>without Sorting</em></a> or Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber_PriorityQueue_HashSet.java"><em>Hash Table & Priority Queue</em></a>
     </td>
   </tr>
   <tr>
