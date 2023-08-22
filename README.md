@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 22nd</td>
+    <td>5. <a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_DynamicProgramming.java">Dynamic Programming</a>
+    </td>
+    <td align="center">
+      <a href="#dynamic-programming">Dynamic Programming</a>,
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 21st</td>
     <td>414. <a href="https://leetcode.com/problems/third-maximum-number/">Third Maximum Number</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -71,17 +83,6 @@
     <td align="center">
       <a href="#linked-list">Linked List</a>,
       <a href="#recursion">Recursion</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 17th</td>
-    <td>206. <a href="https://leetcode.com/problems/reverse-linked-list/">Reverse Linked List</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/206.%20Reverse%20Linked%20List/ReverseLinkedList.java">Reverse Nodes Iteratively</a>
-    </td>
-    <td align="center">
-      <a href="#linked-list">Linked List</a>
     </td>
   </tr>
 </table>
@@ -4057,6 +4058,19 @@
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">5</td>
+    <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_DynamicProgramming.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#dynamic-programming">Dynamic Programming</a>,
+      <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">45</td>
     <td><a href="https://leetcode.com/problems/jump-game-ii/">Jump Game II</a></td>
     <td align="center">Java with Dynamic Programming -
@@ -7843,6 +7857,19 @@
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">5</td>
+    <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_DynamicProgramming.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#dynamic-programming">Dynamic Programming</a>,
+      <a href="#string">String</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">6</td>
