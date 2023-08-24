@@ -28,11 +28,22 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 24th</td>
+    <td>5. <a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_TwoPointers2.java">Two Pointers - Approach 2</a>
+    </td>
+    <td align="center">
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 23rd</td>
     <td>5. <a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_TwoPointers1.java">Two Pointers</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_TwoPointers1.java">Two Pointers - Approach 1</a>
     </td>
     <td align="center">
       <a href="#string">String</a>
@@ -71,17 +82,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 19th</td>
-    <td>414. <a href="https://leetcode.com/problems/third-maximum-number/">Third Maximum Number</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber.java">Array</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>
     </td>
   </tr>
 </table>
@@ -4067,8 +4067,9 @@
       <a href="#dynamic-programming">Dynamic Programming</a>,
       <a href="#string">String</a>
     </td>
-    <td>Solution Using
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_TwoPointers1.java"><em>Two Pointers</em></a>
+    <td>Solution Using Two Pointers with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_TwoPointers1.java"><em>Approach 1</em></a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_TwoPointers2.java"><em>Approach 2</em></a>
     </td>
   </tr>
   <tr>
@@ -7863,8 +7864,9 @@
     <td align="center">5</td>
     <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
     <td align="center">Java with
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_DynamicProgramming.java">Dynamic Programming</a> or
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_TwoPointers1.java">Two Pointers</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_DynamicProgramming.java">Dynamic Programming</a>, Two Pointers with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_TwoPointers1.java">Approach 1</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_TwoPointers2.java">Approach 2</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
