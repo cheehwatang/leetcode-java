@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 25th</td>
+    <td>136. <a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/136.%20Single%20Number/SingleNumber.java">Bit Manipulation</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#bit-manipulation">Bit Manipulation</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 24th</td>
     <td>5. <a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -70,18 +82,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 20th</td>
-    <td>414. <a href="https://leetcode.com/problems/third-maximum-number/">Third Maximum Number</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber.java">Sorting</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#sorting">Sorting</a>
     </td>
   </tr>
 </table>
@@ -374,6 +374,19 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#greedy">Greedy</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">136</td>
+    <td><a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/136.%20Single%20Number/SingleNumber.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#bit-manipulation">Bit Manipulation</a>
     </td>
     <td></td>
   </tr>
@@ -2535,6 +2548,19 @@
     <td align="center">
       <a href="#bit-manipulation">Bit Manipulation</a>,
       <a href="#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">136</td>
+    <td><a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/136.%20Single%20Number/SingleNumber.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#bit-manipulation">Bit Manipulation</a>
     </td>
     <td></td>
   </tr>
