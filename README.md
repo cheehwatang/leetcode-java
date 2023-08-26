@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 26th</td>
+    <td>136. <a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/136.%20Single%20Number/SingleNumber_StreamReduce.java">Bit Manipulation (Using Stream)</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#bit-manipulation">Bit Manipulation</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 25th</td>
     <td>136. <a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -71,17 +83,6 @@
     <td align="center">
       <a href="#dynamic-programming">Dynamic Programming</a>,
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 21st</td>
-    <td>414. <a href="https://leetcode.com/problems/third-maximum-number/">Third Maximum Number</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/414.%20Third%20Maximum%20Number/ThirdMaximumNumber_PriorityQueue_HashSet.java">Hash Table & Priority Queue</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>
     </td>
   </tr>
 </table>
@@ -388,7 +389,9 @@
       <a href="#array">Array</a>,
       <a href="#bit-manipulation">Bit Manipulation</a>
     </td>
-    <td></td>
+    <td>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/136.%20Single%20Number/SingleNumber_StreamReduce.java"><em>Stream Reduce</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">152</td>
@@ -2562,7 +2565,9 @@
       <a href="#array">Array</a>,
       <a href="#bit-manipulation">Bit Manipulation</a>
     </td>
-    <td></td>
+    <td>Bonus Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/136.%20Single%20Number/SingleNumber_StreamReduce.java"><em>Stream Reduce</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">371</td>
