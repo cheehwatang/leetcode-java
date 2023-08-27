@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 27th</td>
+    <td>3. <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters.java">Sliding Window</a>
+    </td>
+    <td align="center">
+      <a href="#sliding-window">Sliding Window</a>,
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 26th</td>
     <td>136. <a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -70,18 +82,6 @@
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_TwoPointers1.java">Two Pointers - Approach 1</a>
     </td>
     <td align="center">
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 22nd</td>
-    <td>5. <a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_DynamicProgramming.java">Dynamic Programming</a>
-    </td>
-    <td align="center">
-      <a href="#dynamic-programming">Dynamic Programming</a>,
       <a href="#string">String</a>
     </td>
   </tr>
@@ -7090,6 +7090,20 @@
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">3</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sliding-window">Sliding Window</a>,
+      <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">219</td>
     <td><a href="https://leetcode.com/problems/contains-duplicate-ii/">Contains Duplicate II</a></td>
     <td align="center">
@@ -7890,6 +7904,20 @@
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sliding-window">Sliding Window</a>,
+      <a href="#string">String</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">5</td>
