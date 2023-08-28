@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 28th</td>
+    <td>3. <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters_HashTable.java">Hash Table & Sliding Window</a>
+    </td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sliding-window">Sliding Window</a>,
+      <a href="#string">String</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 27th</td>
     <td>3. <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -69,17 +82,6 @@
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_TwoPointers2.java">Two Pointers - Approach 2</a>
-    </td>
-    <td align="center">
-      <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 23rd</td>
-    <td>5. <a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_TwoPointers1.java">Two Pointers - Approach 1</a>
     </td>
     <td align="center">
       <a href="#string">String</a>
@@ -4774,6 +4776,22 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">3</td>
+    <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters_HashTable.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sliding-window">Sliding Window</a>,
+      <a href="#string">String</a>
+    </td>
+    <td>Solution
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters.java">without Using Hash Table</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">12</td>
     <td><a href="https://leetcode.com/problems/integer-to-roman/">Integer to Roman</a></td>
     <td align="center">
@@ -7092,8 +7110,9 @@
   <tr>
     <td align="center">3</td>
     <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters.java">Java</a>
+    <td align="center">Java
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters_HashTable.java">with</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters.java">without</a> Hash Table
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
@@ -7908,8 +7927,9 @@
   <tr>
     <td align="center">3</td>
     <td><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters.java">Java</a>
+    <td align="center">Java
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters_HashTable.java">with</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters.java">without</a> Hash Table
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
