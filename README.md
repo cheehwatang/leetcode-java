@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 29th</td>
+    <td>121. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/BestTimeToBuyAndSellStock.java">Array</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 28th</td>
     <td>3. <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,17 +85,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#bit-manipulation">Bit Manipulation</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 24th</td>
-    <td>5. <a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Palindromic Substring</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/5.%20Longest%20Palindromic%20Substring/LongestPalindromicSubstring_TwoPointers2.java">Two Pointers - Approach 2</a>
-    </td>
-    <td align="center">
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
@@ -346,6 +346,18 @@
       <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>,
       <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">121</td>
+    <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/BestTimeToBuyAndSellStock.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>
     </td>
     <td></td>
   </tr>
