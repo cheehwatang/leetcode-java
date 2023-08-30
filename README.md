@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 30th</td>
+    <td>121. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/BestTimeToBuyAndSellStock_DynamicProgramming.java">Dynamic Programming</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#dynamic-programming">Dynamic Programming</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 29th</td>
     <td>121. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -69,18 +81,6 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/136.%20Single%20Number/SingleNumber_StreamReduce.java">Bit Manipulation (Using Stream)</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#bit-manipulation">Bit Manipulation</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 25th</td>
-    <td>136. <a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/136.%20Single%20Number/SingleNumber.java">Bit Manipulation</a>
     </td>
     <td align="center">
       <a href="#array">Array</a>,
@@ -352,12 +352,14 @@
   <tr>
     <td align="center">121</td>
     <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/BestTimeToBuyAndSellStock.java">Java</a>
+    <td align="center">Java
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/BestTimeToBuyAndSellStock_DynamicProgramming.java">with</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/BestTimeToBuyAndSellStock.java">without</a> Dynamic Programming
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
-      <a href="#array">Array</a>
+      <a href="#array">Array</a>,
+      <a href="#dynamic-programming">Dynamic Programming</a>
     </td>
     <td></td>
   </tr>
@@ -4164,6 +4166,21 @@
       <a href="#memoization">Memoization</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">121</td>
+    <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/BestTimeToBuyAndSellStock_DynamicProgramming.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#dynamic-programming">Dynamic Programming</a>
+    </td>
+    <td>Solution
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/BestTimeToBuyAndSellStock.java"><em>without Using Dynamic Programming</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">152</td>
