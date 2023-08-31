@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">August 31st</td>
+    <td>15. <a href="https://leetcode.com/problems/3sum/">3Sum</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/15.%203Sum/ThreeSum.java">Sorting & Two Pointers</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>,
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">August 30th</td>
     <td>121. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,18 +86,6 @@
     <td align="center">
       <a href="#sliding-window">Sliding Window</a>,
       <a href="#string">String</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 26th</td>
-    <td>136. <a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/136.%20Single%20Number/SingleNumber_StreamReduce.java">Bit Manipulation (Using Stream)</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#bit-manipulation">Bit Manipulation</a>
     </td>
   </tr>
 </table>
@@ -160,6 +161,20 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#hash-table">Hash Table</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">15</td>
+    <td><a href="https://leetcode.com/problems/3sum/">3Sum</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/15.%203Sum/ThreeSum.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>,
+      <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -7258,6 +7273,20 @@
     <th>Note</th>
   </tr>
   <tr>
+    <td align="center">15</td>
+    <td><a href="https://leetcode.com/problems/3sum/">3Sum</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/15.%203Sum/ThreeSum.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>,
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">49</td>
     <td><a href="https://leetcode.com/problems/group-anagrams/">Group Anagrams</a></td>
     <td align="center">
@@ -9145,6 +9174,20 @@
     <th>Difficulty</th>
     <th>Topics</th>
     <th>Note</th>
+  </tr>
+  <tr>
+    <td align="center">15</td>
+    <td><a href="https://leetcode.com/problems/3sum/">3Sum</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/15.%203Sum/ThreeSum.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>,
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">19</td>
