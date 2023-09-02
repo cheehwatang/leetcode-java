@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">September 2nd</td>
+    <td>923. <a href="https://leetcode.com/problems/3sum-with-multiplicity/">3Sum With Multiplicity</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Counting.java">Counting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">September 1st</td>
     <td>16. <a href="https://leetcode.com/problems/3sum-closest/">3Sum Closest</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,19 +86,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 28th</td>
-    <td>3. <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters_HashTable.java">Hash Table & Sliding Window</a>
-    </td>
-    <td align="center">
-      <a href="#hash-table">Hash Table</a>,
-      <a href="#sliding-window">Sliding Window</a>,
-      <a href="#string">String</a>
     </td>
   </tr>
 </table>
@@ -949,6 +948,19 @@
       <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>,
       <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">923</td>
+    <td><a href="https://leetcode.com/problems/3sum-with-multiplicity/">3Sum With Multiplicity</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Counting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>
     </td>
     <td></td>
   </tr>
@@ -3269,6 +3281,19 @@
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/383.%20Ransom%20Note/RansomNote_HashTable.java"><em>Hash Table</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">923</td>
+    <td><a href="https://leetcode.com/problems/3sum-with-multiplicity/">3Sum With Multiplicity</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Counting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1497</td>
