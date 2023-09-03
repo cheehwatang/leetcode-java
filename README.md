@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">September 3rd</td>
+    <td>923. <a href="https://leetcode.com/problems/3sum-with-multiplicity/">3Sum With Multiplicity</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">September 2nd</td>
     <td>923. <a href="https://leetcode.com/problems/3sum-with-multiplicity/">3Sum With Multiplicity</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -954,13 +966,15 @@
   <tr>
     <td align="center">923</td>
     <td><a href="https://leetcode.com/problems/3sum-with-multiplicity/">3Sum With Multiplicity</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Counting.java">Java</a>
+    <td align="center">Java with
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Counting.java">Counting</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_HashTable.java">Hash Table</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#array">Array</a>,
-      <a href="#counting">Counting</a>
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -3291,9 +3305,12 @@
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#array">Array</a>,
-      <a href="#counting">Counting</a>
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>
     </td>
-    <td></td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_HashTable.java"><em>Hash Table</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">1497</td>
@@ -5240,6 +5257,22 @@
       <a href="#sliding-window">Sliding Window</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">923</td>
+    <td><a href="https://leetcode.com/problems/3sum-with-multiplicity/">3Sum With Multiplicity</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_HashTable.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Counting.java"><em>Counting</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">929</td>
