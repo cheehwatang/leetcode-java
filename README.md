@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">September 4th</td>
+    <td>923. <a href="https://leetcode.com/problems/3sum-with-multiplicity/">3Sum With Multiplicity</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Sorting_TwoPointers.java">Sorting & Two Pointers</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#sorting">Sorting</a>,
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">September 3rd</td>
     <td>923. <a href="https://leetcode.com/problems/3sum-with-multiplicity/">3Sum With Multiplicity</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -75,29 +88,6 @@
       <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>,
       <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 30th</td>
-    <td>121. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/BestTimeToBuyAndSellStock_DynamicProgramming.java">Dynamic Programming</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#dynamic-programming">Dynamic Programming</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 29th</td>
-    <td>121. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best Time to Buy and Sell Stock</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/BestTimeToBuyAndSellStock.java">Array</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>
     </td>
   </tr>
 </table>
@@ -967,14 +957,17 @@
     <td align="center">923</td>
     <td><a href="https://leetcode.com/problems/3sum-with-multiplicity/">3Sum With Multiplicity</a></td>
     <td align="center">Java with
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Counting.java">Counting</a> or
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_HashTable.java">Hash Table</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Counting.java">Counting</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_HashTable.java">Hash Table</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Sorting_TwoPointers.java">Sorting & Two Pointers</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#counting">Counting</a>,
-      <a href="#hash-table">Hash Table</a>
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>,
+      <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
   </tr>
@@ -3306,10 +3299,13 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#counting">Counting</a>,
-      <a href="#hash-table">Hash Table</a>
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>,
+      <a href="#two-pointers">Two Pointers</a>
     </td>
     <td>Solution Using
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_HashTable.java"><em>Hash Table</em></a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_HashTable.java"><em>Hash Table</em></a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Sorting_TwoPointers.java"><em>Sorting & Two Pointers</em></a>
     </td>
   </tr>
   <tr>
@@ -5268,10 +5264,13 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#counting">Counting</a>,
-      <a href="#hash-table">Hash Table</a>
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>,
+      <a href="#two-pointers">Two Pointers</a>
     </td>
     <td>Solution Using
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Counting.java"><em>Counting</em></a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Counting.java"><em>Counting</em></a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Sorting_TwoPointers.java"><em>Sorting & Two Pointers</em></a>
     </td>
   </tr>
   <tr>
@@ -7588,6 +7587,25 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">923</td>
+    <td><a href="https://leetcode.com/problems/3sum-with-multiplicity/">3Sum With Multiplicity</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Sorting_TwoPointers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>,
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Counting.java"><em>Counting</em></a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_HashTable.java"><em>Hash Table</em></a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">948</td>
     <td><a href="https://leetcode.com/problems/bag-of-tokens/">Bag of Tokens</a></td>
     <td align="center">
@@ -9569,6 +9587,25 @@
       <a href="#two-pointers">Two Pointers</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">923</td>
+    <td><a href="https://leetcode.com/problems/3sum-with-multiplicity/">3Sum With Multiplicity</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Sorting_TwoPointers.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#sorting">Sorting</a>,
+      <a href="#two-pointers">Two Pointers</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_Counting.java"><em>Counting</em></a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_HashTable.java"><em>Hash Table</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">948</td>
