@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">September 5th</td>
+    <td>1137. <a href="https://leetcode.com/problems/n-th-tribonacci-number/">N-th Tribonacci Number</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1137.%20N-th%20Tribonacci%20Number/NthTribonacciNumber_Iterative.java">Dynamic Programming</a>
+    </td>
+    <td align="center">
+      <a href="#dynamic-programming">Dynamic Programming</a>,
+      <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">September 4th</td>
     <td>923. <a href="https://leetcode.com/problems/3sum-with-multiplicity/">3Sum With Multiplicity</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -70,19 +82,6 @@
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/16.%203Sum%20Closest/ThreeSumClosest.java">Sorting & Two Pointers</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#sorting">Sorting</a>,
-      <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">August 31st</td>
-    <td>15. <a href="https://leetcode.com/problems/3sum/">3Sum</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/15.%203Sum/ThreeSum.java">Sorting & Two Pointers</a>
     </td>
     <td align="center">
       <a href="#array">Array</a>,
@@ -4328,6 +4327,19 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">1137</td>
+    <td><a href="https://leetcode.com/problems/n-th-tribonacci-number/">N-th Tribonacci Number</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1137.%20N-th%20Tribonacci%20Number/NthTribonacciNumber_Iterative.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#dynamic-programming">Dynamic Programming</a>,
+      <a href="#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1578</td>
     <td><a href="https://leetcode.com/problems/minimum-time-to-make-rope-colorful/">Minimum Time to Make Rope Colorful</a></td>
     <td align="center">
@@ -6255,6 +6267,19 @@
     <td align="center">
       <a href="#math">Math</a>,
       <a href="#simulation">Simulation</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1137</td>
+    <td><a href="https://leetcode.com/problems/n-th-tribonacci-number/">N-th Tribonacci Number</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1137.%20N-th%20Tribonacci%20Number/NthTribonacciNumber_Iterative.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#dynamic-programming">Dynamic Programming</a>,
+      <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
