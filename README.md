@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">September 6th</td>
+    <td>1137. <a href="https://leetcode.com/problems/n-th-tribonacci-number/">N-th Tribonacci Number</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1137.%20N-th%20Tribonacci%20Number/NthTribonacciNumber_Recursive.java">Dynamic Programming - Memoization</a>
+    </td>
+    <td align="center">
+      <a href="#dynamic-programming">Dynamic Programming</a>,
+      <a href="#math">Math</a>,
+      <a href="#memoization">Memoization</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">September 5th</td>
     <td>1137. <a href="https://leetcode.com/problems/n-th-tribonacci-number/">N-th Tribonacci Number</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -74,19 +87,6 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#counting">Counting</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">September 1st</td>
-    <td>16. <a href="https://leetcode.com/problems/3sum-closest/">3Sum Closest</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/16.%203Sum%20Closest/ThreeSumClosest.java">Sorting & Two Pointers</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#sorting">Sorting</a>,
-      <a href="#two-pointers">Two Pointers</a>
     </td>
   </tr>
 </table>
@@ -4329,13 +4329,15 @@
   <tr>
     <td align="center">1137</td>
     <td><a href="https://leetcode.com/problems/n-th-tribonacci-number/">N-th Tribonacci Number</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1137.%20N-th%20Tribonacci%20Number/NthTribonacciNumber_Iterative.java">Java</a>
+    <td align="center">Java with Dynamic Programming
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1137.%20N-th%20Tribonacci%20Number/NthTribonacciNumber_Iterative.java">Iteratively</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1137.%20N-th%20Tribonacci%20Number/NthTribonacciNumber_Recursive.java">Recursively (Memoization)</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#dynamic-programming">Dynamic Programming</a>,
-      <a href="#math">Math</a>
+      <a href="#math">Math</a>,
+      <a href="#memoization">Memoization</a>
     </td>
     <td></td>
   </tr>
@@ -6273,13 +6275,15 @@
   <tr>
     <td align="center">1137</td>
     <td><a href="https://leetcode.com/problems/n-th-tribonacci-number/">N-th Tribonacci Number</a></td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1137.%20N-th%20Tribonacci%20Number/NthTribonacciNumber_Iterative.java">Java</a>
+    <td align="center">Java with Dynamic Programming
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1137.%20N-th%20Tribonacci%20Number/NthTribonacciNumber_Iterative.java">Iteratively</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1137.%20N-th%20Tribonacci%20Number/NthTribonacciNumber_Recursive.java">Recursively (Memoization)</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#dynamic-programming">Dynamic Programming</a>,
-      <a href="#math">Math</a>
+      <a href="#math">Math</a>,
+      <a href="#memoization">Memoization</a>
     </td>
     <td></td>
   </tr>
@@ -6725,6 +6729,22 @@
       <a href="#recursion">Recursion</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">1137</td>
+    <td><a href="https://leetcode.com/problems/n-th-tribonacci-number/">N-th Tribonacci Number</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1137.%20N-th%20Tribonacci%20Number/NthTribonacciNumber_Recursive.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#dynamic-programming">Dynamic Programming</a>,
+      <a href="#math">Math</a>,
+      <a href="#memoization">Memoization</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1137.%20N-th%20Tribonacci%20Number/NthTribonacciNumber_Iterative.java"><em>Dynamic Programming (Iterative)</em></a>
+    </td>
   </tr>
 </table>
 <p align="right"><a href="#topics"> :arrow_up:<b>Back To Top</b></a></p>
