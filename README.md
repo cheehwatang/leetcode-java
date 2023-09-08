@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">September 8th</td>
+    <td>1155. <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/">Number of Dice Rolls With Target Sum</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum/NumberOfDiceRollsWithTargetSum_Memoization.java">Dynamic Programming - Memoization</a>
+    </td>
+    <td align="center">
+      <a href="#dynamic-programming">Dynamic Programming</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">September 7th</td>
     <td>1155. <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/">Number of Dice Rolls With Target Sum</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,18 +85,6 @@
       <a href="#array">Array</a>,
       <a href="#sorting">Sorting</a>,
       <a href="#two-pointers">Two Pointers</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">September 3rd</td>
-    <td>923. <a href="https://leetcode.com/problems/3sum-with-multiplicity/">3Sum With Multiplicity</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/923.%203Sum%20With%20Multiplicity/ThreeSumWithMultiplicity_HashTable.java">Hash Table</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#hash-table">Hash Table</a>
     </td>
   </tr>
 </table>
@@ -4344,6 +4343,7 @@
     <td align="center">1155</td>
     <td><a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/">Number of Dice Rolls With Target Sum</a></td>
     <td align="center">Java with Dynamic Programming using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum/NumberOfDiceRollsWithTargetSum_Memoization.java">Memoization</a> or
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum/NumberOfDiceRollsWithTargetSum_Tabulation.java">Tabulation</a>
     </td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
