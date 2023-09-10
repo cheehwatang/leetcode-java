@@ -28,6 +28,17 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">September 10th</td>
+    <td>2006. <a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Number of Pairs With Absolute Difference K</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/CountNumberOfPairsWithAbsoluteDifferenceK.java">Brute Force</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">September 9th</td>
     <td>2028. <a href="https://leetcode.com/problems/find-missing-observations/">Find Missing Observations</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -73,18 +84,6 @@
       <a href="#dynamic-programming">Dynamic Programming</a>,
       <a href="#math">Math</a>,
       <a href="#memoization">Memoization</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">September 5th</td>
-    <td>1137. <a href="https://leetcode.com/problems/n-th-tribonacci-number/">N-th Tribonacci Number</a></td>
-    <td align="center">$\text{\color{TealBlue}Easy}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1137.%20N-th%20Tribonacci%20Number/NthTribonacciNumber_Iterative.java">Dynamic Programming</a>
-    </td>
-    <td align="center">
-      <a href="#dynamic-programming">Dynamic Programming</a>,
-      <a href="#math">Math</a>
     </td>
   </tr>
 </table>
@@ -1562,6 +1561,18 @@
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1995.%20Count%20Special%20Quadruplets/CountSpecialQuadruplets_HashTable.java"><em>Hash Table</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">2006</td>
+    <td><a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Number of Pairs With Absolute Difference K</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/CountNumberOfPairsWithAbsoluteDifferenceK.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">2007</td>
