@@ -28,6 +28,18 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">September 12th</td>
+    <td>2006. <a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Number of Pairs With Absolute Difference K</a></td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/CountNumberOfPairsWithAbsoluteDifferenceK_HashTable.java">Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#hash-table">Hash Table</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">September 11th</td>
     <td>2006. <a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Number of Pairs With Absolute Difference K</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -69,17 +81,6 @@
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
     <td align="center">
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum/NumberOfDiceRollsWithTargetSum_Memoization.java">Dynamic Programming - Memoization</a>
-    </td>
-    <td align="center">
-      <a href="#dynamic-programming">Dynamic Programming</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">September 7th</td>
-    <td>1155. <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/">Number of Dice Rolls With Target Sum</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum/NumberOfDiceRollsWithTargetSum_Tabulation.java">Dynamic Programming - Tabulation</a>
     </td>
     <td align="center">
       <a href="#dynamic-programming">Dynamic Programming</a>
@@ -1565,13 +1566,15 @@
     <td align="center">2006</td>
     <td><a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Number of Pairs With Absolute Difference K</a></td>
     <td align="center">Java with
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/CountNumberOfPairsWithAbsoluteDifferenceK.java">Brute Force</a> or
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/CountNumberOfPairsWithAbsoluteDifferenceK_Counting.java">Counting</a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/CountNumberOfPairsWithAbsoluteDifferenceK.java">Brute Force</a>,
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/CountNumberOfPairsWithAbsoluteDifferenceK_Counting.java">Counting</a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/CountNumberOfPairsWithAbsoluteDifferenceK_HashTable.java">Hash Table</a>
     </td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>,
-      <a href="#counting">Counting</a>
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>
     </td>
     <td></td>
   </tr>
@@ -3383,10 +3386,12 @@
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
     <td align="center">
       <a href="#array">Array</a>,
-      <a href="#counting">Counting</a>
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>
     </td>
     <td>Solution Using
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/CountNumberOfPairsWithAbsoluteDifferenceK.java"><em>Brute Force Approach</em></a>
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/CountNumberOfPairsWithAbsoluteDifferenceK.java"><em>Brute Force Approach</em></a> or
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/CountNumberOfPairsWithAbsoluteDifferenceK_HashTable.java"><em>Hash Table</em></a>
     </td>
   </tr>
   <tr>
@@ -5553,6 +5558,23 @@
       <a href="#string">String</a>
     </td>
     <td></td>
+  </tr>
+  <tr>
+    <td align="center">2006</td>
+    <td><a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Number of Pairs With Absolute Difference K</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/CountNumberOfPairsWithAbsoluteDifferenceK_HashTable.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{TealBlue}Easy}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>
+    </td>
+    <td>Solution Using
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/CountNumberOfPairsWithAbsoluteDifferenceK.java"><em>Brute Force</em></a>,
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2006.%20Count%20Number%20of%20Pairs%20With%20Absolute%20Difference%20K/CountNumberOfPairsWithAbsoluteDifferenceK_Counting.java"><em>Counting</em></a>
+    </td>
   </tr>
   <tr>
     <td align="center">2007</td>
