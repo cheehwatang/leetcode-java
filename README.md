@@ -28,6 +28,20 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">September 13th</td>
+    <td>1814. <a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1814.%20Count%20Nice%20Pairs%20in%20an%20Array/CountNicePairsInAnArray.java">Counting & Hash Table</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#math">Math</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">September 12th</td>
     <td>2006. <a href="https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/">Count Number of Pairs With Absolute Difference K</a></td>
     <td align="center">$\text{\color{TealBlue}Easy}$</td>
@@ -73,17 +87,6 @@
       <a href="#array">Array</a>,
       <a href="#math">Math</a>,
       <a href="#simulation">Simulation</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">September 8th</td>
-    <td>1155. <a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/">Number of Dice Rolls With Target Sum</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum/NumberOfDiceRollsWithTargetSum_Memoization.java">Dynamic Programming - Memoization</a>
-    </td>
-    <td align="center">
-      <a href="#dynamic-programming">Dynamic Programming</a>
     </td>
   </tr>
 </table>
@@ -1448,6 +1451,21 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#prefix-sum">Prefix Sum</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1814</td>
+    <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1814.%20Count%20Nice%20Pairs%20in%20an%20Array/CountNicePairsInAnArray.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -3374,6 +3392,21 @@
     <td align="center">
       <a href="#counting">Counting</a>,
       <a href="#string">String</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1814</td>
+    <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1814.%20Count%20Nice%20Pairs%20in%20an%20Array/CountNicePairsInAnArray.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#math">Math</a>
     </td>
     <td></td>
   </tr>
@@ -5516,6 +5549,21 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">1814</td>
+    <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1814.%20Count%20Nice%20Pairs%20in%20an%20Array/CountNicePairsInAnArray.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#math">Math</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1832</td>
     <td><a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">Check if the Sentence is Pangram</a></td>
     <td align="center">
@@ -6458,6 +6506,21 @@
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1680.%20Concatenation%20of%20Consecutive%20Binary%20Numbers/ConcatenationOfConsecutiveBinaryNumbers_BitManipulation.java"><em>Bit Manipulation</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">1814</td>
+    <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1814.%20Count%20Nice%20Pairs%20in%20an%20Array/CountNicePairsInAnArray.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#hash-table">Hash Table</a>,
+      <a href="#math">Math</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1979</td>
