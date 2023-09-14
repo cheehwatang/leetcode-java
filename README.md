@@ -28,6 +28,19 @@
     <th>Topics</th>
   </tr>
   <tr>
+    <td align="center">September 14th</td>
+    <td>1775. <a href="https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/">Equal Sum Arrays With Minimum Number of Operations</a></td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1775.%20Equal%20Sum%20Arrays%20With%20Minimum%20Number%20of%20Operations/EqualSumArraysWithMinimumNumberOfOperations_Counting.java">Counting</a>
+    </td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#greedy">Greedy</a>
+    </td>
+  </tr>
+  <tr>
     <td align="center">September 13th</td>
     <td>1814. <a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</a></td>
     <td align="center">$\text{\color{Dandelion}Medium}$</td>
@@ -74,19 +87,6 @@
     </td>
     <td align="center">
       <a href="#array">Array</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">September 9th</td>
-    <td>2028. <a href="https://leetcode.com/problems/find-missing-observations/">Find Missing Observations</a></td>
-    <td align="center">$\text{\color{Dandelion}Medium}$</td>
-    <td align="center">
-      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/2028.%20Find%20Missing%20Observations/FindMissingObservations.java">Math</a>
-    </td>
-    <td align="center">
-      <a href="#array">Array</a>,
-      <a href="#math">Math</a>,
-      <a href="#simulation">Simulation</a>
     </td>
   </tr>
 </table>
@@ -1451,6 +1451,20 @@
     <td align="center">
       <a href="#array">Array</a>,
       <a href="#prefix-sum">Prefix Sum</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td align="center">1775</td>
+    <td><a href="https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/">Equal Sum Arrays With Minimum Number of Operations</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1775.%20Equal%20Sum%20Arrays%20With%20Minimum%20Number%20of%20Operations/EqualSumArraysWithMinimumNumberOfOperations_Counting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#greedy">Greedy</a>
     </td>
     <td></td>
   </tr>
@@ -3396,6 +3410,20 @@
     <td></td>
   </tr>
   <tr>
+    <td align="center">1775</td>
+    <td><a href="https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/">Equal Sum Arrays With Minimum Number of Operations</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1775.%20Equal%20Sum%20Arrays%20With%20Minimum%20Number%20of%20Operations/EqualSumArraysWithMinimumNumberOfOperations_Counting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#greedy">Greedy</a>
+    </td>
+    <td></td>
+  </tr>
+  <tr>
     <td align="center">1814</td>
     <td><a href="https://leetcode.com/problems/count-nice-pairs-in-an-array/">Count Nice Pairs in an Array</a></td>
     <td align="center">
@@ -4840,6 +4868,20 @@
     <td>Solution Using
       <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1578.%20Minimum%20Time%20to%20Make%20Rope%20Colorful/MinimumTimeToMakeRopeColorful_DynamicProgramming.java"><em>Dynamic Programming</em></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">1775</td>
+    <td><a href="https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/">Equal Sum Arrays With Minimum Number of Operations</a></td>
+    <td align="center">
+      <a href="https://github.com/cheehwatang/leetcode-java/blob/main/solutions/1775.%20Equal%20Sum%20Arrays%20With%20Minimum%20Number%20of%20Operations/EqualSumArraysWithMinimumNumberOfOperations_Counting.java">Java</a>
+    </td>
+    <td align="center">$\text{\color{Dandelion}Medium}$</td>
+    <td align="center">
+      <a href="#array">Array</a>,
+      <a href="#counting">Counting</a>,
+      <a href="#greedy">Greedy</a>
+    </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center">1833</td>
